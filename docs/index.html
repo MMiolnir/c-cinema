@@ -11,6 +11,7 @@
     max-width: 42rem; margin: 0 auto; padding: 3rem 1.25rem; line-height: 1.6;
   }
   h1 { font-size: 1.5rem; margin-bottom: .25rem; }
+  h2 { font-size: 1.05rem; margin-top: 2.2rem; margin-bottom: .3rem; }
   p.sous-titre { margin-top: 0; opacity: .7; }
   code {
     display: block; padding: .75rem; margin: 1rem 0; overflow-wrap: anywhere;
@@ -26,12 +27,20 @@
 <body>
 
 <h1>🎬 c-cinema</h1>
-<p class="sous-titre">Sorties cinéma en France.<br>Mis à jour chaque jour.</p>
+<p class="sous-titre">Sorties cinéma en France, titres en français.<br>Mis à jour chaque jour.</p>
 
-<p>Copiez cette adresse dans votre application d'agenda :</p>
+<h2>Sorties nationales</h2>
+<p>Toutes les sorties en salles en France.</p>
 <code id="lien"></code>
-
 <p><a class="bouton" id="abonnement" href="#">S'abonner</a></p>
+
+<h2>Séances événement</h2>
+<p>Les reprises et projections ponctuelles du Pathé Montpellier Odysseum :
+Akira, Terminator 2, les rétrospectives Harry Potter…</p>
+<code id="lien-evenements"></code>
+<p><a class="bouton" id="abonnement-evenements" href="#">S'abonner</a></p>
+
+<h2>Comment s'abonner</h2>
 
 <p>
   <strong>Google Agenda :</strong> menu <em>+</em> à côté de « Autres agendas » →
@@ -42,14 +51,19 @@
 </p>
 
 <footer>
-  Ce produit utilise l'API TMDB
+  Ce produit utilise l'API TMDB mais n'est ni approuvé ni certifié par
   <a href="https://www.themoviedb.org/">The Movie Database</a>.
 </footer>
 
 <script>
-  var url = location.origin + location.pathname.replace(/index\.html$/, '') + 'c-cinema.ics';
-  document.getElementById('lien').textContent = url;
-  document.getElementById('abonnement').href = url.replace(/^https?:/, 'webcal:');
+  var base = location.origin + location.pathname.replace(/index\.html$/, '');
+  [['lien', 'abonnement', 'c-cinema.ics'],
+   ['lien-evenements', 'abonnement-evenements', 'c-cinema-evenements.ics']]
+  .forEach(function (e) {
+    var url = base + e[2];
+    document.getElementById(e[0]).textContent = url;
+    document.getElementById(e[1]).href = url.replace(/^https?:/, 'webcal:');
+  });
 </script>
 
 </body>
