@@ -32,6 +32,23 @@ LANGUE = "fr-FR"       # langue des titres, genres et synopsis
 # Types de sortie TMDB : 1=Premiere 2=Salles(limite) 3=Salles 4=Numerique 5=Physique 6=TV
 TYPES_DE_SORTIE = "3|2"
 
+# --- Complement AlloCine : les films de VOTRE cinema absents de TMDB --------
+# Repere les ressorties, seances evenementielles et reprises que TMDB ignore.
+# ATTENTION : ce n'est pas une API officielle mais une page interne d'AlloCine.
+# Aucune garantie de fonctionnement, et l'usage releve de leurs conditions.
+# Une panne de ce complement n'empeche JAMAIS le calendrier de se generer.
+ALLOCINE_ACTIF = True
+ALLOCINE_CINEMA = "P0702"          # identifiant du cinema chez AlloCine
+ALLOCINE_NOM = "Pathé Montpellier Odysseum"
+ALLOCINE_JOURS = 21                # AlloCine ne publie que 2 a 3 semaines a l'avance
+
+# Un film est considere comme "seance evenement" si sa sortie d'origine remonte
+# a plus de X mois : c'est ce qui distingue une reprise (Akira 1988, Terminator 2
+# 1991, Harry Potter 2001) d'un film normalement a l'affiche.
+ANCIENNETE_REPRISE_MOIS = 12
+NOM_CALENDRIER_EVENEMENTS = "Séances événement - Pathé Odysseum"
+FICHIER_EVENEMENTS = "docs/c-cinema-evenements.ics"
+
 JOURS_AVANT = 14       # on garde les sorties des 2 dernieres semaines
 JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 
@@ -44,7 +61,7 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
 # surtout les sorties lointaines. Le journal affiche la repartition reelle
 # pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
-POPULARITE_MINIMALE = 4.0
+POPULARITE_MINIMALE = 0.0
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
@@ -62,7 +79,7 @@ TAILLE_AFFICHE = "w780"            # w92 w154 w185 w342 w500 w780 original
 # abonne, a condition de decocher "Supprimer : Pieces jointes" a l'abonnement.
 # En mode integre, l'image est incorporee au fichier au lieu d'etre un simple lien :
 # plus de chance d'etre affichee, mais le fichier grossit beaucoup.
-AFFICHE_INTEGREE = False           # True = image incorporee (a tester)
+AFFICHE_INTEGREE = True            # True = image incorporee dans le fichier
 TAILLE_AFFICHE_INTEGREE = "w342"   # resolution des images incorporees
 JOURS_AFFICHE_INTEGREE = 45        # on n'incorpore que les sorties les plus proches
 LARGEUR_AFFICHE_HTML = 220         # largeur d'affichage de l'affiche dans Outlook, en pixels
@@ -186,7 +203,7 @@ def lister_sorties():
             scores.append(float(film.get("popularity") or 0))
             if float(film.get("popularity") or 0) < POPULARITE_MINIMALE:
                 continue
-            films[film["id"]] = {"id": film["id"], "date": film["release_date"]}
+            films[film["id"]] = {"id": film["id"], "date": film["release_date"], "impose": False}
         print(f"  page {page}/{total_pages} - {len(films)} films")
         page += 1
 
@@ -333,12 +350,42 @@ def personnes_par_metier(equipe, metiers):
     return trouves
 
 
+def date_de_sortie_francaise(fiche, defaut):
+    """Date de sortie en salles en France, lue dans la fiche du film.
+
+    Le point important pour les RESSORTIES : un film ancien peut avoir plusieurs
+    dates francaises (1991 pour la sortie d'origine, 2026 pour la reprise). On
+    prend celle qui tombe dans la fenetre du calendrier, pas la premiere venue,
+    sinon un film de 1988 atterrirait en 1988 dans votre agenda.
+    """
+    debut = date.today() - timedelta(days=JOURS_AVANT)
+    fin = date.today() + timedelta(days=JOURS_APRES)
+    types_voulus = {int(t) for t in TYPES_DE_SORTIE.split("|") if t.strip().isdigit()}
+
+    candidates = []
+    for pays in (fiche.get("release_dates") or {}).get("results", []):
+        if pays.get("iso_3166_1") != REGION:
+            continue
+        for sortie in pays.get("release_dates", []):
+            if sortie.get("type") not in types_voulus:
+                continue
+            brut = (sortie.get("release_date") or "")[:10]
+            try:
+                jour = datetime.strptime(brut, "%Y-%m-%d").date()
+            except ValueError:
+                continue
+            if debut <= jour <= fin:
+                candidates.append(jour)
+
+    return min(candidates).isoformat() if candidates else defaut
+
+
 def details_du_film(film):
     """Une requete par film : fiche + generique, grace a append_to_response."""
     try:
         fiche = appel_api(
             f"/movie/{film['id']}",
-            {"language": LANGUE, "append_to_response": "credits,translations,alternative_titles"},
+            {"language": LANGUE, "append_to_response": "credits,translations,alternative_titles,release_dates"},
         )
     except Exception as erreur:  # noqa: BLE001
         print(f"  film {film['id']} ignore : {erreur}", file=sys.stderr)
@@ -381,9 +428,14 @@ def details_du_film(film):
     titre_anglais = (anglais.get("title") or "").strip()
     pays = noms_des_pays(fiche)
 
+    if film.get("impose"):
+        jour_retenu = film["date"]          # seance evenement : la date du cinema prime
+    else:
+        jour_retenu = date_de_sortie_francaise(fiche, film["date"])
+
     return {
         "id": film["id"],
-        "date": film["date"],
+        "date": jour_retenu,
         "titre": titre or titre_original or "Sans titre",
         "titre_original": titre_original,
         "titre_romanise": titre_romanise,
@@ -410,6 +462,159 @@ def enrichir(films):
     complets = [r for r in resultats if r]
     print(f"  {len(complets)} fiches recuperees")
     return sorted(complets, key=lambda f: (f["date"], f["titre"]))
+
+
+# --- Complement AlloCine ----------------------------------------------------
+
+ALLOCINE_URL = "https://www.allocine.fr/_/showtimes/theater-{cinema}/d-{jour}/p-{page}"
+NAVIGATEUR = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+)
+
+
+def cle_de_titre(titre):
+    """Forme simplifiee d'un titre, pour comparer TMDB et AlloCine.
+
+    On retire accents, ponctuation, articles initiaux et espaces multiples :
+    "L'Odyssée" et "Odyssee" se rejoignent. Reste approximatif par nature.
+    """
+    texte = unicodedata.normalize("NFKD", (titre or "").lower())
+    texte = "".join(c for c in texte if not unicodedata.combining(c))
+    texte = "".join(c if c.isalnum() else " " for c in texte)
+    mots = texte.split()
+    while mots and mots[0] in {"le", "la", "les", "l", "un", "une", "des", "the", "a"}:
+        mots.pop(0)
+    return " ".join(mots)
+
+
+def seances_du_cinema():
+    """Films projetes dans le cinema, avec la date de leur premiere seance.
+
+    Toute erreur est avalee : le calendrier TMDB doit rester generable meme si
+    AlloCine change sa page, bloque la requete ou tombe en panne.
+    """
+    trouves = {}
+    aujourdhui = date.today()
+
+    for decalage in range(ALLOCINE_JOURS):
+        jour = (aujourdhui + timedelta(days=decalage)).isoformat()
+        page, total_pages = 1, 1
+        while page <= total_pages and page <= 10:
+            url = ALLOCINE_URL.format(cinema=ALLOCINE_CINEMA, jour=jour, page=page)
+            try:
+                requete = urllib.request.Request(url, headers={
+                    "User-Agent": NAVIGATEUR,
+                    "Accept": "application/json",
+                })
+                with urllib.request.urlopen(requete, timeout=20) as reponse:
+                    donnees = json.loads(reponse.read().decode("utf-8"))
+            except Exception as erreur:  # noqa: BLE001
+                print(f"  AlloCine {jour} p{page} : {erreur}", file=sys.stderr)
+                break
+
+            total_pages = int((donnees.get("pagination") or {}).get("totalPages", 1))
+            for entree in donnees.get("results", []):
+                fiche = entree.get("movie")
+                if not fiche or not fiche.get("internalId"):
+                    continue
+                identifiant = fiche["internalId"]
+                if identifiant not in trouves:      # premiere projection = premier jour vu
+                    trouves[identifiant] = (jour, fiche)
+            page += 1
+
+    return trouves
+
+
+def annee_de_sortie(fiche):
+    """Annee de la sortie d'origine, telle qu'AlloCine la donne."""
+    for sortie in fiche.get("releases") or []:
+        brut = (sortie.get("releaseDate") or {}).get("date")
+        if brut and len(brut) >= 4 and brut[:4].isdigit():
+            return int(brut[:4])
+    return None
+
+
+def chercher_sur_tmdb(titre, titre_original, annee):
+    """Retrouve l'identifiant TMDB d'un film repere chez AlloCine.
+
+    Sans ca, les notes seraient bien plus pauvres : AlloCine ne fournit ni
+    scenariste, ni photographie, ni acteurs, ni pays. On passe donc par TMDB
+    pour que ces seances aient exactement la meme fiche que les autres.
+    """
+    tentatives = []
+    if titre:
+        tentatives.append((titre, annee))
+        tentatives.append((titre, None))
+    if titre_original and titre_original != titre:
+        tentatives.append((titre_original, annee))
+
+    for recherche, an in tentatives:
+        parametres = {"query": recherche, "language": LANGUE, "include_adult": "false"}
+        if an:
+            parametres["primary_release_year"] = an
+        try:
+            resultats = appel_api("/search/movie", parametres).get("results") or []
+        except Exception:  # noqa: BLE001
+            continue
+        if not resultats:
+            continue
+        vise = cle_de_titre(recherche)
+        for trouve in resultats:
+            if cle_de_titre(trouve.get("title")) == vise or cle_de_titre(trouve.get("original_title")) == vise:
+                return trouve["id"]
+        if an:                      # avec l'annee, le premier resultat est fiable
+            return resultats[0]["id"]
+    return None
+
+
+def seances_evenement():
+    """Second calendrier : les reprises et seances ponctuelles du cinema.
+
+    On part des films a l'affiche, on ne garde que ceux dont la sortie d'origine
+    est ancienne, puis on va chercher leur fiche complete sur TMDB pour que la
+    mise en forme soit identique au calendrier principal.
+    """
+    if not ALLOCINE_ACTIF:
+        return []
+
+    print(f"\n=== Seances evenement - {ALLOCINE_NOM} ({ALLOCINE_JOURS} jours) ===")
+    try:
+        seances = seances_du_cinema()
+    except Exception as erreur:  # noqa: BLE001
+        print(f"  abandonne : {erreur}", file=sys.stderr)
+        return []
+
+    if not seances:
+        print("  aucune seance recuperee (page modifiee, requete bloquee, ou panne)")
+        return []
+
+    limite = date.today().year - (ANCIENNETE_REPRISE_MOIS // 12)
+    retenus = []
+    for identifiant, (jour, fiche) in seances.items():
+        annee = annee_de_sortie(fiche)
+        if annee is None or annee > limite:
+            continue                      # film normalement a l'affiche
+        retenus.append((jour, fiche, annee))
+
+    print(f"  {len(seances)} films a l'affiche, {len(retenus)} reprises reperees")
+    if not retenus:
+        return []
+
+    films = []
+    for jour, fiche, annee in sorted(retenus, key=lambda x: x[0]):
+        titre = (fiche.get("title") or "").strip()
+        identifiant_tmdb = chercher_sur_tmdb(titre, (fiche.get("originalTitle") or "").strip(), annee)
+        if not identifiant_tmdb:
+            print(f"    ? {jour}  {titre} ({annee}) - introuvable sur TMDB, ignore")
+            continue
+        detail = details_du_film({"id": identifiant_tmdb, "date": jour, "impose": True})
+        if detail:
+            detail["evenement"] = True
+            films.append(detail)
+            print(f"    + {jour}  {detail['titre']} ({annee})")
+
+    return films
 
 
 # --- Mise en forme ----------------------------------------------------------
@@ -440,7 +645,8 @@ def integrer_affiches(films):
     limite = date.today() + timedelta(days=JOURS_AFFICHE_INTEGREE)
     concernes = [
         f for f in films
-        if f["affiche"] and datetime.strptime(f["date"], "%Y-%m-%d").date() <= limite
+        if f["affiche"] and not f["affiche"].startswith("http")
+        and datetime.strptime(f["date"], "%Y-%m-%d").date() <= limite
     ]
     if not concernes:
         return
@@ -453,11 +659,20 @@ def integrer_affiches(films):
     for film, image in zip(concernes, images):
         film["affiche_base64"] = image
         poids += len(image or "")
-    print(f"  {sum(1 for i in images if i)} affiches incorporees ({poids / 1048576:.1f} Mo)")
+    mega = poids / 1048576
+    print(f"  {sum(1 for i in images if i)} affiches incorporees ({mega:.1f} Mo ajoutes)")
+    if mega > 12:
+        print("  ATTENTION : fichier tres lourd, retelecharge a chaque rafraichissement.")
+        print("  Reduisez JOURS_AFFICHE_INTEGREE ou TAILLE_AFFICHE_INTEGREE.")
 
 
 def url_affiche(chemin):
-    return f"{BASE_IMAGES}{TAILLE_AFFICHE}{chemin}" if chemin else None
+    """Adresse de l'affiche. AlloCine fournit une adresse complete, TMDB un chemin."""
+    if not chemin:
+        return None
+    if chemin.startswith("http"):
+        return chemin
+    return f"{BASE_IMAGES}{TAILLE_AFFICHE}{chemin}"
 
 
 def titre_pour_agenda(film):
@@ -551,6 +766,8 @@ def description_texte(film):
         identite.append(", ".join(film["genres"]))
     if film.get("pays"):
         identite.append(", ".join(film["pays"]))
+    if film.get("evenement"):
+        identite.append(f"Reprise au {ALLOCINE_NOM}")
     if identite:
         blocs.append("\n".join(identite))
 
@@ -572,12 +789,14 @@ def description_texte(film):
             texte = "(synopsis non encore traduit sur TMDB)\n" + texte
         blocs.append(respiration + texte)
 
-    # la mention legale TMDB, un peu detachee du synopsis
-    blocs.append(
-        "\n" * max(0, LIGNES_AVANT_MENTION - 1)
-        + f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
-        "Données fournies par The Movie Database (TMDB).\n"
-    )
+    # la mention legale, un peu detachee du synopsis
+    respiration = "\n" * max(0, LIGNES_AVANT_MENTION - 1)
+    pied = f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
+    if film.get("evenement"):
+        pied += "Séance relevée sur AlloCiné.\n"
+    pied += ("Données fournies par The Movie Database (TMDB).\n"
+             "Ce produit utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB.")
+    blocs.append(respiration + pied)
 
     return "\n\n".join(blocs)
 
@@ -699,15 +918,15 @@ def plier(ligne):
     return "\r\n ".join(morceaux)
 
 
-def construire_ics(films):
+def construire_ics(films, nom_calendrier=NOM_DU_CALENDRIER):
     lignes = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         "PRODID:-//calendrier-cine-fr//FR",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        f"X-WR-CALNAME:{echapper(NOM_DU_CALENDRIER)}",
-        f"NAME:{echapper(NOM_DU_CALENDRIER)}",
+        f"X-WR-CALNAME:{echapper(nom_calendrier)}",
+        f"NAME:{echapper(nom_calendrier)}",
         "X-WR-TIMEZONE:Europe/Paris",
         "X-WR-CALDESC:"
         + echapper("Sorties en salles en France. Données fournies par The Movie Database (TMDB)."),
@@ -727,7 +946,7 @@ def construire_ics(films):
 
         lignes += [
             "BEGIN:VEVENT",
-            f"UID:tmdb-{film['id']}@calendrier-cine-fr",
+            f"UID:{'event' if film.get('evenement') else 'tmdb'}-{film['id']}@calendrier-cine-fr",
             f"DTSTAMP:{jour.strftime('%Y%m%d')}T000000Z",
             f"DTSTART;VALUE=DATE:{jour.strftime('%Y%m%d')}",
             f"DTEND;VALUE=DATE:{(jour + timedelta(days=1)).strftime('%Y%m%d')}",
@@ -769,33 +988,39 @@ def construire_ics(films):
     return "\r\n".join(plier(ligne) for ligne in lignes) + "\r\n"
 
 
+def ecrire_calendrier(films, chemin, nom):
+    """Ecrit un fichier .ics et renvoie le nombre d'evenements retenus."""
+    contenu = construire_ics(films, nom)
+    dossier = os.path.dirname(chemin)
+    if dossier:
+        os.makedirs(dossier, exist_ok=True)
+    with open(chemin, "w", encoding="utf-8", newline="") as fichier:
+        fichier.write(contenu)
+    taille = len(contenu.encode("utf-8")) / 1024
+    retenus = sum(1 for f in films if titre_pour_agenda(f))
+    print(f"  {retenus} films ecrits dans {chemin} ({taille:.0f} Ko)")
+    return retenus
+
+
 def main():
     charger_base_images()
 
+    # --- calendrier principal : les sorties nationales ---
     sorties = lister_sorties()
     if not sorties:
         sys.exit("ERREUR : aucune sortie trouvee. Fichier non ecrit, pour ne pas vider le calendrier.")
 
     films = enrichir(sorties)
-    integrer_affiches(films)
     if not films:
         sys.exit("ERREUR : aucune fiche exploitable. Fichier non ecrit.")
+    integrer_affiches(films)
 
-    contenu = construire_ics(films)
+    ecartes = [f for f in films if not titre_pour_agenda(f)]
+    print("\n=== Calendrier principal ===")
+    ecrire_calendrier(films, FICHIER_DE_SORTIE, NOM_DU_CALENDRIER)
 
-    dossier = os.path.dirname(FICHIER_DE_SORTIE)
-    if dossier:
-        os.makedirs(dossier, exist_ok=True)
-    with open(FICHIER_DE_SORTIE, "w", encoding="utf-8", newline="") as fichier:
-        fichier.write(contenu)
-
-    taille = len(contenu.encode("utf-8")) / 1024
     sans_affiche = sum(1 for f in films if not f["affiche"])
     non_traduits = sum(1 for f in films if f["synopsis_en_anglais"])
-    ecartes = [f for f in films if not titre_pour_agenda(f)]
-
-    retenus = len(films) - len(ecartes)
-    print(f"\n{retenus} films ecrits dans {FICHIER_DE_SORTIE} ({taille:.0f} Ko)")
     print(f"  sans affiche sur TMDB : {sans_affiche}")
     print(f"  synopsis non traduit  : {non_traduits}")
     if ecartes:
@@ -805,10 +1030,14 @@ def main():
             print(f"    - {film['titre']}  (titre anglais connu : {anglais})")
         if not REPLI_TITRE_ANGLAIS:
             print("    -> REPLI_TITRE_ANGLAIS = True permettrait d'en recuperer une partie")
-    print("Trois premiers :")
-    for film in films[:3]:
-        real = film["realisateurs"][0] if film["realisateurs"] else "?"
-        print(f"  {film['date']}  {film['titre']} - {real}")
+
+    # --- second calendrier : les seances evenement du cinema ---
+    evenements = seances_evenement()
+    if evenements:
+        integrer_affiches(evenements)
+        ecrire_calendrier(evenements, FICHIER_EVENEMENTS, NOM_CALENDRIER_EVENEMENTS)
+    else:
+        print("  aucune seance evenement : fichier inchange")
 
 
 if __name__ == "__main__":
