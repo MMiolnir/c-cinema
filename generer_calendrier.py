@@ -46,7 +46,12 @@ ALLOCINE_NOM = "Pathé Montpellier Odysseum"
 # se declenchait pas. Si le journal signale des seances jusqu'au dernier jour
 # lu, c'est le moment de l'augmenter.
 ALLOCINE_JOURS = 60                # plafond du releve, en jours
-ALLOCINE_JOURS_VIDES_MAX = 14      # arret apres autant de jours vides d'affilee
+# Arret anticipe apres autant de jours vides d'affilee. Mettre cette valeur a
+# ALLOCINE_JOURS (ou plus) desactive l'arret : la fenetre est alors lue en
+# entier. C'est le choix retenu, car Pathe programme par cycles hebdomadaires :
+# les seances ordinaires s'arretent apres 1 a 2 semaines, mais un evenement
+# peut etre place bien plus loin, precede d'une longue plage vide.
+ALLOCINE_JOURS_VIDES_MAX = 60      # = ALLOCINE_JOURS -> fenetre lue en entier
 ALLOCINE_PAUSE = 0.2               # pause entre deux requetes, en secondes
 ALLOCINE_JOURNAL_DETAILLE = True   # liste chaque film vu et pourquoi il est retenu ou non
 
@@ -560,24 +565,39 @@ def seances_du_cinema():
     return trouves
 
 
-def annee_de_sortie(fiche):
-    """Annee de la sortie d'ORIGINE du film.
+def sortie_originale(fiche):
+    """Date de sortie d'ORIGINE du film : (jour, annee) ou (None, annee).
 
     AlloCine peut lister plusieurs sorties pour un meme film : celle d'origine
-    et la ressortie. Rien ne garantit l'ordre. On prend donc systematiquement la
+    et la ressortie. Rien ne garantit l'ordre, on prend donc systematiquement la
     plus ancienne - sinon une retrospective Harry Potter serait vue comme un
     film de 2026 et rejetee par le filtre d'anciennete.
     """
-    annees = []
+    sorties = []   # (annee, date complete ou None)
     for sortie in fiche.get("releases") or []:
         brut = (sortie.get("releaseDate") or {}).get("date")
-        if brut and len(brut) >= 4 and brut[:4].isdigit():
-            annees.append(int(brut[:4]))
-    if not annees:
-        # a defaut, l'annee de production si AlloCine la fournit
-        production = fiche.get("productionYear")
-        return int(production) if production else None
-    return min(annees)
+        if not brut:
+            continue
+        try:
+            jour = datetime.strptime(brut[:10], "%Y-%m-%d").date()
+            sorties.append((jour.year, jour))
+        except ValueError:
+            if len(brut) >= 4 and brut[:4].isdigit():
+                # annee seule : on ne fabrique pas de jour qui n'existe pas
+                sorties.append((int(brut[:4]), None))
+
+    if sorties:
+        plus_ancienne = min(a for a, _ in sorties)
+        precises = [j for a, j in sorties if a == plus_ancienne and j]
+        return (min(precises) if precises else None), plus_ancienne
+
+    production = fiche.get("productionYear")            # a defaut, l'annee de production
+    return None, int(production) if production else None
+
+
+def annee_de_sortie(fiche):
+    """Raccourci : l'annee seule."""
+    return sortie_originale(fiche)[1]
 
 
 def chercher_sur_tmdb(titre, titre_original, annee):
@@ -637,14 +657,14 @@ def seances_evenement():
     limite = date.today().year - (ANCIENNETE_REPRISE_MOIS // 12)
     retenus, ecartes = [], []
     for identifiant, (jour, fiche) in seances.items():
-        annee = annee_de_sortie(fiche)
+        premiere, annee = sortie_originale(fiche)
         titre = (fiche.get("title") or "?").strip()
         if annee is None:
             ecartes.append((titre, "annee de sortie inconnue"))
         elif annee > limite:
             ecartes.append((titre, f"sorti en {annee}, trop recent"))
         else:
-            retenus.append((jour, fiche, annee))
+            retenus.append((jour, fiche, annee, premiere))
 
     print(f"  {len(seances)} films a l'affiche, {len(retenus)} reprises reperees")
     if ALLOCINE_JOURNAL_DETAILLE and ecartes:
@@ -655,7 +675,7 @@ def seances_evenement():
         return []
 
     films = []
-    for jour, fiche, annee in sorted(retenus, key=lambda x: x[0]):
+    for jour, fiche, annee, premiere in sorted(retenus, key=lambda x: x[0]):
         titre = (fiche.get("title") or "").strip()
         identifiant_tmdb = chercher_sur_tmdb(titre, (fiche.get("originalTitle") or "").strip(), annee)
         if not identifiant_tmdb:
@@ -664,6 +684,7 @@ def seances_evenement():
         detail = details_du_film({"id": identifiant_tmdb, "date": jour, "impose": True})
         if detail:
             detail["evenement"] = True
+            detail["sortie_initiale"] = premiere.strftime("%d/%m/%Y") if premiere else str(annee)
             films.append(detail)
             print(f"    + {jour}  {detail['titre']} ({annee})")
 
@@ -820,7 +841,8 @@ def description_texte(film):
     if film.get("pays"):
         identite.append(", ".join(film["pays"]))
     if film.get("evenement"):
-        identite.append(f"Reprise au {ALLOCINE_NOM}")
+        if film.get("sortie_initiale"):
+            identite.append(f"(sortie initiale : {film['sortie_initiale']})")
     if identite:
         blocs.append("\n".join(identite))
 
@@ -847,8 +869,7 @@ def description_texte(film):
     pied = f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
     if film.get("evenement"):
         pied += "Séance relevée sur AlloCiné.\n"
-    pied += ("Données fournies par The Movie Database (TMDB).\n"
-             "Ce produit utilise l'API TMDB.")
+    pied += "Données fournies par The Movie Database (TMDB)"
     blocs.append(respiration + pied)
 
     return "\n\n".join(blocs)
@@ -879,6 +900,8 @@ def description_html(film):
         identite.append(f"<i>{echapper_html(', '.join(film['genres']))}</i>")
     if film.get("pays"):
         identite.append(echapper_html(", ".join(film["pays"])))
+    if film.get("sortie_initiale"):
+        identite.append(echapper_html(f"(sortie initiale : {film['sortie_initiale']})"))
     if identite:
         droite.append("<br>".join(identite))
 
@@ -928,8 +951,7 @@ def description_html(film):
     # --- sous le synopsis : la mention legale TMDB ---
     bouts.append(
         f'<p><small><a href="{LIEN_TMDB}{film["id"]}">Fiche TMDB</a><br>'
-        "Données fournies par The Movie Database (TMDB).<br>"
-        "Ce produit utilise l'API TMDB."
+        "Données fournies par The Movie Database (TMDB)"
         "</small></p>"
     )
     bouts.append("</body></html>")
