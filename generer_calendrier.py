@@ -577,7 +577,6 @@ def description_texte(film):
         "\n" * max(0, LIGNES_AVANT_MENTION - 1)
         + f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
         "Données fournies par The Movie Database (TMDB).\n"
-        "Ce produit utilise l'API TMDB."
     )
 
     return "\n\n".join(blocs)
