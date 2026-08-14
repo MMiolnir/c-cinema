@@ -40,7 +40,12 @@ TYPES_DE_SORTIE = "3|2"
 ALLOCINE_ACTIF = True
 ALLOCINE_CINEMA = "P0702"          # identifiant du cinema chez AlloCine
 ALLOCINE_NOM = "Pathé Montpellier Odysseum"
-ALLOCINE_JOURS = 21                # AlloCine ne publie que 2 a 3 semaines a l'avance
+# Horizon maximal du releve. Le script s'arrete tout seul bien avant si AlloCine
+# ne publie plus rien : inutile d'interroger 240 jours quand la programmation
+# s'arrete a 5 semaines. Vous pouvez donc viser large sans gaspiller de requetes.
+ALLOCINE_JOURS = 240               # plafond, aligne sur JOURS_APRES
+ALLOCINE_JOURS_VIDES_MAX = 14      # arret apres autant de jours vides d'affilee
+ALLOCINE_PAUSE = 0.2               # pause entre deux requetes, en secondes
 
 # Un film est considere comme "seance evenement" si sa sortie d'origine remonte
 # a plus de X mois : c'est ce qui distingue une reprise (Akira 1988, Terminator 2
@@ -496,9 +501,17 @@ def seances_du_cinema():
     """
     trouves = {}
     aujourdhui = date.today()
+    dernier_jour_garni = None
+    jours_garnis = 0
+    jours_vides = 0
+
+    debut = aujourdhui.isoformat()
+    fin = (aujourdhui + timedelta(days=ALLOCINE_JOURS - 1)).isoformat()
+    print(f"  releve du {debut} au {fin}")
 
     for decalage in range(ALLOCINE_JOURS):
         jour = (aujourdhui + timedelta(days=decalage)).isoformat()
+        avant = len(trouves)
         page, total_pages = 1, 1
         while page <= total_pages and page <= 10:
             url = ALLOCINE_URL.format(cinema=ALLOCINE_CINEMA, jour=jour, page=page)
@@ -522,6 +535,24 @@ def seances_du_cinema():
                 if identifiant not in trouves:      # premiere projection = premier jour vu
                     trouves[identifiant] = (jour, fiche)
             page += 1
+            time.sleep(ALLOCINE_PAUSE)   # on n'assomme pas le serveur
+
+        if len(trouves) > avant or page > 1:
+            jours_garnis += 1
+            dernier_jour_garni = jour
+            jours_vides = 0
+        else:
+            jours_vides += 1
+            if jours_vides >= ALLOCINE_JOURS_VIDES_MAX:
+                print(f"  arret au {jour} : {jours_vides} jours vides d'affilee")
+                break
+
+    print(f"  {jours_garnis} jours avec des seances, dernier : {dernier_jour_garni or 'aucun'}")
+    if dernier_jour_garni == fin:
+        print("  -> des seances jusqu'au dernier jour lu :"
+              " augmentez ALLOCINE_JOURS pour voir plus loin.")
+    elif dernier_jour_garni:
+        print(f"  -> AlloCine ne publie rien au-dela du {dernier_jour_garni}")
 
     return trouves
 
@@ -794,8 +825,7 @@ def description_texte(film):
     pied = f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
     if film.get("evenement"):
         pied += "Séance relevée sur AlloCiné.\n"
-    pied += ("Données fournies par The Movie Database (TMDB).\n"
-             "Ce produit utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB.")
+    pied += ("Données fournies par The Movie Database (TMDB).\n")
     blocs.append(respiration + pied)
 
     return "\n\n".join(blocs)
