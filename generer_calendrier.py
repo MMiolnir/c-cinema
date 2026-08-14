@@ -44,7 +44,7 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
 # surtout les sorties lointaines. Le journal affiche la repartition reelle
 # pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
-POPULARITE_MINIMALE = 5.0
+POPULARITE_MINIMALE = 4.0
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
@@ -62,7 +62,7 @@ TAILLE_AFFICHE = "w780"            # w92 w154 w185 w342 w500 w780 original
 # abonne, a condition de decocher "Supprimer : Pieces jointes" a l'abonnement.
 # En mode integre, l'image est incorporee au fichier au lieu d'etre un simple lien :
 # plus de chance d'etre affichee, mais le fichier grossit beaucoup.
-AFFICHE_INTEGREE = True           # True = image incorporee (a tester)
+AFFICHE_INTEGREE = False           # True = image incorporee (a tester)
 TAILLE_AFFICHE_INTEGREE = "w342"   # resolution des images incorporees
 JOURS_AFFICHE_INTEGREE = 45        # on n'incorpore que les sorties les plus proches
 LARGEUR_AFFICHE_HTML = 220         # largeur d'affichage de l'affiche dans Outlook, en pixels
