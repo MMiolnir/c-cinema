@@ -62,7 +62,7 @@ TAILLE_AFFICHE = "w780"            # w92 w154 w185 w342 w500 w780 original
 # abonne, a condition de decocher "Supprimer : Pieces jointes" a l'abonnement.
 # En mode integre, l'image est incorporee au fichier au lieu d'etre un simple lien :
 # plus de chance d'etre affichee, mais le fichier grossit beaucoup.
-AFFICHE_INTEGREE = False           # True = image incorporee (a tester)
+AFFICHE_INTEGREE = True           # True = image incorporee (a tester)
 TAILLE_AFFICHE_INTEGREE = "w342"   # resolution des images incorporees
 JOURS_AFFICHE_INTEGREE = 45        # on n'incorpore que les sorties les plus proches
 LARGEUR_AFFICHE_HTML = 220         # largeur d'affichage de l'affiche dans Outlook, en pixels
@@ -577,7 +577,7 @@ def description_texte(film):
         "\n" * max(0, LIGNES_AVANT_MENTION - 1)
         + f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
         "Données fournies par The Movie Database (TMDB).\n"
-        "Ce produit utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB."
+        "Ce produit utilise l'API TMDB."
     )
 
     return "\n\n".join(blocs)
