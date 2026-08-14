@@ -35,8 +35,15 @@ TYPES_DE_SORTIE = "3|2"
 JOURS_AVANT = 14       # on garde les sorties des 2 dernieres semaines
 JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 
-# Filtre anti-bruit. 0 = tout garder. Montez a 10 ou 20 pour ecarter
-# les films tres confidentiels.
+# Filtre anti-bruit, base sur le champ "popularity" de TMDB.
+# ATTENTION : cette valeur n'a pas de plafond, ce n'est pas une note sur 20.
+# C'est un score d'attention recalcule chaque jour (pages vues, notes, ajouts
+# en favoris et en liste de suivi, date de sortie, score de la veille).
+# Consequence importante pour un calendrier tourne vers l'avenir : un film qui
+# sort dans huit mois a un score faible parce que personne ne l'a encore
+# consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
+# surtout les sorties lointaines. Le journal affiche la repartition reelle
+# pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
 POPULARITE_MINIMALE = 0.0
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
@@ -61,7 +68,7 @@ JOURS_AFFICHE_INTEGREE = 45        # on n'incorpore que les sorties les plus pro
 LARGEUR_AFFICHE_HTML = 220         # largeur d'affichage de l'affiche dans Outlook, en pixels
 ECART_AFFICHE_TEXTE = 16           # espace entre l'affiche et la colonne de texte, en pixels
 
-NOM_DU_CALENDRIER = "c-cinema"
+NOM_DU_CALENDRIER = "Sorties cinema France"
 PREFIXE_TITRE = ""                 # texte place devant le titre, ex. "🎬 "
 
 # Le titre affiche dans l'agenda doit rester en alphabet latin. Ordre de repli :
@@ -168,6 +175,7 @@ def lister_sorties():
     print(f"Sorties {REGION} du {debut} au {fin}")
 
     films = {}
+    scores = []
     page, total_pages = 1, 1
     while page <= total_pages and page <= 500:
         donnees = appel_api("/discover/movie", {**commun, "page": page})
@@ -175,13 +183,30 @@ def lister_sorties():
         for film in donnees.get("results", []):
             if not film.get("release_date"):
                 continue
+            scores.append(float(film.get("popularity") or 0))
             if float(film.get("popularity") or 0) < POPULARITE_MINIMALE:
                 continue
             films[film["id"]] = {"id": film["id"], "date": film["release_date"]}
         print(f"  page {page}/{total_pages} - {len(films)} films")
         page += 1
 
+    afficher_repartition(scores)
     return list(films.values())
+
+
+def afficher_repartition(scores):
+    """Montre combien de films resteraient selon le seuil de popularite."""
+    if not scores:
+        return
+    tries = sorted(scores)
+    mediane = tries[len(tries) // 2]
+    print(f"\nRepartition de la popularite ({len(scores)} sorties trouvees)")
+    print(f"  la plus faible {tries[0]:.1f} | mediane {mediane:.1f} | la plus forte {tries[-1]:.1f}")
+    print("  films restants selon POPULARITE_MINIMALE :")
+    for seuil in (0, 1, 2, 3, 5, 10, 20):
+        restants = sum(1 for v in tries if v >= seuil)
+        marque = "  <- reglage actuel" if abs(seuil - POPULARITE_MINIMALE) < 0.001 else ""
+        print(f"    {seuil:>3} -> {restants:>4} films{marque}")
 
 
 # Alphabets pour lesquels une romanisation est necessaire, si TMDB en fournit une.
