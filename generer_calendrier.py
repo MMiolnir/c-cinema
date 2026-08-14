@@ -61,8 +61,15 @@ JOURS_AFFICHE_INTEGREE = 45        # on n'incorpore que les sorties les plus pro
 LARGEUR_AFFICHE_HTML = 220         # largeur d'affichage de l'affiche dans Outlook, en pixels
 ECART_AFFICHE_TEXTE = 16           # espace entre l'affiche et la colonne de texte, en pixels
 
-NOM_DU_CALENDRIER = "Sorties cinema France"
-PREFIXE_TITRE = "🎬 "              # mettez "" pour supprimer l'emoji
+NOM_DU_CALENDRIER = "c-cinema"
+PREFIXE_TITRE = ""                 # texte place devant le titre, ex. "🎬 "
+
+# Le titre affiche dans l'agenda doit rester en alphabet latin. Ordre de repli :
+#   1. le titre francais, s'il est en alphabet latin
+#   2. sa romanisation, si TMDB en fournit une
+#   3. le titre anglais, uniquement si REPLI_TITRE_ANGLAIS vaut True
+#   4. sinon le film est ecarte du calendrier
+REPLI_TITRE_ANGLAIS = False
 FICHIER_DE_SORTIE = "docs/c-cinema.ics"
 
 SEPARATEUR_ROMANISATION = " — "    # entre le titre original et sa version en alphabet latin
@@ -346,6 +353,7 @@ def details_du_film(film):
     titre = (fiche.get("title") or "").strip()
     titre_original = (fiche.get("original_title") or "").strip()
     titre_romanise = romanisation(fiche, titre_original)
+    titre_anglais = (anglais.get("title") or "").strip()
     pays = noms_des_pays(fiche)
 
     return {
@@ -354,6 +362,7 @@ def details_du_film(film):
         "titre": titre or titre_original or "Sans titre",
         "titre_original": titre_original,
         "titre_romanise": titre_romanise,
+        "titre_anglais": titre_anglais,
         "realisateurs": realisateurs,
         "scenaristes": scenaristes,
         "photographie": photographie,
@@ -426,18 +435,52 @@ def url_affiche(chemin):
     return f"{BASE_IMAGES}{TAILLE_AFFICHE}{chemin}" if chemin else None
 
 
-def titre_original_a_afficher(film):
-    """Titre original, suivi de sa romanisation si l'alphabet n'est pas latin.
+def titre_pour_agenda(film):
+    """Titre de l'evenement, toujours en alphabet latin. None = film ecarte.
 
-    Renvoie None si le titre original est identique au titre francais : inutile
-    de repeter deux fois la meme chose.
+    Quand TMDB n'a pas de titre francais, il renvoie le titre d'origine dans son
+    ecriture d'origine : un titre en arabe ou en coreen se retrouverait tel quel
+    dans l'agenda, illisible. On cherche alors une version latine, et a defaut
+    on n'affiche pas le film du tout.
+    """
+    titre = (film.get("titre") or "").strip()
+    if titre and est_en_alphabet_latin(titre):
+        return titre
+
+    romanise = (film.get("titre_romanise") or "").strip()
+    if romanise and est_en_alphabet_latin(romanise):
+        return romanise
+
+    if REPLI_TITRE_ANGLAIS:
+        anglais = (film.get("titre_anglais") or "").strip()
+        if anglais and est_en_alphabet_latin(anglais):
+            return anglais
+
+    return None
+
+
+def titre_original_a_afficher(film):
+    """Titre original entre parentheses dans la note, avec sa romanisation.
+
+    On le compare a ce qui est reellement affiche dans l'agenda, pas au titre
+    francais : quand le titre francais manque, c'est la romanisation qui sert
+    de titre d'evenement, et l'ecriture d'origine merite d'apparaitre dans la
+    note. On evite en revanche de repeter deux fois la meme chaine.
     """
     original = (film.get("titre_original") or "").strip()
-    if not original or original.casefold() == film["titre"].casefold():
+    if not original:
+        return None
+
+    affiche = (titre_pour_agenda(film) or film.get("titre") or "").strip()
+    if original.casefold() == affiche.casefold():
         return None
 
     romanise = (film.get("titre_romanise") or "").strip()
-    if romanise and romanise.casefold() != original.casefold():
+    if (
+        romanise
+        and romanise.casefold() != original.casefold()
+        and romanise.casefold() != affiche.casefold()
+    ):
         return f"{original}{SEPARATEUR_ROMANISATION}{romanise}"
     return original
 
@@ -507,7 +550,7 @@ def description_texte(film):
     # la mention legale TMDB, un peu detachee du synopsis
     blocs.append(
         "\n" * max(0, LIGNES_AVANT_MENTION - 1)
-        + f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n"
+        + f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
         "Données fournies par The Movie Database (TMDB).\n"
         "Ce produit utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB."
     )
@@ -654,13 +697,17 @@ def construire_ics(films):
         except ValueError:
             continue
 
+        titre_agenda = titre_pour_agenda(film)
+        if not titre_agenda:
+            continue  # aucun titre en alphabet latin : on n'affiche pas le film
+
         lignes += [
             "BEGIN:VEVENT",
             f"UID:tmdb-{film['id']}@calendrier-cine-fr",
             f"DTSTAMP:{jour.strftime('%Y%m%d')}T000000Z",
             f"DTSTART;VALUE=DATE:{jour.strftime('%Y%m%d')}",
             f"DTEND;VALUE=DATE:{(jour + timedelta(days=1)).strftime('%Y%m%d')}",
-            f"SUMMARY:{echapper(PREFIXE_TITRE + film['titre'])}",
+            f"SUMMARY:{echapper(PREFIXE_TITRE + titre_agenda)}",
             f"DESCRIPTION:{echapper(description_texte(film))}",
         ]
         if INCLURE_VERSION_HTML:
@@ -721,19 +768,19 @@ def main():
     taille = len(contenu.encode("utf-8")) / 1024
     sans_affiche = sum(1 for f in films if not f["affiche"])
     non_traduits = sum(1 for f in films if f["synopsis_en_anglais"])
-    non_latins = [
-        f for f in films
-        if f["titre_original"] and not est_en_alphabet_latin(f["titre_original"])
-    ]
-    sans_romanisation = [f for f in non_latins if not f["titre_romanise"]]
+    ecartes = [f for f in films if not titre_pour_agenda(f)]
 
-    print(f"\n{len(films)} films ecrits dans {FICHIER_DE_SORTIE} ({taille:.0f} Ko)")
+    retenus = len(films) - len(ecartes)
+    print(f"\n{retenus} films ecrits dans {FICHIER_DE_SORTIE} ({taille:.0f} Ko)")
     print(f"  sans affiche sur TMDB : {sans_affiche}")
     print(f"  synopsis non traduit  : {non_traduits}")
-    print(f"  titres hors alphabet latin : {len(non_latins)}"
-          f" dont {len(sans_romanisation)} sans romanisation sur TMDB")
-    for film in sans_romanisation[:5]:
-        print(f"    - {film['titre']} ({film['titre_original']})")
+    if ecartes:
+        print(f"  ecartes faute de titre lisible : {len(ecartes)}")
+        for film in ecartes[:10]:
+            anglais = film.get("titre_anglais") or "-"
+            print(f"    - {film['titre']}  (titre anglais connu : {anglais})")
+        if not REPLI_TITRE_ANGLAIS:
+            print("    -> REPLI_TITRE_ANGLAIS = True permettrait d'en recuperer une partie")
     print("Trois premiers :")
     for film in films[:3]:
         real = film["realisateurs"][0] if film["realisateurs"] else "?"
