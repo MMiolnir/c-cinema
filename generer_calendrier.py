@@ -40,12 +40,15 @@ TYPES_DE_SORTIE = "3|2"
 ALLOCINE_ACTIF = True
 ALLOCINE_CINEMA = "P0702"          # identifiant du cinema chez AlloCine
 ALLOCINE_NOM = "Pathé Montpellier Odysseum"
-# Horizon maximal du releve. Le script s'arrete tout seul bien avant si AlloCine
-# ne publie plus rien : inutile d'interroger 240 jours quand la programmation
-# s'arrete a 5 semaines. Vous pouvez donc viser large sans gaspiller de requetes.
-ALLOCINE_JOURS = 240               # plafond, aligne sur JOURS_APRES
+# Plafond du releve. Le script s'arrete de lui-meme bien avant si AlloCine ne
+# publie plus rien (voir ALLOCINE_JOURS_VIDES_MAX), donc cette valeur ne sert
+# que de garde-fou : elle borne le pire cas si la detection des jours vides ne
+# se declenchait pas. Si le journal signale des seances jusqu'au dernier jour
+# lu, c'est le moment de l'augmenter.
+ALLOCINE_JOURS = 60                # plafond du releve, en jours
 ALLOCINE_JOURS_VIDES_MAX = 14      # arret apres autant de jours vides d'affilee
 ALLOCINE_PAUSE = 0.2               # pause entre deux requetes, en secondes
+ALLOCINE_JOURNAL_DETAILLE = True   # liste chaque film vu et pourquoi il est retenu ou non
 
 # Un film est considere comme "seance evenement" si sa sortie d'origine remonte
 # a plus de X mois : c'est ce qui distingue une reprise (Akira 1988, Terminator 2
@@ -558,12 +561,23 @@ def seances_du_cinema():
 
 
 def annee_de_sortie(fiche):
-    """Annee de la sortie d'origine, telle qu'AlloCine la donne."""
+    """Annee de la sortie d'ORIGINE du film.
+
+    AlloCine peut lister plusieurs sorties pour un meme film : celle d'origine
+    et la ressortie. Rien ne garantit l'ordre. On prend donc systematiquement la
+    plus ancienne - sinon une retrospective Harry Potter serait vue comme un
+    film de 2026 et rejetee par le filtre d'anciennete.
+    """
+    annees = []
     for sortie in fiche.get("releases") or []:
         brut = (sortie.get("releaseDate") or {}).get("date")
         if brut and len(brut) >= 4 and brut[:4].isdigit():
-            return int(brut[:4])
-    return None
+            annees.append(int(brut[:4]))
+    if not annees:
+        # a defaut, l'annee de production si AlloCine la fournit
+        production = fiche.get("productionYear")
+        return int(production) if production else None
+    return min(annees)
 
 
 def chercher_sur_tmdb(titre, titre_original, annee):
@@ -621,14 +635,22 @@ def seances_evenement():
         return []
 
     limite = date.today().year - (ANCIENNETE_REPRISE_MOIS // 12)
-    retenus = []
+    retenus, ecartes = [], []
     for identifiant, (jour, fiche) in seances.items():
         annee = annee_de_sortie(fiche)
-        if annee is None or annee > limite:
-            continue                      # film normalement a l'affiche
-        retenus.append((jour, fiche, annee))
+        titre = (fiche.get("title") or "?").strip()
+        if annee is None:
+            ecartes.append((titre, "annee de sortie inconnue"))
+        elif annee > limite:
+            ecartes.append((titre, f"sorti en {annee}, trop recent"))
+        else:
+            retenus.append((jour, fiche, annee))
 
     print(f"  {len(seances)} films a l'affiche, {len(retenus)} reprises reperees")
+    if ALLOCINE_JOURNAL_DETAILLE and ecartes:
+        print(f"  ecartes ({len(ecartes)}) - seuil : sorti avant {limite + 1}")
+        for titre, raison in sorted(ecartes):
+            print(f"    - {titre} : {raison}")
     if not retenus:
         return []
 
@@ -825,7 +847,8 @@ def description_texte(film):
     pied = f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
     if film.get("evenement"):
         pied += "Séance relevée sur AlloCiné.\n"
-    pied += ("Données fournies par The Movie Database (TMDB).\n")
+    pied += ("Données fournies par The Movie Database (TMDB).\n"
+             "Ce produit utilise l'API TMDB.")
     blocs.append(respiration + pied)
 
     return "\n\n".join(blocs)
@@ -906,7 +929,7 @@ def description_html(film):
     bouts.append(
         f'<p><small><a href="{LIEN_TMDB}{film["id"]}">Fiche TMDB</a><br>'
         "Données fournies par The Movie Database (TMDB).<br>"
-        "Ce produit utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB."
+        "Ce produit utilise l'API TMDB."
         "</small></p>"
     )
     bouts.append("</body></html>")
