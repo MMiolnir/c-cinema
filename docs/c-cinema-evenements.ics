@@ -11,93 +11,49 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-912802@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:Superasticot
-DESCRIPTION:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
- \n(Superworm)\n\nAnimation\, Familial\, Comédie\, Téléfilm\nUnited King
- dom\n(sortie initiale : 28/09/2022)\n\nRéalisateurs : Jac Hamman\, Sarah 
- Scrimgeour\nProduction : Magic Light Pictures\, Blue-Zoo Animation Studio\
- n\nActeurs :\n- Matt Smith\n- Olivia Colman\n- Patricia Allison\n- Rob Bry
- don\n- Kobna Holdbrook-Smith\n- Paul Thornley\n- Cariad Lloyd\n- Felix Tan
- don\n- Samara Sutariya\n- Lizzie Waterworth\n\n\nSuperasticot\, le plus on
- dulant et le plus tortillant de tous les superhéros ! Superasticot est su
- perélancé\, Superasticot est supermusclé ! Héros au grand cœur\, il p
- asse ses journées à sauver les animaux du jardin. Quand le maléfique Sa
- urien Magicien le capture\, qui pourra lui venir en aide ?\n\n\nFiche TMDB
-  : https://www.themoviedb.org/movie/912802\n\nSéance relevée sur AlloCin
- é.\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg" width="220" alt="Affi
- che de Superasticot"><br><small>(Superworm)</small></td><td width="16"></t
- d><td valign="top"><i>Animation\, Familial\, Comédie\, Téléfilm</i><br>
- United Kingdom<br>(sortie initiale : 28/09/2022)<br><br><b>Réalisateurs :
- </b> Jac Hamman\, Sarah Scrimgeour<br><b>Production :</b> Magic Light Pict
- ures\, Blue-Zoo Animation Studio<br><br><b>Acteurs :</b><ul><li>Matt Smith
- </li><li>Olivia Colman</li><li>Patricia Allison</li><li>Rob Brydon</li><li
- >Kobna Holdbrook-Smith</li><li>Paul Thornley</li><li>Cariad Lloyd</li><li>
- Felix Tandon</li><li>Samara Sutariya</li><li>Lizzie Waterworth</li></ul></
- td></tr></table><p>Superasticot\, le plus ondulant et le plus tortillant d
- e tous les superhéros ! Superasticot est superélancé\, Superasticot est
-  supermusclé ! Héros au grand cœur\, il passe ses journées à sauver l
- es animaux du jardin. Quand le maléfique Saurien Magicien le capture\, qu
- i pourra lui venir en aide ?</p><p><small><a href="https://www.themoviedb.
- org/movie/912802">Fiche TMDB</a><br>Données fournies par The Movie Databa
- se (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/912802
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdN
- o7NJZWzR3f.jpg
-CATEGORIES:Animation,Familial,Comédie,Téléfilm
-END:VEVENT
-BEGIN:VEVENT
 UID:event-149871@calendrier-cine-fr
 DTSTAMP:20260816T000000Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:Le Conte de la princesse Kaguya
 DESCRIPTION:https://image.tmdb.org/t/p/w780/yBbJpLFmwdEHzeyeEstoi9mM5lX.jpg
- \n(かぐや姫の物語 — Kaguya-hime no monogatari)\n\nAnimation\, Dra
- me\, Fantastique\nJapan\n(sortie initiale : 25/06/2014)\n\nRéalisateur : 
- Isao Takahata\nScénario : 坂口理子\, Isao Takahata\nPhotographie : 
- 中村圭介\nProduction : Studio Ghibli\, Hakuhodo DY Media Partners\, KD
- DI\n\nActeurs :\n- 朝倉あき\n- 地井武男\n- 宮本信子\n- 高良
- 健吾\n- 高畑淳子\n- 田畑智子\n- 立川志の輔\n- 上川隆也\
- n- Hikaru Ijuin\n- 宇崎竜童\n- Shichinosuke Nakamura\n- 橋爪功\n\n\
- nAdapté d’un conte populaire japonais "Le coupeur de bambou"\, un des t
- extes fondateurs de la littérature japonaise\, Kaguya\, "la princesse lum
- ineuse"\, est découverte dans la tige d'un bambou par des paysans. Elle d
- evient très vite une magnifique jeune femme que les plus grands princes c
- onvoitent : ceux-ci vont devoir relever d’impossibles défis dans l’es
- poir d’obtenir sa main.\n\n\nFiche TMDB : https://www.themoviedb.org/mov
- ie/149871\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Mo
- vie Database (TMDB)
+ \n(かぐや姫の物語 — Kaguya-hime no monogatari)\n2h17\n\nAnimation
+ \, Drame\, Fantastique\nJapan\n(sortie initiale : 25/06/2014)\n\nRéalisat
+ eur : Isao Takahata\nScénario : 坂口理子\, Isao Takahata\nPhotographi
+ e : 中村圭介\nProduction : Studio Ghibli\, Hakuhodo DY Media Partners\
+ , KDDI\n\nActeurs :\n- 朝倉あき\n- 地井武男\n- 宮本信子\n- 高
+ 良健吾\n- 高畑淳子\n- 田畑智子\n- 立川志の輔\n- 上川隆
+ 也\n- Hikaru Ijuin\n- 宇崎竜童\n- Shichinosuke Nakamura\n- 橋爪功\
+ n\n\nAdapté d’un conte populaire japonais "Le coupeur de bambou"\, un d
+ es textes fondateurs de la littérature japonaise\, Kaguya\, "la princesse
+  lumineuse"\, est découverte dans la tige d'un bambou par des paysans. El
+ le devient très vite une magnifique jeune femme que les plus grands princ
+ es convoitent : ceux-ci vont devoir relever d’impossibles défis dans l
+ ’espoir d’obtenir sa main.\n\n\nFiche TMDB : https://www.themoviedb.or
+ g/movie/149871\n\nSéance relevée sur AlloCiné.\nDonnées fournies par T
+ he Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/yBbJpLFmwdEHzeyeEstoi9mM5lX.jpg" width="220" alt="Affi
  che de Le Conte de la princesse Kaguya"><br><small>(かぐや姫の物語 
- — Kaguya-hime no monogatari)</small></td><td width="16"></td><td valign=
- "top"><i>Animation\, Drame\, Fantastique</i><br>Japan<br>(sortie initiale 
- : 25/06/2014)<br><br><b>Réalisateur :</b> Isao Takahata<br><b>Scénario :
- </b> 坂口理子\, Isao Takahata<br><b>Photographie :</b> 中村圭介<br
- ><b>Production :</b> Studio Ghibli\, Hakuhodo DY Media Partners\, KDDI<br>
- <br><b>Acteurs :</b><ul><li>朝倉あき</li><li>地井武男</li><li>宮
- 本信子</li><li>高良健吾</li><li>高畑淳子</li><li>田畑智子</
- li><li>立川志の輔</li><li>上川隆也</li><li>Hikaru Ijuin</li><li>
- 宇崎竜童</li><li>Shichinosuke Nakamura</li><li>橋爪功</li></ul></td
- ></tr></table><p>Adapté d’un conte populaire japonais &quot\;Le coupeur
-  de bambou&quot\;\, un des textes fondateurs de la littérature japonaise\
- , Kaguya\, &quot\;la princesse lumineuse&quot\;\, est découverte dans la 
- tige d'un bambou par des paysans. Elle devient très vite une magnifique j
- eune femme que les plus grands princes convoitent : ceux-ci vont devoir re
- lever d’impossibles défis dans l’espoir d’obtenir sa main.</p><p><s
- mall><a href="https://www.themoviedb.org/movie/149871">Fiche TMDB</a><br>D
- onnées fournies par The Movie Database (TMDB)</small></p></body></html>
+ — Kaguya-hime no monogatari)</small><br><small>2h17</small></td><td widt
+ h="16"></td><td valign="top"><i>Animation\, Drame\, Fantastique</i><br>Jap
+ an<br>(sortie initiale : 25/06/2014)<br><br><b>Réalisateur :</b> Isao Tak
+ ahata<br><b>Scénario :</b> 坂口理子\, Isao Takahata<br><b>Photographi
+ e :</b> 中村圭介<br><b>Production :</b> Studio Ghibli\, Hakuhodo DY Me
+ dia Partners\, KDDI<br><br><b>Acteurs :</b><ul><li>朝倉あき</li><li>
+ 地井武男</li><li>宮本信子</li><li>高良健吾</li><li>高畑淳
+ 子</li><li>田畑智子</li><li>立川志の輔</li><li>上川隆也</li>
+ <li>Hikaru Ijuin</li><li>宇崎竜童</li><li>Shichinosuke Nakamura</li><l
+ i>橋爪功</li></ul></td></tr></table><p>Adapté d’un conte populaire j
+ aponais &quot\;Le coupeur de bambou&quot\;\, un des textes fondateurs de l
+ a littérature japonaise\, Kaguya\, &quot\;la princesse lumineuse&quot\;\,
+  est découverte dans la tige d'un bambou par des paysans. Elle devient tr
+ ès vite une magnifique jeune femme que les plus grands princes convoitent
+  : ceux-ci vont devoir relever d’impossibles défis dans l’espoir d’
+ obtenir sa main.</p><p><small><a href="https://www.themoviedb.org/movie/14
+ 9871">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</s
+ mall></p></body></html>
 URL:https://www.themoviedb.org/movie/149871
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -107,47 +63,92 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yBbJpLFmwdEHzeyeE
 CATEGORIES:Animation,Drame,Fantastique
 END:VEVENT
 BEGIN:VEVENT
+UID:event-912802@calendrier-cine-fr
+DTSTAMP:20260816T000000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Superasticot
+DESCRIPTION:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
+ \n(Superworm)\n40min\n\nAnimation\, Familial\, Comédie\, Téléfilm\nUnit
+ ed Kingdom\n(sortie initiale : 28/09/2022)\n\nRéalisateurs : Jac Hamman\,
+  Sarah Scrimgeour\nProduction : Magic Light Pictures\, Blue-Zoo Animation 
+ Studio\n\nActeurs :\n- Matt Smith\n- Olivia Colman\n- Patricia Allison\n- 
+ Rob Brydon\n- Kobna Holdbrook-Smith\n- Paul Thornley\n- Cariad Lloyd\n- Fe
+ lix Tandon\n- Samara Sutariya\n- Lizzie Waterworth\n\n\nSuperasticot\, le 
+ plus ondulant et le plus tortillant de tous les superhéros ! Superasticot
+  est superélancé\, Superasticot est supermusclé ! Héros au grand cœur
+ \, il passe ses journées à sauver les animaux du jardin. Quand le maléf
+ ique Saurien Magicien le capture\, qui pourra lui venir en aide ?\n\n\nFic
+ he TMDB : https://www.themoviedb.org/movie/912802\n\nSéance relevée sur 
+ AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg" width="220" alt="Affi
+ che de Superasticot"><br><small>(Superworm)</small><br><small>40min</small
+ ></td><td width="16"></td><td valign="top"><i>Animation\, Familial\, Comé
+ die\, Téléfilm</i><br>United Kingdom<br>(sortie initiale : 28/09/2022)<b
+ r><br><b>Réalisateurs :</b> Jac Hamman\, Sarah Scrimgeour<br><b>Productio
+ n :</b> Magic Light Pictures\, Blue-Zoo Animation Studio<br><br><b>Acteurs
+  :</b><ul><li>Matt Smith</li><li>Olivia Colman</li><li>Patricia Allison</l
+ i><li>Rob Brydon</li><li>Kobna Holdbrook-Smith</li><li>Paul Thornley</li><
+ li>Cariad Lloyd</li><li>Felix Tandon</li><li>Samara Sutariya</li><li>Lizzi
+ e Waterworth</li></ul></td></tr></table><p>Superasticot\, le plus ondulant
+  et le plus tortillant de tous les superhéros ! Superasticot est superél
+ ancé\, Superasticot est supermusclé ! Héros au grand cœur\, il passe s
+ es journées à sauver les animaux du jardin. Quand le maléfique Saurien 
+ Magicien le capture\, qui pourra lui venir en aide ?</p><p><small><a href=
+ "https://www.themoviedb.org/movie/912802">Fiche TMDB</a><br>Données fourn
+ ies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/912802
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdN
+ o7NJZWzR3f.jpg
+CATEGORIES:Animation,Familial,Comédie,Téléfilm
+END:VEVENT
+BEGIN:VEVENT
 UID:event-671@calendrier-cine-fr
 DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Harry Potter à l'école des sorciers
 DESCRIPTION:https://image.tmdb.org/t/p/w780/fbxQ44VRdM2PVzHSNajUseUteem.jpg
- \n(Harry Potter and the Philosopher's Stone)\n\nAventure\, Fantastique\nUn
- ited Kingdom\, United States of America\n(sortie initiale : 05/12/2001)\n\
- nRéalisateur : Chris Columbus\nScénario : Steve Kloves\nPhotographie : J
- ohn Seale\nProduction : Warner Bros. Pictures\, Heyday Films\, 1492 Pictur
- es\n\nActeurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Watson\n- Rich
- ard Harris\n- Tom Felton\n- Alan Rickman\n- Robbie Coltrane\n- Maggie Smit
- h\n- Richard Griffiths\n- Ian Hart\n- Fiona Shaw\n- John Hurt\n\n\nOrpheli
- n\, le jeune Harry Potter peut enfin quitter ses tyranniques oncle et tant
- e Dursley lorsqu'un curieux messager lui révèle qu'il est un sorcier. À
-  11 ans\, Harry va enfin pouvoir intégrer la légendaire école de sorcel
- lerie de Poudlard\, y trouver une famille digne de ce nom et des amis\, d
- évelopper ses dons\, et préparer son glorieux avenir.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/671\n\nSéance relevée sur AlloCiné.\nD
- onnées fournies par The Movie Database (TMDB)
+ \n(Harry Potter and the Philosopher's Stone)\n2h33\n\nAventure\, Fantastiq
+ ue\nUnited Kingdom\, United States of America\n(sortie initiale : 05/12/20
+ 01)\n\nRéalisateur : Chris Columbus\nScénario : Steve Kloves\nPhotograph
+ ie : John Seale\nProduction : Warner Bros. Pictures\, Heyday Films\, 1492 
+ Pictures\n\nActeurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Watson\n
+ - Richard Harris\n- Tom Felton\n- Alan Rickman\n- Robbie Coltrane\n- Maggi
+ e Smith\n- Richard Griffiths\n- Ian Hart\n- Fiona Shaw\n- John Hurt\n\n\nO
+ rphelin\, le jeune Harry Potter peut enfin quitter ses tyranniques oncle e
+ t tante Dursley lorsqu'un curieux messager lui révèle qu'il est un sorci
+ er. À 11 ans\, Harry va enfin pouvoir intégrer la légendaire école de 
+ sorcellerie de Poudlard\, y trouver une famille digne de ce nom et des ami
+ s\, développer ses dons\, et préparer son glorieux avenir.\n\n\nFiche TM
+ DB : https://www.themoviedb.org/movie/671\n\nSéance relevée sur AlloCin
+ é.\nDonnées fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/fbxQ44VRdM2PVzHSNajUseUteem.jpg" width="220" alt="Affi
  che de Harry Potter à l'école des sorciers"><br><small>(Harry Potter and
-  the Philosopher's Stone)</small></td><td width="16"></td><td valign="top"
- ><i>Aventure\, Fantastique</i><br>United Kingdom\, United States of Americ
- a<br>(sortie initiale : 05/12/2001)<br><br><b>Réalisateur :</b> Chris Col
- umbus<br><b>Scénario :</b> Steve Kloves<br><b>Photographie :</b> John Sea
- le<br><b>Production :</b> Warner Bros. Pictures\, Heyday Films\, 1492 Pict
- ures<br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Rupert Grint<
- /li><li>Emma Watson</li><li>Richard Harris</li><li>Tom Felton</li><li>Alan
-  Rickman</li><li>Robbie Coltrane</li><li>Maggie Smith</li><li>Richard Grif
- fiths</li><li>Ian Hart</li><li>Fiona Shaw</li><li>John Hurt</li></ul></td>
- </tr></table><p>Orphelin\, le jeune Harry Potter peut enfin quitter ses ty
- ranniques oncle et tante Dursley lorsqu'un curieux messager lui révèle q
- u'il est un sorcier. À 11 ans\, Harry va enfin pouvoir intégrer la lége
- ndaire école de sorcellerie de Poudlard\, y trouver une famille digne de 
- ce nom et des amis\, développer ses dons\, et préparer son glorieux aven
- ir.</p><p><small><a href="https://www.themoviedb.org/movie/671">Fiche TMDB
- </a><br>Données fournies par The Movie Database (TMDB)</small></p></body>
- </html>
+  the Philosopher's Stone)</small><br><small>2h33</small></td><td width="16
+ "></td><td valign="top"><i>Aventure\, Fantastique</i><br>United Kingdom\, 
+ United States of America<br>(sortie initiale : 05/12/2001)<br><br><b>Réal
+ isateur :</b> Chris Columbus<br><b>Scénario :</b> Steve Kloves<br><b>Phot
+ ographie :</b> John Seale<br><b>Production :</b> Warner Bros. Pictures\, H
+ eyday Films\, 1492 Pictures<br><br><b>Acteurs :</b><ul><li>Daniel Radcliff
+ e</li><li>Rupert Grint</li><li>Emma Watson</li><li>Richard Harris</li><li>
+ Tom Felton</li><li>Alan Rickman</li><li>Robbie Coltrane</li><li>Maggie Smi
+ th</li><li>Richard Griffiths</li><li>Ian Hart</li><li>Fiona Shaw</li><li>J
+ ohn Hurt</li></ul></td></tr></table><p>Orphelin\, le jeune Harry Potter pe
+ ut enfin quitter ses tyranniques oncle et tante Dursley lorsqu'un curieux 
+ messager lui révèle qu'il est un sorcier. À 11 ans\, Harry va enfin pou
+ voir intégrer la légendaire école de sorcellerie de Poudlard\, y trouve
+ r une famille digne de ce nom et des amis\, développer ses dons\, et pré
+ parer son glorieux avenir.</p><p><small><a href="https://www.themoviedb.or
+ g/movie/671">Fiche TMDB</a><br>Données fournies par The Movie Database (T
+ MDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/671
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -163,44 +164,45 @@ DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Harry Potter et la Chambre des secrets
 DESCRIPTION:https://image.tmdb.org/t/p/w780/8KpHRokGpiaqEGpjYe0rpywtvUx.jpg
- \n(Harry Potter and the Chamber of Secrets)\n\nAventure\, Fantastique\nUni
- ted Kingdom\, United States of America\, Germany\n(sortie initiale : 04/12
- /2002)\n\nRéalisateur : Chris Columbus\nScénario : Steve Kloves\nPhotogr
- aphie : Roger Pratt\nProduction : Warner Bros. Pictures\, Heyday Films\, 1
- 492 Pictures\n\nActeurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Wats
- on\n- Kenneth Branagh\n- Toby Jones\n- Robbie Coltrane\n- Richard Harris\n
- - Alan Rickman\n- Tom Felton\n- Jason Isaacs\n- Shirley Henderson\n- Richa
- rd Griffiths\n\n\nAprès de très mauvaises vacances passées chez ses odi
- eux oncle et tante et son affreux cousin\, Harry rejoint\, non sans mal\, 
- l'École des Sorciers où\, avec ses amis Ron et Hermione et l'aide ponctu
- elle de nouveaux venus\, il parvient à élucider le mystère de la Chambr
- e des secrets\, malgré les pièges tendus par ses ennemis et sans le conc
- ours de Lockhart\, un nouveau professeur fanfaron et lâche\, chargé pour
- tant de vaincre les Forces du Mal.\n\n\nFiche TMDB : https://www.themovied
- b.org/movie/672\n\nSéance relevée sur AlloCiné.\nDonnées fournies par 
- The Movie Database (TMDB)
+ \n(Harry Potter and the Chamber of Secrets)\n2h41\n\nAventure\, Fantastiqu
+ e\nUnited Kingdom\, United States of America\, Germany\n(sortie initiale :
+  04/12/2002)\n\nRéalisateur : Chris Columbus\nScénario : Steve Kloves\nP
+ hotographie : Roger Pratt\nProduction : Warner Bros. Pictures\, Heyday Fil
+ ms\, 1492 Pictures\n\nActeurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emm
+ a Watson\n- Kenneth Branagh\n- Toby Jones\n- Robbie Coltrane\n- Richard Ha
+ rris\n- Alan Rickman\n- Tom Felton\n- Jason Isaacs\n- Shirley Henderson\n-
+  Richard Griffiths\n\n\nAprès de très mauvaises vacances passées chez s
+ es odieux oncle et tante et son affreux cousin\, Harry rejoint\, non sans 
+ mal\, l'École des Sorciers où\, avec ses amis Ron et Hermione et l'aide 
+ ponctuelle de nouveaux venus\, il parvient à élucider le mystère de la 
+ Chambre des secrets\, malgré les pièges tendus par ses ennemis et sans l
+ e concours de Lockhart\, un nouveau professeur fanfaron et lâche\, charg
+ é pourtant de vaincre les Forces du Mal.\n\n\nFiche TMDB : https://www.th
+ emoviedb.org/movie/672\n\nSéance relevée sur AlloCiné.\nDonnées fourni
+ es par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/8KpHRokGpiaqEGpjYe0rpywtvUx.jpg" width="220" alt="Affi
  che de Harry Potter et la Chambre des secrets"><br><small>(Harry Potter an
- d the Chamber of Secrets)</small></td><td width="16"></td><td valign="top"
- ><i>Aventure\, Fantastique</i><br>United Kingdom\, United States of Americ
- a\, Germany<br>(sortie initiale : 04/12/2002)<br><br><b>Réalisateur :</b>
-  Chris Columbus<br><b>Scénario :</b> Steve Kloves<br><b>Photographie :</b
- > Roger Pratt<br><b>Production :</b> Warner Bros. Pictures\, Heyday Films\
- , 1492 Pictures<br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Ru
- pert Grint</li><li>Emma Watson</li><li>Kenneth Branagh</li><li>Toby Jones<
- /li><li>Robbie Coltrane</li><li>Richard Harris</li><li>Alan Rickman</li><l
- i>Tom Felton</li><li>Jason Isaacs</li><li>Shirley Henderson</li><li>Richar
- d Griffiths</li></ul></td></tr></table><p>Après de très mauvaises vacanc
- es passées chez ses odieux oncle et tante et son affreux cousin\, Harry r
- ejoint\, non sans mal\, l'École des Sorciers où\, avec ses amis Ron et H
- ermione et l'aide ponctuelle de nouveaux venus\, il parvient à élucider 
- le mystère de la Chambre des secrets\, malgré les pièges tendus par ses
-  ennemis et sans le concours de Lockhart\, un nouveau professeur fanfaron 
- et lâche\, chargé pourtant de vaincre les Forces du Mal.</p><p><small><a
-  href="https://www.themoviedb.org/movie/672">Fiche TMDB</a><br>Données fo
- urnies par The Movie Database (TMDB)</small></p></body></html>
+ d the Chamber of Secrets)</small><br><small>2h41</small></td><td width="16
+ "></td><td valign="top"><i>Aventure\, Fantastique</i><br>United Kingdom\, 
+ United States of America\, Germany<br>(sortie initiale : 04/12/2002)<br><b
+ r><b>Réalisateur :</b> Chris Columbus<br><b>Scénario :</b> Steve Kloves<
+ br><b>Photographie :</b> Roger Pratt<br><b>Production :</b> Warner Bros. P
+ ictures\, Heyday Films\, 1492 Pictures<br><br><b>Acteurs :</b><ul><li>Dani
+ el Radcliffe</li><li>Rupert Grint</li><li>Emma Watson</li><li>Kenneth Bran
+ agh</li><li>Toby Jones</li><li>Robbie Coltrane</li><li>Richard Harris</li>
+ <li>Alan Rickman</li><li>Tom Felton</li><li>Jason Isaacs</li><li>Shirley H
+ enderson</li><li>Richard Griffiths</li></ul></td></tr></table><p>Après de
+  très mauvaises vacances passées chez ses odieux oncle et tante et son a
+ ffreux cousin\, Harry rejoint\, non sans mal\, l'École des Sorciers où\,
+  avec ses amis Ron et Hermione et l'aide ponctuelle de nouveaux venus\, il
+  parvient à élucider le mystère de la Chambre des secrets\, malgré les
+  pièges tendus par ses ennemis et sans le concours de Lockhart\, un nouve
+ au professeur fanfaron et lâche\, chargé pourtant de vaincre les Forces 
+ du Mal.</p><p><small><a href="https://www.themoviedb.org/movie/672">Fiche 
+ TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></p></b
+ ody></html>
 URL:https://www.themoviedb.org/movie/672
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -216,35 +218,35 @@ DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Memories of Nobody
 DESCRIPTION:https://image.tmdb.org/t/p/w780/u27PwYQNJGfcwTqwq4wJaCeeUvy.jpg
- \n(劇場版 BLEACH MEMORIES OF NOBODY)\n\nFantastique\, Animation\, Scien
- ce-Fiction\nJapan\n(sortie initiale : 24/03/2015)\n\nRéalisateur : 阿部
- 記之\nScénario : 十川誠志\nPhotographie : 福島敏行\nProduction 
- : TOHO\, Pierrot\n\nActeurs :\n- Masakazu Morita\n- Fumiko Orikasa\n- Chiw
- a Saitō\n- 川上とも子\n- 奥田啓人\n- 真殿光昭\n- Hiroshi Mat
- sumoto\n- 沢海陽子\n- 江川大輔\n- 飯島肇\n- 近藤隆\n- Jun Fu
- kuyama\n\n\nAu Japon\, dans la ville de Karakura\, des esprits font leur a
- pparition. Le monde est alors menacé de destruction par le groupe Dark On
- e. Ichigo et ses amis vont tout tenter afin de sauver le monde.\n\n\nFiche
-  TMDB : https://www.themoviedb.org/movie/15575\n\nSéance relevée sur All
- oCiné.\nDonnées fournies par The Movie Database (TMDB)
+ \n(劇場版 BLEACH MEMORIES OF NOBODY)\n1h27\n\nFantastique\, Animation\,
+  Science-Fiction\nJapan\n(sortie initiale : 24/03/2015)\n\nRéalisateur : 
+ 阿部記之\nScénario : 十川誠志\nPhotographie : 福島敏行\nProdu
+ ction : TOHO\, Pierrot\n\nActeurs :\n- Masakazu Morita\n- Fumiko Orikasa\n
+ - Chiwa Saitō\n- 川上とも子\n- 奥田啓人\n- 真殿光昭\n- Hiros
+ hi Matsumoto\n- 沢海陽子\n- 江川大輔\n- 飯島肇\n- 近藤隆\n- 
+ Jun Fukuyama\n\n\nAu Japon\, dans la ville de Karakura\, des esprits font 
+ leur apparition. Le monde est alors menacé de destruction par le groupe D
+ ark One. Ichigo et ses amis vont tout tenter afin de sauver le monde.\n\n\
+ nFiche TMDB : https://www.themoviedb.org/movie/15575\n\nSéance relevée s
+ ur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/u27PwYQNJGfcwTqwq4wJaCeeUvy.jpg" width="220" alt="Affi
  che de Bleach : Memories of Nobody"><br><small>(劇場版 BLEACH MEMORIES 
- OF NOBODY)</small></td><td width="16"></td><td valign="top"><i>Fantastique
- \, Animation\, Science-Fiction</i><br>Japan<br>(sortie initiale : 24/03/20
- 15)<br><br><b>Réalisateur :</b> 阿部記之<br><b>Scénario :</b> 十川
- 誠志<br><b>Photographie :</b> 福島敏行<br><b>Production :</b> TOHO\,
-  Pierrot<br><br><b>Acteurs :</b><ul><li>Masakazu Morita</li><li>Fumiko Ori
- kasa</li><li>Chiwa Saitō</li><li>川上とも子</li><li>奥田啓人</li
- ><li>真殿光昭</li><li>Hiroshi Matsumoto</li><li>沢海陽子</li><li>
- 江川大輔</li><li>飯島肇</li><li>近藤隆</li><li>Jun Fukuyama</li>
- </ul></td></tr></table><p>Au Japon\, dans la ville de Karakura\, des espri
- ts font leur apparition. Le monde est alors menacé de destruction par le 
- groupe Dark One. Ichigo et ses amis vont tout tenter afin de sauver le mon
- de.</p><p><small><a href="https://www.themoviedb.org/movie/15575">Fiche TM
- DB</a><br>Données fournies par The Movie Database (TMDB)</small></p></bod
- y></html>
+ OF NOBODY)</small><br><small>1h27</small></td><td width="16"></td><td vali
+ gn="top"><i>Fantastique\, Animation\, Science-Fiction</i><br>Japan<br>(sor
+ tie initiale : 24/03/2015)<br><br><b>Réalisateur :</b> 阿部記之<br><b
+ >Scénario :</b> 十川誠志<br><b>Photographie :</b> 福島敏行<br><b>
+ Production :</b> TOHO\, Pierrot<br><br><b>Acteurs :</b><ul><li>Masakazu Mo
+ rita</li><li>Fumiko Orikasa</li><li>Chiwa Saitō</li><li>川上とも子</
+ li><li>奥田啓人</li><li>真殿光昭</li><li>Hiroshi Matsumoto</li><li
+ >沢海陽子</li><li>江川大輔</li><li>飯島肇</li><li>近藤隆</li
+ ><li>Jun Fukuyama</li></ul></td></tr></table><p>Au Japon\, dans la ville d
+ e Karakura\, des esprits font leur apparition. Le monde est alors menacé 
+ de destruction par le groupe Dark One. Ichigo et ses amis vont tout tenter
+  afin de sauver le monde.</p><p><small><a href="https://www.themoviedb.org
+ /movie/15575">Fiche TMDB</a><br>Données fournies par The Movie Database (
+ TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/15575
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -262,51 +264,51 @@ SUMMARY:Bleach : The Diamond Dust Rebellion
 DESCRIPTION:https://image.tmdb.org/t/p/w780/A0zUWBtPIt7ppzmYzdaPNed2B6X.jpg
  \n(劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸 —
   Gekijô ban Bleach: The DiamondDust Rebellion - Mô hitotsu no hyôrinmar
- u)\n\nAction\, Animation\, Thriller\nJapan\n(sortie initiale : 24/08/2011)
- \n\nRéalisateur : 阿部記之\nScénario : 横手美智子\, 大久保
- 昌弘\nPhotographie : 福島敏行\nProduction : Pierrot\n\nActeurs :\n- 
- Masakazu Morita\n- Romi Park\n- Akira Ishida\n- Fumiko Orikasa\n- 伊藤
- 健太郎\n- 松谷彼哉\n- 塚田正昭\n- Aya Hisakawa\n- ゆかな\n- 
- Noriaki Sugiyama\n- Hiroki Yasumoto\n- 松岡由貴\n\n\nAlors qu'un artef
- act connu comme le "sceau du roi" est volé pendant son transport à la So
- ul Society\, la dixième division du Gotei 13 était chargé de sa sécuri
- té. Toshiro Hitsugaya\, le capitaine de cette division\, est porté dispa
- ru après une bataille avec les voleurs\, ce qui pousse le Seireitei à le
-  suspecter de traitrise. Ils ordonnent sa capture immédiate ainsi que son
-  exécution. Incapables de croire qu'il ait été capable de commettre un 
- tel crime\, Ichigo Kurosaki\, Rangiku Matsumoto\, Rukia Kuchiki\, et Renji
-  Abarai partent retrouver Toshiro afin de laver son nom. Pendant ce temps\
- , Toshiro est recherché par les voleurs\, et marche vers un sombre secret
-  qui impliquerait un shinigami mort depuis longtemps.\n\n\nFiche TMDB : ht
- tps://www.themoviedb.org/movie/17101\n\nSéance relevée sur AlloCiné.\nD
- onnées fournies par The Movie Database (TMDB)
+ u)\n1h35\n\nAction\, Animation\, Thriller\nJapan\n(sortie initiale : 24/08
+ /2011)\n\nRéalisateur : 阿部記之\nScénario : 横手美智子\, 大
+ 久保昌弘\nPhotographie : 福島敏行\nProduction : Pierrot\n\nActeurs
+  :\n- Masakazu Morita\n- Romi Park\n- Akira Ishida\n- Fumiko Orikasa\n- 
+ 伊藤健太郎\n- 松谷彼哉\n- 塚田正昭\n- Aya Hisakawa\n- ゆか
+ な\n- Noriaki Sugiyama\n- Hiroki Yasumoto\n- 松岡由貴\n\n\nAlors qu'u
+ n artefact connu comme le "sceau du roi" est volé pendant son transport 
+ à la Soul Society\, la dixième division du Gotei 13 était chargé de sa
+  sécurité. Toshiro Hitsugaya\, le capitaine de cette division\, est port
+ é disparu après une bataille avec les voleurs\, ce qui pousse le Seireit
+ ei à le suspecter de traitrise. Ils ordonnent sa capture immédiate ainsi
+  que son exécution. Incapables de croire qu'il ait été capable de comme
+ ttre un tel crime\, Ichigo Kurosaki\, Rangiku Matsumoto\, Rukia Kuchiki\, 
+ et Renji Abarai partent retrouver Toshiro afin de laver son nom. Pendant c
+ e temps\, Toshiro est recherché par les voleurs\, et marche vers un sombr
+ e secret qui impliquerait un shinigami mort depuis longtemps.\n\n\nFiche T
+ MDB : https://www.themoviedb.org/movie/17101\n\nSéance relevée sur AlloC
+ iné.\nDonnées fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/A0zUWBtPIt7ppzmYzdaPNed2B6X.jpg" width="220" alt="Affi
  che de Bleach : The Diamond Dust Rebellion"><br><small>(劇場版 BLEACH T
  he DiamondDust Rebellion もう一つの氷輪丸 — Gekijô ban Bleach: 
- The DiamondDust Rebellion - Mô hitotsu no hyôrinmaru)</small></td><td wi
- dth="16"></td><td valign="top"><i>Action\, Animation\, Thriller</i><br>Jap
- an<br>(sortie initiale : 24/08/2011)<br><br><b>Réalisateur :</b> 阿部
- 記之<br><b>Scénario :</b> 横手美智子\, 大久保昌弘<br><b>Photo
- graphie :</b> 福島敏行<br><b>Production :</b> Pierrot<br><br><b>Acteur
- s :</b><ul><li>Masakazu Morita</li><li>Romi Park</li><li>Akira Ishida</li>
- <li>Fumiko Orikasa</li><li>伊藤健太郎</li><li>松谷彼哉</li><li>
- 塚田正昭</li><li>Aya Hisakawa</li><li>ゆかな</li><li>Noriaki Sugiya
- ma</li><li>Hiroki Yasumoto</li><li>松岡由貴</li></ul></td></tr></table
- ><p>Alors qu'un artefact connu comme le &quot\;sceau du roi&quot\; est vol
- é pendant son transport à la Soul Society\, la dixième division du Gote
- i 13 était chargé de sa sécurité. Toshiro Hitsugaya\, le capitaine de 
- cette division\, est porté disparu après une bataille avec les voleurs\,
-  ce qui pousse le Seireitei à le suspecter de traitrise. Ils ordonnent sa
-  capture immédiate ainsi que son exécution. Incapables de croire qu'il a
- it été capable de commettre un tel crime\, Ichigo Kurosaki\, Rangiku Mat
- sumoto\, Rukia Kuchiki\, et Renji Abarai partent retrouver Toshiro afin de
-  laver son nom. Pendant ce temps\, Toshiro est recherché par les voleurs\
- , et marche vers un sombre secret qui impliquerait un shinigami mort depui
- s longtemps.</p><p><small><a href="https://www.themoviedb.org/movie/17101"
- >Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</small>
- </p></body></html>
+ The DiamondDust Rebellion - Mô hitotsu no hyôrinmaru)</small><br><small>
+ 1h35</small></td><td width="16"></td><td valign="top"><i>Action\, Animatio
+ n\, Thriller</i><br>Japan<br>(sortie initiale : 24/08/2011)<br><br><b>Réa
+ lisateur :</b> 阿部記之<br><b>Scénario :</b> 横手美智子\, 大久
+ 保昌弘<br><b>Photographie :</b> 福島敏行<br><b>Production :</b> Pie
+ rrot<br><br><b>Acteurs :</b><ul><li>Masakazu Morita</li><li>Romi Park</li>
+ <li>Akira Ishida</li><li>Fumiko Orikasa</li><li>伊藤健太郎</li><li>
+ 松谷彼哉</li><li>塚田正昭</li><li>Aya Hisakawa</li><li>ゆかな</
+ li><li>Noriaki Sugiyama</li><li>Hiroki Yasumoto</li><li>松岡由貴</li><
+ /ul></td></tr></table><p>Alors qu'un artefact connu comme le &quot\;sceau 
+ du roi&quot\; est volé pendant son transport à la Soul Society\, la dixi
+ ème division du Gotei 13 était chargé de sa sécurité. Toshiro Hitsuga
+ ya\, le capitaine de cette division\, est porté disparu après une batail
+ le avec les voleurs\, ce qui pousse le Seireitei à le suspecter de traitr
+ ise. Ils ordonnent sa capture immédiate ainsi que son exécution. Incapab
+ les de croire qu'il ait été capable de commettre un tel crime\, Ichigo K
+ urosaki\, Rangiku Matsumoto\, Rukia Kuchiki\, et Renji Abarai partent retr
+ ouver Toshiro afin de laver son nom. Pendant ce temps\, Toshiro est recher
+ ché par les voleurs\, et marche vers un sombre secret qui impliquerait un
+  shinigami mort depuis longtemps.</p><p><small><a href="https://www.themov
+ iedb.org/movie/17101">Fiche TMDB</a><br>Données fournies par The Movie Da
+ tabase (TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/17101
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -323,45 +325,45 @@ DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Fade to Black
 DESCRIPTION:https://image.tmdb.org/t/p/w780/q0fsnf6rJ6RCTFR09erNvvjCXMs.jpg
  \n(劇場版 BLEACH Fade to Black 君の名を呼ぶ — Gekijouban Bleach
- : Fade to Black - Kimi no Na o Yobu)\n\nAction\, Animation\, Fantastique\,
-  Drame\nJapan\n(sortie initiale : 19/04/2015)\n\nRéalisateur : 阿部記
- 之\nScénario : Ookubo Masahiro\, 高橋ナツコ\, 大久保昌弘\nProd
- uction : dentsu\, Pierrot\n\nActeurs :\n- Masakazu Morita\n- Fumiko Orikas
- a\n- 伊藤健太郎\n- Aya Hirano\n- Hiroshi Kamiya\n- 真殿光昭\n- Ju
- n Fukuyama\n- 山口太郎\n- Takako Honda\n- Katsuyuki Konishi\n- Rintaro
-  Nishi\n- Tetsu Inada\n\n\nUne mystérieuse explosion d'énergie spirituel
- le se produit dans le monde de la Soul Society. Kisuke\, prévenu de cette
-  anomalie envoie alors Ichigo pour avoir de plus amples informations. Une 
- fois sur place\, Kurosaki se fait attaquer par les shinigamis\, qui furent
-  autrefois ses alliés\, car ils n'ont plus aucun souvenir de lui. Une foi
- s cette première mauvaise surprise passée\, il se rend compte que Rukia 
- a disparu. Ne pouvant compter que sur lui-même\, il part donc à la reche
- rche de réponses.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1716
- 5\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Data
- base (TMDB)
+ : Fade to Black - Kimi no Na o Yobu)\n1h34\n\nAction\, Animation\, Fantast
+ ique\, Drame\nJapan\n(sortie initiale : 19/04/2015)\n\nRéalisateur : 阿
+ 部記之\nScénario : Ookubo Masahiro\, 高橋ナツコ\, 大久保昌弘
+ \nProduction : dentsu\, Pierrot\n\nActeurs :\n- Masakazu Morita\n- Fumiko 
+ Orikasa\n- 伊藤健太郎\n- Aya Hirano\n- Hiroshi Kamiya\n- 真殿光昭
+ \n- Jun Fukuyama\n- 山口太郎\n- Takako Honda\n- Katsuyuki Konishi\n- R
+ intaro Nishi\n- Tetsu Inada\n\n\nUne mystérieuse explosion d'énergie spi
+ rituelle se produit dans le monde de la Soul Society. Kisuke\, prévenu de
+  cette anomalie envoie alors Ichigo pour avoir de plus amples informations
+ . Une fois sur place\, Kurosaki se fait attaquer par les shinigamis\, qui 
+ furent autrefois ses alliés\, car ils n'ont plus aucun souvenir de lui. U
+ ne fois cette première mauvaise surprise passée\, il se rend compte que 
+ Rukia a disparu. Ne pouvant compter que sur lui-même\, il part donc à la
+  recherche de réponses.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
+ e/17165\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movi
+ e Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/q0fsnf6rJ6RCTFR09erNvvjCXMs.jpg" width="220" alt="Affi
  che de Bleach : Fade to Black"><br><small>(劇場版 BLEACH Fade to Black 
  君の名を呼ぶ — Gekijouban Bleach: Fade to Black - Kimi no Na o Yob
- u)</small></td><td width="16"></td><td valign="top"><i>Action\, Animation\
- , Fantastique\, Drame</i><br>Japan<br>(sortie initiale : 19/04/2015)<br><b
- r><b>Réalisateur :</b> 阿部記之<br><b>Scénario :</b> Ookubo Masahiro
- \, 高橋ナツコ\, 大久保昌弘<br><b>Production :</b> dentsu\, Pierr
- ot<br><br><b>Acteurs :</b><ul><li>Masakazu Morita</li><li>Fumiko Orikasa</
- li><li>伊藤健太郎</li><li>Aya Hirano</li><li>Hiroshi Kamiya</li><li>
- 真殿光昭</li><li>Jun Fukuyama</li><li>山口太郎</li><li>Takako Hond
- a</li><li>Katsuyuki Konishi</li><li>Rintaro Nishi</li><li>Tetsu Inada</li>
- </ul></td></tr></table><p>Une mystérieuse explosion d'énergie spirituell
- e se produit dans le monde de la Soul Society. Kisuke\, prévenu de cette 
- anomalie envoie alors Ichigo pour avoir de plus amples informations. Une f
- ois sur place\, Kurosaki se fait attaquer par les shinigamis\, qui furent 
- autrefois ses alliés\, car ils n'ont plus aucun souvenir de lui. Une fois
-  cette première mauvaise surprise passée\, il se rend compte que Rukia a
-  disparu. Ne pouvant compter que sur lui-même\, il part donc à la recher
- che de réponses.</p><p><small><a href="https://www.themoviedb.org/movie/1
- 7165">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</s
- mall></p></body></html>
+ u)</small><br><small>1h34</small></td><td width="16"></td><td valign="top"
+ ><i>Action\, Animation\, Fantastique\, Drame</i><br>Japan<br>(sortie initi
+ ale : 19/04/2015)<br><br><b>Réalisateur :</b> 阿部記之<br><b>Scénari
+ o :</b> Ookubo Masahiro\, 高橋ナツコ\, 大久保昌弘<br><b>Producti
+ on :</b> dentsu\, Pierrot<br><br><b>Acteurs :</b><ul><li>Masakazu Morita</
+ li><li>Fumiko Orikasa</li><li>伊藤健太郎</li><li>Aya Hirano</li><li>H
+ iroshi Kamiya</li><li>真殿光昭</li><li>Jun Fukuyama</li><li>山口太
+ 郎</li><li>Takako Honda</li><li>Katsuyuki Konishi</li><li>Rintaro Nishi</
+ li><li>Tetsu Inada</li></ul></td></tr></table><p>Une mystérieuse explosio
+ n d'énergie spirituelle se produit dans le monde de la Soul Society. Kisu
+ ke\, prévenu de cette anomalie envoie alors Ichigo pour avoir de plus amp
+ les informations. Une fois sur place\, Kurosaki se fait attaquer par les s
+ hinigamis\, qui furent autrefois ses alliés\, car ils n'ont plus aucun so
+ uvenir de lui. Une fois cette première mauvaise surprise passée\, il se 
+ rend compte que Rukia a disparu. Ne pouvant compter que sur lui-même\, il
+  part donc à la recherche de réponses.</p><p><small><a href="https://www
+ .themoviedb.org/movie/17165">Fiche TMDB</a><br>Données fournies par The M
+ ovie Database (TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/17165
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -377,41 +379,41 @@ DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Harry Potter et le Prisonnier d'Azkaban
 DESCRIPTION:https://image.tmdb.org/t/p/w780/t4P2079IyK19njHDP2GwQrKdvzd.jpg
- \n(Harry Potter and the Prisoner of Azkaban)\n\nAventure\, Fantastique\nUn
- ited Kingdom\, United States of America\n(sortie initiale : 02/06/2004)\n\
- nRéalisateur : Alfonso Cuarón\nScénario : Steve Kloves\nPhotographie : 
- Michael Seresin\nProduction : Warner Bros. Pictures\, 1492 Pictures\, Heyd
- ay Films\n\nActeurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Watson\n
- - Robbie Coltrane\n- Michael Gambon\n- Gary Oldman\n- David Thewlis\n- Tim
- othy Spall\n- Alan Rickman\n- Tom Felton\n- Emma Thompson\n- Julie Walters
- \n\n\nSirius Black\, un dangereux sorcier criminel\, s’échappe de la so
- mbre prison d’Azkaban avec un seul et unique but : retrouver Harry Pott
- er\, en troisième année à l’école de Poudlard. Selon la légende\, B
- lack aurait jadis livré les parents du jeune sorcier à leur assassin\, L
- ord Voldemort\, et serait maintenant déterminé à tuer Harry…\n\n\nFic
- he TMDB : https://www.themoviedb.org/movie/673\n\nSéance relevée sur All
- oCiné.\nDonnées fournies par The Movie Database (TMDB)
+ \n(Harry Potter and the Prisoner of Azkaban)\n2h22\n\nAventure\, Fantastiq
+ ue\nUnited Kingdom\, United States of America\n(sortie initiale : 02/06/20
+ 04)\n\nRéalisateur : Alfonso Cuarón\nScénario : Steve Kloves\nPhotograp
+ hie : Michael Seresin\nProduction : Warner Bros. Pictures\, 1492 Pictures\
+ , Heyday Films\n\nActeurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Wa
+ tson\n- Robbie Coltrane\n- Michael Gambon\n- Gary Oldman\n- David Thewlis\
+ n- Timothy Spall\n- Alan Rickman\n- Tom Felton\n- Emma Thompson\n- Julie W
+ alters\n\n\nSirius Black\, un dangereux sorcier criminel\, s’échappe de
+  la sombre prison d’Azkaban avec un seul et unique but : retrouver Harr
+ y Potter\, en troisième année à l’école de Poudlard. Selon la légen
+ de\, Black aurait jadis livré les parents du jeune sorcier à leur assass
+ in\, Lord Voldemort\, et serait maintenant déterminé à tuer Harry…\n\
+ n\nFiche TMDB : https://www.themoviedb.org/movie/673\n\nSéance relevée s
+ ur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/t4P2079IyK19njHDP2GwQrKdvzd.jpg" width="220" alt="Affi
  che de Harry Potter et le Prisonnier d'Azkaban"><br><small>(Harry Potter a
- nd the Prisoner of Azkaban)</small></td><td width="16"></td><td valign="to
- p"><i>Aventure\, Fantastique</i><br>United Kingdom\, United States of Amer
- ica<br>(sortie initiale : 02/06/2004)<br><br><b>Réalisateur :</b> Alfonso
-  Cuarón<br><b>Scénario :</b> Steve Kloves<br><b>Photographie :</b> Micha
- el Seresin<br><b>Production :</b> Warner Bros. Pictures\, 1492 Pictures\, 
- Heyday Films<br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Ruper
- t Grint</li><li>Emma Watson</li><li>Robbie Coltrane</li><li>Michael Gambon
- </li><li>Gary Oldman</li><li>David Thewlis</li><li>Timothy Spall</li><li>A
- lan Rickman</li><li>Tom Felton</li><li>Emma Thompson</li><li>Julie Walters
- </li></ul></td></tr></table><p>Sirius Black\, un dangereux sorcier crimine
- l\, s’échappe de la sombre prison d’Azkaban avec un seul et unique bu
- t : retrouver Harry Potter\, en troisième année à l’école de Poudla
- rd. Selon la légende\, Black aurait jadis livré les parents du jeune sor
- cier à leur assassin\, Lord Voldemort\, et serait maintenant déterminé 
- à tuer Harry…</p><p><small><a href="https://www.themoviedb.org/movie/67
- 3">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</smal
- l></p></body></html>
+ nd the Prisoner of Azkaban)</small><br><small>2h22</small></td><td width="
+ 16"></td><td valign="top"><i>Aventure\, Fantastique</i><br>United Kingdom\
+ , United States of America<br>(sortie initiale : 02/06/2004)<br><br><b>Ré
+ alisateur :</b> Alfonso Cuarón<br><b>Scénario :</b> Steve Kloves<br><b>P
+ hotographie :</b> Michael Seresin<br><b>Production :</b> Warner Bros. Pict
+ ures\, 1492 Pictures\, Heyday Films<br><br><b>Acteurs :</b><ul><li>Daniel 
+ Radcliffe</li><li>Rupert Grint</li><li>Emma Watson</li><li>Robbie Coltrane
+ </li><li>Michael Gambon</li><li>Gary Oldman</li><li>David Thewlis</li><li>
+ Timothy Spall</li><li>Alan Rickman</li><li>Tom Felton</li><li>Emma Thompso
+ n</li><li>Julie Walters</li></ul></td></tr></table><p>Sirius Black\, un da
+ ngereux sorcier criminel\, s’échappe de la sombre prison d’Azkaban av
+ ec un seul et unique but : retrouver Harry Potter\, en troisième année 
+ à l’école de Poudlard. Selon la légende\, Black aurait jadis livré l
+ es parents du jeune sorcier à leur assassin\, Lord Voldemort\, et serait 
+ maintenant déterminé à tuer Harry…</p><p><small><a href="https://www.
+ themoviedb.org/movie/673">Fiche TMDB</a><br>Données fournies par The Movi
+ e Database (TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/673
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -427,44 +429,45 @@ DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Harry Potter et la Coupe de feu
 DESCRIPTION:https://image.tmdb.org/t/p/w780/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg
- \n(Harry Potter and the Goblet of Fire)\n\nAventure\, Fantastique\nUnited 
- Kingdom\, United States of America\n(sortie initiale : 30/11/2005)\n\nRéa
- lisateur : Mike Newell\nScénario : Steve Kloves\nPhotographie : Roger Pra
- tt\nProduction : Warner Bros. Pictures\, Heyday Films\, Patalex IV Product
- ions\n\nActeurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Watson\n- Br
- endan Gleeson\n- Michael Gambon\n- Robert Pattinson\n- Ralph Fiennes\n- Ro
- bbie Coltrane\n- Alan Rickman\n- David Tennant\n- Predrag Bjelac\n- Cléme
- nce Poésy\n\n\nLa quatrième année à l’école de Poudlard est marqué
- e par le « Tournoi des trois sorciers ». Les participants sont choisis
-  par la fameuse « Coupe de feu » qui est à l’origine d’un scandal
- e. Elle sélectionne Harry Potter alors qu’il n’a pas l’âge requis.
-  Accusé de tricherie et mis à mal par une série d’épreuves physiques
-  de plus en plus difficiles\, ce dernier sera enfin confronté à Celui do
- nt on ne doit pas prononcer le nom\, Lord V.\n\n\nFiche TMDB : https://www
- .themoviedb.org/movie/674\n\nSéance relevée sur AlloCiné.\nDonnées fou
- rnies par The Movie Database (TMDB)
+ \n(Harry Potter and the Goblet of Fire)\n2h37\n\nAventure\, Fantastique\nU
+ nited Kingdom\, United States of America\n(sortie initiale : 30/11/2005)\n
+ \nRéalisateur : Mike Newell\nScénario : Steve Kloves\nPhotographie : Rog
+ er Pratt\nProduction : Warner Bros. Pictures\, Heyday Films\, Patalex IV P
+ roductions\n\nActeurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Watson
+ \n- Brendan Gleeson\n- Michael Gambon\n- Robert Pattinson\n- Ralph Fiennes
+ \n- Robbie Coltrane\n- Alan Rickman\n- David Tennant\n- Predrag Bjelac\n- 
+ Clémence Poésy\n\n\nLa quatrième année à l’école de Poudlard est m
+ arquée par le « Tournoi des trois sorciers ». Les participants sont c
+ hoisis par la fameuse « Coupe de feu » qui est à l’origine d’un s
+ candale. Elle sélectionne Harry Potter alors qu’il n’a pas l’âge r
+ equis. Accusé de tricherie et mis à mal par une série d’épreuves phy
+ siques de plus en plus difficiles\, ce dernier sera enfin confronté à Ce
+ lui dont on ne doit pas prononcer le nom\, Lord V.\n\n\nFiche TMDB : https
+ ://www.themoviedb.org/movie/674\n\nSéance relevée sur AlloCiné.\nDonné
+ es fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg" width="220" alt="Affi
  che de Harry Potter et la Coupe de feu"><br><small>(Harry Potter and the G
- oblet of Fire)</small></td><td width="16"></td><td valign="top"><i>Aventur
- e\, Fantastique</i><br>United Kingdom\, United States of America<br>(sorti
- e initiale : 30/11/2005)<br><br><b>Réalisateur :</b> Mike Newell<br><b>Sc
- énario :</b> Steve Kloves<br><b>Photographie :</b> Roger Pratt<br><b>Prod
- uction :</b> Warner Bros. Pictures\, Heyday Films\, Patalex IV Productions
- <br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Rupert Grint</li>
- <li>Emma Watson</li><li>Brendan Gleeson</li><li>Michael Gambon</li><li>Rob
- ert Pattinson</li><li>Ralph Fiennes</li><li>Robbie Coltrane</li><li>Alan R
- ickman</li><li>David Tennant</li><li>Predrag Bjelac</li><li>Clémence Poé
- sy</li></ul></td></tr></table><p>La quatrième année à l’école de Pou
- dlard est marquée par le « Tournoi des trois sorciers ». Les particip
- ants sont choisis par la fameuse « Coupe de feu » qui est à l’origi
- ne d’un scandale. Elle sélectionne Harry Potter alors qu’il n’a pas
-  l’âge requis. Accusé de tricherie et mis à mal par une série d’é
- preuves physiques de plus en plus difficiles\, ce dernier sera enfin confr
- onté à Celui dont on ne doit pas prononcer le nom\, Lord V.</p><p><small
- ><a href="https://www.themoviedb.org/movie/674">Fiche TMDB</a><br>Données
-  fournies par The Movie Database (TMDB)</small></p></body></html>
+ oblet of Fire)</small><br><small>2h37</small></td><td width="16"></td><td 
+ valign="top"><i>Aventure\, Fantastique</i><br>United Kingdom\, United Stat
+ es of America<br>(sortie initiale : 30/11/2005)<br><br><b>Réalisateur :</
+ b> Mike Newell<br><b>Scénario :</b> Steve Kloves<br><b>Photographie :</b>
+  Roger Pratt<br><b>Production :</b> Warner Bros. Pictures\, Heyday Films\,
+  Patalex IV Productions<br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</l
+ i><li>Rupert Grint</li><li>Emma Watson</li><li>Brendan Gleeson</li><li>Mic
+ hael Gambon</li><li>Robert Pattinson</li><li>Ralph Fiennes</li><li>Robbie 
+ Coltrane</li><li>Alan Rickman</li><li>David Tennant</li><li>Predrag Bjelac
+ </li><li>Clémence Poésy</li></ul></td></tr></table><p>La quatrième ann
+ ée à l’école de Poudlard est marquée par le « Tournoi des trois so
+ rciers ». Les participants sont choisis par la fameuse « Coupe de feu
+  » qui est à l’origine d’un scandale. Elle sélectionne Harry Potte
+ r alors qu’il n’a pas l’âge requis. Accusé de tricherie et mis à 
+ mal par une série d’épreuves physiques de plus en plus difficiles\, ce
+  dernier sera enfin confronté à Celui dont on ne doit pas prononcer le n
+ om\, Lord V.</p><p><small><a href="https://www.themoviedb.org/movie/674">F
+ iche TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></
+ p></body></html>
 URL:https://www.themoviedb.org/movie/674
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -525,56 +528,57 @@ DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Harry Potter et l'Ordre du Phénix
 DESCRIPTION:https://image.tmdb.org/t/p/w780/9ZfpCVNx0y8jpColnnfdA1HI4Zb.jpg
- \n(Harry Potter and the Order of the Phoenix)\n\nAventure\, Fantastique\nU
- nited Kingdom\, United States of America\n(sortie initiale : 11/07/2007)\n
- \nRéalisateur : David Yates\nScénario : Michael Goldenberg\nPhotographie
-  : Sławomir Idziak\nProduction : Warner Bros. Pictures\, Heyday Films\n\n
- Acteurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Watson\n- Imelda Sta
- unton\n- Helena Bonham Carter\n- Robbie Coltrane\n- Gary Oldman\n- Ralph F
- iennes\n- Michael Gambon\n- Alan Rickman\n- Richard Griffiths\n- Brendan G
- leeson\n\n\nAlors qu’il entame sa cinquième année d’étude à Poudla
- rd\, Harry Potter découvre qu’une bonne partie de la communauté des so
- rciers feint d’ignorer sa récente confrontation avec Lord Voldemort\, e
- t préfèrent nier cette aveuglante évidence : le Seigneur des Ténèbre
- s est bel et bien vivant. De plus\, la communauté magique lit les mensong
- es de Rita Skeeter dans la Gazette du Sorcier sous contrôle du Ministère
-  de la Magie. Craignant que le puissant Albus Dumbledore ne mente à propo
- s du retour de Voldemort dans le but de saper son autorité et de lui ravi
- r son poste\, le Ministre de la Magie Cornélius Fudge nomme un nouveau Pr
- ofesseur de Défense contre les Forces du Mal\, qu’il charge de surveill
- er le vieux doyen et ses étudiants. Mais celle‐ci\, Dolores Ombrage\, s
- e révèle incapable de préparer les collégiens à affronter les nouvell
- es menaces qui planent sur Poudlard…\n\n\nFiche TMDB : https://www.themo
- viedb.org/movie/675\n\nSéance relevée sur AlloCiné.\nDonnées fournies 
- par The Movie Database (TMDB)
+ \n(Harry Potter and the Order of the Phoenix)\n2h18\n\nAventure\, Fantasti
+ que\nUnited Kingdom\, United States of America\n(sortie initiale : 11/07/2
+ 007)\n\nRéalisateur : David Yates\nScénario : Michael Goldenberg\nPhotog
+ raphie : Sławomir Idziak\nProduction : Warner Bros. Pictures\, Heyday Fil
+ ms\n\nActeurs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Watson\n- Imel
+ da Staunton\n- Helena Bonham Carter\n- Robbie Coltrane\n- Gary Oldman\n- R
+ alph Fiennes\n- Michael Gambon\n- Alan Rickman\n- Richard Griffiths\n- Bre
+ ndan Gleeson\n\n\nAlors qu’il entame sa cinquième année d’étude à 
+ Poudlard\, Harry Potter découvre qu’une bonne partie de la communauté 
+ des sorciers feint d’ignorer sa récente confrontation avec Lord Voldemo
+ rt\, et préfèrent nier cette aveuglante évidence : le Seigneur des Té
+ nèbres est bel et bien vivant. De plus\, la communauté magique lit les m
+ ensonges de Rita Skeeter dans la Gazette du Sorcier sous contrôle du Mini
+ stère de la Magie. Craignant que le puissant Albus Dumbledore ne mente à
+  propos du retour de Voldemort dans le but de saper son autorité et de lu
+ i ravir son poste\, le Ministre de la Magie Cornélius Fudge nomme un nouv
+ eau Professeur de Défense contre les Forces du Mal\, qu’il charge de su
+ rveiller le vieux doyen et ses étudiants. Mais celle‐ci\, Dolores Ombra
+ ge\, se révèle incapable de préparer les collégiens à affronter les n
+ ouvelles menaces qui planent sur Poudlard…\n\n\nFiche TMDB : https://www
+ .themoviedb.org/movie/675\n\nSéance relevée sur AlloCiné.\nDonnées fou
+ rnies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/9ZfpCVNx0y8jpColnnfdA1HI4Zb.jpg" width="220" alt="Affi
  che de Harry Potter et l'Ordre du Phénix"><br><small>(Harry Potter and th
- e Order of the Phoenix)</small></td><td width="16"></td><td valign="top"><
- i>Aventure\, Fantastique</i><br>United Kingdom\, United States of America<
- br>(sortie initiale : 11/07/2007)<br><br><b>Réalisateur :</b> David Yates
- <br><b>Scénario :</b> Michael Goldenberg<br><b>Photographie :</b> Sławom
- ir Idziak<br><b>Production :</b> Warner Bros. Pictures\, Heyday Films<br><
- br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Rupert Grint</li><li>E
- mma Watson</li><li>Imelda Staunton</li><li>Helena Bonham Carter</li><li>Ro
- bbie Coltrane</li><li>Gary Oldman</li><li>Ralph Fiennes</li><li>Michael Ga
- mbon</li><li>Alan Rickman</li><li>Richard Griffiths</li><li>Brendan Gleeso
- n</li></ul></td></tr></table><p>Alors qu’il entame sa cinquième année 
- d’étude à Poudlard\, Harry Potter découvre qu’une bonne partie de l
- a communauté des sorciers feint d’ignorer sa récente confrontation ave
- c Lord Voldemort\, et préfèrent nier cette aveuglante évidence : le Se
- igneur des Ténèbres est bel et bien vivant. De plus\, la communauté mag
- ique lit les mensonges de Rita Skeeter dans la Gazette du Sorcier sous con
- trôle du Ministère de la Magie. Craignant que le puissant Albus Dumbledo
- re ne mente à propos du retour de Voldemort dans le but de saper son auto
- rité et de lui ravir son poste\, le Ministre de la Magie Cornélius Fudge
-  nomme un nouveau Professeur de Défense contre les Forces du Mal\, qu’i
- l charge de surveiller le vieux doyen et ses étudiants. Mais celle‐ci\,
-  Dolores Ombrage\, se révèle incapable de préparer les collégiens à a
- ffronter les nouvelles menaces qui planent sur Poudlard…</p><p><small><a
-  href="https://www.themoviedb.org/movie/675">Fiche TMDB</a><br>Données fo
- urnies par The Movie Database (TMDB)</small></p></body></html>
+ e Order of the Phoenix)</small><br><small>2h18</small></td><td width="16">
+ </td><td valign="top"><i>Aventure\, Fantastique</i><br>United Kingdom\, Un
+ ited States of America<br>(sortie initiale : 11/07/2007)<br><br><b>Réalis
+ ateur :</b> David Yates<br><b>Scénario :</b> Michael Goldenberg<br><b>Pho
+ tographie :</b> Sławomir Idziak<br><b>Production :</b> Warner Bros. Pictu
+ res\, Heyday Films<br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li
+ >Rupert Grint</li><li>Emma Watson</li><li>Imelda Staunton</li><li>Helena B
+ onham Carter</li><li>Robbie Coltrane</li><li>Gary Oldman</li><li>Ralph Fie
+ nnes</li><li>Michael Gambon</li><li>Alan Rickman</li><li>Richard Griffiths
+ </li><li>Brendan Gleeson</li></ul></td></tr></table><p>Alors qu’il entam
+ e sa cinquième année d’étude à Poudlard\, Harry Potter découvre qu
+ ’une bonne partie de la communauté des sorciers feint d’ignorer sa r
+ écente confrontation avec Lord Voldemort\, et préfèrent nier cette aveu
+ glante évidence : le Seigneur des Ténèbres est bel et bien vivant. De 
+ plus\, la communauté magique lit les mensonges de Rita Skeeter dans la Ga
+ zette du Sorcier sous contrôle du Ministère de la Magie. Craignant que l
+ e puissant Albus Dumbledore ne mente à propos du retour de Voldemort dans
+  le but de saper son autorité et de lui ravir son poste\, le Ministre de 
+ la Magie Cornélius Fudge nomme un nouveau Professeur de Défense contre l
+ es Forces du Mal\, qu’il charge de surveiller le vieux doyen et ses étu
+ diants. Mais celle‐ci\, Dolores Ombrage\, se révèle incapable de prép
+ arer les collégiens à affronter les nouvelles menaces qui planent sur Po
+ udlard…</p><p><small><a href="https://www.themoviedb.org/movie/675">Fich
+ e TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></p><
+ /body></html>
 URL:https://www.themoviedb.org/movie/675
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -590,45 +594,45 @@ DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Harry Potter et le Prince de sang-mêlé
 DESCRIPTION:https://image.tmdb.org/t/p/w780/A4WWOzWUASfUeESXxduQxVmoD7t.jpg
- \n(Harry Potter and the Half-Blood Prince)\n\nAventure\, Fantastique\nUnit
- ed Kingdom\, United States of America\n(sortie initiale : 15/07/2009)\n\nR
- éalisateur : David Yates\nScénario : Steve Kloves\nPhotographie : Bruno 
- Delbonnel\nProduction : Warner Bros. Pictures\, Heyday Films\n\nActeurs :\
- n- Daniel Radcliffe\n- Rupert Grint\n- Emma Watson\n- Jim Broadbent\n- Mic
- hael Gambon\n- Tom Felton\n- Alan Rickman\n- Bonnie Wright\n- Jessie Cave\
- n- Evanna Lynch\n- Freddie Stroma\n- Robbie Coltrane\n\n\nVoldemort a renf
- orcé son emprise sur le monde des sorciers aussi bien que sur celui des M
- oldus\, et Poudlard n’est plus un endroit sûr. Harry est d’ailleurs p
- ersuadé que le danger rôde à l’intérieur même de l’école mais Du
- mbledore est plus soucieux de le préparer pour la bataille finale qu’il
-  sent approcher à grands pas. Ensemble\, ils tentent de trouver le talon 
- d’Achille de Voldemort et\, à cette fin\, Dumbledore fait appel au Prof
- esseur Horace Slughorn\, qui détient des informations cruciales.\n\n\nFic
- he TMDB : https://www.themoviedb.org/movie/767\n\nSéance relevée sur All
- oCiné.\nDonnées fournies par The Movie Database (TMDB)
+ \n(Harry Potter and the Half-Blood Prince)\n2h33\n\nAventure\, Fantastique
+ \nUnited Kingdom\, United States of America\n(sortie initiale : 15/07/2009
+ )\n\nRéalisateur : David Yates\nScénario : Steve Kloves\nPhotographie : 
+ Bruno Delbonnel\nProduction : Warner Bros. Pictures\, Heyday Films\n\nActe
+ urs :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Watson\n- Jim Broadbent\
+ n- Michael Gambon\n- Tom Felton\n- Alan Rickman\n- Bonnie Wright\n- Jessie
+  Cave\n- Evanna Lynch\n- Freddie Stroma\n- Robbie Coltrane\n\n\nVoldemort 
+ a renforcé son emprise sur le monde des sorciers aussi bien que sur celui
+  des Moldus\, et Poudlard n’est plus un endroit sûr. Harry est d’aill
+ eurs persuadé que le danger rôde à l’intérieur même de l’école m
+ ais Dumbledore est plus soucieux de le préparer pour la bataille finale q
+ u’il sent approcher à grands pas. Ensemble\, ils tentent de trouver le 
+ talon d’Achille de Voldemort et\, à cette fin\, Dumbledore fait appel a
+ u Professeur Horace Slughorn\, qui détient des informations cruciales.\n\
+ n\nFiche TMDB : https://www.themoviedb.org/movie/767\n\nSéance relevée s
+ ur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/A4WWOzWUASfUeESXxduQxVmoD7t.jpg" width="220" alt="Affi
  che de Harry Potter et le Prince de sang-mêlé"><br><small>(Harry Potter 
- and the Half-Blood Prince)</small></td><td width="16"></td><td valign="top
- "><i>Aventure\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca<br>(sortie initiale : 15/07/2009)<br><br><b>Réalisateur :</b> David Ya
- tes<br><b>Scénario :</b> Steve Kloves<br><b>Photographie :</b> Bruno Delb
- onnel<br><b>Production :</b> Warner Bros. Pictures\, Heyday Films<br><br><
- b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Rupert Grint</li><li>Emma 
- Watson</li><li>Jim Broadbent</li><li>Michael Gambon</li><li>Tom Felton</li
- ><li>Alan Rickman</li><li>Bonnie Wright</li><li>Jessie Cave</li><li>Evanna
-  Lynch</li><li>Freddie Stroma</li><li>Robbie Coltrane</li></ul></td></tr><
- /table><p>Voldemort a renforcé son emprise sur le monde des sorciers auss
- i bien que sur celui des Moldus\, et Poudlard n’est plus un endroit sûr
- . Harry est d’ailleurs persuadé que le danger rôde à l’intérieur m
- ême de l’école mais Dumbledore est plus soucieux de le préparer pour 
- la bataille finale qu’il sent approcher à grands pas. Ensemble\, ils te
- ntent de trouver le talon d’Achille de Voldemort et\, à cette fin\, Dum
- bledore fait appel au Professeur Horace Slughorn\, qui détient des inform
- ations cruciales.</p><p><small><a href="https://www.themoviedb.org/movie/7
- 67">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</sma
- ll></p></body></html>
+ and the Half-Blood Prince)</small><br><small>2h33</small></td><td width="1
+ 6"></td><td valign="top"><i>Aventure\, Fantastique</i><br>United Kingdom\,
+  United States of America<br>(sortie initiale : 15/07/2009)<br><br><b>Réa
+ lisateur :</b> David Yates<br><b>Scénario :</b> Steve Kloves<br><b>Photog
+ raphie :</b> Bruno Delbonnel<br><b>Production :</b> Warner Bros. Pictures\
+ , Heyday Films<br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Rup
+ ert Grint</li><li>Emma Watson</li><li>Jim Broadbent</li><li>Michael Gambon
+ </li><li>Tom Felton</li><li>Alan Rickman</li><li>Bonnie Wright</li><li>Jes
+ sie Cave</li><li>Evanna Lynch</li><li>Freddie Stroma</li><li>Robbie Coltra
+ ne</li></ul></td></tr></table><p>Voldemort a renforcé son emprise sur le 
+ monde des sorciers aussi bien que sur celui des Moldus\, et Poudlard n’e
+ st plus un endroit sûr. Harry est d’ailleurs persuadé que le danger r
+ ôde à l’intérieur même de l’école mais Dumbledore est plus soucie
+ ux de le préparer pour la bataille finale qu’il sent approcher à grand
+ s pas. Ensemble\, ils tentent de trouver le talon d’Achille de Voldemort
+  et\, à cette fin\, Dumbledore fait appel au Professeur Horace Slughorn\,
+  qui détient des informations cruciales.</p><p><small><a href="https://ww
+ w.themoviedb.org/movie/767">Fiche TMDB</a><br>Données fournies par The Mo
+ vie Database (TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/767
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -644,53 +648,53 @@ DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Harry Potter et les Reliques de la Mort - 1ère partie
 DESCRIPTION:https://image.tmdb.org/t/p/w780/yJm61MmTMjOmNXxPxdoaIkdqnOm.jpg
- \n(Harry Potter and the Deathly Hallows: Part 1)\n\nAventure\, Fantastique
- \nUnited Kingdom\, United States of America\n(sortie initiale : 24/11/2010
- )\n\nRéalisateur : David Yates\nScénario : Steve Kloves\nPhotographie : 
- Eduardo Serra\nProduction : Warner Bros. Pictures\, Heyday Films\n\nActeur
- s :\n- Daniel Radcliffe\n- Emma Watson\n- Rupert Grint\n- Toby Jones\n- He
- lena Bonham Carter\n- Alan Rickman\n- Ralph Fiennes\n- Bill Nighy\n- Simon
-  McBurney\n- Rhys Ifans\n- Evanna Lynch\n- Andy Linden\n\n\nLe pouvoir de 
- Voldemort s'étend dangereusement. Le Seigneur des Ténèbres contrôle d
- ésormais le Ministère de la Magie et impose sa domination sur Poudlard\,
-  semant la peur et la terreur dans le monde des sorciers. Harry\, Ron et H
- ermione\, devenus des fugitifs traqués\, s'engagent dans une quête péri
- lleuse pour achever l'œuvre de Dumbledore : retrouver et détruire les Ho
- rcruxes\, ces fragments d'âme qui rendent Voldemort immortel. Mais isolé
- s\, sans protection et confrontés à des dangers constants\, les trois am
- is voient leurs liens mis à rude épreuve. Entre secrets révélés\, tra
- hisons et sacrifices\, leur mission semble presque impossible\, alors que 
- l'ombre du mal menace de tout engloutir. Pourtant\, ils savent que leur co
- mbat est la seule lueur d'espoir face à l'obscurité croissante.\n\n\nFic
- he TMDB : https://www.themoviedb.org/movie/12444\n\nSéance relevée sur A
- lloCiné.\nDonnées fournies par The Movie Database (TMDB)
+ \n(Harry Potter and the Deathly Hallows: Part 1)\n2h26\n\nAventure\, Fanta
+ stique\nUnited Kingdom\, United States of America\n(sortie initiale : 24/1
+ 1/2010)\n\nRéalisateur : David Yates\nScénario : Steve Kloves\nPhotograp
+ hie : Eduardo Serra\nProduction : Warner Bros. Pictures\, Heyday Films\n\n
+ Acteurs :\n- Daniel Radcliffe\n- Emma Watson\n- Rupert Grint\n- Toby Jones
+ \n- Helena Bonham Carter\n- Alan Rickman\n- Ralph Fiennes\n- Bill Nighy\n-
+  Simon McBurney\n- Rhys Ifans\n- Evanna Lynch\n- Andy Linden\n\n\nLe pouvo
+ ir de Voldemort s'étend dangereusement. Le Seigneur des Ténèbres contr
+ ôle désormais le Ministère de la Magie et impose sa domination sur Poud
+ lard\, semant la peur et la terreur dans le monde des sorciers. Harry\, Ro
+ n et Hermione\, devenus des fugitifs traqués\, s'engagent dans une quête
+  périlleuse pour achever l'œuvre de Dumbledore : retrouver et détruire 
+ les Horcruxes\, ces fragments d'âme qui rendent Voldemort immortel. Mais 
+ isolés\, sans protection et confrontés à des dangers constants\, les tr
+ ois amis voient leurs liens mis à rude épreuve. Entre secrets révélés
+ \, trahisons et sacrifices\, leur mission semble presque impossible\, alor
+ s que l'ombre du mal menace de tout engloutir. Pourtant\, ils savent que l
+ eur combat est la seule lueur d'espoir face à l'obscurité croissante.\n\
+ n\nFiche TMDB : https://www.themoviedb.org/movie/12444\n\nSéance relevée
+  sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/yJm61MmTMjOmNXxPxdoaIkdqnOm.jpg" width="220" alt="Affi
  che de Harry Potter et les Reliques de la Mort - 1ère partie"><br><small
- >(Harry Potter and the Deathly Hallows: Part 1)</small></td><td width="16"
- ></td><td valign="top"><i>Aventure\, Fantastique</i><br>United Kingdom\, U
- nited States of America<br>(sortie initiale : 24/11/2010)<br><br><b>Réali
- sateur :</b> David Yates<br><b>Scénario :</b> Steve Kloves<br><b>Photogra
- phie :</b> Eduardo Serra<br><b>Production :</b> Warner Bros. Pictures\, He
- yday Films<br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Emma Wa
- tson</li><li>Rupert Grint</li><li>Toby Jones</li><li>Helena Bonham Carter<
- /li><li>Alan Rickman</li><li>Ralph Fiennes</li><li>Bill Nighy</li><li>Simo
- n McBurney</li><li>Rhys Ifans</li><li>Evanna Lynch</li><li>Andy Linden</li
- ></ul></td></tr></table><p>Le pouvoir de Voldemort s'étend dangereusement
- . Le Seigneur des Ténèbres contrôle désormais le Ministère de la Magi
- e et impose sa domination sur Poudlard\, semant la peur et la terreur dans
-  le monde des sorciers. Harry\, Ron et Hermione\, devenus des fugitifs tra
- qués\, s'engagent dans une quête périlleuse pour achever l'œuvre de Du
- mbledore : retrouver et détruire les Horcruxes\, ces fragments d'âme qui
-  rendent Voldemort immortel. Mais isolés\, sans protection et confrontés
-  à des dangers constants\, les trois amis voient leurs liens mis à rude 
- épreuve. Entre secrets révélés\, trahisons et sacrifices\, leur missio
- n semble presque impossible\, alors que l'ombre du mal menace de tout engl
- outir. Pourtant\, ils savent que leur combat est la seule lueur d'espoir f
- ace à l'obscurité croissante.</p><p><small><a href="https://www.themovie
- db.org/movie/12444">Fiche TMDB</a><br>Données fournies par The Movie Data
- base (TMDB)</small></p></body></html>
+ >(Harry Potter and the Deathly Hallows: Part 1)</small><br><small>2h26</sm
+ all></td><td width="16"></td><td valign="top"><i>Aventure\, Fantastique</i
+ ><br>United Kingdom\, United States of America<br>(sortie initiale : 24/11
+ /2010)<br><br><b>Réalisateur :</b> David Yates<br><b>Scénario :</b> Stev
+ e Kloves<br><b>Photographie :</b> Eduardo Serra<br><b>Production :</b> War
+ ner Bros. Pictures\, Heyday Films<br><br><b>Acteurs :</b><ul><li>Daniel Ra
+ dcliffe</li><li>Emma Watson</li><li>Rupert Grint</li><li>Toby Jones</li><l
+ i>Helena Bonham Carter</li><li>Alan Rickman</li><li>Ralph Fiennes</li><li>
+ Bill Nighy</li><li>Simon McBurney</li><li>Rhys Ifans</li><li>Evanna Lynch<
+ /li><li>Andy Linden</li></ul></td></tr></table><p>Le pouvoir de Voldemort 
+ s'étend dangereusement. Le Seigneur des Ténèbres contrôle désormais l
+ e Ministère de la Magie et impose sa domination sur Poudlard\, semant la 
+ peur et la terreur dans le monde des sorciers. Harry\, Ron et Hermione\, d
+ evenus des fugitifs traqués\, s'engagent dans une quête périlleuse pour
+  achever l'œuvre de Dumbledore : retrouver et détruire les Horcruxes\, c
+ es fragments d'âme qui rendent Voldemort immortel. Mais isolés\, sans pr
+ otection et confrontés à des dangers constants\, les trois amis voient l
+ eurs liens mis à rude épreuve. Entre secrets révélés\, trahisons et s
+ acrifices\, leur mission semble presque impossible\, alors que l'ombre du 
+ mal menace de tout engloutir. Pourtant\, ils savent que leur combat est la
+  seule lueur d'espoir face à l'obscurité croissante.</p><p><small><a hre
+ f="https://www.themoviedb.org/movie/12444">Fiche TMDB</a><br>Données four
+ nies par The Movie Database (TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/12444
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -706,41 +710,41 @@ DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Harry Potter et les Reliques de la Mort - 2ème partie
 DESCRIPTION:https://image.tmdb.org/t/p/w780/alQOPmKEPHkH4BLMEla1vTNYrUr.jpg
- \n(Harry Potter and the Deathly Hallows: Part 2)\n\nAventure\, Fantastique
- \nUnited Kingdom\, United States of America\n(sortie initiale : 13/07/2011
- )\n\nRéalisateur : David Yates\nScénario : Steve Kloves\nPhotographie : 
- Eduardo Serra\nProduction : Warner Bros. Pictures\, Heyday Films\n\nActeur
- s :\n- Daniel Radcliffe\n- Emma Watson\n- Rupert Grint\n- Ralph Fiennes\n-
-  Alan Rickman\n- Michael Gambon\n- Warwick Davis\n- Helena Bonham Carter\n
- - Ciarán Hinds\n- Matthew Lewis\n- John Hurt\n- Evanna Lynch\n\n\nLe comb
- at entre les puissances du bien et du mal de l’univers des sorciers se t
- ransforme en guerre sans merci. L’école Poudlard est désormais sous la
-  coupe du professeur Rogue et des force des ténèbres. Les enjeux sont de
- venus considérables et personne n’est plus en sécurité alors que se r
- approche l’ultime épreuve de force avec Voldemort…\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/12445\n\nSéance relevée sur AlloCiné.\
- nDonnées fournies par The Movie Database (TMDB)
+ \n(Harry Potter and the Deathly Hallows: Part 2)\n2h10\n\nAventure\, Fanta
+ stique\nUnited Kingdom\, United States of America\n(sortie initiale : 13/0
+ 7/2011)\n\nRéalisateur : David Yates\nScénario : Steve Kloves\nPhotograp
+ hie : Eduardo Serra\nProduction : Warner Bros. Pictures\, Heyday Films\n\n
+ Acteurs :\n- Daniel Radcliffe\n- Emma Watson\n- Rupert Grint\n- Ralph Fien
+ nes\n- Alan Rickman\n- Michael Gambon\n- Warwick Davis\n- Helena Bonham Ca
+ rter\n- Ciarán Hinds\n- Matthew Lewis\n- John Hurt\n- Evanna Lynch\n\n\nL
+ e combat entre les puissances du bien et du mal de l’univers des sorcier
+ s se transforme en guerre sans merci. L’école Poudlard est désormais s
+ ous la coupe du professeur Rogue et des force des ténèbres. Les enjeux s
+ ont devenus considérables et personne n’est plus en sécurité alors qu
+ e se rapproche l’ultime épreuve de force avec Voldemort…\n\n\nFiche T
+ MDB : https://www.themoviedb.org/movie/12445\n\nSéance relevée sur AlloC
+ iné.\nDonnées fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/alQOPmKEPHkH4BLMEla1vTNYrUr.jpg" width="220" alt="Affi
  che de Harry Potter et les Reliques de la Mort - 2ème partie"><br><small
- >(Harry Potter and the Deathly Hallows: Part 2)</small></td><td width="16"
- ></td><td valign="top"><i>Aventure\, Fantastique</i><br>United Kingdom\, U
- nited States of America<br>(sortie initiale : 13/07/2011)<br><br><b>Réali
- sateur :</b> David Yates<br><b>Scénario :</b> Steve Kloves<br><b>Photogra
- phie :</b> Eduardo Serra<br><b>Production :</b> Warner Bros. Pictures\, He
- yday Films<br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Emma Wa
- tson</li><li>Rupert Grint</li><li>Ralph Fiennes</li><li>Alan Rickman</li><
- li>Michael Gambon</li><li>Warwick Davis</li><li>Helena Bonham Carter</li><
- li>Ciarán Hinds</li><li>Matthew Lewis</li><li>John Hurt</li><li>Evanna Ly
- nch</li></ul></td></tr></table><p>Le combat entre les puissances du bien e
- t du mal de l’univers des sorciers se transforme en guerre sans merci. L
- ’école Poudlard est désormais sous la coupe du professeur Rogue et des
-  force des ténèbres. Les enjeux sont devenus considérables et personne 
- n’est plus en sécurité alors que se rapproche l’ultime épreuve de f
- orce avec Voldemort…</p><p><small><a href="https://www.themoviedb.org/mo
- vie/12445">Fiche TMDB</a><br>Données fournies par The Movie Database (TMD
- B)</small></p></body></html>
+ >(Harry Potter and the Deathly Hallows: Part 2)</small><br><small>2h10</sm
+ all></td><td width="16"></td><td valign="top"><i>Aventure\, Fantastique</i
+ ><br>United Kingdom\, United States of America<br>(sortie initiale : 13/07
+ /2011)<br><br><b>Réalisateur :</b> David Yates<br><b>Scénario :</b> Stev
+ e Kloves<br><b>Photographie :</b> Eduardo Serra<br><b>Production :</b> War
+ ner Bros. Pictures\, Heyday Films<br><br><b>Acteurs :</b><ul><li>Daniel Ra
+ dcliffe</li><li>Emma Watson</li><li>Rupert Grint</li><li>Ralph Fiennes</li
+ ><li>Alan Rickman</li><li>Michael Gambon</li><li>Warwick Davis</li><li>Hel
+ ena Bonham Carter</li><li>Ciarán Hinds</li><li>Matthew Lewis</li><li>John
+  Hurt</li><li>Evanna Lynch</li></ul></td></tr></table><p>Le combat entre l
+ es puissances du bien et du mal de l’univers des sorciers se transforme 
+ en guerre sans merci. L’école Poudlard est désormais sous la coupe du 
+ professeur Rogue et des force des ténèbres. Les enjeux sont devenus cons
+ idérables et personne n’est plus en sécurité alors que se rapproche l
+ ’ultime épreuve de force avec Voldemort…</p><p><small><a href="https:
+ //www.themoviedb.org/movie/12445">Fiche TMDB</a><br>Données fournies par 
+ The Movie Database (TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/12445
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -756,45 +760,45 @@ DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Terminator 2 : Le Jugement dernier
 DESCRIPTION:https://image.tmdb.org/t/p/w780/mRtFOHF93zW4kTp4JOYrH71vxBh.jpg
- \n(Terminator 2: Judgment Day)\n\nAction\, Thriller\, Science-Fiction\nFra
- nce\, United States of America\n(sortie initiale : 03/07/1991)\n\nRéalisa
- teur : James Cameron\nScénario : William Wisher\, James Cameron\nPhotogra
- phie : Adam Greenberg\nProduction : Carolco Pictures\, Pacific Western\, L
- ightstorm Entertainment\n\nActeurs :\n- Arnold Schwarzenegger\n- Linda Ham
- ilton\n- Edward Furlong\n- Robert Patrick\n- Earl Boen\n- Joe Morton\n- S.
-  Epatha Merkerson\n- Castulo Guerra\n- Danny Cooksey\n- Jenette Goldstein\
- n- Xander Berkeley\n- Leslie Hamilton Gearren\n\n\nEn 2029\, après leur 
- échec pour éliminer Sarah Connor\, les robots de Skynet programment un n
- ouveau Terminator\, le T‐1000\, pour retourner dans le passé et élimin
- er son fils John Connor\, futur leader de la résistance humaine. Ce derni
- er programme un autre cyborg\, le T‐800\, et l’envoie également en 19
- 95\, pour le protéger. Une seule question déterminera le sort de l’hum
- anité : laquelle des deux machines trouvera John la première ?\n\n\nF
- iche TMDB : https://www.themoviedb.org/movie/280\n\nSéance relevée sur A
- lloCiné.\nDonnées fournies par The Movie Database (TMDB)
+ \n(Terminator 2: Judgment Day)\n2h17\n\nAction\, Thriller\, Science-Fictio
+ n\nFrance\, United States of America\n(sortie initiale : 03/07/1991)\n\nR
+ éalisateur : James Cameron\nScénario : William Wisher\, James Cameron\nP
+ hotographie : Adam Greenberg\nProduction : Carolco Pictures\, Pacific West
+ ern\, Lightstorm Entertainment\n\nActeurs :\n- Arnold Schwarzenegger\n- Li
+ nda Hamilton\n- Edward Furlong\n- Robert Patrick\n- Earl Boen\n- Joe Morto
+ n\n- S. Epatha Merkerson\n- Castulo Guerra\n- Danny Cooksey\n- Jenette Gol
+ dstein\n- Xander Berkeley\n- Leslie Hamilton Gearren\n\n\nEn 2029\, après
+  leur échec pour éliminer Sarah Connor\, les robots de Skynet programmen
+ t un nouveau Terminator\, le T‐1000\, pour retourner dans le passé et 
+ éliminer son fils John Connor\, futur leader de la résistance humaine. C
+ e dernier programme un autre cyborg\, le T‐800\, et l’envoie égalemen
+ t en 1995\, pour le protéger. Une seule question déterminera le sort de 
+ l’humanité : laquelle des deux machines trouvera John la première ?
+ \n\n\nFiche TMDB : https://www.themoviedb.org/movie/280\n\nSéance relevé
+ e sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/mRtFOHF93zW4kTp4JOYrH71vxBh.jpg" width="220" alt="Affi
  che de Terminator 2 : Le Jugement dernier"><br><small>(Terminator 2: Judgm
- ent Day)</small></td><td width="16"></td><td valign="top"><i>Action\, Thri
- ller\, Science-Fiction</i><br>France\, United States of America<br>(sortie
-  initiale : 03/07/1991)<br><br><b>Réalisateur :</b> James Cameron<br><b>S
- cénario :</b> William Wisher\, James Cameron<br><b>Photographie :</b> Ada
- m Greenberg<br><b>Production :</b> Carolco Pictures\, Pacific Western\, Li
- ghtstorm Entertainment<br><br><b>Acteurs :</b><ul><li>Arnold Schwarzenegge
- r</li><li>Linda Hamilton</li><li>Edward Furlong</li><li>Robert Patrick</li
- ><li>Earl Boen</li><li>Joe Morton</li><li>S. Epatha Merkerson</li><li>Cast
- ulo Guerra</li><li>Danny Cooksey</li><li>Jenette Goldstein</li><li>Xander 
- Berkeley</li><li>Leslie Hamilton Gearren</li></ul></td></tr></table><p>En 
- 2029\, après leur échec pour éliminer Sarah Connor\, les robots de Skyn
- et programment un nouveau Terminator\, le T‐1000\, pour retourner dans l
- e passé et éliminer son fils John Connor\, futur leader de la résistanc
- e humaine. Ce dernier programme un autre cyborg\, le T‐800\, et l’envo
- ie également en 1995\, pour le protéger. Une seule question déterminera
-  le sort de l’humanité : laquelle des deux machines trouvera John la p
- remière ?</p><p><small><a href="https://www.themoviedb.org/movie/280">F
- iche TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></
- p></body></html>
+ ent Day)</small><br><small>2h17</small></td><td width="16"></td><td valign
+ ="top"><i>Action\, Thriller\, Science-Fiction</i><br>France\, United State
+ s of America<br>(sortie initiale : 03/07/1991)<br><br><b>Réalisateur :</b
+ > James Cameron<br><b>Scénario :</b> William Wisher\, James Cameron<br><b
+ >Photographie :</b> Adam Greenberg<br><b>Production :</b> Carolco Pictures
+ \, Pacific Western\, Lightstorm Entertainment<br><br><b>Acteurs :</b><ul><
+ li>Arnold Schwarzenegger</li><li>Linda Hamilton</li><li>Edward Furlong</li
+ ><li>Robert Patrick</li><li>Earl Boen</li><li>Joe Morton</li><li>S. Epatha
+  Merkerson</li><li>Castulo Guerra</li><li>Danny Cooksey</li><li>Jenette Go
+ ldstein</li><li>Xander Berkeley</li><li>Leslie Hamilton Gearren</li></ul><
+ /td></tr></table><p>En 2029\, après leur échec pour éliminer Sarah Conn
+ or\, les robots de Skynet programment un nouveau Terminator\, le T‐1000\
+ , pour retourner dans le passé et éliminer son fils John Connor\, futur 
+ leader de la résistance humaine. Ce dernier programme un autre cyborg\, l
+ e T‐800\, et l’envoie également en 1995\, pour le protéger. Une seul
+ e question déterminera le sort de l’humanité : laquelle des deux mach
+ ines trouvera John la première ?</p><p><small><a href="https://www.them
+ oviedb.org/movie/280">Fiche TMDB</a><br>Données fournies par The Movie Da
+ tabase (TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/280
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -810,42 +814,42 @@ DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Akira
 DESCRIPTION:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg
- \n\nAnimation\, Science-Fiction\, Action\nJapan\nAvant-première\n\nRéali
- sateur : Katsuhiro Ōtomo\nScénario : Izō Hashimoto\, Katsuhiro Ōtomo\n
- Photographie : 三沢勝治\nProduction : MBS\, Sumitomo Corporation\, TOH
- O\n\nActeurs :\n- Mitsuo Iwata\n- Nozomu Sasaki\n- Mami Koyama\n- 石田
- 太郎\n- Mizuho Suzuki\n- Tesshô Genda\n- Koichi Kitamura\n- 渕崎ゆ
- り子\n- Masaaki Okura\n- Takeshi Kusao\n- Kazuhiro Kamifuji\n- Tatsuhiko
-  Nakamura\n\n\nTetsuo\, un adolescent ayant vécu une enfance difficile\, 
- est la victime d'expériences visant à développer les capacités psychiq
- ues qui dorment en chacun de nous. Ainsi doté d'une puissance que lui-mê
- me ne peut imaginer\, Tetsuo décide de partir en guerre contre le monde q
- ui l'a opprimé. Dès lors\, il se retrouve au cœur d'une légende popula
- ire qui annonce le retour prochain d'Akira\, un enfant aux pouvoirs extrao
- rdinaires censé délivrer Tokyo du chaos ...\n\n\nFiche TMDB : https://ww
- w.themoviedb.org/movie/149\n\nSéance relevée sur AlloCiné.\nDonnées fo
- urnies par The Movie Database (TMDB)
+ \n2h04\n\nAnimation\, Science-Fiction\, Action\nJapan\nAvant-première\n\n
+ Réalisateur : Katsuhiro Ōtomo\nScénario : Izō Hashimoto\, Katsuhiro Ō
+ tomo\nPhotographie : 三沢勝治\nProduction : MBS\, Sumitomo Corporation
+ \, TOHO\n\nActeurs :\n- Mitsuo Iwata\n- Nozomu Sasaki\n- Mami Koyama\n- 
+ 石田太郎\n- Mizuho Suzuki\n- Tesshô Genda\n- Koichi Kitamura\n- 渕
+ 崎ゆり子\n- Masaaki Okura\n- Takeshi Kusao\n- Kazuhiro Kamifuji\n- Tat
+ suhiko Nakamura\n\n\nTetsuo\, un adolescent ayant vécu une enfance diffic
+ ile\, est la victime d'expériences visant à développer les capacités p
+ sychiques qui dorment en chacun de nous. Ainsi doté d'une puissance que l
+ ui-même ne peut imaginer\, Tetsuo décide de partir en guerre contre le m
+ onde qui l'a opprimé. Dès lors\, il se retrouve au cœur d'une légende 
+ populaire qui annonce le retour prochain d'Akira\, un enfant aux pouvoirs 
+ extraordinaires censé délivrer Tokyo du chaos ...\n\n\nFiche TMDB : http
+ s://www.themoviedb.org/movie/149\n\nSéance relevée sur AlloCiné.\nDonn
+ ées fournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg" width="220" alt="Affi
- che de Akira"></td><td width="16"></td><td valign="top"><i>Animation\, Sci
- ence-Fiction\, Action</i><br>Japan<br><b>Avant-première</b><br><br><b>Ré
- alisateur :</b> Katsuhiro Ōtomo<br><b>Scénario :</b> Izō Hashimoto\, Ka
- tsuhiro Ōtomo<br><b>Photographie :</b> 三沢勝治<br><b>Production :</b
- > MBS\, Sumitomo Corporation\, TOHO<br><br><b>Acteurs :</b><ul><li>Mitsuo 
- Iwata</li><li>Nozomu Sasaki</li><li>Mami Koyama</li><li>石田太郎</li><
- li>Mizuho Suzuki</li><li>Tesshô Genda</li><li>Koichi Kitamura</li><li>渕
- 崎ゆり子</li><li>Masaaki Okura</li><li>Takeshi Kusao</li><li>Kazuhiro 
- Kamifuji</li><li>Tatsuhiko Nakamura</li></ul></td></tr></table><p>Tetsuo\,
-  un adolescent ayant vécu une enfance difficile\, est la victime d'expér
- iences visant à développer les capacités psychiques qui dorment en chac
- un de nous. Ainsi doté d'une puissance que lui-même ne peut imaginer\, T
- etsuo décide de partir en guerre contre le monde qui l'a opprimé. Dès l
- ors\, il se retrouve au cœur d'une légende populaire qui annonce le reto
- ur prochain d'Akira\, un enfant aux pouvoirs extraordinaires censé déliv
- rer Tokyo du chaos ...</p><p><small><a href="https://www.themoviedb.org/mo
- vie/149">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)
- </small></p></body></html>
+ che de Akira"><br><small>2h04</small></td><td width="16"></td><td valign="
+ top"><i>Animation\, Science-Fiction\, Action</i><br>Japan<br><b>Avant-prem
+ ière</b><br><br><b>Réalisateur :</b> Katsuhiro Ōtomo<br><b>Scénario :<
+ /b> Izō Hashimoto\, Katsuhiro Ōtomo<br><b>Photographie :</b> 三沢勝
+ 治<br><b>Production :</b> MBS\, Sumitomo Corporation\, TOHO<br><br><b>Act
+ eurs :</b><ul><li>Mitsuo Iwata</li><li>Nozomu Sasaki</li><li>Mami Koyama</
+ li><li>石田太郎</li><li>Mizuho Suzuki</li><li>Tesshô Genda</li><li>Ko
+ ichi Kitamura</li><li>渕崎ゆり子</li><li>Masaaki Okura</li><li>Takesh
+ i Kusao</li><li>Kazuhiro Kamifuji</li><li>Tatsuhiko Nakamura</li></ul></td
+ ></tr></table><p>Tetsuo\, un adolescent ayant vécu une enfance difficile\
+ , est la victime d'expériences visant à développer les capacités psych
+ iques qui dorment en chacun de nous. Ainsi doté d'une puissance que lui-m
+ ême ne peut imaginer\, Tetsuo décide de partir en guerre contre le monde
+  qui l'a opprimé. Dès lors\, il se retrouve au cœur d'une légende popu
+ laire qui annonce le retour prochain d'Akira\, un enfant aux pouvoirs extr
+ aordinaires censé délivrer Tokyo du chaos ...</p><p><small><a href="http
+ s://www.themoviedb.org/movie/149">Fiche TMDB</a><br>Données fournies par 
+ The Movie Database (TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/149
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -899,43 +903,44 @@ DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Karma
 DESCRIPTION:https://image.tmdb.org/t/p/w780/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg
- \n\nThriller\nFrance\nAvant-première · sortie nationale le 21/10/2026\n\
- nRéalisateur : Guillaume Canet\nScénario : Guillaume Canet\, Simon Jacqu
- et\nPhotographie : Benoît Debie\nProduction : Iconoclast\, Caneo Films\n\
- nActeurs :\n- Marion Cotillard\n- Denis Ménochet\n- Leonardo Sbaraglia\n-
-  Luis Zahera\n- Anne Le Forestier\n- Alain Blazquez\n- Ferran Font Benito\
- n- Stivell Perot\n- Vincent Treguier\n- Hugo Trophardy\n\n\nDans un villag
- e au nord de l’Espagne\, Jeanne tente de reconstruire sa vie avec Daniel
- \, qui ne connaît rien de son passé trouble. Un jour\, Mateo\, le filleu
- l de Jeanne âgé de six ans\, disparaît mystérieusement… Afin d’éc
- happer à la police qui la soupçonne rapidement\, Jeanne se réfugie en F
- rance dans une communauté religieuse dans laquelle elle est née et qu’
- elle a fuie quelques années auparavant. Daniel ne croit pas à la culpabi
- lité de la femme qu’il aime et va tout faire pour la retrouver avant la
-  police.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1418998\n\nSé
- ance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TM
- DB)
+ \n2h29\n\nThriller\nFrance\nAvant-première · sortie nationale le 21/10/2
+ 026\n\nRéalisateur : Guillaume Canet\nScénario : Guillaume Canet\, Simon
+  Jacquet\nPhotographie : Benoît Debie\nProduction : Iconoclast\, Caneo Fi
+ lms\n\nActeurs :\n- Marion Cotillard\n- Denis Ménochet\n- Leonardo Sbarag
+ lia\n- Luis Zahera\n- Anne Le Forestier\n- Alain Blazquez\n- Ferran Font B
+ enito\n- Stivell Perot\n- Vincent Treguier\n- Hugo Trophardy\n\n\nDans un 
+ village au nord de l’Espagne\, Jeanne tente de reconstruire sa vie avec 
+ Daniel\, qui ne connaît rien de son passé trouble. Un jour\, Mateo\, le 
+ filleul de Jeanne âgé de six ans\, disparaît mystérieusement… Afin d
+ ’échapper à la police qui la soupçonne rapidement\, Jeanne se réfugi
+ e en France dans une communauté religieuse dans laquelle elle est née et
+  qu’elle a fuie quelques années auparavant. Daniel ne croit pas à la c
+ ulpabilité de la femme qu’il aime et va tout faire pour la retrouver av
+ ant la police.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1418998\
+ n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Databa
+ se (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg" width="220" alt="Affi
- che de Karma"></td><td width="16"></td><td valign="top"><i>Thriller</i><br
- >France<br><b>Avant-première · sortie nationale le 21/10/2026</b><br><br
- ><b>Réalisateur :</b> Guillaume Canet<br><b>Scénario :</b> Guillaume Can
- et\, Simon Jacquet<br><b>Photographie :</b> Benoît Debie<br><b>Production
-  :</b> Iconoclast\, Caneo Films<br><br><b>Acteurs :</b><ul><li>Marion Coti
- llard</li><li>Denis Ménochet</li><li>Leonardo Sbaraglia</li><li>Luis Zahe
- ra</li><li>Anne Le Forestier</li><li>Alain Blazquez</li><li>Ferran Font Be
- nito</li><li>Stivell Perot</li><li>Vincent Treguier</li><li>Hugo Trophardy
- </li></ul></td></tr></table><p>Dans un village au nord de l’Espagne\, Je
- anne tente de reconstruire sa vie avec Daniel\, qui ne connaît rien de so
- n passé trouble. Un jour\, Mateo\, le filleul de Jeanne âgé de six ans\
- , disparaît mystérieusement… Afin d’échapper à la police qui la so
- upçonne rapidement\, Jeanne se réfugie en France dans une communauté re
- ligieuse dans laquelle elle est née et qu’elle a fuie quelques années 
- auparavant. Daniel ne croit pas à la culpabilité de la femme qu’il aim
- e et va tout faire pour la retrouver avant la police.</p><p><small><a href
- ="https://www.themoviedb.org/movie/1418998">Fiche TMDB</a><br>Données fou
- rnies par The Movie Database (TMDB)</small></p></body></html>
+ che de Karma"><br><small>2h29</small></td><td width="16"></td><td valign="
+ top"><i>Thriller</i><br>France<br><b>Avant-première · sortie nationale l
+ e 21/10/2026</b><br><br><b>Réalisateur :</b> Guillaume Canet<br><b>Scéna
+ rio :</b> Guillaume Canet\, Simon Jacquet<br><b>Photographie :</b> Benoît
+  Debie<br><b>Production :</b> Iconoclast\, Caneo Films<br><br><b>Acteurs :
+ </b><ul><li>Marion Cotillard</li><li>Denis Ménochet</li><li>Leonardo Sbar
+ aglia</li><li>Luis Zahera</li><li>Anne Le Forestier</li><li>Alain Blazquez
+ </li><li>Ferran Font Benito</li><li>Stivell Perot</li><li>Vincent Treguier
+ </li><li>Hugo Trophardy</li></ul></td></tr></table><p>Dans un village au n
+ ord de l’Espagne\, Jeanne tente de reconstruire sa vie avec Daniel\, qui
+  ne connaît rien de son passé trouble. Un jour\, Mateo\, le filleul de J
+ eanne âgé de six ans\, disparaît mystérieusement… Afin d’échapper
+  à la police qui la soupçonne rapidement\, Jeanne se réfugie en France 
+ dans une communauté religieuse dans laquelle elle est née et qu’elle a
+  fuie quelques années auparavant. Daniel ne croit pas à la culpabilité 
+ de la femme qu’il aime et va tout faire pour la retrouver avant la polic
+ e.</p><p><small><a href="https://www.themoviedb.org/movie/1418998">Fiche T
+ MDB</a><br>Données fournies par The Movie Database (TMDB)</small></p></bo
+ dy></html>
 URL:https://www.themoviedb.org/movie/1418998
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
@@ -985,42 +990,42 @@ DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Garance
 DESCRIPTION:https://image.tmdb.org/t/p/w780/opOcBqvFchGd8PWdLGyY2435k1v.jpg
- \n\nDrame\nFrance\, Belgium\nAvant-première · sortie nationale le 23/09/
- 2026\n\nRéalisateur : Jeanne Herry\nScénario : Jeanne Herry\nPhotographi
- e : Antoine Cormier\nProduction : Chi-Fou-Mi Productions\, Trésor Films\,
-  Artémis Productions\n\nActeurs :\n- Adèle Exarchopoulos\n- Sara Giraude
- au\n- Anne Suarez\n- Sara-Jeanne Drillaud\n- Rudgy Pajany\n- Raya Martigny
- \n- Mathilde Roehrich\n- Jehnny Beth\n- Yuming Hey\n\n\nGarance est une je
- une actrice sans être une vedette. Elle gère et assure tout de son mieux
- \, vaillante\, joyeuse\, soldate\, et elle trouve dans l’alcool un carbu
- rant\, un réconfort\, inconditionnel. Garance change de vie et commence a
- lors un parcours de huit ans de déménagements\, de travail\, de rencontr
- es\, de fêtes et d’angoisses\, de joies et de coups durs… Une révolu
- tion intime\, amicale et sexuelle\, Mais elle consomme\, toujours plus. Ju
- squ'à la potentialité de la mort..\n\n\nFiche TMDB : https://www.themovi
- edb.org/movie/1507877\n\nSéance relevée sur AlloCiné.\nDonnées fournie
- s par The Movie Database (TMDB)
+ \n1h45\n\nDrame\nFrance\, Belgium\nAvant-première · sortie nationale le 
+ 23/09/2026\n\nRéalisateur : Jeanne Herry\nScénario : Jeanne Herry\nPhoto
+ graphie : Antoine Cormier\nProduction : Chi-Fou-Mi Productions\, Trésor F
+ ilms\, Artémis Productions\n\nActeurs :\n- Adèle Exarchopoulos\n- Sara G
+ iraudeau\n- Anne Suarez\n- Sara-Jeanne Drillaud\n- Rudgy Pajany\n- Raya Ma
+ rtigny\n- Mathilde Roehrich\n- Jehnny Beth\n- Yuming Hey\n\n\nGarance est 
+ une jeune actrice sans être une vedette. Elle gère et assure tout de son
+  mieux\, vaillante\, joyeuse\, soldate\, et elle trouve dans l’alcool un
+  carburant\, un réconfort\, inconditionnel. Garance change de vie et comm
+ ence alors un parcours de huit ans de déménagements\, de travail\, de re
+ ncontres\, de fêtes et d’angoisses\, de joies et de coups durs… Une r
+ évolution intime\, amicale et sexuelle\, Mais elle consomme\, toujours pl
+ us. Jusqu'à la potentialité de la mort..\n\n\nFiche TMDB : https://www.t
+ hemoviedb.org/movie/1507877\n\nSéance relevée sur AlloCiné.\nDonnées f
+ ournies par The Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
  e.tmdb.org/t/p/w780/opOcBqvFchGd8PWdLGyY2435k1v.jpg" width="220" alt="Affi
- che de Garance"></td><td width="16"></td><td valign="top"><i>Drame</i><br>
- France\, Belgium<br><b>Avant-première · sortie nationale le 23/09/2026</
- b><br><br><b>Réalisateur :</b> Jeanne Herry<br><b>Scénario :</b> Jeanne 
- Herry<br><b>Photographie :</b> Antoine Cormier<br><b>Production :</b> Chi-
- Fou-Mi Productions\, Trésor Films\, Artémis Productions<br><br><b>Acteur
- s :</b><ul><li>Adèle Exarchopoulos</li><li>Sara Giraudeau</li><li>Anne Su
- arez</li><li>Sara-Jeanne Drillaud</li><li>Rudgy Pajany</li><li>Raya Martig
- ny</li><li>Mathilde Roehrich</li><li>Jehnny Beth</li><li>Yuming Hey</li></
- ul></td></tr></table><p>Garance est une jeune actrice sans être une vedet
- te. Elle gère et assure tout de son mieux\, vaillante\, joyeuse\, soldate
- \, et elle trouve dans l’alcool un carburant\, un réconfort\, inconditi
- onnel. Garance change de vie et commence alors un parcours de huit ans de 
- déménagements\, de travail\, de rencontres\, de fêtes et d’angoisses\
- , de joies et de coups durs… Une révolution intime\, amicale et sexuell
- e\, Mais elle consomme\, toujours plus. Jusqu'à la potentialité de la mo
- rt..</p><p><small><a href="https://www.themoviedb.org/movie/1507877">Fiche
-  TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></p></
- body></html>
+ che de Garance"><br><small>1h45</small></td><td width="16"></td><td valign
+ ="top"><i>Drame</i><br>France\, Belgium<br><b>Avant-première · sortie na
+ tionale le 23/09/2026</b><br><br><b>Réalisateur :</b> Jeanne Herry<br><b>
+ Scénario :</b> Jeanne Herry<br><b>Photographie :</b> Antoine Cormier<br><
+ b>Production :</b> Chi-Fou-Mi Productions\, Trésor Films\, Artémis Produ
+ ctions<br><br><b>Acteurs :</b><ul><li>Adèle Exarchopoulos</li><li>Sara Gi
+ raudeau</li><li>Anne Suarez</li><li>Sara-Jeanne Drillaud</li><li>Rudgy Paj
+ any</li><li>Raya Martigny</li><li>Mathilde Roehrich</li><li>Jehnny Beth</l
+ i><li>Yuming Hey</li></ul></td></tr></table><p>Garance est une jeune actri
+ ce sans être une vedette. Elle gère et assure tout de son mieux\, vailla
+ nte\, joyeuse\, soldate\, et elle trouve dans l’alcool un carburant\, un
+  réconfort\, inconditionnel. Garance change de vie et commence alors un p
+ arcours de huit ans de déménagements\, de travail\, de rencontres\, de f
+ êtes et d’angoisses\, de joies et de coups durs… Une révolution inti
+ me\, amicale et sexuelle\, Mais elle consomme\, toujours plus. Jusqu'à la
+  potentialité de la mort..</p><p><small><a href="https://www.themoviedb.o
+ rg/movie/1507877">Fiche TMDB</a><br>Données fournies par The Movie Databa
+ se (TMDB)</small></p></body></html>
 URL:https://www.themoviedb.org/movie/1507877
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
