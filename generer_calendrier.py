@@ -705,7 +705,9 @@ def variantes_de_titre(titre):
     for separateur in SEPARATEURS_TITRE:
         if separateur in bas:
             debut = titre[:bas.index(separateur)].strip(" -–—:,")
-            if len(debut) >= 4:
+            # Un seul mot est trop generique : "Bleach" capterait toute la
+            # franchise. On exige au moins deux mots pour une troncature.
+            if len(debut) >= 4 and len(cle_de_titre(debut).split()) >= 2:
                 candidats.append(debut)
     for candidat in candidats:
         cle = cle_de_titre(candidat)
@@ -735,8 +737,12 @@ def ressemblance(a, b):
                 continue
             score = difflib.SequenceMatcher(None, ca, cb).ratio()
             court, long_ = sorted((ca.split(), cb.split()), key=len)
-            if len(court) >= 2 and long_[:len(court)] == court:
-                score = max(score, 0.90)      # l'un commence exactement par l'autre
+            # Tous les mots du titre court figurent dans le long : c'est le cas
+            # de "Bleach : Hell Verse" dans "Bleach - Le Film 4 : Hell Verse".
+            # TROIS mots minimum : a deux, "Star Wars" capterait "Cine-concert
+            # Star Wars", et "Alien" capterait "Alien vs Predator".
+            if len(court) >= 3 and set(court) <= set(long_):
+                score = max(score, 0.90)
             meilleur = max(meilleur, min(score, PLAFOND_VARIANTE))
     return meilleur
 
@@ -784,13 +790,23 @@ def chercher_sur_tmdb(titre, titre_original, annee):
             if score < 0.97 and annee and annee_tmdb.isdigit():
                 if abs(int(annee_tmdb) - annee) > TOLERANCE_ANNEE:
                     continue
-            if score >= SEUIL_CORRESPONDANCE and (meilleur is None or score > meilleur[2]):
-                meilleur = (trouve["id"], trouve.get("title") or "", score)
+            # Departage : a score egal, le titre TMDB le plus proche du titre
+            # complet d'AlloCine l'emporte. Sans ca, "Bleach" et
+            # "Bleach : Hell Verse" sont a egalite et le hasard tranche.
+            complet = max(
+                difflib.SequenceMatcher(None, cle_de_titre(titre or recherche),
+                                        cle_de_titre(trouve.get("title") or "")).ratio(),
+                difflib.SequenceMatcher(None, cle_de_titre(titre or recherche),
+                                        cle_de_titre(trouve.get("original_title") or "")).ratio(),
+            )
+            if score >= SEUIL_CORRESPONDANCE and (
+                    meilleur is None or (score, complet) > (meilleur[2], meilleur[3])):
+                meilleur = (trouve["id"], trouve.get("title") or "", score, complet)
 
         if meilleur and meilleur[2] > 0.99:      # correspondance exacte, inutile d'insister
             break
 
-    return meilleur
+    return meilleur[:3] if meilleur else None
 
 
 def couverture_du_cinema(scores, seances):
