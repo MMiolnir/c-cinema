@@ -17,6 +17,7 @@ VERSION = "1.1"
 
 import difflib
 import json
+import re
 import os
 import sys
 import time
@@ -545,7 +546,7 @@ def details_du_film(film):
         "synopsis": synopsis,
         "synopsis_en_anglais": synopsis_en_anglais,
         "affiche": fiche.get("poster_path"),
-        "duree": fiche.get("runtime") or 0,
+        "duree": duree_en_minutes(fiche.get("runtime")),
         "langue_origine": langue_originale(fiche),
     }
 
@@ -1141,6 +1142,30 @@ def langue_originale(fiche):
     return code.upper()
 
 
+def duree_en_minutes(valeur):
+    """Duree en minutes, quelle que soit la forme recue.
+
+    TMDB renvoie un entier de minutes. AlloCine renvoie une chaine ISO 8601 du
+    type 'PT1H50M0S' - c'est ce qui a fait planter une version precedente.
+    """
+    if isinstance(valeur, bool) or valeur is None:
+        return 0
+    if isinstance(valeur, (int, float)):
+        entier = int(valeur)
+        return round(entier / 60) if entier > 600 else entier   # secondes ou minutes
+    if isinstance(valeur, str):
+        texte = valeur.strip().upper()
+        if texte.isdigit():
+            entier = int(texte)
+            return round(entier / 60) if entier > 600 else entier
+        trouve = re.fullmatch(
+            r"P(?:(\d+)D)?(?:T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+(?:\.\d+)?)S)?)?", texte)
+        if trouve:
+            jours, heures, minutes, secondes = (float(g or 0) for g in trouve.groups())
+            return round(jours * 1440 + heures * 60 + minutes + secondes / 60)
+    return 0
+
+
 def duree_lisible(minutes):
     """90 -> '1h30', 48 -> '48min', 0 ou None -> None."""
     try:
@@ -1476,7 +1501,7 @@ def film_depuis_allocine(fiche):
             if nom and nom not in realisateurs:
                 realisateurs.append(nom)
 
-    secondes = fiche.get("runtime") or 0          # AlloCine compte en secondes
+    duree = duree_en_minutes(fiche.get("runtime"))
     return {
         "source": "allocine",
         "id": fiche.get("internalId"),
@@ -1490,7 +1515,7 @@ def film_depuis_allocine(fiche):
         "synopsis": (fiche.get("synopsisFull") or "").strip(),
         "synopsis_en_anglais": False,
         "affiche": (fiche.get("poster") or {}).get("url"),
-        "duree": round(secondes / 60) if secondes > 300 else secondes,
+        "duree": duree,
         "langue_origine": None, "sortie_initiale": None,
     }
 
@@ -1533,7 +1558,7 @@ def calendrier_des_seances():
             if not detail["titre"]:
                 continue
 
-        duree = int(detail.get("duree") or 0) or 120
+        duree = duree_en_minutes(detail.get("duree")) or 120
         for seance in sorted(seances, key=lambda x: x["debut"]):
             debut = horodatage_utc(seance["debut"])
             if not debut:
