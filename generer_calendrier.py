@@ -687,9 +687,58 @@ def annee_de_sortie(fiche):
     return sortie_originale(fiche)[1]
 
 
+SEPARATEURS_TITRE = (" - ", " – ", " — ", " : ", ": ", " partie ", " chapitre ", " vol ")
+PLAFOND_VARIANTE = 0.95            # une troncature ne vaut jamais un titre exact
+
+
+def variantes_de_titre(titre):
+    """Le titre complet, puis ses versions tronquees aux separateurs.
+
+    AlloCine ajoute souvent un sous-titre absent de TMDB :
+    'La Bataille de Gaulle - partie 1 : L'Age de Fer' contre 'La Bataille de
+    Gaulle'. Comparer les titres entiers fait chuter la proximite a 0.62 et
+    rejette un film pourtant present sur TMDB.
+    """
+    vues, sorties = set(), []
+    candidats = [titre]
+    bas = titre.lower()
+    for separateur in SEPARATEURS_TITRE:
+        if separateur in bas:
+            debut = titre[:bas.index(separateur)].strip(" -–—:,")
+            if len(debut) >= 4:
+                candidats.append(debut)
+    for candidat in candidats:
+        cle = cle_de_titre(candidat)
+        if cle and cle not in vues:
+            vues.add(cle)
+            sorties.append(candidat)
+    return sorties
+
+
 def ressemblance(a, b):
-    """Proximite de deux titres, entre 0 et 1, apres normalisation."""
-    return difflib.SequenceMatcher(None, cle_de_titre(a), cle_de_titre(b)).ratio()
+    """Proximite de deux titres, entre 0 et 1.
+
+    On compare toutes les variantes tronquees de chaque cote et on garde la
+    meilleure. Un titre qui est le debut mot-a-mot de l'autre est traite comme
+    une correspondance forte : c'est le cas des films en plusieurs parties.
+    """
+    # Le titre complet d'abord : lui seul peut atteindre 1.00.
+    meilleur = difflib.SequenceMatcher(None, cle_de_titre(a or ""), cle_de_titre(b or "")).ratio()
+
+    # Puis les versions tronquees, plafonnees a 0.95 pour qu'une correspondance
+    # exacte l'emporte toujours : sinon 'Dune' capterait 'Dune : Deuxieme Partie'
+    # aussi bien que le vrai 'Dune'.
+    for va in variantes_de_titre(a or ""):
+        for vb in variantes_de_titre(b or ""):
+            ca, cb = cle_de_titre(va), cle_de_titre(vb)
+            if not ca or not cb:
+                continue
+            score = difflib.SequenceMatcher(None, ca, cb).ratio()
+            court, long_ = sorted((ca.split(), cb.split()), key=len)
+            if len(court) >= 2 and long_[:len(court)] == court:
+                score = max(score, 0.90)      # l'un commence exactement par l'autre
+            meilleur = max(meilleur, min(score, PLAFOND_VARIANTE))
+    return meilleur
 
 
 def chercher_sur_tmdb(titre, titre_original, annee):
@@ -705,11 +754,12 @@ def chercher_sur_tmdb(titre, titre_original, annee):
     sortie francaise peut suivre la sortie d'origine de plusieurs annees.
     """
     tentatives = []
-    if titre:
-        tentatives.append((titre, annee))
-        tentatives.append((titre, None))
+    for variante in variantes_de_titre(titre or ""):
+        tentatives.append((variante, annee))
+        tentatives.append((variante, None))
     if titre_original and titre_original != titre:
-        tentatives.append((titre_original, annee))
+        for variante in variantes_de_titre(titre_original):
+            tentatives.append((variante, annee))
 
     meilleur = None
     for recherche, an in tentatives:
@@ -723,8 +773,9 @@ def chercher_sur_tmdb(titre, titre_original, annee):
 
         for trouve in resultats[:10]:
             score = max(
+                ressemblance(titre or recherche, trouve.get("title") or ""),
+                ressemblance(titre or recherche, trouve.get("original_title") or ""),
                 ressemblance(recherche, trouve.get("title") or ""),
-                ressemblance(recherche, trouve.get("original_title") or ""),
             )
             # L'annee ne sert que de garde-fou secondaire : un titre quasi
             # identique l'emporte. Un anime sorti en France dix ans apres le
@@ -1188,10 +1239,13 @@ def description_texte(film):
 
     # la mention legale, un peu detachee du synopsis
     respiration = "\n" * max(0, LIGNES_AVANT_MENTION - 1)
-    pied = f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
-    if film.get("evenement"):
-        pied += "Séance relevée sur AlloCiné.\n"
-    pied += "Données fournies par The Movie Database (TMDB)"
+    if film.get("source") == "allocine":
+        pied = "Séance et informations relevées sur AlloCiné"
+    else:
+        pied = f"Fiche TMDB : {LIEN_TMDB}{film['id']}\n\n"
+        if film.get("evenement"):
+            pied += "Séance relevée sur AlloCiné.\n"
+        pied += "Données fournies par The Movie Database (TMDB)"
     blocs.append(respiration + pied)
 
     return "\n\n".join(blocs)
@@ -1366,7 +1420,7 @@ def construire_ics(films, nom_calendrier=NOM_DU_CALENDRIER):
         if INCLURE_VERSION_HTML:
             lignes.append(f"X-ALT-DESC;FMTTYPE=text/html:{echapper(description_html(film))}")
         lignes += [
-            f"URL:{LIEN_TMDB}{film['id']}",
+            *([] if film.get("source") == "allocine" else [f"URL:{LIEN_TMDB}{film['id']}"]),
             "TRANSP:OPAQUE" if film.get("debut_utc") else "TRANSP:TRANSPARENT",
         ]
 
@@ -1389,6 +1443,40 @@ def construire_ics(films, nom_calendrier=NOM_DU_CALENDRIER):
 
     lignes.append("END:VCALENDAR")
     return "\r\n".join(plier(ligne) for ligne in lignes) + "\r\n"
+
+
+def film_depuis_allocine(fiche):
+    """Fiche minimale batie sur les seules donnees AlloCine.
+
+    Sert de repli quand le film n'est pas retrouve sur TMDB : sans cela, toutes
+    les seances de ce film disparaitraient du calendrier. Les lignes qu'AlloCine
+    ne fournit pas (scenario, photographie, acteurs, pays) restent absentes.
+    """
+    realisateurs = []
+    for credit in fiche.get("credits") or []:
+        if (credit.get("position") or {}).get("name") == "DIRECTOR":
+            personne = credit.get("person") or {}
+            nom = f"{personne.get('firstName') or ''} {personne.get('lastName') or ''}".strip()
+            if nom and nom not in realisateurs:
+                realisateurs.append(nom)
+
+    secondes = fiche.get("runtime") or 0          # AlloCine compte en secondes
+    return {
+        "source": "allocine",
+        "id": fiche.get("internalId"),
+        "date": date.today().isoformat(),
+        "titre": (fiche.get("title") or "").strip(),
+        "titre_original": (fiche.get("originalTitle") or "").strip(),
+        "titre_romanise": None, "titre_anglais": "",
+        "pays": [], "genres": [g.get("translate") for g in (fiche.get("genres") or []) if g.get("translate")],
+        "realisateurs": realisateurs, "scenaristes": [], "photographie": [],
+        "production": [], "acteurs": [],
+        "synopsis": (fiche.get("synopsisFull") or "").strip(),
+        "synopsis_en_anglais": False,
+        "affiche": (fiche.get("poster") or {}).get("url"),
+        "duree": round(secondes / 60) if secondes > 300 else secondes,
+        "langue_origine": None, "sortie_initiale": None,
+    }
 
 
 def calendrier_des_seances():
@@ -1417,14 +1505,17 @@ def calendrier_des_seances():
         titre = (fiche.get("title") or "").strip()
         _, annee = sortie_originale(fiche)
         trouve = chercher_sur_tmdb(titre, (fiche.get("originalTitle") or "").strip(), annee)
-        if not trouve:
-            introuvables += 1
-            print(f"    ? {titre} ({annee}) - aucune correspondance fiable sur TMDB, ignore")
-            continue
-
-        detail = details_du_film({"id": trouve[0], "date": date.today().isoformat(), "impose": True})
+        detail = None
+        if trouve:
+            detail = details_du_film({"id": trouve[0], "date": date.today().isoformat(), "impose": True})
         if not detail:
-            continue
+            # plutot que de perdre toutes ses seances, on batit la fiche avec
+            # ce qu'AlloCine fournit : note plus pauvre, mais rien ne disparait
+            introuvables += 1
+            print(f"    ~ {titre} ({annee}) - pas sur TMDB, fiche AlloCine utilisee")
+            detail = film_depuis_allocine(fiche)
+            if not detail["titre"]:
+                continue
 
         duree = int(detail.get("duree") or 0) or 120
         for seance in sorted(seances, key=lambda x: x["debut"]):
@@ -1457,7 +1548,7 @@ def calendrier_des_seances():
             ))
 
     print(f"  {len(evenements)} seances retenues"
-          + (f", {introuvables} films sans correspondance TMDB" if introuvables else ""))
+          + (f", dont les seances de {introuvables} films decrits par AlloCine" if introuvables else ""))
     return sorted(evenements, key=lambda e: e["debut_utc"])
 
 
@@ -1471,8 +1562,9 @@ def ecrire_calendrier(films, chemin, nom):
         fichier.write(contenu)
     taille = len(contenu.encode("utf-8")) / 1024
     retenus = sum(1 for f in films if titre_pour_agenda(f))
-    quoi = "seances" if any(f.get("debut_utc") for f in films) else "films"
-    print(f"  {retenus} {quoi} ecrites dans {chemin} ({taille:.0f} Ko)")
+    horodates = any(f.get("debut_utc") for f in films)
+    quoi = "seances ecrites" if horodates else "films ecrits"
+    print(f"  {retenus} {quoi} dans {chemin} ({taille:.0f} Ko)")
     return retenus
 
 
