@@ -50,13 +50,13 @@ ALLOCINE_NOM = "Pathé Montpellier Odysseum"
 # que de garde-fou : elle borne le pire cas si la detection des jours vides ne
 # se declenchait pas. Si le journal signale des seances jusqu'au dernier jour
 # lu, c'est le moment de l'augmenter.
-ALLOCINE_JOURS = 60                # plafond du releve, en jours
+ALLOCINE_JOURS = 120               # plafond du releve, en jours
 # Arret anticipe apres autant de jours vides d'affilee. Mettre cette valeur a
 # ALLOCINE_JOURS (ou plus) desactive l'arret : la fenetre est alors lue en
 # entier. C'est le choix retenu, car Pathe programme par cycles hebdomadaires :
 # les seances ordinaires s'arretent apres 1 a 2 semaines, mais un evenement
 # peut etre place bien plus loin, precede d'une longue plage vide.
-ALLOCINE_JOURS_VIDES_MAX = 60      # = ALLOCINE_JOURS -> fenetre lue en entier
+ALLOCINE_JOURS_VIDES_MAX = 120     # = ALLOCINE_JOURS -> fenetre lue en entier
 ALLOCINE_PAUSE = 0.2               # pause entre deux requetes, en secondes
 ALLOCINE_JOURNAL_DETAILLE = True   # liste chaque film vu et pourquoi il est retenu ou non
 
@@ -65,7 +65,7 @@ ALLOCINE_JOURNAL_DETAILLE = True   # liste chaque film vu et pourquoi il est ret
 # ramenait le premier resultat venu (Endgame, Star Wars...) et polluait le
 # calendrier. Mieux vaut un film manquant qu'un film faux.
 SEUIL_CORRESPONDANCE = 0.85        # 1.0 = titre identique, 0.85 = tres proche
-TOLERANCE_ANNEE = 5                # ecart tolere entre sortie francaise et sortie d'origine
+TOLERANCE_ANNEE = 12               # ecart tolere entre sortie francaise et sortie d'origine
 
 # Un film est considere comme "seance evenement" si sa sortie d'origine remonte
 # a plus de X mois : c'est ce qui distingue une reprise (Akira 1988, Terminator 2
@@ -96,7 +96,7 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
 # surtout les sorties lointaines. Le journal affiche la repartition reelle
 # pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
-POPULARITE_MINIMALE = 3.0
+POPULARITE_MINIMALE = 2.0
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
@@ -243,6 +243,7 @@ def lister_sorties():
         page += 1
 
     afficher_repartition(scores)
+    lister_sorties.derniers_scores = scores      # reutilise pour la couverture cinema
     return list(films.values())
 
 
@@ -271,12 +272,23 @@ def afficher_repartition(scores):
     for seuil in PALIERS_POPULARITE:
         restants = sum(1 for v in valeurs if v >= seuil)
         perdus = [t for v, t in scores if precedent <= v < seuil]
-        exemples = ", ".join(t[:26] for t in perdus[:3])
-        if len(perdus) > 3:
-            exemples += f", +{len(perdus) - 3}"
+        exemples = ", ".join(t[:24] for t in perdus[:5])
+        if len(perdus) > 5:
+            exemples += f", +{len(perdus) - 5}"
         marque = " <-" if abs(seuil - POPULARITE_MINIMALE) < 0.001 else "   "
         print(f"  {seuil:>5}{marque} {restants:>7}  {len(perdus):>6}  {exemples}")
         precedent = seuil
+
+    # Ce que votre reglage actuel ecarte, du plus populaire au moins populaire.
+    # Si aucun de ces titres ne vous interesse, le seuil est bien choisi.
+    exclus = sorted(((v, t) for v, t in scores if v < POPULARITE_MINIMALE), reverse=True)
+    if exclus:
+        print(f"\n  Les {min(20, len(exclus))} films les plus populaires que vous excluez"
+              f" (seuil {POPULARITE_MINIMALE}) :")
+        for valeur, titre in exclus[:20]:
+            print(f"    {valeur:6.1f}  {titre}")
+        if len(exclus) > 20:
+            print(f"    ... et {len(exclus) - 20} autres, moins populaires encore")
 
 
 def est_en_alphabet_latin(texte):
@@ -439,6 +451,9 @@ def date_de_sortie_francaise(fiche):
 
 
 def details_du_film(film):
+    if not isinstance(film.get("id"), int):
+        raise TypeError(f"identifiant TMDB invalide : {film.get('id')!r} (un entier est attendu)")
+
     """Une requete par film : fiche + generique, grace a append_to_response."""
     try:
         fiche = appel_api(
@@ -695,14 +710,17 @@ def chercher_sur_tmdb(titre, titre_original, annee):
             continue
 
         for trouve in resultats[:10]:
-            annee_tmdb = (trouve.get("release_date") or "")[:4]
-            if annee and annee_tmdb.isdigit():
-                if abs(int(annee_tmdb) - annee) > TOLERANCE_ANNEE:
-                    continue
             score = max(
                 ressemblance(recherche, trouve.get("title") or ""),
                 ressemblance(recherche, trouve.get("original_title") or ""),
             )
+            # L'annee ne sert que de garde-fou secondaire : un titre quasi
+            # identique l'emporte. Un anime sorti en France dix ans apres le
+            # Japon serait sinon rejete a tort.
+            annee_tmdb = (trouve.get("release_date") or "")[:4]
+            if score < 0.97 and annee and annee_tmdb.isdigit():
+                if abs(int(annee_tmdb) - annee) > TOLERANCE_ANNEE:
+                    continue
             if score >= SEUIL_CORRESPONDANCE and (meilleur is None or score > meilleur[2]):
                 meilleur = (trouve["id"], trouve.get("title") or "", score)
 
@@ -710,6 +728,59 @@ def chercher_sur_tmdb(titre, titre_original, annee):
             break
 
     return meilleur
+
+
+def couverture_du_cinema(scores, seances):
+    """Quel seuil de popularite faut-il pour voir les films de VOTRE cinema ?
+
+    Le tableau de repartition dit combien de films on garde sur l'ensemble des
+    sorties nationales. Ce n'est pas la bonne question : ce qui compte, c'est
+    combien de films REELLEMENT PROJETES pres de chez vous survivent au filtre.
+    On croise donc la programmation du cinema avec la popularite TMDB.
+    """
+    if not scores or not seances:
+        return
+
+    # popularite des sorties TMDB, indexee par titre simplifie
+    popularites = {}
+    for valeur, titre in scores:
+        cle = cle_de_titre(titre)
+        if cle:
+            popularites[cle] = max(valeur, popularites.get(cle, 0))
+
+    apparies, absents = [], []
+    for _, (_, fiche) in seances.items():
+        titre = (fiche.get("title") or "").strip()
+        cle = cle_de_titre(titre)
+        if cle in popularites:
+            apparies.append((popularites[cle], titre))
+        else:
+            absents.append(titre)
+
+    print(f"\n=== Couverture de {ALLOCINE_NOM} selon le seuil ===")
+    print(f"  {len(seances)} films a l'affiche, {len(apparies)} retrouves dans les sorties TMDB")
+    if absents:
+        print(f"  {len(absents)} absents des sorties TMDB (reprises, evenements, titres differents)")
+    if not apparies:
+        return
+
+    print("\n  seuil  films du cinema conserves")
+    print("  " + "-" * 40)
+    for seuil in PALIERS_POPULARITE:
+        gardes = sum(1 for v, _ in apparies if v >= seuil)
+        part = gardes / len(apparies) * 100
+        marque = " <- actuel" if abs(seuil - POPULARITE_MINIMALE) < 0.001 else ""
+        barre = "#" * round(part / 5)
+        print(f"  {seuil:>5}  {gardes:>3}/{len(apparies)} ({part:>3.0f}%) {barre}{marque}")
+
+    perdus = sorted((v, t) for v, t in apparies if v < POPULARITE_MINIMALE)
+    if perdus:
+        print(f"\n  Films projetes chez vous mais ABSENTS de votre calendrier"
+              f" (seuil {POPULARITE_MINIMALE}) :")
+        for valeur, titre in reversed(perdus):
+            print(f"    {valeur:6.1f}  {titre}")
+    else:
+        print(f"\n  Aucun film de votre cinema n'est perdu au seuil {POPULARITE_MINIMALE}.")
 
 
 def seances_evenement():
@@ -733,6 +804,8 @@ def seances_evenement():
         print("  aucune seance recuperee (page modifiee, requete bloquee, ou panne)")
         return []
 
+    couverture_du_cinema(getattr(lister_sorties, "derniers_scores", []), seances)
+
     limite = date.today().year - (ANCIENNETE_REPRISE_MOIS // 12)
     retenus, ecartes = [], []
     for identifiant, (jour, fiche) in seances.items():
@@ -750,7 +823,9 @@ def seances_evenement():
         else:
             retenus.append((jour, fiche, annee, premiere, False))
 
-    print(f"  {len(seances)} films a l'affiche, {len(retenus)} reprises reperees")
+    nb_avp = sum(1 for r in retenus if r[4])
+    print(f"  {len(seances)} films a l'affiche, {len(retenus)} retenus"
+          f" ({len(retenus) - nb_avp} reprises, {nb_avp} avant-premieres)")
     if ALLOCINE_JOURNAL_DETAILLE and ecartes:
         print(f"  ecartes ({len(ecartes)}) - seuil : sorti avant {limite + 1}")
         for titre, raison in sorted(ecartes):
@@ -761,10 +836,13 @@ def seances_evenement():
     films = []
     for jour, fiche, annee, premiere, avant_premiere in sorted(retenus, key=lambda x: x[0]):
         titre = (fiche.get("title") or "").strip()
-        identifiant_tmdb = chercher_sur_tmdb(titre, (fiche.get("originalTitle") or "").strip(), annee)
-        if not identifiant_tmdb:
-            print(f"    ? {jour}  {titre} ({annee}) - introuvable sur TMDB, ignore")
+        trouve = chercher_sur_tmdb(titre, (fiche.get("originalTitle") or "").strip(), annee)
+        if not trouve:
+            print(f"    ? {jour}  {titre} ({annee}) - aucune correspondance fiable sur TMDB, ignore")
             continue
+        identifiant_tmdb, titre_tmdb, score = trouve
+        if score < 0.99:
+            print(f"      {titre!r} rapproche de {titre_tmdb!r} (proximite {score:.2f})")
         detail = details_du_film({"id": identifiant_tmdb, "date": jour, "impose": True})
         if detail:
             detail["evenement"] = True
