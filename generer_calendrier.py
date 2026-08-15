@@ -15,7 +15,6 @@ Aucune dependance externe : uniquement la bibliotheque standard de Python.
 
 VERSION = "1.1"
 
-import base64
 import difflib
 import json
 import os
@@ -65,12 +64,16 @@ ALLOCINE_JOURNAL_DETAILLE = True   # liste chaque film vu et pourquoi il est ret
 # ramenait le premier resultat venu (Endgame, Star Wars...) et polluait le
 # calendrier. Mieux vaut un film manquant qu'un film faux.
 SEUIL_CORRESPONDANCE = 0.85        # 1.0 = titre identique, 0.85 = tres proche
-TOLERANCE_ANNEE = 12               # ecart tolere entre sortie francaise et sortie d'origine
+# En ANNEES, pas en mois. Un film peut sortir en France bien apres son pays
+# d'origine : Bleach, 2006 au Japon, 2015 en France, soit 9 ans d'ecart.
+# Ce controle ne s'applique QUE si le titre ne correspond pas presque a
+# l'identique (score < 0.97) : un titre exact l'emporte toujours.
+TOLERANCE_ANNEE = 12               # annees
 
 # Un film est considere comme "seance evenement" si sa sortie d'origine remonte
 # a plus de X mois : c'est ce qui distingue une reprise (Akira 1988, Terminator 2
 # 1991, Harry Potter 2001) d'un film normalement a l'affiche.
-ANCIENNETE_REPRISE_MOIS = 12
+ANCIENNETE_REPRISE_MOIS = 12       # mois
 INCLURE_AVANT_PREMIERES = True     # les avant-premieres du cinema comptent comme evenements
 
 # Ecart minimal, en jours, entre la sortie d'origine et la date retenue pour
@@ -96,7 +99,7 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
 # surtout les sorties lointaines. Le journal affiche la repartition reelle
 # pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
-POPULARITE_MINIMALE = 2.0
+POPULARITE_MINIMALE = 1
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
@@ -110,13 +113,6 @@ NOMBRE_SCENARISTES = 3     # nombre de scenaristes affiches au maximum
 # (585 px de large = 877 px de haut) : l'affiche est toujours entiere.
 TAILLE_AFFICHE = "w780"            # w92 w154 w185 w342 w500 w780 original
 
-# Piece jointe. Apple Calendrier sait afficher les pieces jointes d'un calendrier
-# abonne, a condition de decocher "Supprimer : Pieces jointes" a l'abonnement.
-# En mode integre, l'image est incorporee au fichier au lieu d'etre un simple lien :
-# plus de chance d'etre affichee, mais le fichier grossit beaucoup.
-AFFICHE_INTEGREE = True            # True = image incorporee dans le fichier
-TAILLE_AFFICHE_INTEGREE = "w342"   # resolution des images incorporees
-JOURS_AFFICHE_INTEGREE = 45        # on n'incorpore que les sorties les plus proches
 LARGEUR_AFFICHE_HTML = 220         # largeur d'affichage de l'affiche dans Outlook, en pixels
 ECART_AFFICHE_TEXTE = 16           # espace entre l'affiche et la colonne de texte, en pixels
 
@@ -534,7 +530,6 @@ def details_du_film(film):
         "synopsis": synopsis,
         "synopsis_en_anglais": synopsis_en_anglais,
         "affiche": fiche.get("poster_path"),
-        "affiche_base64": None,
     }
 
 
@@ -871,47 +866,6 @@ def accorder(libelle_singulier, libelle_pluriel, personnes):
     return libelle_pluriel if len(personnes) > 1 else libelle_singulier
 
 
-def telecharger_affiche(chemin):
-    """Telecharge une affiche et la renvoie encodee en base64, ou None."""
-    url = f"{BASE_IMAGES}{TAILLE_AFFICHE_INTEGREE}{chemin}"
-    try:
-        requete = urllib.request.Request(url, headers={"User-Agent": "calendrier-cine-fr"})
-        with urllib.request.urlopen(requete, timeout=30) as reponse:
-            return base64.b64encode(reponse.read()).decode("ascii")
-    except Exception as erreur:  # noqa: BLE001
-        print(f"  affiche non telechargee ({chemin}) : {erreur}", file=sys.stderr)
-        return None
-
-
-def integrer_affiches(films):
-    """Incorpore les affiches des sorties proches. Les autres restent en lien."""
-    if not AFFICHE_INTEGREE:
-        return
-
-    limite = date.today() + timedelta(days=JOURS_AFFICHE_INTEGREE)
-    concernes = [
-        f for f in films
-        if f["affiche"] and not f["affiche"].startswith("http")
-        and datetime.strptime(f["date"], "%Y-%m-%d").date() <= limite
-    ]
-    if not concernes:
-        return
-
-    print(f"\nIncorporation des affiches ({len(concernes)} films sur {len(films)})...")
-    with ThreadPoolExecutor(max_workers=FILS_PARALLELES) as executeur:
-        images = list(executeur.map(lambda f: telecharger_affiche(f["affiche"]), concernes))
-
-    poids = 0
-    for film, image in zip(concernes, images):
-        film["affiche_base64"] = image
-        poids += len(image or "")
-    mega = poids / 1048576
-    print(f"  {sum(1 for i in images if i)} affiches incorporees ({mega:.1f} Mo ajoutes)")
-    if mega > 12:
-        print("  ATTENTION : fichier tres lourd, retelecharge a chaque rafraichissement.")
-        print("  Reduisez JOURS_AFFICHE_INTEGREE ou TAILLE_AFFICHE_INTEGREE.")
-
-
 def url_affiche(chemin):
     """Adresse de l'affiche. AlloCine fournit une adresse complete, TMDB un chemin."""
     if not chemin:
@@ -1222,14 +1176,7 @@ def construire_ics(films, nom_calendrier=NOM_DU_CALENDRIER):
             # (RFC 7986). Ce n'est pas une taille en pixels, juste une intention.
             lignes.append(f"IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:{affiche}")
 
-            integree = film.get("affiche_base64")
-            if integree:
-                # image incorporee au fichier : plus lourde, mais autonome
-                lignes.append(
-                    "ATTACH;FMTTYPE=image/jpeg;ENCODING=BASE64;VALUE=BINARY:" + integree
-                )
-            else:
-                lignes.append(f"ATTACH;FMTTYPE=image/jpeg:{affiche}")
+            lignes.append(f"ATTACH;FMTTYPE=image/jpeg:{affiche}")
 
         if film["genres"]:
             # Dans CATEGORIES la virgule separe les valeurs : on echappe chaque
@@ -1269,7 +1216,6 @@ def main():
     films = enrichir(sorties)
     if not films:
         sys.exit("ERREUR : aucune fiche exploitable. Fichier non ecrit.")
-    integrer_affiches(films)
 
     ecartes = [f for f in films if not titre_pour_agenda(f)]
     print("\n=== Calendrier principal ===")
@@ -1290,7 +1236,6 @@ def main():
     # --- second calendrier : les seances evenement du cinema ---
     evenements = seances_evenement()
     if evenements:
-        integrer_affiches(evenements)
         ecrire_calendrier(evenements, FICHIER_EVENEMENTS, NOM_CALENDRIER_EVENEMENTS)
     else:
         print("  aucune seance evenement : fichier inchange")
