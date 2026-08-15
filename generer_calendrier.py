@@ -111,7 +111,7 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
 # surtout les sorties lointaines. Le journal affiche la repartition reelle
 # pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
-POPULARITE_MINIMALE = 1.4
+POPULARITE_MINIMALE = 1.0
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
@@ -872,11 +872,16 @@ FORMATS_LISIBLES = {
     "E_IMAX": "IMAX", "IMAX": "IMAX", "IMAX_EXPERIENCE": "IMAX", "IMAX_3D": "IMAX 3D",
     "E_SCREENX": "ScreenX", "SCREENX": "ScreenX",
     "E_DOLBY_CINEMA": "Dolby Cinema", "DOLBY_CINEMA": "Dolby Cinema",
-    "PLF": "Grand format", "E_PLF": "Grand format",
+    # PLF = Premium Large Format. AlloCine l'emploie au sens large de "salle
+    # haut de gamme" : votre seance 4DX en porte la mention, alors qu'une salle
+    # 4DX n'est pas une salle grand ecran.
+    "PLF": "Salle premium", "E_PLF": "Salle premium", "PREMIUM_LARGE_FORMAT": "Salle premium",
     "THREE_D": "3D", "3D": "3D", "SEVENTY_MM": "70mm", "70MM": "70mm",
     "ICE": "ICE", "E_ICE": "ICE",
     "DOLBY_ATMOS": "Dolby Atmos", "ATMOS": "Dolby Atmos", "DTS_X": "DTS:X",
-    "HDR": "HDR", "LASER": "Laser", "FOUR_K": "4K",
+    "HDR": "HDR", "LASER": "Laser", "IMAX_LASER": "IMAX Laser", "FOUR_K": "4K",
+    "IMAX70MM": "IMAX 70mm", "IMAX_70MM": "IMAX 70mm", "E_IMAX_70MM": "IMAX 70mm",
+    "70": "70mm", "FILM_70MM": "70mm", "35MM": "35mm", "PELLICULE": "Pellicule",
     "CONFORT": "Confort", "PREMIUM": "Premium", "VIP": "VIP",
     # reconnus mais sans interet a l'affichage
     "DIGITAL": None, "TWO_D": None, "STANDARD": None, "CLASSIC": None,
@@ -886,6 +891,24 @@ FORMATS_LISIBLES = {
 # (DISABLED_ACCESS), "tags" des libelles techniques et "data" les liens de
 # billetterie : les inclure polluerait le titre des evenements.
 CHAMPS_FORMAT = ("experience", "projection", "picture", "sound", "comfort")
+
+# Les "tags" melangent du format et du bruit. On ne garde que ces prefixes :
+#   Auditorium.Experience.4dx  Format.Projection.70mm  -> retenus
+#   Localization.Language.French  Showtime.Accessibility.*  -> ignores
+PREFIXES_TAGS = ("format.", "auditorium.")
+PREFIXES_TAGS_EXCLUS = ("auditorium.accessibility",)
+
+# Certains formats se combinent : IMAX 70mm n'est ni IMAX seul ni 70mm seul.
+COMBINAISONS_FORMAT = (
+    (("IMAX", "70mm"), "IMAX 70mm"),
+    (("IMAX", "3D"), "IMAX 3D"),
+    (("IMAX", "Laser"), "IMAX Laser"),
+    (("4DX", "3D"), "4DX 3D"),
+    (("ScreenX", "3D"), "ScreenX 3D"),
+    (("Dolby Cinema", "3D"), "Dolby Cinema 3D"),
+)
+
+CODES_RENCONTRES = set()   # diagnostic : tout ce qu'AlloCine a envoye
 
 
 def jetons(valeur, profondeur=0):
@@ -908,18 +931,42 @@ def formats_de_seance(seance):
     de CHAMPS_FORMAT sont lus : le reste de la seance contient de
     l'accessibilite et des liens de billetterie qui n'ont rien a faire ici.
     """
-    trouves = []
+    candidats = []
     for cle in CHAMPS_FORMAT:
-        for jeton in jetons(seance.get(cle)):
-            if not isinstance(jeton, str) or not (2 <= len(jeton) <= 30):
-                continue
-            brut = jeton.strip().upper().replace(" ", "_").replace("-", "_")
-            if brut in FORMATS_LISIBLES:
-                lisible = FORMATS_LISIBLES[brut]
-            else:
-                lisible = jeton.strip().lstrip("E_").replace("_", " ").title()
-            if lisible and lisible not in trouves:
-                trouves.append(lisible)
+        candidats += [j for j in jetons(seance.get(cle)) if isinstance(j, str)]
+
+    # les tags apportent parfois une precision absente des autres champs
+    for tag in jetons(seance.get("tags")):
+        if not isinstance(tag, str):
+            continue
+        bas = tag.lower()
+        if bas.startswith(PREFIXES_TAGS_EXCLUS) or not bas.startswith(PREFIXES_TAGS):
+            continue
+        candidats.append(tag.rsplit(".", 1)[-1])
+
+    trouves = []
+    for jeton in candidats:
+        if not (2 <= len(jeton) <= 30):
+            continue
+        brut = jeton.strip().upper().replace(" ", "_").replace("-", "_")
+        CODES_RENCONTRES.add(jeton.strip())
+        if brut in FORMATS_LISIBLES:
+            lisible = FORMATS_LISIBLES[brut]
+        else:
+            lisible = jeton.strip().lstrip("E_").replace("_", " ").title()
+        if lisible and lisible not in trouves:
+            trouves.append(lisible)
+
+    # IMAX + 70mm doit devenir "IMAX 70mm", pas deux mentions separees
+    for morceaux, ensemble in COMBINAISONS_FORMAT:
+        if all(m in trouves for m in morceaux):
+            for m in morceaux:
+                trouves.remove(m)
+            trouves.insert(0, ensemble)
+
+    # "IMAX 70mm - Salle premium" est redondant : IMAX est deja du premium
+    if any(t.startswith("IMAX") for t in trouves) and "Salle premium" in trouves:
+        trouves.remove("Salle premium")
     return trouves
 
 
@@ -1587,6 +1634,17 @@ def calendrier_des_seances():
                 seance_details=suffixe,
                 titre=f"{detail['titre']} ({suffixe})" if suffixe else detail["titre"],
             ))
+
+    if CODES_RENCONTRES:
+        connus, inconnus = [], []
+        for code in sorted(CODES_RENCONTRES):
+            brut = code.upper().replace(" ", "_").replace("-", "_")
+            (connus if brut in FORMATS_LISIBLES else inconnus).append(code)
+        print(f"\n  Codes de format rencontres chez {ALLOCINE_NOM} :")
+        print(f"    reconnus  : {', '.join(connus) or 'aucun'}")
+        if inconnus:
+            print(f"    INCONNUS  : {', '.join(inconnus)}")
+            print("    (affiches tels quels - signalez-les moi pour les nommer correctement)")
 
     print(f"  {len(evenements)} seances retenues"
           + (f", dont les seances de {introuvables} films decrits par AlloCine" if introuvables else ""))
