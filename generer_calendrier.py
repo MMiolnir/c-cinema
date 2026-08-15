@@ -8,8 +8,12 @@ acteurs principaux, genres et synopsis.
 Toutes les donnees proviennent exclusivement de The Movie Database (TMDB).
 Ce produit utilise l'API TMDB mais n'est ni approuve ni certifie par TMDB.
 
+Version 1.1
+
 Aucune dependance externe : uniquement la bibliotheque standard de Python.
 """
+
+VERSION = "1.1"
 
 import base64
 import difflib
@@ -67,6 +71,7 @@ TOLERANCE_ANNEE = 5                # ecart tolere entre sortie francaise et sort
 # a plus de X mois : c'est ce qui distingue une reprise (Akira 1988, Terminator 2
 # 1991, Harry Potter 2001) d'un film normalement a l'affiche.
 ANCIENNETE_REPRISE_MOIS = 12
+INCLURE_AVANT_PREMIERES = True     # les avant-premieres du cinema comptent comme evenements
 
 # Ecart minimal, en jours, entre la sortie d'origine et la date retenue pour
 # qu'un film soit signale comme une reprise. Evite de marquer comme "reprise"
@@ -75,6 +80,10 @@ ECART_REPRISE_JOURS = 180
 NOM_CALENDRIER_EVENEMENTS = "Séances événement - Pathé Odysseum"
 FICHIER_EVENEMENTS = "docs/c-cinema-evenements.ics"
 
+# Profondeur d'historique. Un calendrier abonne est remplace en entier a chaque
+# rafraichissement : un film disparait de votre agenda des qu'il sort de cette
+# fenetre. Monter cette valeur garde les sorties plus longtemps, au prix d'une
+# requete TMDB par film et par jour (environ 700 sorties par an en France).
 JOURS_AVANT = 14       # on garde les sorties des 2 dernieres semaines
 JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 
@@ -729,12 +738,17 @@ def seances_evenement():
     for identifiant, (jour, fiche) in seances.items():
         premiere, annee = sortie_originale(fiche)
         titre = (fiche.get("title") or "?").strip()
-        if annee is None:
+        avant_premiere = bool((fiche.get("customFlags") or {}).get("isPremiere"))
+
+        if avant_premiere and INCLURE_AVANT_PREMIERES:
+            # une avant-premiere est un evenement quel que soit l'age du film
+            retenus.append((jour, fiche, annee, premiere, True))
+        elif annee is None:
             ecartes.append((titre, "annee de sortie inconnue"))
         elif annee > limite:
             ecartes.append((titre, f"sorti en {annee}, trop recent"))
         else:
-            retenus.append((jour, fiche, annee, premiere))
+            retenus.append((jour, fiche, annee, premiere, False))
 
     print(f"  {len(seances)} films a l'affiche, {len(retenus)} reprises reperees")
     if ALLOCINE_JOURNAL_DETAILLE and ecartes:
@@ -745,7 +759,7 @@ def seances_evenement():
         return []
 
     films = []
-    for jour, fiche, annee, premiere in sorted(retenus, key=lambda x: x[0]):
+    for jour, fiche, annee, premiere, avant_premiere in sorted(retenus, key=lambda x: x[0]):
         titre = (fiche.get("title") or "").strip()
         identifiant_tmdb = chercher_sur_tmdb(titre, (fiche.get("originalTitle") or "").strip(), annee)
         if not identifiant_tmdb:
@@ -754,9 +768,19 @@ def seances_evenement():
         detail = details_du_film({"id": identifiant_tmdb, "date": jour, "impose": True})
         if detail:
             detail["evenement"] = True
-            detail["sortie_initiale"] = premiere.strftime("%d/%m/%Y") if premiere else str(annee)
+            detail["avant_premiere"] = avant_premiere
+            if avant_premiere:
+                # pour une avant-premiere, la date utile est la sortie nationale a venir
+                detail["sortie_initiale"] = None
+                detail["sortie_nationale"] = (
+                    premiere.strftime("%d/%m/%Y")
+                    if premiere and premiere.isoformat() > jour else None
+                )
+            else:
+                detail["sortie_initiale"] = premiere.strftime("%d/%m/%Y") if premiere else str(annee)
             films.append(detail)
-            print(f"    + {jour}  {detail['titre']} ({annee})")
+            marque = "AVP" if avant_premiere else "reprise"
+            print(f"    + {jour}  [{marque}] {detail['titre']} ({annee})")
 
     return films
 
@@ -910,7 +934,12 @@ def description_texte(film):
         identite.append(", ".join(film["genres"]))
     if film.get("pays"):
         identite.append(", ".join(film["pays"]))
-    if film.get("sortie_initiale"):
+    if film.get("avant_premiere"):
+        texte = "Avant-première"
+        if film.get("sortie_nationale"):
+            texte += f" · sortie nationale le {film['sortie_nationale']}"
+        identite.append(texte)
+    elif film.get("sortie_initiale"):
         identite.append(f"(sortie initiale : {film['sortie_initiale']})")
     if identite:
         blocs.append("\n".join(identite))
@@ -969,7 +998,12 @@ def description_html(film):
         identite.append(f"<i>{echapper_html(', '.join(film['genres']))}</i>")
     if film.get("pays"):
         identite.append(echapper_html(", ".join(film["pays"])))
-    if film.get("sortie_initiale"):
+    if film.get("avant_premiere"):
+        texte = "Avant-première"
+        if film.get("sortie_nationale"):
+            texte += f" · sortie nationale le {film['sortie_nationale']}"
+        identite.append(f"<b>{echapper_html(texte)}</b>")
+    elif film.get("sortie_initiale"):
         identite.append(echapper_html(f"(sortie initiale : {film['sortie_initiale']})"))
     if identite:
         droite.append("<br>".join(identite))
@@ -1066,7 +1100,7 @@ def construire_ics(films, nom_calendrier=NOM_DU_CALENDRIER):
     lignes = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//calendrier-cine-fr//FR",
+        f"PRODID:-//calendrier-cine-fr//FR//{VERSION}",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{echapper(nom_calendrier)}",
