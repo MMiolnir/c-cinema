@@ -270,6 +270,142 @@ def afficher_repartition(scores):
         precedent = seuil
 
 
+def est_en_alphabet_latin(texte):
+    """True si le texte ne contient aucune lettre hors alphabet latin.
+
+    Les accents, cedilles et autres diacritiques restent du latin : seuls les
+    kanji, hangul, cyrillique, arabe, grec, thai... declenchent une romanisation.
+    """
+    for caractere in texte:
+        if caractere.isalpha():
+            nom = unicodedata.name(caractere, "")
+            if not nom.startswith("LATIN"):
+                return False
+    return True
+
+
+def pays_d_origine(fiche):
+    """Codes pays d'origine du film, tels que TMDB les renvoie."""
+    pays = list(fiche.get("origin_country") or [])
+    for bloc in fiche.get("production_countries") or []:
+        code = bloc.get("iso_3166_1")
+        if code and code not in pays:
+            pays.append(code)
+    return pays
+
+
+def noms_des_pays(fiche):
+    """Noms des pays de production, tels que TMDB les ecrit dans la fiche.
+
+    Aucune traduction : TMDB ne traduit pas les noms de pays sur son API, et
+    cela evite d'introduire une source exterieure. Pas d'appel supplementaire
+    non plus : le nom est deja dans la fiche du film.
+    """
+    noms = []
+    for bloc in fiche.get("production_countries") or []:
+        nom = (bloc.get("name") or "").strip()
+        if nom and nom not in noms:
+            noms.append(nom)
+    if not noms:  # a defaut, les codes ISO bruts
+        noms = list(fiche.get("origin_country") or [])
+    return noms
+
+
+def romanisation(fiche, titre_original):
+    """Version en alphabet latin du titre original, cherchee UNIQUEMENT sur TMDB.
+
+    TMDB n'a pas de champ dedie au romaji : sa charte demande de ranger les
+    titres romanises dans les titres alternatifs, avec le pays d'origine comme
+    pays. On cherche donc, dans l'ordre :
+      1. un titre alternatif dont le type mentionne romanisation ou translitteration
+      2. un titre alternatif du pays d'origine ecrit en alphabet latin
+      3. rien - on renvoie None et on laisse le titre original tel quel
+    """
+    if not titre_original or est_en_alphabet_latin(titre_original):
+        return None
+
+    alternatifs = (fiche.get("alternative_titles") or {}).get("titles") or []
+    latins = [
+        t for t in alternatifs
+        if (t.get("title") or "").strip() and est_en_alphabet_latin(t["title"])
+    ]
+
+    for entree in latins:                       # 1. le type l'annonce explicitement
+        type_ = (entree.get("type") or "").lower()
+        if "roman" in type_ or "translit" in type_:
+            return entree["title"].strip()
+
+    origines = pays_d_origine(fiche)            # 2. depose sur le pays d'origine
+    for entree in latins:
+        if entree.get("iso_3166_1") in origines:
+            return entree["title"].strip()
+
+    return None
+
+
+def traduction(fiche, langue):
+    """Bloc 'data' de la traduction demandee, ou {} si elle n'existe pas.
+
+    TMDB ne fait pas de repli automatique entre langues sur l'API, contrairement
+    au site : il faut donc aller chercher la traduction nous-memes. On privilegie
+    la variante americaine, puis britannique, puis n'importe laquelle.
+    """
+    blocs = (fiche.get("translations") or {}).get("translations") or []
+    candidats = [t for t in blocs if t.get("iso_639_1") == langue]
+    candidats.sort(key=lambda t: {"US": 0, "GB": 1}.get(t.get("iso_3166_1"), 2))
+    for candidat in candidats:
+        donnees = candidat.get("data") or {}
+        if donnees.get("title") or donnees.get("overview"):
+            return donnees
+    return {}
+
+
+def acteurs_principaux(distribution):
+    """Tete d'affiche : l'ordre du generique TMDB, plafonne a ACTEURS_MAX.
+
+    TMDB classe deja la distribution par importance, le premier role en tete.
+    On s'y fie plutot que de deviner : le premier acteur est ainsi toujours
+    present, et la liste ne bouge pas d'un mois a l'autre.
+    """
+    classee = sorted(
+        [p for p in distribution if (p.get("name") or "").strip()],
+        key=lambda p: p.get("order", 999),
+    )
+    return [p["name"].strip() for p in classee[:ACTEURS_MAX]]
+
+
+def personnes_par_metier(equipe, metiers):
+    """Noms des membres de l'equipe occupant l'un des metiers, sans doublon.
+
+    Les noms sont repris tels quels depuis TMDB, sans transformation.
+    L'ordre suit la priorite des metiers : un 'Screenplay' passe avant un 'Writer'.
+    """
+    trouves = []
+    for metier in metiers:
+        for personne in equipe:
+            nom = (personne.get("name") or "").strip()
+            if personne.get("job") == metier and nom and nom not in trouves:
+                trouves.append(nom)
+    return trouves
+
+
+def sorties_salle_francaises(fiche):
+    """Toutes les dates de sortie en salles en France, triees."""
+    types_voulus = {int(t) for t in TYPES_DE_SORTIE.split("|") if t.strip().isdigit()}
+    jours = []
+    for pays in (fiche.get("release_dates") or {}).get("results", []):
+        if pays.get("iso_3166_1") != REGION:
+            continue
+        for sortie in pays.get("release_dates", []):
+            if sortie.get("type") not in types_voulus:
+                continue
+            try:
+                jours.append(datetime.strptime((sortie.get("release_date") or "")[:10], "%Y-%m-%d").date())
+            except ValueError:
+                continue
+    return sorted(jours)
+
+
 def date_de_sortie_francaise(fiche):
     """Date de sortie en SALLES en France dans la fenetre, ou None.
 
