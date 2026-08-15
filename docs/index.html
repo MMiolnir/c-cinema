@@ -40,6 +40,12 @@ Akira, Terminator 2, les rétrospectives Harry Potter…</p>
 <code id="lien-evenements"></code>
 <p><a class="bouton" id="abonnement-evenements" href="#">S'abonner</a></p>
 
+<h2>Toutes les séances</h2>
+<p>Chaque séance du Pathé Montpellier Odysseum sur 14 jours, avec ses horaires
+réels de début et de fin. Calendrier volumineux : à réserver à un agenda dédié.</p>
+<code id="lien-seances"></code>
+<p><a class="bouton" id="abonnement-seances" href="#">S'abonner</a></p>
+
 <h2>Comment s'abonner</h2>
 
 <p>
@@ -58,7 +64,8 @@ Akira, Terminator 2, les rétrospectives Harry Potter…</p>
 <script>
   var base = location.origin + location.pathname.replace(/index\.html$/, '');
   [['lien', 'abonnement', 'c-cinema.ics'],
-   ['lien-evenements', 'abonnement-evenements', 'c-cinema-evenements.ics']]
+   ['lien-evenements', 'abonnement-evenements', 'c-cinema-evenements.ics'],
+   ['lien-seances', 'abonnement-seances', 'c-cinema-seances.ics']]
   .forEach(function (e) {
     var url = base + e[2];
     document.getElementById(e[0]).textContent = url;
