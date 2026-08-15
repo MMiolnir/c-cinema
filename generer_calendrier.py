@@ -12,7 +12,6 @@ Aucune dependance externe : uniquement la bibliotheque standard de Python.
 """
 
 import base64
-import difflib
 import json
 import os
 import sys
@@ -56,22 +55,10 @@ ALLOCINE_JOURS_VIDES_MAX = 60      # = ALLOCINE_JOURS -> fenetre lue en entier
 ALLOCINE_PAUSE = 0.2               # pause entre deux requetes, en secondes
 ALLOCINE_JOURNAL_DETAILLE = True   # liste chaque film vu et pourquoi il est retenu ou non
 
-# Rapprochement AlloCine -> TMDB. Un film n'est retenu que si le titre correspond
-# vraiment : sans ce garde-fou, une seance evenement sans equivalent TMDB
-# ramenait le premier resultat venu (Endgame, Star Wars...) et polluait le
-# calendrier. Mieux vaut un film manquant qu'un film faux.
-SEUIL_CORRESPONDANCE = 0.85        # 1.0 = titre identique, 0.85 = tres proche
-TOLERANCE_ANNEE = 5                # ecart tolere entre sortie francaise et sortie d'origine
-
 # Un film est considere comme "seance evenement" si sa sortie d'origine remonte
 # a plus de X mois : c'est ce qui distingue une reprise (Akira 1988, Terminator 2
 # 1991, Harry Potter 2001) d'un film normalement a l'affiche.
 ANCIENNETE_REPRISE_MOIS = 12
-
-# Ecart minimal, en jours, entre la sortie d'origine et la date retenue pour
-# qu'un film soit signale comme une reprise. Evite de marquer comme "reprise"
-# une simple progression sortie limitee -> sortie nationale.
-ECART_REPRISE_JOURS = 180
 NOM_CALENDRIER_EVENEMENTS = "Séances événement - Pathé Odysseum"
 FICHIER_EVENEMENTS = "docs/c-cinema-evenements.ics"
 
@@ -87,7 +74,7 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
 # surtout les sorties lointaines. Le journal affiche la repartition reelle
 # pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
-POPULARITE_MINIMALE = 4.0
+POPULARITE_MINIMALE = 3.0
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
@@ -376,44 +363,34 @@ def personnes_par_metier(equipe, metiers):
     return trouves
 
 
-def sorties_salle_francaises(fiche):
-    """Toutes les dates de sortie en salles en France, triees."""
+def date_de_sortie_francaise(fiche, defaut):
+    """Date de sortie en salles en France, lue dans la fiche du film.
+
+    Le point important pour les RESSORTIES : un film ancien peut avoir plusieurs
+    dates francaises (1991 pour la sortie d'origine, 2026 pour la reprise). On
+    prend celle qui tombe dans la fenetre du calendrier, pas la premiere venue,
+    sinon un film de 1988 atterrirait en 1988 dans votre agenda.
+    """
+    debut = date.today() - timedelta(days=JOURS_AVANT)
+    fin = date.today() + timedelta(days=JOURS_APRES)
     types_voulus = {int(t) for t in TYPES_DE_SORTIE.split("|") if t.strip().isdigit()}
-    jours = []
+
+    candidates = []
     for pays in (fiche.get("release_dates") or {}).get("results", []):
         if pays.get("iso_3166_1") != REGION:
             continue
         for sortie in pays.get("release_dates", []):
             if sortie.get("type") not in types_voulus:
                 continue
+            brut = (sortie.get("release_date") or "")[:10]
             try:
-                jours.append(datetime.strptime((sortie.get("release_date") or "")[:10], "%Y-%m-%d").date())
+                jour = datetime.strptime(brut, "%Y-%m-%d").date()
             except ValueError:
                 continue
-    return sorted(jours)
+            if debut <= jour <= fin:
+                candidates.append(jour)
 
-
-def date_de_sortie_francaise(fiche):
-    """Date de sortie en SALLES en France dans la fenetre, ou None.
-
-    Deux roles :
-
-    1. Les RESSORTIES : un film ancien peut avoir plusieurs dates francaises
-       (1991 pour la sortie d'origine, 2026 pour la reprise). On prend celle qui
-       tombe dans la fenetre, sinon un film de 1988 atterrirait en 1988.
-
-    2. Le CONTROLE. /discover evalue with_release_type et release_date de facon
-       independante : un film qui a DEJA eu une sortie salle par le passe et qui
-       recoit aujourd'hui une sortie numerique ou TV en France ressort dans les
-       resultats. C'est ainsi qu'Endgame ou Star Wars atterrissaient dans un
-       calendrier de sorties cinema. On revalide donc chaque film sur sa fiche
-       detaillee, et on renvoie None s'il n'a aucune sortie salle francaise dans
-       la fenetre - le film est alors ecarte.
-    """
-    debut = date.today() - timedelta(days=JOURS_AVANT)
-    fin = date.today() + timedelta(days=JOURS_APRES)
-    candidates = [j for j in sorties_salle_francaises(fiche) if debut <= j <= fin]
-    return min(candidates).isoformat() if candidates else None
+    return min(candidates).isoformat() if candidates else defaut
 
 
 def details_du_film(film):
@@ -464,20 +441,10 @@ def details_du_film(film):
     titre_anglais = (anglais.get("title") or "").strip()
     pays = noms_des_pays(fiche)
 
-    sortie_initiale = None
     if film.get("impose"):
         jour_retenu = film["date"]          # seance evenement : la date du cinema prime
     else:
-        jour_retenu = date_de_sortie_francaise(fiche)
-        if jour_retenu:
-            toutes = sorties_salle_francaises(fiche)
-            retenu = datetime.strptime(jour_retenu, "%Y-%m-%d").date()
-            if toutes and (retenu - toutes[0]).days >= ECART_REPRISE_JOURS:
-                sortie_initiale = toutes[0].strftime("%d/%m/%Y")   # c'est une reprise
-        if not jour_retenu:
-            titre = (fiche.get("title") or film["id"])
-            print(f"  ecarte : {titre} - pas de sortie salle FR dans la fenetre", file=sys.stderr)
-            return None
+        jour_retenu = date_de_sortie_francaise(fiche, film["date"])
 
     return {
         "id": film["id"],
@@ -485,7 +452,6 @@ def details_du_film(film):
         "titre": titre or titre_original or "Sans titre",
         "titre_original": titre_original,
         "titre_romanise": titre_romanise,
-        "sortie_initiale": sortie_initiale,
         "titre_anglais": titre_anglais,
         "realisateurs": realisateurs,
         "scenaristes": scenaristes,
@@ -507,11 +473,7 @@ def enrichir(films):
         resultats = list(executeur.map(details_du_film, films))
 
     complets = [r for r in resultats if r]
-    rejetes = len(films) - len(complets)
-    print(f"  {len(complets)} fiches retenues")
-    if rejetes:
-        print(f"  {rejetes} films ecartes : pas de sortie salle FR dans la fenetre")
-        print("    (sortie numerique, TV ou physique remontee a tort par /discover)")
+    print(f"  {len(complets)} fiches recuperees")
     return sorted(complets, key=lambda f: (f["date"], f["titre"]))
 
 
@@ -638,22 +600,12 @@ def annee_de_sortie(fiche):
     return sortie_originale(fiche)[1]
 
 
-def ressemblance(a, b):
-    """Proximite de deux titres, entre 0 et 1, apres normalisation."""
-    return difflib.SequenceMatcher(None, cle_de_titre(a), cle_de_titre(b)).ratio()
-
-
 def chercher_sur_tmdb(titre, titre_original, annee):
-    """Retrouve le film sur TMDB. Renvoie (id, titre TMDB, score) ou None.
+    """Retrouve l'identifiant TMDB d'un film repere chez AlloCine.
 
     Sans ca, les notes seraient bien plus pauvres : AlloCine ne fournit ni
-    scenariste, ni photographie, ni acteurs, ni pays.
-
-    Regle stricte : on n'accepte que si le titre correspond vraiment. Beaucoup
-    de seances evenement (cine-concerts, retransmissions, soirees a theme) n'ont
-    aucun equivalent sur TMDB - il ne faut surtout pas leur attribuer un film au
-    hasard. L'annee sert de second garde-fou, avec une tolerance large car la
-    sortie francaise peut suivre la sortie d'origine de plusieurs annees.
+    scenariste, ni photographie, ni acteurs, ni pays. On passe donc par TMDB
+    pour que ces seances aient exactement la meme fiche que les autres.
     """
     tentatives = []
     if titre:
@@ -662,7 +614,6 @@ def chercher_sur_tmdb(titre, titre_original, annee):
     if titre_original and titre_original != titre:
         tentatives.append((titre_original, annee))
 
-    meilleur = None
     for recherche, an in tentatives:
         parametres = {"query": recherche, "language": LANGUE, "include_adult": "false"}
         if an:
@@ -671,23 +622,15 @@ def chercher_sur_tmdb(titre, titre_original, annee):
             resultats = appel_api("/search/movie", parametres).get("results") or []
         except Exception:  # noqa: BLE001
             continue
-
-        for trouve in resultats[:10]:
-            annee_tmdb = (trouve.get("release_date") or "")[:4]
-            if annee and annee_tmdb.isdigit():
-                if abs(int(annee_tmdb) - annee) > TOLERANCE_ANNEE:
-                    continue
-            score = max(
-                ressemblance(recherche, trouve.get("title") or ""),
-                ressemblance(recherche, trouve.get("original_title") or ""),
-            )
-            if score >= SEUIL_CORRESPONDANCE and (meilleur is None or score > meilleur[2]):
-                meilleur = (trouve["id"], trouve.get("title") or "", score)
-
-        if meilleur and meilleur[2] > 0.99:      # correspondance exacte, inutile d'insister
-            break
-
-    return meilleur
+        if not resultats:
+            continue
+        vise = cle_de_titre(recherche)
+        for trouve in resultats:
+            if cle_de_titre(trouve.get("title")) == vise or cle_de_titre(trouve.get("original_title")) == vise:
+                return trouve["id"]
+        if an:                      # avec l'annee, le premier resultat est fiable
+            return resultats[0]["id"]
+    return None
 
 
 def seances_evenement():
@@ -897,8 +840,9 @@ def description_texte(film):
         identite.append(", ".join(film["genres"]))
     if film.get("pays"):
         identite.append(", ".join(film["pays"]))
-    if film.get("sortie_initiale"):
-        identite.append(f"(sortie initiale : {film['sortie_initiale']})")
+    if film.get("evenement"):
+        if film.get("sortie_initiale"):
+            identite.append(f"(sortie initiale : {film['sortie_initiale']})")
     if identite:
         blocs.append("\n".join(identite))
 
@@ -1155,21 +1099,4 @@ def main():
     print(f"  sans affiche sur TMDB : {sans_affiche}")
     print(f"  synopsis non traduit  : {non_traduits}")
     if ecartes:
-        print(f"  ecartes faute de titre lisible : {len(ecartes)}")
-        for film in ecartes[:10]:
-            anglais = film.get("titre_anglais") or "-"
-            print(f"    - {film['titre']}  (titre anglais connu : {anglais})")
-        if not REPLI_TITRE_ANGLAIS:
-            print("    -> REPLI_TITRE_ANGLAIS = True permettrait d'en recuperer une partie")
-
-    # --- second calendrier : les seances evenement du cinema ---
-    evenements = seances_evenement()
-    if evenements:
-        integrer_affiches(evenements)
-        ecrire_calendrier(evenements, FICHIER_EVENEMENTS, NOM_CALENDRIER_EVENEMENTS)
-    else:
-        print("  aucune seance evenement : fichier inchange")
-
-
-if __name__ == "__main__":
-    main()
+        print(
