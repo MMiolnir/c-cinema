@@ -111,7 +111,7 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
 # surtout les sorties lointaines. Le journal affiche la repartition reelle
 # pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
-POPULARITE_MINIMALE = 1.0
+POPULARITE_MINIMALE = 1.4
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
