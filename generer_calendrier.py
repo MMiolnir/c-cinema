@@ -24,7 +24,8 @@ import unicodedata
 import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 # ---------------------------------------------------------------------------
 # REGLAGES  -  la seule partie que vous aurez besoin de modifier
@@ -81,6 +82,16 @@ INCLURE_AVANT_PREMIERES = True     # les avant-premieres du cinema comptent comm
 # une simple progression sortie limitee -> sortie nationale.
 ECART_REPRISE_JOURS = 180
 NOM_CALENDRIER_EVENEMENTS = "Séances événement - Pathé Odysseum"
+
+# Troisieme calendrier : TOUTES les seances du cinema, avec horaires reels.
+# Volume important (un multiplexe programme 60 a 120 seances par jour), d'ou
+# une fenetre courte.
+SEANCES_ACTIVES = True
+SEANCES_JOURS = 14                 # profondeur, en jours
+SEANCES_PUB_MINUTES = 15           # publicites et bandes-annonces avant le film
+NOM_CALENDRIER_SEANCES = "Séances - Pathé Odysseum"
+FICHIER_SEANCES = "docs/c-cinema-seances.ics"
+FUSEAU_CINEMA = "Europe/Paris"
 FICHIER_EVENEMENTS = "docs/c-cinema-evenements.ics"
 
 # Profondeur d'historique. Un calendrier abonne est remplace en entier a chaque
@@ -99,7 +110,7 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
 # surtout les sorties lointaines. Le journal affiche la repartition reelle
 # pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
-POPULARITE_MINIMALE = 1
+POPULARITE_MINIMALE = 1.0
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
@@ -530,6 +541,8 @@ def details_du_film(film):
         "synopsis": synopsis,
         "synopsis_en_anglais": synopsis_en_anglais,
         "affiche": fiche.get("poster_path"),
+        "duree": fiche.get("runtime") or 0,
+        "langue_origine": langue_originale(fiche),
     }
 
 
@@ -778,6 +791,142 @@ def couverture_du_cinema(scores, seances):
         print(f"\n  Aucun film de votre cinema n'est perdu au seuil {POPULARITE_MINIMALE}.")
 
 
+# Noms lisibles des formats. AlloCine utilise des codes en majuscules dont on
+# ne connait pas la liste complete : tout code inconnu est simplement remis en
+# forme (FOUR_DX -> Four Dx) plutot qu'ignore.
+FORMATS_LISIBLES = {
+    "IMAX": "IMAX", "IMAX_EXPERIENCE": "IMAX", "IMAX_3D": "IMAX 3D",
+    "THREE_D": "3D", "3D": "3D", "TWO_D": None, "DIGITAL": None,
+    "FOUR_DX": "4DX", "4DX": "4DX", "SCREENX": "ScreenX",
+    "DOLBY_CINEMA": "Dolby Cinema", "DOLBY_ATMOS": "Dolby Atmos",
+    "SEVENTY_MM": "70mm", "70MM": "70mm", "ICE": "ICE", "ICE_IMMERSIVE": "ICE",
+    "CONFORT": "Confort", "PREMIUM": "Premium", "VIP": "VIP",
+    "DUBBED": None, "ORIGINAL": None, "LOCAL": None,   # deja traites par la version
+}
+CHAMPS_HORAIRE = {"internalId", "id", "startsAt", "endsAt", "diffusionVersion"}
+
+
+def jetons(valeur, profondeur=0):
+    """Aplati une valeur JSON en une liste de chaines exploitables."""
+    if profondeur > 3:
+        return []
+    if isinstance(valeur, str):
+        return [valeur]
+    if isinstance(valeur, (list, tuple)):
+        return [j for v in valeur for j in jetons(v, profondeur + 1)]
+    if isinstance(valeur, dict):
+        return [j for v in valeur.values() for j in jetons(v, profondeur + 1)]
+    return []
+
+
+def formats_de_seance(seance):
+    """Marqueurs de format d'une seance : IMAX, 4DX, 3D, Confort...
+
+    On ne connait pas les cles exactes employees par AlloCine, alors on balaie
+    tout ce qui n'est pas deja traite. Un code inconnu est remis en forme plutot
+    qu'ignore : mieux vaut afficher un mot inattendu que perdre l'information.
+    """
+    trouves = []
+    for cle, valeur in seance.items():
+        if cle in CHAMPS_HORAIRE:
+            continue
+        for jeton in jetons(valeur):
+            if not isinstance(jeton, str) or not (2 <= len(jeton) <= 30):
+                continue
+            brut = jeton.strip().upper().replace(" ", "_").replace("-", "_")
+            if brut in FORMATS_LISIBLES:
+                lisible = FORMATS_LISIBLES[brut]
+            elif brut.replace("_", "").isalnum() and jeton.strip().isupper():
+                lisible = jeton.strip().replace("_", " ").title()
+            else:
+                continue
+            if lisible and lisible not in trouves:
+                trouves.append(lisible)
+    return trouves
+
+
+def horaires_du_cinema():
+    """Toutes les seances du cinema sur SEANCES_JOURS jours.
+
+    Renvoie {identifiant film: (fiche, [seances])}, chaque seance etant un
+    dictionnaire avec son debut, sa version (VF/VO) et son identifiant propre.
+    """
+    trouves = {}
+    echantillon = []
+    aujourdhui = date.today()
+    debut = aujourdhui.isoformat()
+    fin = (aujourdhui + timedelta(days=SEANCES_JOURS - 1)).isoformat()
+    print(f"  releve des horaires du {debut} au {fin}")
+
+    for decalage in range(SEANCES_JOURS):
+        jour = (aujourdhui + timedelta(days=decalage)).isoformat()
+        page, total_pages = 1, 1
+        while page <= total_pages and page <= 10:
+            url = ALLOCINE_URL.format(cinema=ALLOCINE_CINEMA, jour=jour, page=page)
+            try:
+                requete = urllib.request.Request(url, headers={
+                    "User-Agent": NAVIGATEUR, "Accept": "application/json"})
+                with urllib.request.urlopen(requete, timeout=20) as reponse:
+                    donnees = json.loads(reponse.read().decode("utf-8"))
+            except Exception as erreur:  # noqa: BLE001
+                print(f"  horaires {jour} p{page} : {erreur}", file=sys.stderr)
+                break
+
+            total_pages = int((donnees.get("pagination") or {}).get("totalPages", 1))
+            for entree in donnees.get("results", []):
+                fiche = entree.get("movie") or {}
+                identifiant = fiche.get("internalId")
+                if not identifiant:
+                    continue
+                if identifiant not in trouves:
+                    trouves[identifiant] = (fiche, [])
+                deja = {s["id"] for s in trouves[identifiant][1]}
+                for groupe in (entree.get("showtimes") or {}).values():
+                    for seance in groupe or []:
+                        sid = seance.get("internalId")
+                        if not sid or sid in deja or not seance.get("startsAt"):
+                            continue
+                        deja.add(sid)
+                        if not echantillon:
+                            echantillon.append(seance)
+                        trouves[identifiant][1].append({
+                            "id": sid,
+                            "debut": seance.get("startsAt"),
+                            "fin": seance.get("endsAt"),
+                            "version": (seance.get("diffusionVersion") or "").upper(),
+                            "formats": formats_de_seance(seance),
+                        })
+            page += 1
+            time.sleep(ALLOCINE_PAUSE)
+
+    total = sum(len(v[1]) for v in trouves.values())
+    print(f"  {len(trouves)} films, {total} seances relevees")
+
+    # Diagnostic : la structure exacte d'une seance, pour savoir ce qu'AlloCine
+    # expose reellement (formats, salle, version...). A lire une fois.
+    if echantillon:
+        print("\n  Structure d'une seance telle qu'AlloCine la renvoie :")
+        for cle, valeur in echantillon[0].items():
+            apercu = json.dumps(valeur, ensure_ascii=False)
+            print(f"    {cle:22} = {apercu[:90]}")
+
+    return trouves
+
+
+def horodatage_utc(texte_local):
+    """'2026-09-07T20:15:00' (heure du cinema) -> '20260907T181500Z'."""
+    try:
+        moment = datetime.fromisoformat(texte_local.replace("Z", "+00:00"))
+    except (ValueError, AttributeError):
+        return None
+    if moment.tzinfo is None:
+        try:
+            moment = moment.replace(tzinfo=ZoneInfo(FUSEAU_CINEMA))
+        except Exception:  # noqa: BLE001
+            moment = moment.replace(tzinfo=timezone.utc)
+    return moment.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+
 def seances_evenement():
     """Second calendrier : les reprises et seances ponctuelles du cinema.
 
@@ -899,6 +1048,35 @@ def titre_pour_agenda(film):
     return None
 
 
+def langue_originale(fiche):
+    """Nom de la langue d'origine du film, tel que TMDB le donne.
+
+    Utile pour distinguer une VOST anglaise d'une VOST coreenne. Aucune requete
+    supplementaire : spoken_languages arrive avec la fiche du film.
+    """
+    code = (fiche.get("original_language") or "").lower()
+    if not code:
+        return None
+    for langue in fiche.get("spoken_languages") or []:
+        if (langue.get("iso_639_1") or "").lower() == code:
+            return (langue.get("english_name") or langue.get("name") or "").strip() or None
+    return code.upper()
+
+
+def duree_lisible(minutes):
+    """90 -> '1h30', 48 -> '48min', 0 ou None -> None."""
+    try:
+        minutes = int(minutes or 0)
+    except (TypeError, ValueError):
+        return None
+    if minutes <= 0:
+        return None
+    heures, reste = divmod(minutes, 60)
+    if not heures:
+        return f"{reste}min"
+    return f"{heures}h{reste:02d}" if reste else f"{heures}h"
+
+
 def titre_original_a_afficher(film):
     """Titre original entre parentheses dans la note, avec sa romanisation.
 
@@ -957,6 +1135,9 @@ def description_texte(film):
     original = titre_original_a_afficher(film)
     if original:
         entete.append(f"({original})")
+    duree = duree_lisible(film.get("duree"))
+    if duree:
+        entete.append(duree)
     if entete:
         blocs.append("\n".join(entete))
 
@@ -1065,6 +1246,9 @@ def description_html(film):
         original = titre_original_a_afficher(film)
         if original:
             gauche += f"<br><small>({echapper_html(original)})</small>"
+        duree = duree_lisible(film.get("duree"))
+        if duree:
+            gauche += f"<br><small>{echapper_html(duree)}</small>"
 
     bouts = ["<!doctype html><html><body>"]
     if gauche:
@@ -1156,10 +1340,15 @@ def construire_ics(films, nom_calendrier=NOM_DU_CALENDRIER):
 
         lignes += [
             "BEGIN:VEVENT",
+            f"UID:{film['uid']}@calendrier-cine-fr" if film.get("uid") else
             f"UID:{'event' if film.get('evenement') else 'tmdb'}-{film['id']}@calendrier-cine-fr",
             f"DTSTAMP:{jour.strftime('%Y%m%d')}T000000Z",
-            f"DTSTART;VALUE=DATE:{jour.strftime('%Y%m%d')}",
-            f"DTEND;VALUE=DATE:{(jour + timedelta(days=1)).strftime('%Y%m%d')}",
+            *(
+                [f"DTSTART:{film['debut_utc']}", f"DTEND:{film['fin_utc']}"]
+                if film.get("debut_utc") and film.get("fin_utc")
+                else [f"DTSTART;VALUE=DATE:{jour.strftime('%Y%m%d')}",
+                      f"DTEND;VALUE=DATE:{(jour + timedelta(days=1)).strftime('%Y%m%d')}"]
+            ),
             f"SUMMARY:{echapper(PREFIXE_TITRE + titre_agenda)}",
             f"DESCRIPTION:{echapper(description_texte(film))}",
         ]
@@ -1167,7 +1356,7 @@ def construire_ics(films, nom_calendrier=NOM_DU_CALENDRIER):
             lignes.append(f"X-ALT-DESC;FMTTYPE=text/html:{echapper(description_html(film))}")
         lignes += [
             f"URL:{LIEN_TMDB}{film['id']}",
-            "TRANSP:TRANSPARENT",
+            "TRANSP:OPAQUE" if film.get("debut_utc") else "TRANSP:TRANSPARENT",
         ]
 
         affiche = url_affiche(film["affiche"])
@@ -1189,6 +1378,74 @@ def construire_ics(films, nom_calendrier=NOM_DU_CALENDRIER):
 
     lignes.append("END:VCALENDAR")
     return "\r\n".join(plier(ligne) for ligne in lignes) + "\r\n"
+
+
+def calendrier_des_seances():
+    """Troisieme calendrier : chaque seance du cinema, a son horaire reel.
+
+    Une fiche TMDB est recuperee une seule fois par film, puis reutilisee pour
+    toutes ses seances : la note est donc identique aux deux autres calendriers.
+    """
+    if not (ALLOCINE_ACTIF and SEANCES_ACTIVES):
+        return []
+
+    print(f"\n=== Seances - {ALLOCINE_NOM} ({SEANCES_JOURS} jours) ===")
+    try:
+        programmes = horaires_du_cinema()
+    except Exception as erreur:  # noqa: BLE001
+        print(f"  abandonne : {erreur}", file=sys.stderr)
+        return []
+    if not programmes:
+        print("  aucune seance recuperee")
+        return []
+
+    evenements, introuvables = [], 0
+    for identifiant, (fiche, seances) in programmes.items():
+        if not seances:
+            continue
+        titre = (fiche.get("title") or "").strip()
+        _, annee = sortie_originale(fiche)
+        trouve = chercher_sur_tmdb(titre, (fiche.get("originalTitle") or "").strip(), annee)
+        if not trouve:
+            introuvables += 1
+            print(f"    ? {titre} ({annee}) - aucune correspondance fiable sur TMDB, ignore")
+            continue
+
+        detail = details_du_film({"id": trouve[0], "date": date.today().isoformat(), "impose": True})
+        if not detail:
+            continue
+
+        duree = int(detail.get("duree") or 0) or 120
+        for seance in sorted(seances, key=lambda x: x["debut"]):
+            debut = horodatage_utc(seance["debut"])
+            if not debut:
+                continue
+            fin = horodatage_utc(seance["fin"]) if seance.get("fin") else None
+            if not fin:
+                # AlloCine ne donne pas toujours la fin : debut + duree + publicites
+                depart = datetime.strptime(debut, "%Y%m%dT%H%M%SZ")
+                fin = (depart + timedelta(minutes=duree + SEANCES_PUB_MINUTES)).strftime("%Y%m%dT%H%M%SZ")
+
+            version = {"DUBBED": "VF", "ORIGINAL": "VOST", "LOCAL": "VF"}.get(
+                seance["version"], seance["version"])
+            if version == "VOST" and detail.get("langue_origine"):
+                version = f"VOST {detail['langue_origine']}"
+
+            etiquettes = [e for e in [version] + seance.get("formats", []) if e]
+            suffixe = " · ".join(etiquettes)
+            evenements.append(dict(
+                detail,
+                uid=f"seance-{seance['id']}",
+                date=seance["debut"][:10],
+                debut_utc=debut,
+                fin_utc=fin,
+                seance_details=suffixe,
+                titre=f"{detail['titre']} ({suffixe})" if suffixe else detail["titre"],
+            ))
+
+    print(f"  {len(evenements)} seances retenues"
+          + (f", {introuvables} films sans correspondance TMDB" if introuvables else ""))
+    return sorted(evenements, key=lambda e: e["debut_utc"])
 
 
 def ecrire_calendrier(films, chemin, nom):
@@ -1239,6 +1496,13 @@ def main():
         ecrire_calendrier(evenements, FICHIER_EVENEMENTS, NOM_CALENDRIER_EVENEMENTS)
     else:
         print("  aucune seance evenement : fichier inchange")
+
+    # --- troisieme calendrier : toutes les seances, horaires reels ---
+    seances = calendrier_des_seances()
+    if seances:
+        ecrire_calendrier(seances, FICHIER_SEANCES, NOM_CALENDRIER_SEANCES)
+    else:
+        print("  aucune seance horodatee : fichier inchange")
 
 
 if __name__ == "__main__":
