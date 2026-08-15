@@ -135,6 +135,10 @@ PREFIXE_TITRE = ""                 # texte place devant le titre, ex. "🎬 "
 #   2. sa romanisation, si TMDB en fournit une
 #   3. le titre anglais, uniquement si REPLI_TITRE_ANGLAIS vaut True
 #   4. sinon le film est ecarte du calendrier
+#
+# Laisse volontairement a False : un film dont personne n'a saisi le titre
+# francais sur TMDB est, en pratique, un film trop confidentiel pour interesser.
+# Le repli anglais le ferait remonter alors qu'on ne le veut pas.
 REPLI_TITRE_ANGLAIS = False
 FICHIER_DE_SORTIE = "docs/c-cinema.ics"
 
@@ -791,24 +795,34 @@ def couverture_du_cinema(scores, seances):
         print(f"\n  Aucun film de votre cinema n'est perdu au seuil {POPULARITE_MINIMALE}.")
 
 
-# Noms lisibles des formats. AlloCine utilise des codes en majuscules dont on
-# ne connait pas la liste complete : tout code inconnu est simplement remis en
-# forme (FOUR_DX -> Four Dx) plutot qu'ignore.
+# Formats de seance, d'apres la structure reelle renvoyee par AlloCine :
+#   experience = ["E_4DX", "PLF"]   projection = ["DIGITAL"]
+#   picture / sound / comfort = null ou une valeur
+# Une valeur a None est reconnue mais volontairement pas affichee.
 FORMATS_LISIBLES = {
-    "IMAX": "IMAX", "IMAX_EXPERIENCE": "IMAX", "IMAX_3D": "IMAX 3D",
-    "THREE_D": "3D", "3D": "3D", "TWO_D": None, "DIGITAL": None,
-    "FOUR_DX": "4DX", "4DX": "4DX", "SCREENX": "ScreenX",
-    "DOLBY_CINEMA": "Dolby Cinema", "DOLBY_ATMOS": "Dolby Atmos",
-    "SEVENTY_MM": "70mm", "70MM": "70mm", "ICE": "ICE", "ICE_IMMERSIVE": "ICE",
+    "E_4DX": "4DX", "FOUR_DX": "4DX", "4DX": "4DX",
+    "E_IMAX": "IMAX", "IMAX": "IMAX", "IMAX_EXPERIENCE": "IMAX", "IMAX_3D": "IMAX 3D",
+    "E_SCREENX": "ScreenX", "SCREENX": "ScreenX",
+    "E_DOLBY_CINEMA": "Dolby Cinema", "DOLBY_CINEMA": "Dolby Cinema",
+    "PLF": "Grand format", "E_PLF": "Grand format",
+    "THREE_D": "3D", "3D": "3D", "SEVENTY_MM": "70mm", "70MM": "70mm",
+    "ICE": "ICE", "E_ICE": "ICE",
+    "DOLBY_ATMOS": "Dolby Atmos", "ATMOS": "Dolby Atmos", "DTS_X": "DTS:X",
+    "HDR": "HDR", "LASER": "Laser", "FOUR_K": "4K",
     "CONFORT": "Confort", "PREMIUM": "Premium", "VIP": "VIP",
-    "DUBBED": None, "ORIGINAL": None, "LOCAL": None,   # deja traites par la version
+    # reconnus mais sans interet a l'affichage
+    "DIGITAL": None, "TWO_D": None, "STANDARD": None, "CLASSIC": None,
 }
-CHAMPS_HORAIRE = {"internalId", "id", "startsAt", "endsAt", "diffusionVersion"}
+
+# Seuls ces champs decrivent le format. "service" contient l'accessibilite
+# (DISABLED_ACCESS), "tags" des libelles techniques et "data" les liens de
+# billetterie : les inclure polluerait le titre des evenements.
+CHAMPS_FORMAT = ("experience", "projection", "picture", "sound", "comfort")
 
 
 def jetons(valeur, profondeur=0):
     """Aplati une valeur JSON en une liste de chaines exploitables."""
-    if profondeur > 3:
+    if profondeur > 2:
         return []
     if isinstance(valeur, str):
         return [valeur]
@@ -820,26 +834,22 @@ def jetons(valeur, profondeur=0):
 
 
 def formats_de_seance(seance):
-    """Marqueurs de format d'une seance : IMAX, 4DX, 3D, Confort...
+    """Marqueurs de format d'une seance : IMAX, 4DX, 3D, Grand format...
 
-    On ne connait pas les cles exactes employees par AlloCine, alors on balaie
-    tout ce qui n'est pas deja traite. Un code inconnu est remis en forme plutot
-    qu'ignore : mieux vaut afficher un mot inattendu que perdre l'information.
+    Un code inconnu est remis en forme plutot qu'ignore, mais seuls les champs
+    de CHAMPS_FORMAT sont lus : le reste de la seance contient de
+    l'accessibilite et des liens de billetterie qui n'ont rien a faire ici.
     """
     trouves = []
-    for cle, valeur in seance.items():
-        if cle in CHAMPS_HORAIRE:
-            continue
-        for jeton in jetons(valeur):
+    for cle in CHAMPS_FORMAT:
+        for jeton in jetons(seance.get(cle)):
             if not isinstance(jeton, str) or not (2 <= len(jeton) <= 30):
                 continue
             brut = jeton.strip().upper().replace(" ", "_").replace("-", "_")
             if brut in FORMATS_LISIBLES:
                 lisible = FORMATS_LISIBLES[brut]
-            elif brut.replace("_", "").isalnum() and jeton.strip().isupper():
-                lisible = jeton.strip().replace("_", " ").title()
             else:
-                continue
+                lisible = jeton.strip().lstrip("E_").replace("_", " ").title()
             if lisible and lisible not in trouves:
                 trouves.append(lisible)
     return trouves
@@ -895,6 +905,7 @@ def horaires_du_cinema():
                             "fin": seance.get("endsAt"),
                             "version": (seance.get("diffusionVersion") or "").upper(),
                             "formats": formats_de_seance(seance),
+                            "avp": bool(seance.get("isPreview")),
                         })
             page += 1
             time.sleep(ALLOCINE_PAUSE)
@@ -1432,6 +1443,8 @@ def calendrier_des_seances():
                 version = f"VOST {detail['langue_origine']}"
 
             etiquettes = [e for e in [version] + seance.get("formats", []) if e]
+            if seance.get("avp"):
+                etiquettes.insert(0, "Avant-première")
             suffixe = " · ".join(etiquettes)
             evenements.append(dict(
                 detail,
@@ -1458,7 +1471,8 @@ def ecrire_calendrier(films, chemin, nom):
         fichier.write(contenu)
     taille = len(contenu.encode("utf-8")) / 1024
     retenus = sum(1 for f in films if titre_pour_agenda(f))
-    print(f"  {retenus} films ecrits dans {chemin} ({taille:.0f} Ko)")
+    quoi = "seances" if any(f.get("debut_utc") for f in films) else "films"
+    print(f"  {retenus} {quoi} ecrites dans {chemin} ({taille:.0f} Ko)")
     return retenus
 
 
@@ -1487,8 +1501,6 @@ def main():
         for film in ecartes[:10]:
             anglais = film.get("titre_anglais") or "-"
             print(f"    - {film['titre']}  (titre anglais connu : {anglais})")
-        if not REPLI_TITRE_ANGLAIS:
-            print("    -> REPLI_TITRE_ANGLAIS = True permettrait d'en recuperer une partie")
 
     # --- second calendrier : les seances evenement du cinema ---
     evenements = seances_evenement()
