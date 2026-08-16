@@ -11,37 +11,6 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:tmdb-1521481@calendrier-cine-fr
-DTSTAMP:20260805T000000Z
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-SUMMARY:ErrBSOD
-DESCRIPTION:https://image.tmdb.org/t/p/w780/6hRrA5zBBj3AKw3nR76XAgJXeV4.jpg
- \n10min\n\nAction\, Horreur\nFR\n\nRéalisateur : DH\nScénario : Jack\, O
- laf\nProduction : ABC\n\nActeurs :\n- Döbör-Hodászi Zalán\n- ich\n- Me
-  Cuido\n\n\nLe passé et le présent d’un homme (¿ seul ¿) se mélange
- nt.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1521481\n\nDonnées
-  fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/6hRrA5zBBj3AKw3nR76XAgJXeV4.jpg" width="220" alt="Affi
- che de ErrBSOD"><br><small>10min</small></td><td width="16"></td><td valig
- n="top"><i>Action\, Horreur</i><br>FR<br><br><b>Réalisateur :</b> DH<br><
- b>Scénario :</b> Jack\, Olaf<br><b>Production :</b> ABC<br><br><b>Acteurs
-  :</b><ul><li>Döbör-Hodászi Zalán</li><li>ich</li><li>Me Cuido</li></u
- l></td></tr></table><p>Le passé et le présent d’un homme (¿ seul ¿) 
- se mélangent.</p><p><small><a href="https://www.themoviedb.org/movie/1521
- 481">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</sm
- all></p></body></html>
-URL:https://www.themoviedb.org/movie/1521481
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/6hRrA5zBBj3AKw3nR76XAgJXeV4.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6hRrA5zBBj3AKw3nR
- 76XAgJXeV4.jpg
-CATEGORIES:Action,Horreur
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1184233@calendrier-cine-fr
 DTSTAMP:20260805T000000Z
 DTSTART;VALUE=DATE:20260805
@@ -280,41 +249,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/i3PjFqaU0s2dwOeVi
 CATEGORIES:Crime,Mystère
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1742922@calendrier-cine-fr
-DTSTAMP:20260805T000000Z
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-SUMMARY:Such a Wonderful Life (long version)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/vlsGmeGnMwu9GJm7hwt5GAUxLR9.jpg
- \n7min\n\nDrame\nFrance\n\nRéalisateur : Kilian Mathieu\nScénario : Kili
- an Mathieu\nPhotographie : Cyrian Zub-Henry\n\nActeurs :\n- Thomas Kindler
- \n- Maéva Chenouna\n- Jordan Sutter\n\n\nUn patient d'asile psychiatrique
-  embellit la réalité et son interprétation du monde réel\, jusqu'à ce
-  que cela devienne dangereux pour lui et son entourage.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1742922\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/vlsGmeGnMwu9GJm7hwt5GAUxLR9.jpg" width="220" alt="Affi
- che de Such a Wonderful Life (long version)"><br><small>7min</small></td><
- td width="16"></td><td valign="top"><i>Drame</i><br>France<br><br><b>Réal
- isateur :</b> Kilian Mathieu<br><b>Scénario :</b> Kilian Mathieu<br><b>Ph
- otographie :</b> Cyrian Zub-Henry<br><br><b>Acteurs :</b><ul><li>Thomas Ki
- ndler</li><li>Maéva Chenouna</li><li>Jordan Sutter</li></ul></td></tr></t
- able><p>Un patient d'asile psychiatrique embellit la réalité et son inte
- rprétation du monde réel\, jusqu'à ce que cela devienne dangereux pour 
- lui et son entourage.</p><p><small><a href="https://www.themoviedb.org/mov
- ie/1742922">Fiche TMDB</a><br>Données fournies par The Movie Database (TM
- DB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1742922
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/vlsGmeGnMwu9GJm7hwt5GAUxLR9.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vlsGmeGnMwu9GJm7h
- wt5GAUxLR9.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1479832@calendrier-cine-fr
 DTSTAMP:20260807T000000Z
 DTSTART;VALUE=DATE:20260807
@@ -359,34 +293,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cm1uBPBUDfSIZXhWx
  sp1zzlKnf.jpg
 CATEGORIES:Romance,Action,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1697858@calendrier-cine-fr
-DTSTAMP:20260812T000000Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:Arcobaleno
-DESCRIPTION:1h21\n\nDocumentaire\nFR\n\nRéalisateur : Pablo Cirès\nScéna
- rio : Pablo Cirès\n\n\nDepuis 50 ans\, Iolanda est la reine de l’Arcoba
- leno\, un dancing mythique au sud de Rome que tous les jours ses deux fils
-  maintiennent tant bien que mal en vie. Face à un avenir fragile\, Elisa\
- , la petite-fille rêve d'une deuxième vie pour l'Arcobaleno\, mais conva
- incre le reste de la famille s'avère plus compliqué qu'il n'y paraît.\n
- \n\nFiche TMDB : https://www.themoviedb.org/movie/1697858\n\nDonnées four
- nies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Documentair
- e</i><br>FR<br><br><b>Réalisateur :</b> Pablo Cirès<br><b>Scénario :</b
- > Pablo Cirès</div><p>Depuis 50 ans\, Iolanda est la reine de l’Arcobal
- eno\, un dancing mythique au sud de Rome que tous les jours ses deux fils 
- maintiennent tant bien que mal en vie. Face à un avenir fragile\, Elisa\,
-  la petite-fille rêve d'une deuxième vie pour l'Arcobaleno\, mais convai
- ncre le reste de la famille s'avère plus compliqué qu'il n'y paraît.</p
- ><p><small><a href="https://www.themoviedb.org/movie/1697858">Fiche TMDB</
- a><br>Données fournies par The Movie Database (TMDB)</small></p></body></
- html>
-URL:https://www.themoviedb.org/movie/1697858
-TRANSP:TRANSPARENT
-CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1536433@calendrier-cine-fr
@@ -1658,138 +1564,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ysfRdxQqOQqAcxxTF
 CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1577592@calendrier-cine-fr
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:Gouffres et Merveilles
-DESCRIPTION:https://image.tmdb.org/t/p/w780/sZFlKNiTn59r8ZnpYyfaVV8eAJA.jpg
- \n1h19\n\nDocumentaire\nFrance\n\nRéalisateur : Jean Boiron-Lajous\nProdu
- ction : Les Alchimistes\, Lyon Capitale TV\, CNC\n\nActeurs :\n- Christine
-  Dancausse\n- Jean Boiron-Lajous\n\n\nLe réalisateur propose un road movi
- e à Christine\, sa meilleure amie : traverser le sud de la France à la r
- echerche d’une lettre d’adieu laissée par son père – et peut-être
-  d’une forme d’acceptation du comportement tyrannique de sa mère. Mai
- s rien ne se passe comme prévu. Des rencontres et des embûches transform
- ent cette odyssée introspective en un voyage tragi-comique.\n\n\nFiche TM
- DB : https://www.themoviedb.org/movie/1577592\n\nDonnées fournies par The
-  Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/sZFlKNiTn59r8ZnpYyfaVV8eAJA.jpg" width="220" alt="Affi
- che de Gouffres et Merveilles"><br><small>1h19</small></td><td width="16">
- </td><td valign="top"><i>Documentaire</i><br>France<br><br><b>Réalisateur
-  :</b> Jean Boiron-Lajous<br><b>Production :</b> Les Alchimistes\, Lyon Ca
- pitale TV\, CNC<br><br><b>Acteurs :</b><ul><li>Christine Dancausse</li><li
- >Jean Boiron-Lajous</li></ul></td></tr></table><p>Le réalisateur propose 
- un road movie à Christine\, sa meilleure amie : traverser le sud de la Fr
- ance à la recherche d’une lettre d’adieu laissée par son père – e
- t peut-être d’une forme d’acceptation du comportement tyrannique de s
- a mère. Mais rien ne se passe comme prévu. Des rencontres et des embûch
- es transforment cette odyssée introspective en un voyage tragi-comique.</
- p><p><small><a href="https://www.themoviedb.org/movie/1577592">Fiche TMDB<
- /a><br>Données fournies par The Movie Database (TMDB)</small></p></body><
- /html>
-URL:https://www.themoviedb.org/movie/1577592
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/sZFlKNiTn59r8ZnpYyfaVV8eAJA.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sZFlKNiTn59r8ZnpY
- yfaVV8eAJA.jpg
-CATEGORIES:Documentaire
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1084815@calendrier-cine-fr
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:La Dernière Patiente
-DESCRIPTION:https://image.tmdb.org/t/p/w780/qnupAunP3yOuhLN6qPJ6uh5K3Zi.jpg
- \n1h20\n\nDrame\nFrance\n\nRéalisateur : Rémi Bassaler\nScénario : Mari
- on Defer\, Rémi Bassaler\nPhotographie : Kristy Baboul\nProduction : Les 
- Idiots\, E.D.I Films\, Microclimat Films\n\nActeurs :\n- Anouk Grinberg\n-
-  Luàna Bajrami\n- Félix Lefebvre\n- Achille Reggiani\n- Rabah Nait Oufel
- la\n\n\nLa veille de son départ à la retraite\, Judith\, médecin de ban
- lieue\, ouvre la porte de son cabinet à Aïda\, enceinte de huit mois et 
- en rupture de soin. Confrontée à un système de santé à bout de souffl
- e\, Judith accepte d'héberger la jeune femme et s'engage alors dans une n
- uit où toutes ses convictions de soignante seront mises à l’épreuve.\
- n\n\nFiche TMDB : https://www.themoviedb.org/movie/1084815\n\nDonnées fou
- rnies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/qnupAunP3yOuhLN6qPJ6uh5K3Zi.jpg" width="220" alt="Affi
- che de La Dernière Patiente"><br><small>1h20</small></td><td width="16"><
- /td><td valign="top"><i>Drame</i><br>France<br><br><b>Réalisateur :</b> R
- émi Bassaler<br><b>Scénario :</b> Marion Defer\, Rémi Bassaler<br><b>Ph
- otographie :</b> Kristy Baboul<br><b>Production :</b> Les Idiots\, E.D.I F
- ilms\, Microclimat Films<br><br><b>Acteurs :</b><ul><li>Anouk Grinberg</li
- ><li>Luàna Bajrami</li><li>Félix Lefebvre</li><li>Achille Reggiani</li><
- li>Rabah Nait Oufella</li></ul></td></tr></table><p>La veille de son dépa
- rt à la retraite\, Judith\, médecin de banlieue\, ouvre la porte de son 
- cabinet à Aïda\, enceinte de huit mois et en rupture de soin. Confronté
- e à un système de santé à bout de souffle\, Judith accepte d'héberger
-  la jeune femme et s'engage alors dans une nuit où toutes ses convictions
-  de soignante seront mises à l’épreuve.</p><p><small><a href="https://
- www.themoviedb.org/movie/1084815">Fiche TMDB</a><br>Données fournies par 
- The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1084815
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/qnupAunP3yOuhLN6qPJ6uh5K3Zi.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qnupAunP3yOuhLN6q
- PJ6uh5K3Zi.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1437948@calendrier-cine-fr
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:La Frappe
-DESCRIPTION:https://image.tmdb.org/t/p/w780/aAdoRQO0szrDQC6H3nL4nyJHZ7a.jpg
- \n1h46\n\nDrame\nFrance\n\nRéalisateur : Julien Gaspar-Oliveri\nScénario
-  : Julien Gaspar-Oliveri\, Claudia Bottino\, Dorothée Lachaud\nPhotograph
- ie : Martin Rit\nProduction : Easy Tiger\n\nActeurs :\n- Diego Murgia\n- B
- astien Bouillon\n- Romane Fringeli\n- Héloïse Volle\n- Sophie Cattani\n-
-  Karol Olejnik\n- Florence Janas\n- Maxence Bendjelloun\n- Carole Franck\n
- - Manon Clavel\n- Lina-Camélia Lumbroso\n- Giacomo Fadda\n\n\nEnzo\, 19 a
- ns et sa sœur Carla\, 20 ans\, sont livrés à eux-mêmes depuis plusieur
- s années. Quand leur père\, Anthony est libéré de prison\, Enzo voit l
- a promesse fragile d’une famille à reconstruire contrairement à Carla 
- pour qui l’idée reste inconcevable. Rattrapé par son passé\, Enzo doi
- t se confronter à une vérité qu’il a trop longtemps gardée pour lui.
- \n\n\nFiche TMDB : https://www.themoviedb.org/movie/1437948\n\nDonnées fo
- urnies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/aAdoRQO0szrDQC6H3nL4nyJHZ7a.jpg" width="220" alt="Affi
- che de La Frappe"><br><small>1h46</small></td><td width="16"></td><td vali
- gn="top"><i>Drame</i><br>France<br><br><b>Réalisateur :</b> Julien Gaspar
- -Oliveri<br><b>Scénario :</b> Julien Gaspar-Oliveri\, Claudia Bottino\, D
- orothée Lachaud<br><b>Photographie :</b> Martin Rit<br><b>Production :</b
- > Easy Tiger<br><br><b>Acteurs :</b><ul><li>Diego Murgia</li><li>Bastien B
- ouillon</li><li>Romane Fringeli</li><li>Héloïse Volle</li><li>Sophie Cat
- tani</li><li>Karol Olejnik</li><li>Florence Janas</li><li>Maxence Bendjell
- oun</li><li>Carole Franck</li><li>Manon Clavel</li><li>Lina-Camélia Lumbr
- oso</li><li>Giacomo Fadda</li></ul></td></tr></table><p>Enzo\, 19 ans et s
- a sœur Carla\, 20 ans\, sont livrés à eux-mêmes depuis plusieurs anné
- es. Quand leur père\, Anthony est libéré de prison\, Enzo voit la prome
- sse fragile d’une famille à reconstruire contrairement à Carla pour qu
- i l’idée reste inconcevable. Rattrapé par son passé\, Enzo doit se co
- nfronter à une vérité qu’il a trop longtemps gardée pour lui.</p><p>
- <small><a href="https://www.themoviedb.org/movie/1437948">Fiche TMDB</a><b
- r>Données fournies par The Movie Database (TMDB)</small></p></body></html
- >
-URL:https://www.themoviedb.org/movie/1437948
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/aAdoRQO0szrDQC6H3nL4nyJHZ7a.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/aAdoRQO0szrDQC6H3
- nL4nyJHZ7a.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1446078@calendrier-cine-fr
 DTSTAMP:20260902T000000Z
 DTSTART;VALUE=DATE:20260902
@@ -1888,43 +1662,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/s0sC3hPPX4OobLNfd
 CATEGORIES:Drame,Familial,Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1633356@calendrier-cine-fr
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:Retour avant 15 heures
-DESCRIPTION:https://image.tmdb.org/t/p/w780/42mYYVPOSnl5zeefdS6nQo0Ep6w.jpg
- \n1h41\n\nDocumentaire\nFrance\n\nRéalisateur : Gaël Lépingle\nPhotogra
- phie : Nicolas Contant\nProduction : Perspective Films\n\nActeurs :\n- Ser
- ge Renko\n- Philippe Girard\n\n\nC’est un homme et son lieu\, le père d
- ans un pavillon de lotissement. C’est après sa mort. On a retrouvé que
- lque chose. Pas un secret\, mais l’envers des jours\, consigné avec une
-  précision obsessionnelle. Une lutte quotidienne avec la vie matérielle 
- et le temps qui passe.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/
- 1633356\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/42mYYVPOSnl5zeefdS6nQo0Ep6w.jpg" width="220" alt="Affi
- che de Retour avant 15 heures"><br><small>1h41</small></td><td width="16">
- </td><td valign="top"><i>Documentaire</i><br>France<br><br><b>Réalisateur
-  :</b> Gaël Lépingle<br><b>Photographie :</b> Nicolas Contant<br><b>Prod
- uction :</b> Perspective Films<br><br><b>Acteurs :</b><ul><li>Serge Renko<
- /li><li>Philippe Girard</li></ul></td></tr></table><p>C’est un homme et 
- son lieu\, le père dans un pavillon de lotissement. C’est après sa mor
- t. On a retrouvé quelque chose. Pas un secret\, mais l’envers des jours
- \, consigné avec une précision obsessionnelle. Une lutte quotidienne ave
- c la vie matérielle et le temps qui passe.</p><p><small><a href="https://
- www.themoviedb.org/movie/1633356">Fiche TMDB</a><br>Données fournies par 
- The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1633356
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/42mYYVPOSnl5zeefdS6nQo0Ep6w.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/42mYYVPOSnl5zeefd
- S6nQo0Ep6w.jpg
-CATEGORIES:Documentaire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1130022@calendrier-cine-fr
 DTSTAMP:20260902T000000Z
 DTSTART;VALUE=DATE:20260902
@@ -1973,43 +1710,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cWXUMfnMj4ioReprw
  sDZgt8sghK.jpg
 CATEGORIES:Crime,Drame,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1726479@calendrier-cine-fr
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:The End of Rainbow Valley
-DESCRIPTION:https://image.tmdb.org/t/p/w780/e7mKg2ud1J9J9iiNQq7HrvxUxLR.jpg
- \n1h\n\nAventure\, Fantastique\, Action\, Western\, Comédie\, Horreur\, M
- ystère\nFrance\n\nRéalisateur : Théophile Cobigo\nProduction : Les Chev
- aliers de la Justice\n\nActeur :\n- Cyril Chambon\n\n\nDans les contrées 
- de Rainbow Valley\, la licorne a été assassinée par la TTEC\, entrepris
- e maléfique gouverné par le boss Beecycle Catan. Etienne Bourlingue\, sh
- érif des temps modernes\, s'est juré de protéger la corne de la licorne
- \, quel qu'en soit le prix...\n\n\nFiche TMDB : https://www.themoviedb.org
- /movie/1726479\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/e7mKg2ud1J9J9iiNQq7HrvxUxLR.jpg" width="220" alt="Affi
- che de The End of Rainbow Valley"><br><small>1h</small></td><td width="16"
- ></td><td valign="top"><i>Aventure\, Fantastique\, Action\, Western\, Com
- édie\, Horreur\, Mystère</i><br>France<br><br><b>Réalisateur :</b> Thé
- ophile Cobigo<br><b>Production :</b> Les Chevaliers de la Justice<br><br><
- b>Acteur :</b><ul><li>Cyril Chambon</li></ul></td></tr></table><p>Dans les
-  contrées de Rainbow Valley\, la licorne a été assassinée par la TTEC\
- , entreprise maléfique gouverné par le boss Beecycle Catan. Etienne Bour
- lingue\, shérif des temps modernes\, s'est juré de protéger la corne de
-  la licorne\, quel qu'en soit le prix...</p><p><small><a href="https://www
- .themoviedb.org/movie/1726479">Fiche TMDB</a><br>Données fournies par The
-  Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1726479
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/e7mKg2ud1J9J9iiNQq7HrvxUxLR.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/e7mKg2ud1J9J9iiNQ
- q7HrvxUxLR.jpg
-CATEGORIES:Aventure,Fantastique,Action,Western,Comédie,Horreur,Mystère
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1092936@calendrier-cine-fr
@@ -2181,181 +1881,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/80HMGgqAUzN8N1yNW
  p3wzyLygPX.jpg
 CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1748920@calendrier-cine-fr
-DTSTAMP:20260908T000000Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:SKYZIO
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1IfJTaKuzJrJDTtOywBgxJpVxFG.jpg
- \n33min\n\nAction\nFR\n\nRéalisateur : Mathéo Rich\nPhotographie : Amand
- ine Zimmermann\n\nActeurs :\n- Mathéo Rich\n- Pascaline Grgic\n- Luka Bur
- el\n- Amandine Zimmermann\n- Romain Ries\n- Tiana Ravelotalata\n- Manon Oh
- lmann\n\n\nSkyzio est un film d’action dramatique et psychologique qui s
- uit un groupe d'adolescents internés dans un lycée général. Mais un é
- vénement soudain changera leurs vies à tout jamais. Ils se retrouvent pi
- égés dans un monde parallèle\, contraints à participer à des jeux mor
- tels orchestrés par une entité invisible et sans pitié.\n\n\nFiche TMDB
-  : https://www.themoviedb.org/movie/1748920\n\nDonnées fournies par The M
- ovie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1IfJTaKuzJrJDTtOywBgxJpVxFG.jpg" width="220" alt="Affi
- che de SKYZIO"><br><small>33min</small></td><td width="16"></td><td valign
- ="top"><i>Action</i><br>FR<br><br><b>Réalisateur :</b> Mathéo Rich<br><b
- >Photographie :</b> Amandine Zimmermann<br><br><b>Acteurs :</b><ul><li>Mat
- héo Rich</li><li>Pascaline Grgic</li><li>Luka Burel</li><li>Amandine Zimm
- ermann</li><li>Romain Ries</li><li>Tiana Ravelotalata</li><li>Manon Ohlman
- n</li></ul></td></tr></table><p>Skyzio est un film d’action dramatique e
- t psychologique qui suit un groupe d'adolescents internés dans un lycée 
- général. Mais un événement soudain changera leurs vies à tout jamais.
-  Ils se retrouvent piégés dans un monde parallèle\, contraints à parti
- ciper à des jeux mortels orchestrés par une entité invisible et sans pi
- tié.</p><p><small><a href="https://www.themoviedb.org/movie/1748920">Fich
- e TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></p><
- /body></html>
-URL:https://www.themoviedb.org/movie/1748920
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1IfJTaKuzJrJDTtOywBgxJpVxFG.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1IfJTaKuzJrJDTtOy
- wBgxJpVxFG.jpg
-CATEGORIES:Action
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1352304@calendrier-cine-fr
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:Adieu Monde Cruel
-DESCRIPTION:https://image.tmdb.org/t/p/w780/xH1qX01mmzkuS3kkRrV7zRHanbU.jpg
- \n1h33\n\nDrame\nBelgium\, France\n\nRéalisateur : Félix de Givry\nScén
- ario : Marie-Stéphane Imbert\, Félix de Givry\nPhotographie : Tara-Jay B
- angalter\nProduction : Iliade et Films\, Remembers\, uMedia\n\nActeurs :\n
- - Milo Machado-Graner\n- Jane Beever\n- Emmanuelle Destremau\n- Maïa Sand
- oz\n- Erwan Kepoa Falé\n- Catherine Artigala\n- Françoise Lebrun\n- Noé
-  Vergauwen\n\n\nOtto Vidal\, 14 ans\, a disparu après avoir adressé une 
- lettre d’adieu aux élèves de sa classe. Alors que tout le monde le cro
- it mort\, Léna\, une fille de son lycée\, le reconnaît une nuit en trai
- n d’errer dans les rues de la ville.\n\n\nFiche TMDB : https://www.themo
- viedb.org/movie/1352304\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/xH1qX01mmzkuS3kkRrV7zRHanbU.jpg" width="220" alt="Affi
- che de Adieu Monde Cruel"><br><small>1h33</small></td><td width="16"></td>
- <td valign="top"><i>Drame</i><br>Belgium\, France<br><br><b>Réalisateur :
- </b> Félix de Givry<br><b>Scénario :</b> Marie-Stéphane Imbert\, Félix
-  de Givry<br><b>Photographie :</b> Tara-Jay Bangalter<br><b>Production :</
- b> Iliade et Films\, Remembers\, uMedia<br><br><b>Acteurs :</b><ul><li>Mil
- o Machado-Graner</li><li>Jane Beever</li><li>Emmanuelle Destremau</li><li>
- Maïa Sandoz</li><li>Erwan Kepoa Falé</li><li>Catherine Artigala</li><li>
- Françoise Lebrun</li><li>Noé Vergauwen</li></ul></td></tr></table><p>Ott
- o Vidal\, 14 ans\, a disparu après avoir adressé une lettre d’adieu au
- x élèves de sa classe. Alors que tout le monde le croit mort\, Léna\, u
- ne fille de son lycée\, le reconnaît une nuit en train d’errer dans le
- s rues de la ville.</p><p><small><a href="https://www.themoviedb.org/movie
- /1352304">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB
- )</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1352304
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/xH1qX01mmzkuS3kkRrV7zRHanbU.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xH1qX01mmzkuS3kkR
- rV7zRHanbU.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1312311@calendrier-cine-fr
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:Billie Melody
-DESCRIPTION:https://image.tmdb.org/t/p/w780/d5wzSNuXcYqmnukQrIFpl77ayN6.jpg
- \n1h40\n\nDrame\nFrance\n\nRéalisateur : Christine Paillard\nScénario : 
- Christine Paillard\, Chad Chenouga\nPhotographie : Julien Hirsch\nProducti
- on : Sésame Films\, Mille et une productions\n\nActeurs :\n- Roschdy Zem\
- n- Julia Faure\n- Bonnie Bouriche Troutaud\n- Lilas-Rose Gilberti\n- Chris
- tophe Paou\n\n\nSuite à la perte de son père dans un accident aux circon
- stances troubles\, Billie\, 14 ans\, déménage dans une nouvelle ville av
- ec sa mère et son frère. Alors que ces bouleversements accentuent les te
- nsions familiales\, elle fait de nouvelles rencontres et se raccroche à l
- a musique qui la relie encore à son père. Billie se lance alors dans une
-  quête qui pourrait aussi bien la sauver que faire voler sa famille en é
- clats.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1312311\n\nDonn
- ées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/d5wzSNuXcYqmnukQrIFpl77ayN6.jpg" width="220" alt="Affi
- che de Billie Melody"><br><small>1h40</small></td><td width="16"></td><td 
- valign="top"><i>Drame</i><br>France<br><br><b>Réalisateur :</b> Christine
-  Paillard<br><b>Scénario :</b> Christine Paillard\, Chad Chenouga<br><b>P
- hotographie :</b> Julien Hirsch<br><b>Production :</b> Sésame Films\, Mil
- le et une productions<br><br><b>Acteurs :</b><ul><li>Roschdy Zem</li><li>J
- ulia Faure</li><li>Bonnie Bouriche Troutaud</li><li>Lilas-Rose Gilberti</l
- i><li>Christophe Paou</li></ul></td></tr></table><p>Suite à la perte de s
- on père dans un accident aux circonstances troubles\, Billie\, 14 ans\, d
- éménage dans une nouvelle ville avec sa mère et son frère. Alors que c
- es bouleversements accentuent les tensions familiales\, elle fait de nouve
- lles rencontres et se raccroche à la musique qui la relie encore à son p
- ère. Billie se lance alors dans une quête qui pourrait aussi bien la sau
- ver que faire voler sa famille en éclats.</p><p><small><a href="https://w
- ww.themoviedb.org/movie/1312311">Fiche TMDB</a><br>Données fournies par T
- he Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1312311
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/d5wzSNuXcYqmnukQrIFpl77ayN6.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/d5wzSNuXcYqmnukQr
- IFpl77ayN6.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1728806@calendrier-cine-fr
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:Commis d'office
-DESCRIPTION:https://image.tmdb.org/t/p/w780/m0D6fuMgLkNbq9ATDBsHQH3HBkh.jpg
- \n1h21\n\nComédie\nFrance\n\nRéalisateur : Stéphane Garrigues\nScénari
- o : Stéphane Garrigues\nProduction : Chocolatine Production\n\nActeurs :\
- n- Bing Yin\n- Emma Vaneecloo\n- Frédéric Ambrosini\n- Jonathan Amador\n
- - Jeanne Pailler\n\n\nDaniel Wang \, cuisinier asiatique \, se fait agress
- er par Lila\, une jeune femme désœuvrée qui tente de lui dérober sa re
- cette. Blessé gravement aux mains pendant l'altercation\, Daniel se trouv
- e dans l'incapacité de cuisiner et par la même dans une situation financ
- ière inextricable. Une députée travaillant sur un projet de loi où les
-  accusés pourraient être mis à disposition des victimes\, propose alors
-  au juge d'application des peines de faire un test sur ce cas précis : al
- ors que tout les oppose\, Lila devient par obligation la commis du chef\, 
- le temps de sa convalescence.\n\n\nFiche TMDB : https://www.themoviedb.org
- /movie/1728806\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/m0D6fuMgLkNbq9ATDBsHQH3HBkh.jpg" width="220" alt="Affi
- che de Commis d'office"><br><small>1h21</small></td><td width="16"></td><t
- d valign="top"><i>Comédie</i><br>France<br><br><b>Réalisateur :</b> Sté
- phane Garrigues<br><b>Scénario :</b> Stéphane Garrigues<br><b>Production
-  :</b> Chocolatine Production<br><br><b>Acteurs :</b><ul><li>Bing Yin</li>
- <li>Emma Vaneecloo</li><li>Frédéric Ambrosini</li><li>Jonathan Amador</l
- i><li>Jeanne Pailler</li></ul></td></tr></table><p>Daniel Wang \, cuisinie
- r asiatique \, se fait agresser par Lila\, une jeune femme désœuvrée qu
- i tente de lui dérober sa recette. Blessé gravement aux mains pendant l'
- altercation\, Daniel se trouve dans l'incapacité de cuisiner et par la m
- ême dans une situation financière inextricable. Une députée travaillan
- t sur un projet de loi où les accusés pourraient être mis à dispositio
- n des victimes\, propose alors au juge d'application des peines de faire u
- n test sur ce cas précis : alors que tout les oppose\, Lila devient par o
- bligation la commis du chef\, le temps de sa convalescence.</p><p><small><
- a href="https://www.themoviedb.org/movie/1728806">Fiche TMDB</a><br>Donné
- es fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1728806
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/m0D6fuMgLkNbq9ATDBsHQH3HBkh.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/m0D6fuMgLkNbq9ATD
- BsHQH3HBkh.jpg
-CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1507442@calendrier-cine-fr
@@ -2693,51 +2218,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7prAuNDsQPUlHKyXi
 CATEGORIES:Thriller
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1724781@calendrier-cine-fr
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Jacques Henri Lartigue – La vie en relief
-DESCRIPTION:https://image.tmdb.org/t/p/w780/mP2p8fSKZwlDOK2mzRDYAyuXngM.jpg
- \n1h21\n\nDocumentaire\nFrance\n\nRéalisateur : Denis Gaubert\nScénario 
- : Denis Gaubert\nProduction : Autour de Minuit\n\nActeurs :\n- Luàna Bajr
- ami\n- Hervé Pierre\n- Milo Machado-Graner\n\n\nParis\, 1903. A l’âge 
- de 9 ans\, Jacques commence à emprunter l’appareil photo stéréoscopiq
- ue de son père\, qui photographie le relief. Dès lors et pendant 25 ans\
- , il capture tout ce qu’il aime\, en trois dimensions et en amateur\, un
- iquement pour son plaisir et celui de ses proches. Une plongée inédite e
- n 3D relief dans la jeunesse du photographe Jacques Henri Lartigue\, témo
- in de la Belle Époque\, la Première guerre mondiale\, les Années folles
- \, l’invention de l’aviation et de l’automobile.\n\n\nFiche TMDB : h
- ttps://www.themoviedb.org/movie/1724781\n\nDonnées fournies par The Movie
-  Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/mP2p8fSKZwlDOK2mzRDYAyuXngM.jpg" width="220" alt="Affi
- che de Jacques Henri Lartigue – La vie en relief"><br><small>1h21</small
- ></td><td width="16"></td><td valign="top"><i>Documentaire</i><br>France<b
- r><br><b>Réalisateur :</b> Denis Gaubert<br><b>Scénario :</b> Denis Gaub
- ert<br><b>Production :</b> Autour de Minuit<br><br><b>Acteurs :</b><ul><li
- >Luàna Bajrami</li><li>Hervé Pierre</li><li>Milo Machado-Graner</li></ul
- ></td></tr></table><p>Paris\, 1903. A l’âge de 9 ans\, Jacques commence
-  à emprunter l’appareil photo stéréoscopique de son père\, qui photo
- graphie le relief. Dès lors et pendant 25 ans\, il capture tout ce qu’i
- l aime\, en trois dimensions et en amateur\, uniquement pour son plaisir e
- t celui de ses proches. Une plongée inédite en 3D relief dans la jeuness
- e du photographe Jacques Henri Lartigue\, témoin de la Belle Époque\, la
-  Première guerre mondiale\, les Années folles\, l’invention de l’avi
- ation et de l’automobile.</p><p><small><a href="https://www.themoviedb.o
- rg/movie/1724781">Fiche TMDB</a><br>Données fournies par The Movie Databa
- se (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1724781
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/mP2p8fSKZwlDOK2mzRDYAyuXngM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/mP2p8fSKZwlDOK2mz
- RDYAyuXngM.jpg
-CATEGORIES:Documentaire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-950028@calendrier-cine-fr
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
@@ -2826,89 +2306,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/z3yZKwgtYVwz7kz6v
 CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1747453@calendrier-cine-fr
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Le Cygne et l'enfant
-DESCRIPTION:https://image.tmdb.org/t/p/w780/tuemhKAm7ssRaSe1hVz6KXyNPfi.jpg
- \n39min\n\nAnimation\nFrance\n\nRéalisateur : Mi-Young Baek\nProduction :
-  Midralgar\n\n\nCe programme de trois courts métrages de la réalisatrice
-  sud-coréenne Miyoung Baek nous invite à plonger dans son univers poéti
- que et onirique. Les objets du quotidien emportent-ils une part de nous-m
- êmes ? Peut-on remonter le temps pour écrire une autre histoire ? Et où
-  peut bien se cacher la Lune perdue ? Tels sont les enjeux de ces films qu
- i nous enveloppent dans la douceur et la sensibilité d'un merveilleux voy
- age imaginaire.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1747453
- \n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/tuemhKAm7ssRaSe1hVz6KXyNPfi.jpg" width="220" alt="Affi
- che de Le Cygne et l'enfant"><br><small>39min</small></td><td width="16"><
- /td><td valign="top"><i>Animation</i><br>France<br><br><b>Réalisateur :</
- b> Mi-Young Baek<br><b>Production :</b> Midralgar</td></tr></table><p>Ce p
- rogramme de trois courts métrages de la réalisatrice sud-coréenne Miyou
- ng Baek nous invite à plonger dans son univers poétique et onirique. Les
-  objets du quotidien emportent-ils une part de nous-mêmes ? Peut-on remon
- ter le temps pour écrire une autre histoire ? Et où peut bien se cacher 
- la Lune perdue ? Tels sont les enjeux de ces films qui nous enveloppent da
- ns la douceur et la sensibilité d'un merveilleux voyage imaginaire.</p><p
- ><small><a href="https://www.themoviedb.org/movie/1747453">Fiche TMDB</a><
- br>Données fournies par The Movie Database (TMDB)</small></p></body></htm
- l>
-URL:https://www.themoviedb.org/movie/1747453
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/tuemhKAm7ssRaSe1hVz6KXyNPfi.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tuemhKAm7ssRaSe1h
- Vz6KXyNPfi.jpg
-CATEGORIES:Animation
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1491788@calendrier-cine-fr
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Maoussi
-DESCRIPTION:https://image.tmdb.org/t/p/w780/hHCuk7qiZC4Zsc40ALSsPsu2VnI.jpg
- \n1h15\n\nComédie\, Drame\nFrance\n\nRéalisateur : Charlotte Schiøler\n
- Scénario : Mariane Plasteig\, Charlotte Schiøler\nProduction : CSE Produ
- ctions\, Charlotte Schiøler Productions\n\nActeurs :\n- Moustapha Mbengue
- \n- Charlotte Schiøler\n- Elsa Wolliaston\n- Olivier Rabourdin\n- Rodrigu
- e Tounta\n- Alain Figlarz\n- Paul Hamy\n- Idir Chender\n- Anna Suarez\n\n\
- nQuand par hasard\, Babette est amenée à partager son appartement parisi
- en avec Edo\, un réfugié congolais\, Maoussi\, une souris en fuite\, se 
- pointe aussi et chamboule leur quotidien. Elle s'immisce entre les deux é
- trangers tel un enfant adopté et les contraint à faire face a leurs atte
- ntes divergentes de l’amour.\n\n\nFiche TMDB : https://www.themoviedb.or
- g/movie/1491788\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/hHCuk7qiZC4Zsc40ALSsPsu2VnI.jpg" width="220" alt="Affi
- che de Maoussi"><br><small>1h15</small></td><td width="16"></td><td valign
- ="top"><i>Comédie\, Drame</i><br>France<br><br><b>Réalisateur :</b> Char
- lotte Schiøler<br><b>Scénario :</b> Mariane Plasteig\, Charlotte Schiøl
- er<br><b>Production :</b> CSE Productions\, Charlotte Schiøler Production
- s<br><br><b>Acteurs :</b><ul><li>Moustapha Mbengue</li><li>Charlotte Schi
- øler</li><li>Elsa Wolliaston</li><li>Olivier Rabourdin</li><li>Rodrigue T
- ounta</li><li>Alain Figlarz</li><li>Paul Hamy</li><li>Idir Chender</li><li
- >Anna Suarez</li></ul></td></tr></table><p>Quand par hasard\, Babette est 
- amenée à partager son appartement parisien avec Edo\, un réfugié congo
- lais\, Maoussi\, une souris en fuite\, se pointe aussi et chamboule leur q
- uotidien. Elle s'immisce entre les deux étrangers tel un enfant adopté e
- t les contraint à faire face a leurs attentes divergentes de l’amour.</
- p><p><small><a href="https://www.themoviedb.org/movie/1491788">Fiche TMDB<
- /a><br>Données fournies par The Movie Database (TMDB)</small></p></body><
- /html>
-URL:https://www.themoviedb.org/movie/1491788
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hHCuk7qiZC4Zsc40ALSsPsu2VnI.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hHCuk7qiZC4Zsc40A
- LSsPsu2VnI.jpg
-CATEGORIES:Comédie,Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1423191@calendrier-cine-fr
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
@@ -2992,49 +2389,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/5ta2QFexeUsZ9AncK
  kgiWwpJDq.jpg
 CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1642995@calendrier-cine-fr
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Jungle Race
-DESCRIPTION:https://image.tmdb.org/t/p/w780/2Ox8S9FqKlnXSoZs8aCB5uDB6cp.jpg
- \n9min\n\nAnimation\, Comédie\, Action\nFrance\n(sortie initiale : 12/03/
- 2026)\n\nRéalisateurs : Nathan Stefen\, Camille Tessier\, Cyprien Cotton\
- , Charles Lardenois\, Thomas Marsaudon\, Justine Perrin\, Tristan Forchero
- n\, Quentin Steinhilber\, Loïc Noailhat\, Ezvin Manhes\nScénario : Natha
- n Stefen\, Camille Tessier\, Thomas Marsaudon\nProduction : École Brassar
- t - Paris\n\nActeurs :\n- Jake\n- Moussa-K\n- Eugène\n- Vito\n- Mel\n- Jo
- '\n- Ash\n- Kev\n- Ray\n- Tim\n- Max\n- Le Nasique\n\n\nSur une île\, dan
- s un monde où les humains ont disparu\, des singes s'affrontent dans une 
- course automobile sanglante et sans merci dans le simple but de se diverti
- r\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1642995\n\nDonnées f
- ournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/2Ox8S9FqKlnXSoZs8aCB5uDB6cp.jpg" width="220" alt="Affi
- che de Jungle Race"><br><small>9min</small></td><td width="16"></td><td va
- lign="top"><i>Animation\, Comédie\, Action</i><br>France<br>(sortie initi
- ale : 12/03/2026)<br><br><b>Réalisateurs :</b> Nathan Stefen\, Camille Te
- ssier\, Cyprien Cotton\, Charles Lardenois\, Thomas Marsaudon\, Justine Pe
- rrin\, Tristan Forcheron\, Quentin Steinhilber\, Loïc Noailhat\, Ezvin Ma
- nhes<br><b>Scénario :</b> Nathan Stefen\, Camille Tessier\, Thomas Marsau
- don<br><b>Production :</b> École Brassart - Paris<br><br><b>Acteurs :</b>
- <ul><li>Jake</li><li>Moussa-K</li><li>Eugène</li><li>Vito</li><li>Mel</li
- ><li>Jo'</li><li>Ash</li><li>Kev</li><li>Ray</li><li>Tim</li><li>Max</li><
- li>Le Nasique</li></ul></td></tr></table><p>Sur une île\, dans un monde o
- ù les humains ont disparu\, des singes s'affrontent dans une course autom
- obile sanglante et sans merci dans le simple but de se divertir</p><p><sma
- ll><a href="https://www.themoviedb.org/movie/1642995">Fiche TMDB</a><br>Do
- nnées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1642995
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/2Ox8S9FqKlnXSoZs8aCB5uDB6cp.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2Ox8S9FqKlnXSoZs8
- aCB5uDB6cp.jpg
-CATEGORIES:Animation,Comédie,Action
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1240889@calendrier-cine-fr
@@ -3187,62 +2541,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/l2kfiNoRi6ofM5pSj
  r1rCloOfpx.jpg
 CATEGORIES:Animation,Action,Mystère,Crime
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1720724@calendrier-cine-fr
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:FINI DE RIRE ! L'humour politique au garde-à-vous ?
-DESCRIPTION:https://image.tmdb.org/t/p/w780/6olUdG4swS1DhXlRQDETIeIaImT.jpg
- \n1h37\n\nDocumentaire\nFrance\n\nRéalisateurs : Matéo Larroque\, Clara 
- Menais\, Mila Branco\nProduction : VraiVrai FIlms\, Off Investigation\n\nA
- cteurs :\n- Guillaume Meurice\n- Lionel Dutemple\n- Sandrine Alexi\n- Yves
-  Le Rolland\n- Audrey Vernon\n- Thomas VDB\n- Edgar-Yves Jr.\n- Bruno Gacc
- io\n- Akim Omiri\n- Florence Mendez\n- Daniel Herzog\n- Jean-Pierre Canet\
- n\n\nEn France\, rire des puissants est devenu un sport à risque. En tren
- te ans\, les humoristes les plus libres de la télévision et de la radio 
- ont été méthodiquement neutralisés\, marginalisés\, censurés\, voire
-  virés. Dans l'audiovisuel public comme dans les médias privés\, le mê
- me mécanisme se répète : on tolère la satire tant qu'elle ne mord pas.
-  Dès qu'elle touche au pouvoir\, on coupe le micro. Des plateaux de Canal
- + aux studios de France Inter en passant par les couloirs de France Télé
- visions\, du règne de Nicolas Sarkozy à celui d'Emmanuel Macron\, ce doc
- umentaire retrace la mécanique d'une mise au silence qui en dit long sur 
- l'état réel de la liberté d'expression dans l'audiovisuel français.\n\
- n\nFiche TMDB : https://www.themoviedb.org/movie/1720724\n\nDonnées fourn
- ies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/6olUdG4swS1DhXlRQDETIeIaImT.jpg" width="220" alt="Affi
- che de FINI DE RIRE ! L'humour politique au garde-à-vous ?"><br><small>1h
- 37</small></td><td width="16"></td><td valign="top"><i>Documentaire</i><br
- >France<br><br><b>Réalisateurs :</b> Matéo Larroque\, Clara Menais\, Mil
- a Branco<br><b>Production :</b> VraiVrai FIlms\, Off Investigation<br><br>
- <b>Acteurs :</b><ul><li>Guillaume Meurice</li><li>Lionel Dutemple</li><li>
- Sandrine Alexi</li><li>Yves Le Rolland</li><li>Audrey Vernon</li><li>Thoma
- s VDB</li><li>Edgar-Yves Jr.</li><li>Bruno Gaccio</li><li>Akim Omiri</li><
- li>Florence Mendez</li><li>Daniel Herzog</li><li>Jean-Pierre Canet</li></u
- l></td></tr></table><p>En France\, rire des puissants est devenu un sport 
- à risque. En trente ans\, les humoristes les plus libres de la télévisi
- on et de la radio ont été méthodiquement neutralisés\, marginalisés\,
-  censurés\, voire virés. Dans l'audiovisuel public comme dans les média
- s privés\, le même mécanisme se répète : on tolère la satire tant qu
- 'elle ne mord pas. Dès qu'elle touche au pouvoir\, on coupe le micro. Des
-  plateaux de Canal+ aux studios de France Inter en passant par les couloir
- s de France Télévisions\, du règne de Nicolas Sarkozy à celui d'Emmanu
- el Macron\, ce documentaire retrace la mécanique d'une mise au silence qu
- i en dit long sur l'état réel de la liberté d'expression dans l'audiovi
- suel français.</p><p><small><a href="https://www.themoviedb.org/movie/172
- 0724">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</s
- mall></p></body></html>
-URL:https://www.themoviedb.org/movie/1720724
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/6olUdG4swS1DhXlRQDETIeIaImT.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6olUdG4swS1DhXlRQ
- DETIeIaImT.jpg
-CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1507877@calendrier-cine-fr
@@ -3592,42 +2890,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9XNEI2AYgQIIqXper
 CATEGORIES:Drame,Romance
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1711917@calendrier-cine-fr
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Retour au collège
-DESCRIPTION:https://image.tmdb.org/t/p/w780/3wL9RDAm3ql6WxrisFQK2GwVYej.jpg
- \n1h23\n\nDocumentaire\nFrance\n\nRéalisateur : Antoine Fromental\nScéna
- rio : Antoine Fromental\nPhotographie : Nicolaos Zafiriou\nProduction : Ke
- tchup Mayonnaise\n\n\nSarah et Yasmine\, élèves de 3ème dans un collèg
- e de banlieue\, risquent de passer devant le conseil de discipline. À que
- lques semaines de son départ en retraite\, M. Comès\, un principal pas c
- omme les autres\, a une décision difficile à prendre.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1711917\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/3wL9RDAm3ql6WxrisFQK2GwVYej.jpg" width="220" alt="Affi
- che de Retour au collège"><br><small>1h23</small></td><td width="16"></td
- ><td valign="top"><i>Documentaire</i><br>France<br><br><b>Réalisateur :</
- b> Antoine Fromental<br><b>Scénario :</b> Antoine Fromental<br><b>Photogr
- aphie :</b> Nicolaos Zafiriou<br><b>Production :</b> Ketchup Mayonnaise</t
- d></tr></table><p>Sarah et Yasmine\, élèves de 3ème dans un collège de
-  banlieue\, risquent de passer devant le conseil de discipline. À quelque
- s semaines de son départ en retraite\, M. Comès\, un principal pas comme
-  les autres\, a une décision difficile à prendre.</p><p><small><a href="
- https://www.themoviedb.org/movie/1711917">Fiche TMDB</a><br>Données fourn
- ies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1711917
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/3wL9RDAm3ql6WxrisFQK2GwVYej.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/3wL9RDAm3ql6Wxris
- FQK2GwVYej.jpg
-CATEGORIES:Documentaire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1248832@calendrier-cine-fr
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
@@ -3669,91 +2931,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/rwMxkkfnFdNmCXwoO
  jCjf8PzZSR.jpg
 CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1731954@calendrier-cine-fr
-DTSTAMP:20260930T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Délivre-nous du Mal
-DESCRIPTION:https://image.tmdb.org/t/p/w780/9EeiLJoP00zXT0ztU6K2Z0vZSrr.jpg
- \n(Libera nos: Il trionfo sul male)\n1h45\n\nFR\n\nRéalisateurs : Valeria
-  Baldan\, Giovanni Ziberna\n\n\nUn documentaire captivant qui explore les 
- racines du mal\, les mécanismes de la possession et la réalité des exor
- cismes. À travers des cas concrets et le témoignage de grands exorcistes
-  modernes\, Délivre-nous du Mal lève le voile sur un rite méconnu. Seul
- e œuvre cinématographique officiellement approuvée par l'Association in
- ternationale des exorcistes\, ce film s’affranchit du sensationnalisme p
- our offrir une approche lumineuse et incarnée.\n\n\nFiche TMDB : https://
- www.themoviedb.org/movie/1731954\n\nDonnées fournies par The Movie Databa
- se (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/9EeiLJoP00zXT0ztU6K2Z0vZSrr.jpg" width="220" alt="Affi
- che de Délivre-nous du Mal"><br><small>(Libera nos: Il trionfo sul male)<
- /small><br><small>1h45</small></td><td width="16"></td><td valign="top">FR
- <br><br><b>Réalisateurs :</b> Valeria Baldan\, Giovanni Ziberna</td></tr>
- </table><p>Un documentaire captivant qui explore les racines du mal\, les 
- mécanismes de la possession et la réalité des exorcismes. À travers de
- s cas concrets et le témoignage de grands exorcistes modernes\, Délivre-
- nous du Mal lève le voile sur un rite méconnu. Seule œuvre cinématogra
- phique officiellement approuvée par l'Association internationale des exor
- cistes\, ce film s’affranchit du sensationnalisme pour offrir une approc
- he lumineuse et incarnée.</p><p><small><a href="https://www.themoviedb.or
- g/movie/1731954">Fiche TMDB</a><br>Données fournies par The Movie Databas
- e (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1731954
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/9EeiLJoP00zXT0ztU6K2Z0vZSrr.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9EeiLJoP00zXT0ztU
- 6K2Z0vZSrr.jpg
-CATEGORIES:Cinema
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1739421@calendrier-cine-fr
-DTSTAMP:20260930T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Georges Aperghis\, un mot après l’autre
-DESCRIPTION:53min\n\nDocumentaire\nFR\n\nRéalisateur : Éric Darmon\nProdu
- ction : Mélisande Films\, Mémoire Magnétique\n\nActeur :\n- Georges Ape
- rghis\n\n\nLe réalisateur Éric Darmon dresse un portrait de Georges Aper
- ghis\, au plus près de son processus de création. Tourné au cours des d
- ernières années\, au fil des répétitions\, des échanges avec les inte
- rprètes et de moments de travail\, le film capte une pensée en acte\, at
- tentive aux inflexions de la langue\, au rythme du souffle et à la dimens
- ion ludique du geste musical. Des fragments d’archives viennent ponctuer
-  cette immersion\, éclairant la continuité d’un parcours où théâtre
-  et musique n’ont cessé de se nourrir mutuellement. Plus qu’un docume
- ntaire biographique\, le film donne accès à un espace de travail en mouv
- ement\, où la composition se construit dans l’expérimentation\, le dia
- logue et l’écoute. On y découvre un artiste pour qui chaque mot engage
-  le corps\, chaque son ouvre une situation\, et dont l’écriture se dép
- loie comme une pratique vivante du langage.\n\n\nFiche TMDB : https://www.
- themoviedb.org/movie/1739421\n\nDonnées fournies par The Movie Database (
- TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Documentair
- e</i><br>FR<br><br><b>Réalisateur :</b> Éric Darmon<br><b>Production :</
- b> Mélisande Films\, Mémoire Magnétique<br><br><b>Acteur :</b><ul><li>G
- eorges Aperghis</li></ul></div><p>Le réalisateur Éric Darmon dresse un p
- ortrait de Georges Aperghis\, au plus près de son processus de création.
-  Tourné au cours des dernières années\, au fil des répétitions\, des 
- échanges avec les interprètes et de moments de travail\, le film capte u
- ne pensée en acte\, attentive aux inflexions de la langue\, au rythme du 
- souffle et à la dimension ludique du geste musical. Des fragments d’arc
- hives viennent ponctuer cette immersion\, éclairant la continuité d’un
-  parcours où théâtre et musique n’ont cessé de se nourrir mutuelleme
- nt. Plus qu’un documentaire biographique\, le film donne accès à un es
- pace de travail en mouvement\, où la composition se construit dans l’ex
- périmentation\, le dialogue et l’écoute. On y découvre un artiste pou
- r qui chaque mot engage le corps\, chaque son ouvre une situation\, et don
- t l’écriture se déploie comme une pratique vivante du langage.</p><p><
- small><a href="https://www.themoviedb.org/movie/1739421">Fiche TMDB</a><br
- >Données fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1739421
-TRANSP:TRANSPARENT
-CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1571766@calendrier-cine-fr
@@ -3952,48 +3129,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zLCjFOyjvKqYdkQYY
 CATEGORIES:Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1739423@calendrier-cine-fr
-DTSTAMP:20261002T000000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:À nos nuits punk
-DESCRIPTION:52min\n\nFR\n\nRéalisateurs : Béatrice Dedieu\, Adèle Dumour
- \nScénario : Béatrice Dedieu\, Adèle Dumour\nProduction : Wide Producti
- ons\n\n\nNous sommes parties à la rencontre du punk aujourd'hui\, à Stra
- sbourg. Un road-movie documentaire fait de nuits libres\, queer et fémini
- stes. Pour nous\, le punk c'était des caveaux\, de la bière\, de la musi
- que trop forte et des mecs à crêtes. Il était comme figé dans les ann
- ées 80 avec plein de clichés. Mais le punk ça n'est plus vraiment ça. 
- Aujourd'hui\, il s'invente dans la nuit\, entre folk\, rap et électro. Il
-  déborde\, lutte et s'affranchit. Il est queer\, féministe et écologist
- e. Et comme un secret\, on nous a confié : "le punk\, c'est faire autreme
- nt et sans demander la permission". Alors c'est ce que l'on a fait. On a p
- ris notre caméra et on a plongé dans la nuit strasbourgeoise. Comme dans
-  un road movie documentaire\, et avec une question en tête : c'est quoi l
- e punk aujourd'hui ?\n\n\nFiche TMDB : https://www.themoviedb.org/movie/17
- 39423\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div>FR<br><br><b>R
- éalisateurs :</b> Béatrice Dedieu\, Adèle Dumour<br><b>Scénario :</b> 
- Béatrice Dedieu\, Adèle Dumour<br><b>Production :</b> Wide Productions</
- div><p>Nous sommes parties à la rencontre du punk aujourd'hui\, à Strasb
- ourg. Un road-movie documentaire fait de nuits libres\, queer et féminist
- es. Pour nous\, le punk c'était des caveaux\, de la bière\, de la musiqu
- e trop forte et des mecs à crêtes. Il était comme figé dans les année
- s 80 avec plein de clichés. Mais le punk ça n'est plus vraiment ça. Auj
- ourd'hui\, il s'invente dans la nuit\, entre folk\, rap et électro. Il d
- éborde\, lutte et s'affranchit. Il est queer\, féministe et écologiste.
-  Et comme un secret\, on nous a confié : &quot\;le punk\, c'est faire aut
- rement et sans demander la permission&quot\;. Alors c'est ce que l'on a fa
- it. On a pris notre caméra et on a plongé dans la nuit strasbourgeoise. 
- Comme dans un road movie documentaire\, et avec une question en tête : c'
- est quoi le punk aujourd'hui ?</p><p><small><a href="https://www.themovied
- b.org/movie/1739423">Fiche TMDB</a><br>Données fournies par The Movie Dat
- abase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1739423
-TRANSP:TRANSPARENT
-CATEGORIES:Cinema
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1542261@calendrier-cine-fr
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
@@ -4046,99 +3181,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ncJWnLIT2Lb1Hb4WE
  TX3l5TfuO8.jpg
 CATEGORIES:Animation,Aventure,Fantastique,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1429581@calendrier-cine-fr
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Ducobu et le fantôme de Saint-Potache
-DESCRIPTION:https://image.tmdb.org/t/p/w780/cajEgiVkKPuayykvcLlXeaSRdyp.jpg
- \n\nComédie\, Familial\nFrance\, Belgium\n\nRéalisateur : Élie Semoun\n
- Scénario : Élie Semoun\, Marc de Chauveron\, Guy Laurent\nPhotographie :
-  Christian Abomnes\nProduction : Les Films du 24\, Les films du Bélier\, 
- TF1 Films Production\n\nActeurs :\n- Élie Semoun\n- Frédérique Bel\n- 
- Émilie Caen\n- Loïc Legendre\n- Gérard Jugnot\n- Charlie Garnier Naslin
- \n- Antoinette Rougier\n- Sum\n- François Levantal\n\n\nC’est Halloween
- \, et Ducobu revient pour une aventure pleine de rires et de mystères ! L
- e professeur Latouche et Mademoiselle Rateau emménagent dans une maison
- … hantée par le ​ fantôme d'Anatole\, le plus grand cancre de l’hi
- stoire de l’école Saint-Potache. Ce fantôme farceur va entraîner Duco
- bu\, Léonie\, leurs parents et Kitrish dans une série de péripéties 
- ​ aussi drôles qu’inattendues. Mais attention : à Halloween\, tout p
- eut arriver…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1429581\
- n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/cajEgiVkKPuayykvcLlXeaSRdyp.jpg" width="220" alt="Affi
- che de Ducobu et le fantôme de Saint-Potache"></td><td width="16"></td><t
- d valign="top"><i>Comédie\, Familial</i><br>France\, Belgium<br><br><b>R
- éalisateur :</b> Élie Semoun<br><b>Scénario :</b> Élie Semoun\, Marc d
- e Chauveron\, Guy Laurent<br><b>Photographie :</b> Christian Abomnes<br><b
- >Production :</b> Les Films du 24\, Les films du Bélier\, TF1 Films Produ
- ction<br><br><b>Acteurs :</b><ul><li>Élie Semoun</li><li>Frédérique Bel
- </li><li>Émilie Caen</li><li>Loïc Legendre</li><li>Gérard Jugnot</li><l
- i>Charlie Garnier Naslin</li><li>Antoinette Rougier</li><li>Sum</li><li>Fr
- ançois Levantal</li></ul></td></tr></table><p>C’est Halloween\, et Duco
- bu revient pour une aventure pleine de rires et de mystères ! Le professe
- ur Latouche et Mademoiselle Rateau emménagent dans une maison… hantée 
- par le ​ fantôme d'Anatole\, le plus grand cancre de l’histoire de l
- ’école Saint-Potache. Ce fantôme farceur va entraîner Ducobu\, Léoni
- e\, leurs parents et Kitrish dans une série de péripéties ​ aussi dr
- ôles qu’inattendues. Mais attention : à Halloween\, tout peut arriver
- …</p><p><small><a href="https://www.themoviedb.org/movie/1429581">Fiche 
- TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></p></b
- ody></html>
-URL:https://www.themoviedb.org/movie/1429581
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/cajEgiVkKPuayykvcLlXeaSRdyp.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cajEgiVkKPuayykvc
- LlXeaSRdyp.jpg
-CATEGORIES:Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1520954@calendrier-cine-fr
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Fausse note
-DESCRIPTION:Drame\nFrance\, Belgium\n\nRéalisateur : Alexandre Arcady\nSc
- énario : Alexandre Arcady\, Martine Moriconi\nPhotographie : Gilles Henry
- \nProduction : New Light Films\, Panache Productions\, La Compagnie Ciném
- atographique\n\nActeurs :\n- Kad Merad\n- Benoît Poelvoorde\n- Matthias V
- an Khache\n- Caterina Murino\n- Pascale Louange\n- Pierre Abbou\n- Jean-Cl
- aude de Goros\n- Sarah Desanges\n- Enaëlle Dion\n- Rafaël Krauze\n- Chri
- stian Morin\n- Stefan Sattler\n\n\nLors de son ultime concert à Paris\, u
- n chef d’orchestre de renom est confronté à un admirateur insistant. S
- ous ses apparences de « Monsieur tout le monde »\, le « Fan » s’infi
- ltre dans l’Opéra\, perturbe la soirée et force un face à face inatte
- ndu avec le chef d’orchestre. Surgit alors un passé commun enfoui\, où
-  la musique devient le révélateur d’une vérité bouleversante. Une nu
- it de tension et de vérité où la mémoire\, la culpabilité et la justi
- ce s’affrontent en sourdine.\n\n\nFiche TMDB : https://www.themoviedb.or
- g/movie/1520954\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame</i><b
- r>France\, Belgium<br><br><b>Réalisateur :</b> Alexandre Arcady<br><b>Sc
- énario :</b> Alexandre Arcady\, Martine Moriconi<br><b>Photographie :</b>
-  Gilles Henry<br><b>Production :</b> New Light Films\, Panache Productions
- \, La Compagnie Cinématographique<br><br><b>Acteurs :</b><ul><li>Kad Mera
- d</li><li>Benoît Poelvoorde</li><li>Matthias Van Khache</li><li>Caterina 
- Murino</li><li>Pascale Louange</li><li>Pierre Abbou</li><li>Jean-Claude de
-  Goros</li><li>Sarah Desanges</li><li>Enaëlle Dion</li><li>Rafaël Krauze
- </li><li>Christian Morin</li><li>Stefan Sattler</li></ul></div><p>Lors de 
- son ultime concert à Paris\, un chef d’orchestre de renom est confront
- é à un admirateur insistant. Sous ses apparences de « Monsieur tout le 
- monde »\, le « Fan » s’infiltre dans l’Opéra\, perturbe la soirée
-  et force un face à face inattendu avec le chef d’orchestre. Surgit alo
- rs un passé commun enfoui\, où la musique devient le révélateur d’un
- e vérité bouleversante. Une nuit de tension et de vérité où la mémoi
- re\, la culpabilité et la justice s’affrontent en sourdine.</p><p><smal
- l><a href="https://www.themoviedb.org/movie/1520954">Fiche TMDB</a><br>Don
- nées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1520954
-TRANSP:TRANSPARENT
-CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1001405@calendrier-cine-fr
@@ -4493,47 +3535,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wse4S4EuVHSNk9yzs
 CATEGORIES:Thriller,Horreur
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1729232@calendrier-cine-fr
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Il était une fois le printemps
-DESCRIPTION:https://image.tmdb.org/t/p/w780/eXv3b3fg4bxyqffxkEqLcxmAEKN.jpg
- \n1h40\n\nDrame\nFrance\n\nRéalisateur : Cheyenne Carron\nScénario : Che
- yenne Carron\nPhotographie : Cheyenne Carron\nProduction : Hésiode Produc
- tions\n\nActeurs :\n- Alexandre Triaca\n- Leslie Tompson\n- Evangeline Cha
- ncerelle\n\n\nPaul élève seul sa fille Agathe dans un village soudé aut
- our de sa paroisse. Lorsqu’un prêtre annonce l’arrivée de migrants a
- fricains\, la communauté se divise. Paul et Agathe soutiennent cette init
- iative\, convaincus de sa richesse humaine\, tandis que Marta\, leur aide 
- familiale\, d’origine étrangère\, s’y oppose\, craignant une menace.
- \n\n\nFiche TMDB : https://www.themoviedb.org/movie/1729232\n\nDonnées fo
- urnies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/eXv3b3fg4bxyqffxkEqLcxmAEKN.jpg" width="220" alt="Affi
- che de Il était une fois le printemps"><br><small>1h40</small></td><td wi
- dth="16"></td><td valign="top"><i>Drame</i><br>France<br><br><b>Réalisate
- ur :</b> Cheyenne Carron<br><b>Scénario :</b> Cheyenne Carron<br><b>Photo
- graphie :</b> Cheyenne Carron<br><b>Production :</b> Hésiode Productions<
- br><br><b>Acteurs :</b><ul><li>Alexandre Triaca</li><li>Leslie Tompson</li
- ><li>Evangeline Chancerelle</li></ul></td></tr></table><p>Paul élève seu
- l sa fille Agathe dans un village soudé autour de sa paroisse. Lorsqu’u
- n prêtre annonce l’arrivée de migrants africains\, la communauté se d
- ivise. Paul et Agathe soutiennent cette initiative\, convaincus de sa rich
- esse humaine\, tandis que Marta\, leur aide familiale\, d’origine étran
- gère\, s’y oppose\, craignant une menace.</p><p><small><a href="https:/
- /www.themoviedb.org/movie/1729232">Fiche TMDB</a><br>Données fournies par
-  The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1729232
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/eXv3b3fg4bxyqffxkEqLcxmAEKN.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/eXv3b3fg4bxyqffxk
- EqLcxmAEKN.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-947493@calendrier-cine-fr
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
@@ -4689,48 +3690,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/fKWFDlcdT0nzp34JB
 CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1000174@calendrier-cine-fr
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Ma toute petite école
-DESCRIPTION:https://image.tmdb.org/t/p/w780/aVSl5HKbwAC502TqRggrWeQnYmS.jpg
- \n1h28\n\nDocumentaire\nFrance\n\nRéalisateur : Pascal Plisson\nScénario
-  : Pascal Plisson\nProduction : Ladybirds Cinéma\, Same Player\, Auvergne
- -Rhône-Alpes Cinéma\n\n\nNichée à 1 600 mètres d’altitude dans le m
- inuscule hameau de La Gurraz (35 habitants)\, en Haute Tarentaise\, se tro
- uve la plus petite école de France : huit élèves\, de la maternelle au 
- CM2\, un seul lieu de savoir et de vie. Le film s’invite dans la vie de 
- ces enfants\, de leur unique enseignante et de leurs familles qui\, chaque
-  année\, font face à la même question : faute d’un nombre suffisant d
- ’élèves\, l’école fermera-t-elle ?\n\n\nFiche TMDB : https://www.th
- emoviedb.org/movie/1000174\n\nDonnées fournies par The Movie Database (TM
- DB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/aVSl5HKbwAC502TqRggrWeQnYmS.jpg" width="220" alt="Affi
- che de Ma toute petite école"><br><small>1h28</small></td><td width="16">
- </td><td valign="top"><i>Documentaire</i><br>France<br><br><b>Réalisateur
-  :</b> Pascal Plisson<br><b>Scénario :</b> Pascal Plisson<br><b>Productio
- n :</b> Ladybirds Cinéma\, Same Player\, Auvergne-Rhône-Alpes Cinéma</t
- d></tr></table><p>Nichée à 1 600 mètres d’altitude dans le minuscule 
- hameau de La Gurraz (35 habitants)\, en Haute Tarentaise\, se trouve la pl
- us petite école de France : huit élèves\, de la maternelle au CM2\, un 
- seul lieu de savoir et de vie. Le film s’invite dans la vie de ces enfan
- ts\, de leur unique enseignante et de leurs familles qui\, chaque année\,
-  font face à la même question : faute d’un nombre suffisant d’élèv
- es\, l’école fermera-t-elle ?</p><p><small><a href="https://www.themovi
- edb.org/movie/1000174">Fiche TMDB</a><br>Données fournies par The Movie D
- atabase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1000174
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/aVSl5HKbwAC502TqRggrWeQnYmS.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/aVSl5HKbwAC502TqR
- ggrWeQnYmS.jpg
-CATEGORIES:Documentaire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1400837@calendrier-cine-fr
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
@@ -4818,45 +3777,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7XH2vaVsishBS0GuC
  gO3bOXfCaB.jpg
 CATEGORIES:Drame,Crime,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1729224@calendrier-cine-fr
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Petite Casbah
-DESCRIPTION:https://image.tmdb.org/t/p/w780/gqhgoR2Bi0QYDzYBWRuCLBbvmna.jpg
- \n1h24\n\nAnimation\, Familial\nFrance\, Belgium\n\nRéalisateur : Antoine
-  Colomb\nScénario : Alice Carré\, Alice Zeniter\nProduction : Darjeeling
- \, Panique!\, Lunanime\n\n\nAlgérie\, juin 1955. Khadidja quitte la Kabyl
- ie pour rejoindre son grand frère Malek à Alger. Suite à une altercatio
- n au marché\, il se fait arrêter par la police et Khadidja se retrouve s
- eule. Heureusement\, Lyes\, Ahmed et Philippe vont tout mettre en œuvre p
- our l’aider à retrouver Malek. Depuis les toits de la Casbah\, les quat
- re enfants mènent l’enquête.\n\n\nFiche TMDB : https://www.themoviedb.
- org/movie/1729224\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/gqhgoR2Bi0QYDzYBWRuCLBbvmna.jpg" width="220" alt="Affi
- che de Petite Casbah"><br><small>1h24</small></td><td width="16"></td><td 
- valign="top"><i>Animation\, Familial</i><br>France\, Belgium<br><br><b>Ré
- alisateur :</b> Antoine Colomb<br><b>Scénario :</b> Alice Carré\, Alice 
- Zeniter<br><b>Production :</b> Darjeeling\, Panique!\, Lunanime</td></tr><
- /table><p>Algérie\, juin 1955. Khadidja quitte la Kabylie pour rejoindre 
- son grand frère Malek à Alger. Suite à une altercation au marché\, il 
- se fait arrêter par la police et Khadidja se retrouve seule. Heureusement
- \, Lyes\, Ahmed et Philippe vont tout mettre en œuvre pour l’aider à r
- etrouver Malek. Depuis les toits de la Casbah\, les quatre enfants mènent
-  l’enquête.</p><p><small><a href="https://www.themoviedb.org/movie/1729
- 224">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</sm
- all></p></body></html>
-URL:https://www.themoviedb.org/movie/1729224
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/gqhgoR2Bi0QYDzYBWRuCLBbvmna.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gqhgoR2Bi0QYDzYBW
- RuCLBbvmna.jpg
-CATEGORIES:Animation,Familial
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1153576@calendrier-cine-fr
@@ -4958,37 +3878,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/5RzUMLAYw2xHsd98U
  KcMC9s0ZQ.jpg
 CATEGORIES:Horreur,Thriller,Science-Fiction
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1318337@calendrier-cine-fr
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Délivrez-nous du mal
-DESCRIPTION:Documentaire\nFrance\n\nRéalisateur : Jacques Maillot\nScénar
- io : Jacques Maillot\nProduction : What's Up Films\, Mizar Films\n\n\nEn 2
- 021\, l'Eglise de France a créé la Commission Reconnaissance et Réparat
- ion (CRR)\, une instance indépendante de justice restaurative destinée 
- à rendre justice à celles et ceux dont les vies ont été marquées par 
- des agressions non reconnues\, non condamnées et souvent enfouies pendant
-  de nombreuses années.\n Délivrez-nous du mal est une plongée dans cett
- e démarche originale et unique au monde.\n\n\nFiche TMDB : https://www.th
- emoviedb.org/movie/1318337\n\nDonnées fournies par The Movie Database (TM
- DB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Documentair
- e</i><br>France<br><br><b>Réalisateur :</b> Jacques Maillot<br><b>Scénar
- io :</b> Jacques Maillot<br><b>Production :</b> What's Up Films\, Mizar Fi
- lms</div><p>En 2021\, l'Eglise de France a créé la Commission Reconnaiss
- ance et Réparation (CRR)\, une instance indépendante de justice restaura
- tive destinée à rendre justice à celles et ceux dont les vies ont été
-  marquées par des agressions non reconnues\, non condamnées et souvent e
- nfouies pendant de nombreuses années.\n Délivrez-nous du mal est une plo
- ngée dans cette démarche originale et unique au monde.</p><p><small><a h
- ref="https://www.themoviedb.org/movie/1318337">Fiche TMDB</a><br>Données 
- fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1318337
-TRANSP:TRANSPARENT
-CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1418998@calendrier-cine-fr
@@ -5305,76 +4194,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/eWb841fMkSNly5gfL
 CATEGORIES:Thriller,Drame,Mystère
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1504972@calendrier-cine-fr
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Une femme aujourd’hui
-DESCRIPTION:Comédie\, Drame\nFrance\, Italy\n\nRéalisateur : Robert Guéd
- iguian\nScénario : Robert Guédiguian\, Serge Valletti\, Laurette Polmans
- s\nPhotographie : Pierre Milon\nProduction : Agat Films & Cie / Ex Nihilo\
- , ARTE France Cinéma\, BiBi Film\n\nActeurs :\n- Ariane Ascaride\n- Jean-
- Pierre Darroussin\n- Grégoire Leprince-Ringuet\n- Gérard Meylan\n- Lola 
- Naymark\n- Robinson Stévenin\n- Patrick Bonnel\n\n\nL’histoire d’une 
- jeune femme qui se croit émancipée\, une jeune femme pour qui la vie est
-  facile et légère jusqu’au jour où une violente agression lui révèl
- e que sa liberté n’était qu’un vernis qui\, en craquant\, laisse app
- araître les plaies de notre époque… Elle va alors chercher un nouveau 
- chemin pour que sa vie trouve un sens.\n\n\nFiche TMDB : https://www.themo
- viedb.org/movie/1504972\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie\, 
- Drame</i><br>France\, Italy<br><br><b>Réalisateur :</b> Robert Guédiguia
- n<br><b>Scénario :</b> Robert Guédiguian\, Serge Valletti\, Laurette Pol
- manss<br><b>Photographie :</b> Pierre Milon<br><b>Production :</b> Agat Fi
- lms &amp\; Cie / Ex Nihilo\, ARTE France Cinéma\, BiBi Film<br><br><b>Act
- eurs :</b><ul><li>Ariane Ascaride</li><li>Jean-Pierre Darroussin</li><li>G
- régoire Leprince-Ringuet</li><li>Gérard Meylan</li><li>Lola Naymark</li>
- <li>Robinson Stévenin</li><li>Patrick Bonnel</li></ul></div><p>L’histoi
- re d’une jeune femme qui se croit émancipée\, une jeune femme pour qui
-  la vie est facile et légère jusqu’au jour où une violente agression 
- lui révèle que sa liberté n’était qu’un vernis qui\, en craquant\,
-  laisse apparaître les plaies de notre époque… Elle va alors chercher 
- un nouveau chemin pour que sa vie trouve un sens.</p><p><small><a href="ht
- tps://www.themoviedb.org/movie/1504972">Fiche TMDB</a><br>Données fournie
- s par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1504972
-TRANSP:TRANSPARENT
-CATEGORIES:Comédie,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1747600@calendrier-cine-fr
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:We Were Never Friends
-DESCRIPTION:https://image.tmdb.org/t/p/w780/cMPawc61uBVpbJELre1RqOVIdRq.jpg
- \n\nComédie\, Drame\nFrance\n\nRéalisateur : Adam Berard\nScénario : Ad
- am Berard\n\nActeurs :\n- Olivia Goeta\n- Agathe Forget\n- Alicia Abe\n- A
- mandine Gambarin\n- Marguerite Guenot\n\n\nCinq amies passent la soirée e
- nsemble.  Au fil de la nuit\, il devient de plus en plus difficile de savo
- ir ce qui les unit encore.\n\n\nFiche TMDB : https://www.themoviedb.org/mo
- vie/1747600\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/cMPawc61uBVpbJELre1RqOVIdRq.jpg" width="220" alt="Affi
- che de We Were Never Friends"></td><td width="16"></td><td valign="top"><i
- >Comédie\, Drame</i><br>France<br><br><b>Réalisateur :</b> Adam Berard<b
- r><b>Scénario :</b> Adam Berard<br><br><b>Acteurs :</b><ul><li>Olivia Goe
- ta</li><li>Agathe Forget</li><li>Alicia Abe</li><li>Amandine Gambarin</li>
- <li>Marguerite Guenot</li></ul></td></tr></table><p>Cinq amies passent la 
- soirée ensemble.  Au fil de la nuit\, il devient de plus en plus difficil
- e de savoir ce qui les unit encore.</p><p><small><a href="https://www.them
- oviedb.org/movie/1747600">Fiche TMDB</a><br>Données fournies par The Movi
- e Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1747600
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/cMPawc61uBVpbJELre1RqOVIdRq.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cMPawc61uBVpbJELr
- e1RqOVIdRq.jpg
-CATEGORIES:Comédie,Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1195803@calendrier-cine-fr
 DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
@@ -5416,34 +4235,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/eOYkNDalgt1v6UGjw
  3AoFR5qo9D.jpg
 CATEGORIES:Romance,Fantastique,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1738716@calendrier-cine-fr
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Égrégore
-DESCRIPTION:https://image.tmdb.org/t/p/w780/7xNuMLxn4RjLUt83OJWnMF3k1Cw.jpg
- \n\nMusique\nFR\n\nProduction : Pathé Live\n\nActeur :\n- Mylène Farmer\
- n\n\nFilm accompagnant la sortie de l’album "Égrégore" de Mylène Farm
- er.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1738716\n\nDonnées
-  fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/7xNuMLxn4RjLUt83OJWnMF3k1Cw.jpg" width="220" alt="Affi
- che de Égrégore"></td><td width="16"></td><td valign="top"><i>Musique</i
- ><br>FR<br><br><b>Production :</b> Pathé Live<br><br><b>Acteur :</b><ul><
- li>Mylène Farmer</li></ul></td></tr></table><p>Film accompagnant la sorti
- e de l’album &quot\;Égrégore&quot\; de Mylène Farmer.</p><p><small><a
-  href="https://www.themoviedb.org/movie/1738716">Fiche TMDB</a><br>Donnée
- s fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1738716
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/7xNuMLxn4RjLUt83OJWnMF3k1Cw.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7xNuMLxn4RjLUt83O
- JWnMF3k1Cw.jpg
-CATEGORIES:Musique
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1058424@calendrier-cine-fr
@@ -5690,55 +4481,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/niEnEAPjqc2Mey6Ii
  VPtBun45ZV.jpg
 CATEGORIES:Histoire,Drame,Guerre
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1544163@calendrier-cine-fr
-DTSTAMP:20261028T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Quelques mots d'amour
-DESCRIPTION:https://image.tmdb.org/t/p/w780/6pPTrykKgURPalsiFL1vEy27yt7.jpg
- \n1h37\n\nComédie\, Drame\nFrance\n\nRéalisateur : Rudi Rosenberg\nScén
- ario : Rudi Rosenberg\nPhotographie : Éric Dumont\nProduction : Chi-Fou-M
- i Productions\, Chapter 2\, TF1 Films Production\n\nActeurs :\n- Hafsia He
- rzi\n- Nour Salam\n- Ella Bedoucha\n- Aïdan Djouadi\n- Mateo Danila\n- Ch
- arlie Lugassy\n- Eden Sarfati\n- Paulette Chetrit\n- Jacques Sebban\n- Ste
- phan Chargeboeuf\n- Selma Alaoui\n- Franck Lebreton\n\n\nSarcelles\, 1995.
-  Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuade que
-  son père\, qu’elle n’a jamais connu\, l’aime en silence quelque pa
- rt. Lorsqu’elle se met en tête de le retrouver\, Erika se sent obligée
-  de l’aider\, tout en cherchant à la protéger. En grandissant\, la qu
- ête d’Abigaëlle se transforme en obsession\, entraînant avec elle sa 
- mère\, sa meilleure amie\, et tous ceux qui comptent.\n\n\nFiche TMDB : h
- ttps://www.themoviedb.org/movie/1544163\n\nDonnées fournies par The Movie
-  Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/6pPTrykKgURPalsiFL1vEy27yt7.jpg" width="220" alt="Affi
- che de Quelques mots d'amour"><br><small>1h37</small></td><td width="16"><
- /td><td valign="top"><i>Comédie\, Drame</i><br>France<br><br><b>Réalisat
- eur :</b> Rudi Rosenberg<br><b>Scénario :</b> Rudi Rosenberg<br><b>Photog
- raphie :</b> Éric Dumont<br><b>Production :</b> Chi-Fou-Mi Productions\, 
- Chapter 2\, TF1 Films Production<br><br><b>Acteurs :</b><ul><li>Hafsia Her
- zi</li><li>Nour Salam</li><li>Ella Bedoucha</li><li>Aïdan Djouadi</li><li
- >Mateo Danila</li><li>Charlie Lugassy</li><li>Eden Sarfati</li><li>Paulett
- e Chetrit</li><li>Jacques Sebban</li><li>Stephan Chargeboeuf</li><li>Selma
-  Alaoui</li><li>Franck Lebreton</li></ul></td></tr></table><p>Sarcelles\, 
- 1995. Erika élève seule ses deux enfants. Sa fille Abigaëlle se persuad
- e que son père\, qu’elle n’a jamais connu\, l’aime en silence quelq
- ue part. Lorsqu’elle se met en tête de le retrouver\, Erika se sent obl
- igée de l’aider\, tout en cherchant à la protéger. En grandissant\, l
- a quête d’Abigaëlle se transforme en obsession\, entraînant avec elle
-  sa mère\, sa meilleure amie\, et tous ceux qui comptent.</p><p><small><a
-  href="https://www.themoviedb.org/movie/1544163">Fiche TMDB</a><br>Donnée
- s fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1544163
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/6pPTrykKgURPalsiFL1vEy27yt7.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6pPTrykKgURPalsiF
- L1vEy27yt7.jpg
-CATEGORIES:Comédie,Drame
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1468846@calendrier-cine-fr
@@ -6157,47 +4899,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/h3N9bQbuDtswq6nNt
 CATEGORIES:Action
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1552261@calendrier-cine-fr
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Un bon patron
-DESCRIPTION:Comédie\nFrance\n\nRéalisateur : Philippe de Chauveron\nScén
- ario : Philippe de Chauveron\, Guy Laurent\nPhotographie : Vincent Mathias
- \nProduction : Les Films du 24\n\nActeurs :\n- Didier Bourdon\n- Catherine
-  Frot\n- Jean-François Cayrey\n- François Levantal\n- Ludmilla von Claer
- \n\n\nUn ex-employé viré qui proteste bruyamment et campe devant l’usi
- ne. Un contremaître qui met en péril la production\, parce que sa femme 
- le trompe. Une stagiaire irrésistible qui fait tourner les têtes.  En qu
- elques jours seulement\, tout semble virer à la catastrophe pour Antoine 
- Blanchet\, héritier de l’ancestrale fabrique familiale de balances. À 
- la veille de recevoir un prix d’excellence censé honorer son usine\, il
-  doit\, en urgence\, sauver l’entreprise et maintenir le calme dans son 
- petit univers bien organisé. Il s’y attelle\, à sa manière\, paternal
- iste et autoritaire : en bon patron ?\n\n\nFiche TMDB : https://www.themov
- iedb.org/movie/1552261\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie</i
- ><br>France<br><br><b>Réalisateur :</b> Philippe de Chauveron<br><b>Scén
- ario :</b> Philippe de Chauveron\, Guy Laurent<br><b>Photographie :</b> Vi
- ncent Mathias<br><b>Production :</b> Les Films du 24<br><br><b>Acteurs :</
- b><ul><li>Didier Bourdon</li><li>Catherine Frot</li><li>Jean-François Cay
- rey</li><li>François Levantal</li><li>Ludmilla von Claer</li></ul></div><
- p>Un ex-employé viré qui proteste bruyamment et campe devant l’usine. 
- Un contremaître qui met en péril la production\, parce que sa femme le t
- rompe. Une stagiaire irrésistible qui fait tourner les têtes.  En quelqu
- es jours seulement\, tout semble virer à la catastrophe pour Antoine Blan
- chet\, héritier de l’ancestrale fabrique familiale de balances. À la v
- eille de recevoir un prix d’excellence censé honorer son usine\, il doi
- t\, en urgence\, sauver l’entreprise et maintenir le calme dans son peti
- t univers bien organisé. Il s’y attelle\, à sa manière\, paternaliste
-  et autoritaire : en bon patron ?</p><p><small><a href="https://www.themov
- iedb.org/movie/1552261">Fiche TMDB</a><br>Données fournies par The Movie 
- Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1552261
-TRANSP:TRANSPARENT
-CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-891621@calendrier-cine-fr
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
@@ -6335,41 +5036,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:Histoire,Drame
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1608590@calendrier-cine-fr
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Ce qui nous mène à toi
-DESCRIPTION:Drame\nFrance\n\nRéalisateur : Khalil Cherti\nScénario : Khal
- il Cherti\, Simon Serna\nPhotographie : Frida Marzouk\nProduction : Kazak 
- Productions\, Kissfilms\n\nActeurs :\n- Nina Meurisse\n- Sofian Khammes\n-
-  Maria de Medeiros\n- Aurélia Petit\n- Claire Dumas\n- Younès Boucif\n- 
- Géraldine Nakache\n- Jeanne Balibar\n\n\nCharlie et Hicham\, la trentaine
- \, s’aiment follement mais ne parviennent pas à avoir d’enfant : leur
-  couple est infertile. Ils entament alors un parcours d’Aide Médicale 
- à la Procréation. Pendant trois ans\, entre espoirs et déceptions\, ils
-  vont mettre leur amour et leurs corps à l’épreuve\, vivre une odyssé
- e qui va les bouleverser…\n\n\nFiche TMDB : https://www.themoviedb.org/m
- ovie/1608590\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame</i><b
- r>France<br><br><b>Réalisateur :</b> Khalil Cherti<br><b>Scénario :</b> 
- Khalil Cherti\, Simon Serna<br><b>Photographie :</b> Frida Marzouk<br><b>P
- roduction :</b> Kazak Productions\, Kissfilms<br><br><b>Acteurs :</b><ul><
- li>Nina Meurisse</li><li>Sofian Khammes</li><li>Maria de Medeiros</li><li>
- Aurélia Petit</li><li>Claire Dumas</li><li>Younès Boucif</li><li>Gérald
- ine Nakache</li><li>Jeanne Balibar</li></ul></div><p>Charlie et Hicham\, l
- a trentaine\, s’aiment follement mais ne parviennent pas à avoir d’en
- fant : leur couple est infertile. Ils entament alors un parcours d’Aide 
- Médicale à la Procréation. Pendant trois ans\, entre espoirs et décept
- ions\, ils vont mettre leur amour et leurs corps à l’épreuve\, vivre u
- ne odyssée qui va les bouleverser…</p><p><small><a href="https://www.th
- emoviedb.org/movie/1608590">Fiche TMDB</a><br>Données fournies par The Mo
- vie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1608590
-TRANSP:TRANSPARENT
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1437511@calendrier-cine-fr
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
@@ -6416,96 +5082,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uvTMQzEU3b4GJLVv2
  HD318rb1sB.jpg
 CATEGORIES:Crime,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1730784@calendrier-cine-fr
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Face à face
-DESCRIPTION:https://image.tmdb.org/t/p/w780/hNzqNuu2M0HnBDog87hDH3gsZYh.jpg
- \n1h24\n\nDrame\nFrance\n\nRéalisateur : Florian Hessique\nScénario : Fl
- orian Hessique\nPhotographie : Antoine Sorin\nProduction : Le Temps du Ré
- cit\n\nActeurs :\n- Valérie Mairesse\n- Florian Hessique\n- Frédéric Di
- efenthal\n- Elisa Ezzedine\n- Olivier Pagès\n- Capucine Anav\n\n\nFabienn
- e Langlois\, conseillère d'insertion et de probation au Centre National d
- ’Évaluation\, doit déterminer si Antoine Martineau\, détenu pour le m
- eurtre de sa femme\, peut obtenir une libération conditionnelle. Entre mu
- tisme\, paranoïa et zones d’ombre\, elle plonge dans l’esprit d’un 
- homme insaisissable pour démêler le vrai du faux. Un face-à-face où ch
- aque mot peut révéler… ou dissimuler la vérité.\n\n\nFiche TMDB : ht
- tps://www.themoviedb.org/movie/1730784\n\nDonnées fournies par The Movie 
- Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/hNzqNuu2M0HnBDog87hDH3gsZYh.jpg" width="220" alt="Affi
- che de Face à face"><br><small>1h24</small></td><td width="16"></td><td v
- align="top"><i>Drame</i><br>France<br><br><b>Réalisateur :</b> Florian He
- ssique<br><b>Scénario :</b> Florian Hessique<br><b>Photographie :</b> Ant
- oine Sorin<br><b>Production :</b> Le Temps du Récit<br><br><b>Acteurs :</
- b><ul><li>Valérie Mairesse</li><li>Florian Hessique</li><li>Frédéric Di
- efenthal</li><li>Elisa Ezzedine</li><li>Olivier Pagès</li><li>Capucine An
- av</li></ul></td></tr></table><p>Fabienne Langlois\, conseillère d'insert
- ion et de probation au Centre National d’Évaluation\, doit déterminer 
- si Antoine Martineau\, détenu pour le meurtre de sa femme\, peut obtenir 
- une libération conditionnelle. Entre mutisme\, paranoïa et zones d’omb
- re\, elle plonge dans l’esprit d’un homme insaisissable pour démêler
-  le vrai du faux. Un face-à-face où chaque mot peut révéler… ou diss
- imuler la vérité.</p><p><small><a href="https://www.themoviedb.org/movie
- /1730784">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB
- )</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1730784
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hNzqNuu2M0HnBDog87hDH3gsZYh.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hNzqNuu2M0HnBDog8
- 7hDH3gsZYh.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1725017@calendrier-cine-fr
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:INANE FECIT
-DESCRIPTION:https://image.tmdb.org/t/p/w780/xsJgjfGTn9ygX7WdpJnegMeB22D.jpg
- \n32min\n\nFantastique\, Science-Fiction\, Drame\, Thriller\, Action\, Cri
- me\nFrance\, United States of America\, Martinique\n\nRéalisateur : Marti
- n\, Gudjencio\nScénario : Martin\, Gudjencio\nPhotographie : Blondeau\, S
- venko\, Murat\, Melvyn\, Martin\, Julia O.\n\nActeurs :\n- Abimaël Doré\
- , Prince\n- Baker\, Emma\n- Estefy\, Lat\n- Gweilde\, Birand\n- Martin\, G
- udjencio\n- Martin\, Julia O.\n- Mathé\, Margaux\n- Murat\, Melvyn\n- Spi
- ral\, Lilaya\n- Wei\, Shu\n- Blondeau\, Svenko\n\n\nAu 28e siècle\, un gr
- oupe de jeunes adultes aux capacités augmentées est confronté à un dil
- emme moral lorsqu'ils tentent de ressusciter leur ami grâce à leur propr
- e technologie futuriste\, pour se retrouver face à des dieux venus d'aill
- eurs.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1725017\n\nDonné
- es fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/xsJgjfGTn9ygX7WdpJnegMeB22D.jpg" width="220" alt="Affi
- che de INANE FECIT"><br><small>32min</small></td><td width="16"></td><td v
- align="top"><i>Fantastique\, Science-Fiction\, Drame\, Thriller\, Action\,
-  Crime</i><br>France\, United States of America\, Martinique<br><br><b>Ré
- alisateur :</b> Martin\, Gudjencio<br><b>Scénario :</b> Martin\, Gudjenci
- o<br><b>Photographie :</b> Blondeau\, Svenko\, Murat\, Melvyn\, Martin\, J
- ulia O.<br><br><b>Acteurs :</b><ul><li>Abimaël Doré\, Prince</li><li>Bak
- er\, Emma</li><li>Estefy\, Lat</li><li>Gweilde\, Birand</li><li>Martin\, G
- udjencio</li><li>Martin\, Julia O.</li><li>Mathé\, Margaux</li><li>Murat\
- , Melvyn</li><li>Spiral\, Lilaya</li><li>Wei\, Shu</li><li>Blondeau\, Sven
- ko</li></ul></td></tr></table><p>Au 28e siècle\, un groupe de jeunes adul
- tes aux capacités augmentées est confronté à un dilemme moral lorsqu'i
- ls tentent de ressusciter leur ami grâce à leur propre technologie futur
- iste\, pour se retrouver face à des dieux venus d'ailleurs.</p><p><small>
- <a href="https://www.themoviedb.org/movie/1725017">Fiche TMDB</a><br>Donn
- ées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1725017
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/xsJgjfGTn9ygX7WdpJnegMeB22D.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xsJgjfGTn9ygX7Wdp
- JnegMeB22D.jpg
-CATEGORIES:Fantastique,Science-Fiction,Drame,Thriller,Action,Crime
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1193614@calendrier-cine-fr
@@ -6636,95 +5212,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tuLe4oHdG4wrCsscE
 CATEGORIES:Histoire,Drame
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1556548@calendrier-cine-fr
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Les jours d'après
-DESCRIPTION:Drame\, Comédie\nFrance\n\nRéalisateur : Stéphanie Pillonca\
- nScénario : Stéphanie Pillonca\, Catherine Hoffmann\nPhotographie : Hugu
- es Poulain\nProduction : Felicity Films\n\nActeurs :\n- Valérie Donzelli\
- n- Jalil Lespert\n- Thierry Godard\n- François Berléand\n- Gabriel Donze
- lli\n- Victor Kervern\n- Benjamin "Waxx" Hekimian\n\n\nDans un charmant vi
- llage de campagne\, Louise\, la cinquantaine\, revient seule dans sa maiso
- n natale pour la vider. Entre les retrouvailles avec ses amis d’enfance\
- , la beauté de la nature\, les passages de ses enfants et de son mari\, e
- t la complicité renaissante avec Marc\, son amour de jeunesse\, elle se d
- écouvre portée vers un nouvel élan : se réinventer\, interroger ses d
- ésirs\, se réconcilier avec soi-même. Une étape de vie charnière où 
- toutes les femmes peuvent choisir d'avancer\, s'autoriser à rebondir et o
- uvrir un nouveau chapitre vers l'avenir.\n\n\nFiche TMDB : https://www.the
- moviedb.org/movie/1556548\n\nDonnées fournies par The Movie Database (TMD
- B)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame\, Com
- édie</i><br>France<br><br><b>Réalisateur :</b> Stéphanie Pillonca<br><b
- >Scénario :</b> Stéphanie Pillonca\, Catherine Hoffmann<br><b>Photograph
- ie :</b> Hugues Poulain<br><b>Production :</b> Felicity Films<br><br><b>Ac
- teurs :</b><ul><li>Valérie Donzelli</li><li>Jalil Lespert</li><li>Thierry
-  Godard</li><li>François Berléand</li><li>Gabriel Donzelli</li><li>Victo
- r Kervern</li><li>Benjamin &quot\;Waxx&quot\; Hekimian</li></ul></div><p>D
- ans un charmant village de campagne\, Louise\, la cinquantaine\, revient s
- eule dans sa maison natale pour la vider. Entre les retrouvailles avec ses
-  amis d’enfance\, la beauté de la nature\, les passages de ses enfants 
- et de son mari\, et la complicité renaissante avec Marc\, son amour de je
- unesse\, elle se découvre portée vers un nouvel élan : se réinventer\,
-  interroger ses désirs\, se réconcilier avec soi-même. Une étape de vi
- e charnière où toutes les femmes peuvent choisir d'avancer\, s'autoriser
-  à rebondir et ouvrir un nouveau chapitre vers l'avenir.</p><p><small><a 
- href="https://www.themoviedb.org/movie/1556548">Fiche TMDB</a><br>Données
-  fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1556548
-TRANSP:TRANSPARENT
-CATEGORIES:Drame,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1387504@calendrier-cine-fr
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Les yeux verts
-DESCRIPTION:https://image.tmdb.org/t/p/w780/huXtt6bsXMqMLNhSaMDMttEGpGb.jpg
- \n1h23\n\nDrame\nFrance\, Belgium\, Sweden\n\nRéalisateurs : Fanny Liatar
- d\, Jérémy Trouilh\nScénario : Jérémy Trouilh\, Fanny Liatard\, Guill
- aume Laurant\nPhotographie : Victor Seguin\nProduction : June Films\, Haut
-  et Court\, France 3 Cinéma\n\nActeurs :\n- Anamaria Vartolomei\n- Sayyid
-  El Alami\n- Douae Butarbuch Mzaouki\n- Arcadi Radeff\n- Omar Al Jbaai\n\n
- \nChaya\, 11 ans\, vit avec son père\, Rafi\, et son grand frère\, Nour\
- , dans un petit village des Landes. À la nouvelle de leur expulsion\, Raf
- i doit fuir précipitamment\, laissant ses enfants livrés à eux-mêmes. 
- Mais peu à peu\, Nour sombre dans un sommeil mystérieux. Il est victime 
- du syndrome de résignation. Chaya va alors tout faire pour le réveiller\
- , et plonge dans ses rêves pour le retrouver.\n\n\nFiche TMDB : https://w
- ww.themoviedb.org/movie/1387504\n\nDonnées fournies par The Movie Databas
- e (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/huXtt6bsXMqMLNhSaMDMttEGpGb.jpg" width="220" alt="Affi
- che de Les yeux verts"><br><small>1h23</small></td><td width="16"></td><td
-  valign="top"><i>Drame</i><br>France\, Belgium\, Sweden<br><br><b>Réalisa
- teurs :</b> Fanny Liatard\, Jérémy Trouilh<br><b>Scénario :</b> Jérém
- y Trouilh\, Fanny Liatard\, Guillaume Laurant<br><b>Photographie :</b> Vic
- tor Seguin<br><b>Production :</b> June Films\, Haut et Court\, France 3 Ci
- néma<br><br><b>Acteurs :</b><ul><li>Anamaria Vartolomei</li><li>Sayyid El
-  Alami</li><li>Douae Butarbuch Mzaouki</li><li>Arcadi Radeff</li><li>Omar 
- Al Jbaai</li></ul></td></tr></table><p>Chaya\, 11 ans\, vit avec son père
- \, Rafi\, et son grand frère\, Nour\, dans un petit village des Landes. 
- À la nouvelle de leur expulsion\, Rafi doit fuir précipitamment\, laissa
- nt ses enfants livrés à eux-mêmes. Mais peu à peu\, Nour sombre dans u
- n sommeil mystérieux. Il est victime du syndrome de résignation. Chaya v
- a alors tout faire pour le réveiller\, et plonge dans ses rêves pour le 
- retrouver.</p><p><small><a href="https://www.themoviedb.org/movie/1387504"
- >Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</small>
- </p></body></html>
-URL:https://www.themoviedb.org/movie/1387504
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/huXtt6bsXMqMLNhSaMDMttEGpGb.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/huXtt6bsXMqMLNhSa
- MDMttEGpGb.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1496012@calendrier-cine-fr
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
@@ -6820,59 +5307,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9RCnWkVOevfAVuSkY
 CATEGORIES:Drame,Fantastique,Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1429602@calendrier-cine-fr
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:15/18
-DESCRIPTION:https://image.tmdb.org/t/p/w780/nlqZ62tEobENzeLxNUXANgz8XJa.jpg
- \n1h44\n\nDrame\nFrance\n\nRéalisateur : Cédric Kahn\nScénario : Cédri
- c Kahn\, Kahina Le Querrec\nPhotographie : Patrick Ghiringhelli\nProductio
- n : Ad Vitam Production\, France 2 Cinéma\, Tropdebonheur Productions\n\n
- Acteurs :\n- Zoé monpart\n- Malou Khebizi\n- Kenji Peyran\n- Raphaël Bes
- son\n- Patience Munchenbach\n- Ahleme Sahraoui\n- Jade Philip\n- Laeti Vab
- re\n- Daoud gary\n- Sami Assouane\n- Ambre Belaidi\n- Gabriel Pottier\n\n\
- nLucia\, 17 ans\, est amenée par la police dans une unité de soins pédo
- psychiatriques de l’hôpital public. Ici tous les patients ont entre 15 
- et 18 ans. Lucia connaît l’endroit\, elle y a fait de nombreux séjours
- . Elle retrouve son amie Eloïse\, en hospitalisation longue durée\, mais
-  aussi Yasmine\, Camilia\, Ulysse\, André… tous ont des pathologies et 
- des parcours différents. Les médecins les soignent\, les écoutent\, re
- çoivent leurs parents\, tout en gérant un service en surchauffe. Mais un
-  jour\, l’arrivée du mystérieux Enzo menace de tout bouleverser.\n\n\n
- Fiche TMDB : https://www.themoviedb.org/movie/1429602\n\nDonnées fournies
-  par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/nlqZ62tEobENzeLxNUXANgz8XJa.jpg" width="220" alt="Affi
- che de 15/18"><br><small>1h44</small></td><td width="16"></td><td valign="
- top"><i>Drame</i><br>France<br><br><b>Réalisateur :</b> Cédric Kahn<br><
- b>Scénario :</b> Cédric Kahn\, Kahina Le Querrec<br><b>Photographie :</b
- > Patrick Ghiringhelli<br><b>Production :</b> Ad Vitam Production\, France
-  2 Cinéma\, Tropdebonheur Productions<br><br><b>Acteurs :</b><ul><li>Zoé
-  monpart</li><li>Malou Khebizi</li><li>Kenji Peyran</li><li>Raphaël Besso
- n</li><li>Patience Munchenbach</li><li>Ahleme Sahraoui</li><li>Jade Philip
- </li><li>Laeti Vabre</li><li>Daoud gary</li><li>Sami Assouane</li><li>Ambr
- e Belaidi</li><li>Gabriel Pottier</li></ul></td></tr></table><p>Lucia\, 17
-  ans\, est amenée par la police dans une unité de soins pédopsychiatriq
- ues de l’hôpital public. Ici tous les patients ont entre 15 et 18 ans. 
- Lucia connaît l’endroit\, elle y a fait de nombreux séjours. Elle retr
- ouve son amie Eloïse\, en hospitalisation longue durée\, mais aussi Yasm
- ine\, Camilia\, Ulysse\, André… tous ont des pathologies et des parcour
- s différents. Les médecins les soignent\, les écoutent\, reçoivent leu
- rs parents\, tout en gérant un service en surchauffe. Mais un jour\, l’
- arrivée du mystérieux Enzo menace de tout bouleverser.</p><p><small><a h
- ref="https://www.themoviedb.org/movie/1429602">Fiche TMDB</a><br>Données 
- fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1429602
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/nlqZ62tEobENzeLxNUXANgz8XJa.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/nlqZ62tEobENzeLxN
- UXANgz8XJa.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1613021@calendrier-cine-fr
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
@@ -6921,49 +5355,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2vcvUG0DuSG8Ee0lg
  X9Oz9VzOxP.jpg
 CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1312310@calendrier-cine-fr
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Gabin
-DESCRIPTION:https://image.tmdb.org/t/p/w780/cVEnzhnfFvfwAeqF7hHAj6hPG7t.jpg
- \n1h45\n\nDocumentaire\nFrance\, Germany\, Switzerland\n\nRéalisateur : M
- axence Voiseux\nScénario : Maxence Voiseux\nProduction : Alter Ego Produc
- tions\, Rita Productions\, AMA Film\n\nActeurs :\n- Gabin Jourdel\n- Patri
- cia Jourdel\n- Dominique Jourdel\n- Lilou Duflos-Lamotte\n- Catherine Rans
- on\n\n\nDans le nord de la France\, Gabin\, le petit dernier de la famille
-  Jourdel\, est destiné à reprendre la boucherie de son père. Tiraillé 
- entre loyauté familiale et envies d’échappées\, il a d’autres rêve
- s : dresser une vache de concours\, devenir éleveur canin\, sauver la fer
- me de sa mère de la faillite. GABIN nous plonge dans la vie de ce jeune g
- arçon\, de ses 8 à ses 18 ans.\n\n\nFiche TMDB : https://www.themoviedb.
- org/movie/1312310\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/cVEnzhnfFvfwAeqF7hHAj6hPG7t.jpg" width="220" alt="Affi
- che de Gabin"><br><small>1h45</small></td><td width="16"></td><td valign="
- top"><i>Documentaire</i><br>France\, Germany\, Switzerland<br><br><b>Réal
- isateur :</b> Maxence Voiseux<br><b>Scénario :</b> Maxence Voiseux<br><b>
- Production :</b> Alter Ego Productions\, Rita Productions\, AMA Film<br><b
- r><b>Acteurs :</b><ul><li>Gabin Jourdel</li><li>Patricia Jourdel</li><li>D
- ominique Jourdel</li><li>Lilou Duflos-Lamotte</li><li>Catherine Ranson</li
- ></ul></td></tr></table><p>Dans le nord de la France\, Gabin\, le petit de
- rnier de la famille Jourdel\, est destiné à reprendre la boucherie de so
- n père. Tiraillé entre loyauté familiale et envies d’échappées\, il
-  a d’autres rêves : dresser une vache de concours\, devenir éleveur ca
- nin\, sauver la ferme de sa mère de la faillite. GABIN nous plonge dans l
- a vie de ce jeune garçon\, de ses 8 à ses 18 ans.</p><p><small><a href="
- https://www.themoviedb.org/movie/1312310">Fiche TMDB</a><br>Données fourn
- ies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1312310
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/cVEnzhnfFvfwAeqF7hHAj6hPG7t.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cVEnzhnfFvfwAeqF7
- hHAj6hPG7t.jpg
-CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1300968@calendrier-cine-fr
@@ -7119,61 +5510,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/A3y7oED7yQ1WIxJIl
  9jey9Ls0aU.jpg
 CATEGORIES:Drame,Romance,Guerre
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1562691@calendrier-cine-fr
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Malika
-DESCRIPTION:Drame\nFrance\, Luxembourg\n\nRéalisateur : Mounia Meddour\nSc
- énario : Mounia Meddour\, Joanne Giger\nPhotographie : Jeanne Lapoirie\nP
- roduction : Apaches\, Daï Daï Films\, High Sea Production\n\nActeurs :\n
- - Lilya Adad\n- Elsa Zylberstein\n- Lubna Azabal\n- Amira Hilda Douaouda\n
- - Camille Razat\n- Djebril Zonga\n- Marc Lavoine\n- Karidja Touré\n- Rani
-  Bheemuck\n\n\nMalika souhaite devenir l'une des plus grandes mezzo-sopran
- o du monde. Déterminée\, elle parvient à intégrer la prestigieuse Éco
- le Nationale de musique de Paris sous la direction d’Anne Dune. Dès lor
- s\, elle va tenter contre vents et marées de se hisser au rang des meille
- urs chanteuses lyriques\, avec l’aide d’un professeur atypique et trè
- s peu académique qui la fera progresser en la reconnectant à son corps b
- lessé. Surnommée “la diva des banlieues” et née en 1956 dans un bid
- onville de Nanterre\, en proche banlieue parisienne\, Malika Bellaribi Le 
- Moal a en effet surmonté un grave accident à l’âge de trois ans qui l
- ui a brisé les jambes\, les hanches et le bassin. Elle a découvert le ch
- ant durant ses hospitalisations auprès des sœurs de Saint-Vincent-de-Pau
- l. Le film entend célébrer le combat d’une femme d’origine algérien
- ne qui\, malgré le racisme et les difficultés\, est devenue une cantatri
- ce reconnue sur les scènes d’opéra les plus prestigieuses.\n\n\nFiche 
- TMDB : https://www.themoviedb.org/movie/1562691\n\nDonnées fournies par T
- he Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame</i><b
- r>France\, Luxembourg<br><br><b>Réalisateur :</b> Mounia Meddour<br><b>Sc
- énario :</b> Mounia Meddour\, Joanne Giger<br><b>Photographie :</b> Jeann
- e Lapoirie<br><b>Production :</b> Apaches\, Daï Daï Films\, High Sea Pro
- duction<br><br><b>Acteurs :</b><ul><li>Lilya Adad</li><li>Elsa Zylberstein
- </li><li>Lubna Azabal</li><li>Amira Hilda Douaouda</li><li>Camille Razat</
- li><li>Djebril Zonga</li><li>Marc Lavoine</li><li>Karidja Touré</li><li>R
- ani Bheemuck</li></ul></div><p>Malika souhaite devenir l'une des plus gran
- des mezzo-soprano du monde. Déterminée\, elle parvient à intégrer la p
- restigieuse École Nationale de musique de Paris sous la direction d’Ann
- e Dune. Dès lors\, elle va tenter contre vents et marées de se hisser au
-  rang des meilleurs chanteuses lyriques\, avec l’aide d’un professeur 
- atypique et très peu académique qui la fera progresser en la reconnectan
- t à son corps blessé. Surnommée “la diva des banlieues” et née en 
- 1956 dans un bidonville de Nanterre\, en proche banlieue parisienne\, Mali
- ka Bellaribi Le Moal a en effet surmonté un grave accident à l’âge de
-  trois ans qui lui a brisé les jambes\, les hanches et le bassin. Elle a 
- découvert le chant durant ses hospitalisations auprès des sœurs de Sain
- t-Vincent-de-Paul. Le film entend célébrer le combat d’une femme d’o
- rigine algérienne qui\, malgré le racisme et les difficultés\, est deve
- nue une cantatrice reconnue sur les scènes d’opéra les plus prestigieu
- ses.</p><p><small><a href="https://www.themoviedb.org/movie/1562691">Fiche
-  TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></p></
- body></html>
-URL:https://www.themoviedb.org/movie/1562691
-TRANSP:TRANSPARENT
-CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1306291@calendrier-cine-fr
@@ -7347,51 +5683,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/v023L1AFtd3rpy61B
  5JiEOR1sMF.jpg
 CATEGORIES:Crime,Drame,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1430815@calendrier-cine-fr
-DTSTAMP:20261125T000000Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Un bon petit soldat
-DESCRIPTION:https://image.tmdb.org/t/p/w780/8PbPm4pnl6uepMQHaJLQYP1d8tj.jpg
- \n1h42\n\nDrame\nFrance\n\nRéalisateur : Stéphane Brizé\nScénario : St
- éphane Brizé\, Coralie Amédéo\, Olivier Gorce\nPhotographie : Antoine 
- Héberlé\nProduction : Gaumont\n\nActeurs :\n- Alba Rohrwacher\n- Vincent
-  Lindon\n- Sharif Andoura\n- David Talbot\n\n\nNouvellement embauchée dan
- s le département des Ressources Humaines d’une grande compagnie d’ass
- urances\, Carla Moretti doit travailler à réconcilier le bien-être des 
- salariés avec les objectifs de performance de l’entreprise. Jusqu’à 
- ce qu’elle découvre un cas de management toxique dans un des services d
- ont elle a la responsabilité. Entre compromis et compromissions\, la lign
- e de crête sur laquelle elle évolue devient de plus en plus étroite.\n\
- n\nFiche TMDB : https://www.themoviedb.org/movie/1430815\n\nDonnées fourn
- ies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/8PbPm4pnl6uepMQHaJLQYP1d8tj.jpg" width="220" alt="Affi
- che de Un bon petit soldat"><br><small>1h42</small></td><td width="16"></t
- d><td valign="top"><i>Drame</i><br>France<br><br><b>Réalisateur :</b> St
- éphane Brizé<br><b>Scénario :</b> Stéphane Brizé\, Coralie Amédéo\,
-  Olivier Gorce<br><b>Photographie :</b> Antoine Héberlé<br><b>Production
-  :</b> Gaumont<br><br><b>Acteurs :</b><ul><li>Alba Rohrwacher</li><li>Vinc
- ent Lindon</li><li>Sharif Andoura</li><li>David Talbot</li></ul></td></tr>
- </table><p>Nouvellement embauchée dans le département des Ressources Hum
- aines d’une grande compagnie d’assurances\, Carla Moretti doit travail
- ler à réconcilier le bien-être des salariés avec les objectifs de perf
- ormance de l’entreprise. Jusqu’à ce qu’elle découvre un cas de man
- agement toxique dans un des services dont elle a la responsabilité. Entre
-  compromis et compromissions\, la ligne de crête sur laquelle elle évolu
- e devient de plus en plus étroite.</p><p><small><a href="https://www.them
- oviedb.org/movie/1430815">Fiche TMDB</a><br>Données fournies par The Movi
- e Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1430815
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/8PbPm4pnl6uepMQHaJLQYP1d8tj.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8PbPm4pnl6uepMQHa
- JLQYP1d8tj.jpg
-CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1084728@calendrier-cine-fr
@@ -7574,74 +5865,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/oNejN1l69nBF8LdQw
  y5FkAQZT44.jpg
 CATEGORIES:Drame,Histoire
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1380469@calendrier-cine-fr
-DTSTAMP:20261202T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Le lièvre
-DESCRIPTION:Drame\, Thriller\nFrance\n\nRéalisateur : Gonzague Legout\nSc
- énario : Gonzague Legout\nPhotographie : Jean-Marie Delorme\nProduction :
-  Bright Lights Films\, Kobayashi Prod.\n\nActeurs :\n- Dali Benssalah\n- N
- aïlia Harzoune\n- Sandrine Bonnaire\n- Simon Abkarian\n- Louis Peres\n\n\
- nLièvre pour un champion de course de fond qui ne cesse de l’humilier\,
-  Ian décide de participer à une course clandestine où les participants 
- courent jusqu’à l’épuisement et où s’arrêter revient à signer s
- on arrêt de mort. Une incroyable aventure qui va lui permettre d’aller 
- au bout de lui-même et d’affronter les blessures du passé.\n\n\nFiche 
- TMDB : https://www.themoviedb.org/movie/1380469\n\nDonnées fournies par T
- he Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame\, Thr
- iller</i><br>France<br><br><b>Réalisateur :</b> Gonzague Legout<br><b>Sc
- énario :</b> Gonzague Legout<br><b>Photographie :</b> Jean-Marie Delorme<
- br><b>Production :</b> Bright Lights Films\, Kobayashi Prod.<br><br><b>Act
- eurs :</b><ul><li>Dali Benssalah</li><li>Naïlia Harzoune</li><li>Sandrine
-  Bonnaire</li><li>Simon Abkarian</li><li>Louis Peres</li></ul></div><p>Li
- èvre pour un champion de course de fond qui ne cesse de l’humilier\, Ia
- n décide de participer à une course clandestine où les participants cou
- rent jusqu’à l’épuisement et où s’arrêter revient à signer son 
- arrêt de mort. Une incroyable aventure qui va lui permettre d’aller au 
- bout de lui-même et d’affronter les blessures du passé.</p><p><small><
- a href="https://www.themoviedb.org/movie/1380469">Fiche TMDB</a><br>Donné
- es fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1380469
-TRANSP:TRANSPARENT
-CATEGORIES:Drame,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1731132@calendrier-cine-fr
-DTSTAMP:20261202T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Mon fils président
-DESCRIPTION:1h19\n\nComédie\nFrance\n\nRéalisateur : Mathias Mlekuz\nScé
- nario : Mathias Mlekuz\nProduction : Same Player\n\nActeurs :\n- Mathias M
- lekuz\n- Philippe Rebbot\n- Josef Mlekuz\n- Manolo Mlekuz\n\n\nAprès avoi
- r traversé l’Europe avec « À BICYCLETTE ! »\, Mathias embarque à no
- uveau son ami Philippe pour une aventure singulière à travers la France 
- : accompagner Manolo\, le fils cadet qui a pour projet de recueillir les 5
- 00 parrainages pour se lancer dans la campagne présidentielle et devenir 
- président ! Une véritable odyssée sous forme de parcours initiatique te
- ndre et humoristique qui révélera à chacun les sentiments profonds qui 
- les unissent.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1731132\n
- \nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie</i
- ><br>France<br><br><b>Réalisateur :</b> Mathias Mlekuz<br><b>Scénario :<
- /b> Mathias Mlekuz<br><b>Production :</b> Same Player<br><br><b>Acteurs :<
- /b><ul><li>Mathias Mlekuz</li><li>Philippe Rebbot</li><li>Josef Mlekuz</li
- ><li>Manolo Mlekuz</li></ul></div><p>Après avoir traversé l’Europe ave
- c « À BICYCLETTE ! »\, Mathias embarque à nouveau son ami Philippe pou
- r une aventure singulière à travers la France : accompagner Manolo\, le 
- fils cadet qui a pour projet de recueillir les 500 parrainages pour se lan
- cer dans la campagne présidentielle et devenir président ! Une véritabl
- e odyssée sous forme de parcours initiatique tendre et humoristique qui r
- évélera à chacun les sentiments profonds qui les unissent.</p><p><small
- ><a href="https://www.themoviedb.org/movie/1731132">Fiche TMDB</a><br>Donn
- ées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1731132
-TRANSP:TRANSPARENT
-CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1480672@calendrier-cine-fr
@@ -7827,36 +6050,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1688728@calendrier-cine-fr
-DTSTAMP:20261209T000000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-SUMMARY:La leçon de violon
-DESCRIPTION:1h25\n\nDocumentaire\nFrance\n\nRéalisateur : Julie Bertuccell
- i\nScénario : Julie Bertuccelli\nPhotographie : Julie Bertuccelli\nProduc
- tion : Les Films du Poisson\n\n\nApprendre le violon pour apprendre la vie
- . C’est la philosophie lumineuse de Rachel Routier\, pour qui la musique
-  est un langage qui nous lie et nous fait grandir. Durant une année\, nou
- s suivons cette professeure passionnée et ses jeunes élèves\, dans une 
- aventure pédagogique iconoclaste\, inspirante et joyeuse.\n\n\nFiche TMDB
-  : https://www.themoviedb.org/movie/1688728\n\nDonnées fournies par The M
- ovie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Documentair
- e</i><br>France<br><br><b>Réalisateur :</b> Julie Bertuccelli<br><b>Scén
- ario :</b> Julie Bertuccelli<br><b>Photographie :</b> Julie Bertuccelli<br
- ><b>Production :</b> Les Films du Poisson</div><p>Apprendre le violon pour
-  apprendre la vie. C’est la philosophie lumineuse de Rachel Routier\, po
- ur qui la musique est un langage qui nous lie et nous fait grandir. Durant
-  une année\, nous suivons cette professeure passionnée et ses jeunes él
- èves\, dans une aventure pédagogique iconoclaste\, inspirante et joyeuse
- .</p><p><small><a href="https://www.themoviedb.org/movie/1688728">Fiche TM
- DB</a><br>Données fournies par The Movie Database (TMDB)</small></p></bod
- y></html>
-URL:https://www.themoviedb.org/movie/1688728
-TRANSP:TRANSPARENT
-CATEGORIES:Documentaire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1563891@calendrier-cine-fr
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
@@ -8000,36 +6193,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/a8licXigYz4zOKhtq
  VzeA17jHxP.jpg
 CATEGORIES:Aventure,Animation,Fantastique,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1712600@calendrier-cine-fr
-DTSTAMP:20261212T000000Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-SUMMARY:Créatures de Papier
-DESCRIPTION:50min\n\nDrame\nFrance\n\nRéalisateur : אלעזר פרייר
- ה פוקס\nScénario : אלעזר פריירה פוקס\nPhotographie : 
- Umay Ozgul\n\nActeurs :\n- Caroline Poupon\n- Julien Tissier\n- Clara Pern
- as\n- Filippo Stravato\n- אלעזר פריירה פוקס\n- Leonor Perna
- s\n- Pedro Franco Bernardo\n\n\nSans savoir qu’ils sont tous deux liés 
- à Capucine\, Henri et Charles débattent de personnages historiques et li
- ttéraires dans une librairie parisienne.\n\n\nFiche TMDB : https://www.th
- emoviedb.org/movie/1712600\n\nDonnées fournies par The Movie Database (TM
- DB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame</i><b
- r>France<br><br><b>Réalisateur :</b> אלעזר פריירה פוקס<br>
- <b>Scénario :</b> אלעזר פריירה פוקס<br><b>Photographie :</
- b> Umay Ozgul<br><br><b>Acteurs :</b><ul><li>Caroline Poupon</li><li>Julie
- n Tissier</li><li>Clara Pernas</li><li>Filippo Stravato</li><li>אלעזר
-  פריירה פוקס</li><li>Leonor Pernas</li><li>Pedro Franco Bernardo
- </li></ul></div><p>Sans savoir qu’ils sont tous deux liés à Capucine\,
-  Henri et Charles débattent de personnages historiques et littéraires da
- ns une librairie parisienne.</p><p><small><a href="https://www.themoviedb.
- org/movie/1712600">Fiche TMDB</a><br>Données fournies par The Movie Datab
- ase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1712600
-TRANSP:TRANSPARENT
-CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1003596@calendrier-cine-fr
@@ -8206,85 +6369,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/c1vESDKwUGjAatrxt
 CATEGORIES:Drame,Guerre
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1646213@calendrier-cine-fr
-DTSTAMP:20261220T000000Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:AMER D'I
-DESCRIPTION:https://image.tmdb.org/t/p/w780/2jc7xAScFOLJwkbV46bxitickmJ.jpg
- \n\nDrame\nFrance\n\nRéalisateur : Léo Goldenberg\nScénario : Léo Gold
- enberg\nPhotographie : Léo Goldenberg\nProduction : Bakance Production\n\
- nActeurs :\n- Ilaï Hadad-Lange\n- Lucas Valot\n- Marie-Lou Seince\n- Just
- ine Gohier\n- Selma Roche\n- Joshua Ferrier-Mesguich\n- François Arrighi\
- n- Sandrine Goldenberg\n- Daniel Goldenberg\n\n\n(synopsis non encore trad
- uit sur TMDB)\nIsaiah is a young man who decides to leave his family and f
- riends to live and wander the streets of Paris after a painful past event.
-   Amidst encounters\, ghosts\, drugs\, and self-destruction\, Iz will plun
- ge headlong into the capital.\n\n\nFiche TMDB : https://www.themoviedb.org
- /movie/1646213\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/2jc7xAScFOLJwkbV46bxitickmJ.jpg" width="220" alt="Affi
- che de AMER D'I"></td><td width="16"></td><td valign="top"><i>Drame</i><br
- >France<br><br><b>Réalisateur :</b> Léo Goldenberg<br><b>Scénario :</b>
-  Léo Goldenberg<br><b>Photographie :</b> Léo Goldenberg<br><b>Production
-  :</b> Bakance Production<br><br><b>Acteurs :</b><ul><li>Ilaï Hadad-Lange
- </li><li>Lucas Valot</li><li>Marie-Lou Seince</li><li>Justine Gohier</li><
- li>Selma Roche</li><li>Joshua Ferrier-Mesguich</li><li>François Arrighi</
- li><li>Sandrine Goldenberg</li><li>Daniel Goldenberg</li></ul></td></tr></
- table><p><i>(synopsis non encore traduit sur TMDB)</i><br>Isaiah is a youn
- g man who decides to leave his family and friends to live and wander the s
- treets of Paris after a painful past event.  Amidst encounters\, ghosts\, 
- drugs\, and self-destruction\, Iz will plunge headlong into the capital.</
- p><p><small><a href="https://www.themoviedb.org/movie/1646213">Fiche TMDB<
- /a><br>Données fournies par The Movie Database (TMDB)</small></p></body><
- /html>
-URL:https://www.themoviedb.org/movie/1646213
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/2jc7xAScFOLJwkbV46bxitickmJ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2jc7xAScFOLJwkbV4
- 6bxitickmJ.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1533403@calendrier-cine-fr
-DTSTAMP:20261220T000000Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:Deadly Silence
-DESCRIPTION:https://image.tmdb.org/t/p/w780/8xFyG3QPIzcNSnsNYoX17kdIy1h.jpg
- \n\nThriller\, Horreur\, Crime\, Drame\nFrance\n\nRéalisateur : Noah Simo
- n\nScénario : Noah Simon\nProduction : MoonWorks Pictures\n\nActeurs :\n-
-  Nathan Lallemand\n- Flavie Perry\n- Noah Simon\n\n\nUn policier détermin
- é\, se lance à la recherche de cinq femmes disparues. Alors qu'il poursu
- it son enquête\, un appel mystérieux le pousse à interroger un suspect 
- qui\, sans qu'il le sache\, est en réalité le tueur qu'il traque.\n\n\nF
- iche TMDB : https://www.themoviedb.org/movie/1533403\n\nDonnées fournies 
- par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/8xFyG3QPIzcNSnsNYoX17kdIy1h.jpg" width="220" alt="Affi
- che de Deadly Silence"></td><td width="16"></td><td valign="top"><i>Thrill
- er\, Horreur\, Crime\, Drame</i><br>France<br><br><b>Réalisateur :</b> No
- ah Simon<br><b>Scénario :</b> Noah Simon<br><b>Production :</b> MoonWorks
-  Pictures<br><br><b>Acteurs :</b><ul><li>Nathan Lallemand</li><li>Flavie P
- erry</li><li>Noah Simon</li></ul></td></tr></table><p>Un policier détermi
- né\, se lance à la recherche de cinq femmes disparues. Alors qu'il pours
- uit son enquête\, un appel mystérieux le pousse à interroger un suspect
-  qui\, sans qu'il le sache\, est en réalité le tueur qu'il traque.</p><p
- ><small><a href="https://www.themoviedb.org/movie/1533403">Fiche TMDB</a><
- br>Données fournies par The Movie Database (TMDB)</small></p></body></htm
- l>
-URL:https://www.themoviedb.org/movie/1533403
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/8xFyG3QPIzcNSnsNYoX17kdIy1h.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8xFyG3QPIzcNSnsNY
- oX17kdIy1h.jpg
-CATEGORIES:Thriller,Horreur,Crime,Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1300926@calendrier-cine-fr
 DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
@@ -8365,53 +6449,6 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie\,
 URL:https://www.themoviedb.org/movie/1552265
 TRANSP:TRANSPARENT
 CATEGORIES:Comédie,Histoire
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1708311@calendrier-cine-fr
-DTSTAMP:20261223T000000Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:Dragons : L'Envol de L'Espoir
-DESCRIPTION:https://image.tmdb.org/t/p/w780/5wgaQK2UVlOYZtjCZJnEFiUvdU8.jpg
- \n40min\n\nAnimation\, Aventure\, Fantastique\nFrance\n\nRéalisateurs : A
- ntoine Duhamelle\, Théo Fatout\nScénario : Antoine Duhamelle\, Théo Fat
- out\nProduction : Studio And Cio\, Brickfilms\, WIIZARD\n\nActeurs :\n- Do
- nald Reignoux\n- Julien Kramer\n- Nathalie Karsenty\n- Florine Orphelin\n-
-  Matstudio 24\n- Isabelle Gardien\n- Yanis Beldjilai\n- Cyrielle\n\n\nLa r
- econstruction de Beurk a commencé. Pendant que les dragons et leurs dress
- eurs se chamaillent\, Harold et Krokmou doivent imposer leur autorité nou
- vellement acquise en tant que chef et Alpha. C'est alors que Calder de Nep
- enthe vient demander leur aide : l'île sur laquelle il vit est frappée d
- e violents tremblements de terre et il se pourrait bien que de terribles d
- ragons aient élu domicile à proximité...\n\n\nFiche TMDB : https://www.
- themoviedb.org/movie/1708311\n\nDonnées fournies par The Movie Database (
- TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/5wgaQK2UVlOYZtjCZJnEFiUvdU8.jpg" width="220" alt="Affi
- che de Dragons : L'Envol de L'Espoir"><br><small>40min</small></td><td wid
- th="16"></td><td valign="top"><i>Animation\, Aventure\, Fantastique</i><br
- >France<br><br><b>Réalisateurs :</b> Antoine Duhamelle\, Théo Fatout<br>
- <b>Scénario :</b> Antoine Duhamelle\, Théo Fatout<br><b>Production :</b>
-  Studio And Cio\, Brickfilms\, WIIZARD<br><br><b>Acteurs :</b><ul><li>Dona
- ld Reignoux</li><li>Julien Kramer</li><li>Nathalie Karsenty</li><li>Florin
- e Orphelin</li><li>Matstudio 24</li><li>Isabelle Gardien</li><li>Yanis Bel
- djilai</li><li>Cyrielle</li></ul></td></tr></table><p>La reconstruction de
-  Beurk a commencé. Pendant que les dragons et leurs dresseurs se chamaill
- ent\, Harold et Krokmou doivent imposer leur autorité nouvellement acquis
- e en tant que chef et Alpha. C'est alors que Calder de Nepenthe vient dema
- nder leur aide : l'île sur laquelle il vit est frappée de violents tremb
- lements de terre et il se pourrait bien que de terribles dragons aient él
- u domicile à proximité...</p><p><small><a href="https://www.themoviedb.o
- rg/movie/1708311">Fiche TMDB</a><br>Données fournies par The Movie Databa
- se (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1708311
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/5wgaQK2UVlOYZtjCZJnEFiUvdU8.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/5wgaQK2UVlOYZtjCZ
- JnEFiUvdU8.jpg
-CATEGORIES:Animation,Aventure,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1260649@calendrier-cine-fr
@@ -8800,57 +6837,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/nfWcZOnEFhra57CdE
 CATEGORIES:Animation,Musique,Familial
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1570864@calendrier-cine-fr
-DTSTAMP:20270101T000000Z
-DTSTART;VALUE=DATE:20270101
-DTEND;VALUE=DATE:20270102
-SUMMARY:La Lumière du Monde
-DESCRIPTION:https://image.tmdb.org/t/p/w780/cuPNM4CRaPcoDmDpnpbQD1ks15A.jpg
- \n\nDrame\, Histoire\nFrance\n\nRéalisateurs : Steven Gunnell\, Sabrina G
- unnell\nScénario : Steven Gunnell\, Sabrina Gunnell\nProduction : Krea Fi
- lm Makers\, SAJE Distribution\n\n\nLa lumière du monde est un long-métra
- ge dramatique\, retraçant les derniers mois de Jésus de Nazareth : de la
-  transfiguration jusqu’à la résurrection.  C'est un film choral\, une 
- fresque historique et spirituelle\, portée par une narration croisée ent
- re plusieurs personnages clés. Replonger dans ce temps \, dans l’esprit
-  de cette époque à travers différents regards ( Pilate / la foule / les
-  pharisiens/ les zélotes …)  Montrer comment l’étau se referme autou
- r du Christ\, la façon dont les différents interrogatoires vont être me
- nés et comment la ville se replie sur elle-même tandis que Jésus se don
- ne au monde !  Et au cœur de cette tension : Jésus\, marchant librement 
- vers son sacrifice\, révélant sa divinité à travers des paroles de feu
-  et des signes surnaturels.\n\n\nFiche TMDB : https://www.themoviedb.org/m
- ovie/1570864\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/cuPNM4CRaPcoDmDpnpbQD1ks15A.jpg" width="220" alt="Affi
- che de La Lumière du Monde"></td><td width="16"></td><td valign="top"><i>
- Drame\, Histoire</i><br>France<br><br><b>Réalisateurs :</b> Steven Gunnel
- l\, Sabrina Gunnell<br><b>Scénario :</b> Steven Gunnell\, Sabrina Gunnell
- <br><b>Production :</b> Krea Film Makers\, SAJE Distribution</td></tr></ta
- ble><p>La lumière du monde est un long-métrage dramatique\, retraçant l
- es derniers mois de Jésus de Nazareth : de la transfiguration jusqu’à 
- la résurrection.  C'est un film choral\, une fresque historique et spirit
- uelle\, portée par une narration croisée entre plusieurs personnages cl
- és. Replonger dans ce temps \, dans l’esprit de cette époque à traver
- s différents regards ( Pilate / la foule / les pharisiens/ les zélotes 
- …)  Montrer comment l’étau se referme autour du Christ\, la façon do
- nt les différents interrogatoires vont être menés et comment la ville s
- e replie sur elle-même tandis que Jésus se donne au monde !  Et au cœur
-  de cette tension : Jésus\, marchant librement vers son sacrifice\, rév
- élant sa divinité à travers des paroles de feu et des signes surnaturel
- s.</p><p><small><a href="https://www.themoviedb.org/movie/1570864">Fiche T
- MDB</a><br>Données fournies par The Movie Database (TMDB)</small></p></bo
- dy></html>
-URL:https://www.themoviedb.org/movie/1570864
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/cuPNM4CRaPcoDmDpnpbQD1ks15A.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cuPNM4CRaPcoDmDpn
- pbQD1ks15A.jpg
-CATEGORIES:Drame,Histoire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1271661@calendrier-cine-fr
 DTSTAMP:20270101T000000Z
 DTSTART;VALUE=DATE:20270101
@@ -8892,39 +6878,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wNz2PqshCg0yYzSd0
 CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1429574@calendrier-cine-fr
-DTSTAMP:20270106T000000Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
-SUMMARY:En haut de la pile
-DESCRIPTION:Drame\, Comédie\nFrance\n\nRéalisateur : Louis-Julien Petit\n
- Scénario : Louis-Julien Petit\, Delphine Gleize\nPhotographie : Thomas Br
- émond\nProduction : Gaumont\, Pictanovo\, Charlie Films\n\nActeurs :\n- A
- liocha Schneider\n- Anthony Bajon\n- Alexandra Lamy\n- Corinne Masiero\n- 
- Yvan Attal\n- Danielle Fichaud\n- Jiselle Henderkott\n- Gregory Defleur\n\
- n\nArthur et Maxime rêvent d’être parents\, quitte à devenir hors la 
- loi. Leurs proches décident de s’en mêler\, chacun avec ses conviction
- s et ses idées.... Le problème\, c'est qu'elles ne sont pas toutes bonne
- s !\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1429574\n\nDonnées
-  fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame\, Com
- édie</i><br>France<br><br><b>Réalisateur :</b> Louis-Julien Petit<br><b>
- Scénario :</b> Louis-Julien Petit\, Delphine Gleize<br><b>Photographie :<
- /b> Thomas Brémond<br><b>Production :</b> Gaumont\, Pictanovo\, Charlie F
- ilms<br><br><b>Acteurs :</b><ul><li>Aliocha Schneider</li><li>Anthony Bajo
- n</li><li>Alexandra Lamy</li><li>Corinne Masiero</li><li>Yvan Attal</li><l
- i>Danielle Fichaud</li><li>Jiselle Henderkott</li><li>Gregory Defleur</li>
- </ul></div><p>Arthur et Maxime rêvent d’être parents\, quitte à deven
- ir hors la loi. Leurs proches décident de s’en mêler\, chacun avec ses
-  convictions et ses idées.... Le problème\, c'est qu'elles ne sont pas t
- outes bonnes !</p><p><small><a href="https://www.themoviedb.org/movie/1429
- 574">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</sm
- all></p></body></html>
-URL:https://www.themoviedb.org/movie/1429574
-TRANSP:TRANSPARENT
-CATEGORIES:Drame,Comédie
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1421903@calendrier-cine-fr
 DTSTAMP:20270106T000000Z
 DTSTART;VALUE=DATE:20270106
@@ -8964,71 +6917,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/imnkSt4PSQpxIuyiR
  pJCiLk3SZz.jpg
 CATEGORIES:Horreur
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1702045@calendrier-cine-fr
-DTSTAMP:20270107T000000Z
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
-SUMMARY:Damien Gillard - Rude
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jgmzqdpuGPavmU4fDJX4d5JQTei.jpg
- \n1h30\n\nComédie\nFrance\, Belgium\n\nProduction : KI M'AIME ME SUIVE\, 
- Corniaud & Co\n\nActeur :\n- Damien Gillard\n\n\nComédien phare du Grand 
- Cactus\, Damien Gillard remonte enfin sur scène entouré d’instruments 
- de musique pour un one-man-show corrosif. Entre son enfance à Charleroi\,
-  ses personnages barrés et Fabrizio qui s’incruste\, ça pique\, ça ch
- ante\, ça joue\, ça cogne. Préparez-vous : c’est rude.\n\n\nFiche TMD
- B : https://www.themoviedb.org/movie/1702045\n\nDonnées fournies par The 
- Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jgmzqdpuGPavmU4fDJX4d5JQTei.jpg" width="220" alt="Affi
- che de Damien Gillard - Rude"><br><small>1h30</small></td><td width="16"><
- /td><td valign="top"><i>Comédie</i><br>France\, Belgium<br><br><b>Product
- ion :</b> KI M'AIME ME SUIVE\, Corniaud &amp\; Co<br><br><b>Acteur :</b><u
- l><li>Damien Gillard</li></ul></td></tr></table><p>Comédien phare du Gran
- d Cactus\, Damien Gillard remonte enfin sur scène entouré d’instrument
- s de musique pour un one-man-show corrosif. Entre son enfance à Charleroi
- \, ses personnages barrés et Fabrizio qui s’incruste\, ça pique\, ça 
- chante\, ça joue\, ça cogne. Préparez-vous : c’est rude.</p><p><small
- ><a href="https://www.themoviedb.org/movie/1702045">Fiche TMDB</a><br>Donn
- ées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1702045
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jgmzqdpuGPavmU4fDJX4d5JQTei.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jgmzqdpuGPavmU4fD
- JX4d5JQTei.jpg
-CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1559068@calendrier-cine-fr
-DTSTAMP:20270113T000000Z
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270114
-SUMMARY:Abracadabra
-DESCRIPTION:https://image.tmdb.org/t/p/w780/yQ52CF09CtlOvnMrCxfxHepX3xm.jpg
- \n\nFrance\n\nRéalisateur : Mathieu Cesar\nPhotographie : Étienne Landri
- eux\nProduction : Tandem\n\nActeurs :\n- Romain Duris\n- Samuel Kircher\n-
-  Céline Sallette\n\n\nFiche TMDB : https://www.themoviedb.org/movie/15590
- 68\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/yQ52CF09CtlOvnMrCxfxHepX3xm.jpg" width="220" alt="Affi
- che de Abracadabra"></td><td width="16"></td><td valign="top">France<br><b
- r><b>Réalisateur :</b> Mathieu Cesar<br><b>Photographie :</b> Étienne La
- ndrieux<br><b>Production :</b> Tandem<br><br><b>Acteurs :</b><ul><li>Romai
- n Duris</li><li>Samuel Kircher</li><li>Céline Sallette</li></ul></td></tr
- ></table><p><small><a href="https://www.themoviedb.org/movie/1559068">Fich
- e TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></p><
- /body></html>
-URL:https://www.themoviedb.org/movie/1559068
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/yQ52CF09CtlOvnMrCxfxHepX3xm.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yQ52CF09CtlOvnMrC
- xfxHepX3xm.jpg
-CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1473148@calendrier-cine-fr
@@ -9248,28 +7136,6 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame\, Com
 URL:https://www.themoviedb.org/movie/1560399
 TRANSP:TRANSPARENT
 CATEGORIES:Drame,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1662032@calendrier-cine-fr
-DTSTAMP:20270120T000000Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:Ceux qui tiennent la laisse
-DESCRIPTION:Documentaire\nFrance\n\nRéalisateur : Gilles Balbastre\nScéna
- rio : Gilles Balbastre\nProduction : Temps noir\n\n\nLe documentaire s'att
- aque à la collusion entre les pouvoirs économiques\, politiques et admin
- istratifs.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1662032\n\nD
- onnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Documentair
- e</i><br>France<br><br><b>Réalisateur :</b> Gilles Balbastre<br><b>Scéna
- rio :</b> Gilles Balbastre<br><b>Production :</b> Temps noir</div><p>Le do
- cumentaire s'attaque à la collusion entre les pouvoirs économiques\, pol
- itiques et administratifs.</p><p><small><a href="https://www.themoviedb.or
- g/movie/1662032">Fiche TMDB</a><br>Données fournies par The Movie Databas
- e (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1662032
-TRANSP:TRANSPARENT
-CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1506476@calendrier-cine-fr
@@ -9541,55 +7407,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:Animation,Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1414526@calendrier-cine-fr
-DTSTAMP:20270127T000000Z
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
-SUMMARY:Peau d'homme
-DESCRIPTION:https://image.tmdb.org/t/p/w780/6D6itYNIOXLJsb0l4FmlvZMK2o8.jpg
- \n\nComédie\, Fantastique\, Musique\nFrance\, Belgium\n\nRéalisateur : L
- éa Domenach\nScénario : Léa Domenach\, Clémence Dargent\nPhotographie 
- : Elin Kirschfink\nProduction : Trésor Films\, France 3 Cinéma\, uMedia\
- n\nActeurs :\n- Catherine Deneuve\n- Claire Pommet\n- Karin Viard\n- Laure
- nt Stocker\n- Paul de Saint Sernin\n- Louis Peres\n- Stefan Crepon\n- Eddy
-  de Pretto\n- Melha Bedia\n- Estéban\n- Gilbert Melki\n- Justine Tristan 
- Dartois\n\n\nEn 1480 et des poussières\, alors que la princesse Blanche s
- e prépare à épouser le beau prince du royaume voisin\, son père décid
- e de la marier à Melchior\, son vulgaire chef des armées. C’est alors 
- que sa marraine lui révèle être en possession d’une mystérieuse "pea
- u" qui va permettre à Blanche\, si elle la revêt\, de devenir un homme e
- t ainsi faire connaissance avec son futur mari incognito.\n\n\nFiche TMDB 
- : https://www.themoviedb.org/movie/1414526\n\nDonnées fournies par The Mo
- vie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/6D6itYNIOXLJsb0l4FmlvZMK2o8.jpg" width="220" alt="Affi
- che de Peau d'homme"></td><td width="16"></td><td valign="top"><i>Comédie
- \, Fantastique\, Musique</i><br>France\, Belgium<br><br><b>Réalisateur :<
- /b> Léa Domenach<br><b>Scénario :</b> Léa Domenach\, Clémence Dargent<
- br><b>Photographie :</b> Elin Kirschfink<br><b>Production :</b> Trésor Fi
- lms\, France 3 Cinéma\, uMedia<br><br><b>Acteurs :</b><ul><li>Catherine D
- eneuve</li><li>Claire Pommet</li><li>Karin Viard</li><li>Laurent Stocker</
- li><li>Paul de Saint Sernin</li><li>Louis Peres</li><li>Stefan Crepon</li>
- <li>Eddy de Pretto</li><li>Melha Bedia</li><li>Estéban</li><li>Gilbert Me
- lki</li><li>Justine Tristan Dartois</li></ul></td></tr></table><p>En 1480 
- et des poussières\, alors que la princesse Blanche se prépare à épouse
- r le beau prince du royaume voisin\, son père décide de la marier à Mel
- chior\, son vulgaire chef des armées. C’est alors que sa marraine lui r
- évèle être en possession d’une mystérieuse &quot\;peau&quot\; qui va
-  permettre à Blanche\, si elle la revêt\, de devenir un homme et ainsi f
- aire connaissance avec son futur mari incognito.</p><p><small><a href="htt
- ps://www.themoviedb.org/movie/1414526">Fiche TMDB</a><br>Données fournies
-  par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1414526
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/6D6itYNIOXLJsb0l4FmlvZMK2o8.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6D6itYNIOXLJsb0l4
- FmlvZMK2o8.jpg
-CATEGORIES:Comédie,Fantastique,Musique
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1701371@calendrier-cine-fr
 DTSTAMP:20270127T000000Z
 DTSTART;VALUE=DATE:20270127
@@ -9672,51 +7489,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/h7Td6puRt0hMmsoaG
  bXuyKURV2n.jpg
 CATEGORIES:Aventure,Animation,Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1710628@calendrier-cine-fr
-DTSTAMP:20270203T000000Z
-DTSTART;VALUE=DATE:20270203
-DTEND;VALUE=DATE:20270204
-SUMMARY:Patouille et Momo\, les contes de la forêts
-DESCRIPTION:https://image.tmdb.org/t/p/w780/e43ptD5uIIVkAA0ag98eOtalX3R.jpg
- \n35min\n\nAnimation\nFrance\n\nRéalisateurs : Inès Bernard-Espina\, Mé
- lody Boulissière\, Clémentine Campos\nScénario : Inès Bernard-Espina\,
-  Mélody Boulissière\, Clémentine Campos\nProduction : Miyu Productions\
- n\nActeurs :\n- Louise Van Gasselt\n- Carole Franck\n\n\nAu fil des saison
- s\, Patouille et Momo s’émerveillent devant les trésors de la forêt. 
- Des petites graines aux plus grands des arbres\, en passant par un mystér
- ieux champignon ou un magnifique nénuphar\, chaque découverte devient un
- e aventure extraordinaire. Avec curiosité et malice\, Patouille et Momo a
- pprennent à observer\, à écouter et à comprendre la magie du vivant. U
- n voyage joyeux et poétique au cœur de la forêt\, pour grandir au rythm
- e de la nature.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1710628
- \n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/e43ptD5uIIVkAA0ag98eOtalX3R.jpg" width="220" alt="Affi
- che de Patouille et Momo\, les contes de la forêts"><br><small>35min</sma
- ll></td><td width="16"></td><td valign="top"><i>Animation</i><br>France<br
- ><br><b>Réalisateurs :</b> Inès Bernard-Espina\, Mélody Boulissière\, 
- Clémentine Campos<br><b>Scénario :</b> Inès Bernard-Espina\, Mélody Bo
- ulissière\, Clémentine Campos<br><b>Production :</b> Miyu Productions<br
- ><br><b>Acteurs :</b><ul><li>Louise Van Gasselt</li><li>Carole Franck</li>
- </ul></td></tr></table><p>Au fil des saisons\, Patouille et Momo s’émer
- veillent devant les trésors de la forêt. Des petites graines aux plus gr
- ands des arbres\, en passant par un mystérieux champignon ou un magnifiqu
- e nénuphar\, chaque découverte devient une aventure extraordinaire. Avec
-  curiosité et malice\, Patouille et Momo apprennent à observer\, à éco
- uter et à comprendre la magie du vivant. Un voyage joyeux et poétique au
-  cœur de la forêt\, pour grandir au rythme de la nature.</p><p><small><a
-  href="https://www.themoviedb.org/movie/1710628">Fiche TMDB</a><br>Donnée
- s fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1710628
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/e43ptD5uIIVkAA0ag98eOtalX3R.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/e43ptD5uIIVkAA0ag
- 98eOtalX3R.jpg
-CATEGORIES:Animation
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1454106@calendrier-cine-fr
@@ -10056,42 +7828,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:Comédie,Drame
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1629232@calendrier-cine-fr
-DTSTAMP:20270215T000000Z
-DTSTART;VALUE=DATE:20270215
-DTEND;VALUE=DATE:20270216
-SUMMARY:HORS SIGNAL
-DESCRIPTION:https://image.tmdb.org/t/p/w780/57KcgT8EixA5KPjXb7YlKmGoNL8.jpg
- \n13min\n\nThriller\, Mystère\nFR\n\nRéalisateur : Lucas Lafont\nProduct
- ion : Films SStation Production\n\n\nLors d’un séjour dans une maison i
- solée en pleine forêt\, deux amis découvrent  un randonneur blessé. Ap
- rès l’avoir aidé\, ils se retrouvent coupés du monde\,  sans réseau 
- ni moyen de transport. Ce qui devait être une simple mésaventure  prend 
- une tournure inquiétante\, laissant planer le doute sur la véritable nat
- ure des événements.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1
- 629232\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/57KcgT8EixA5KPjXb7YlKmGoNL8.jpg" width="220" alt="Affi
- che de HORS SIGNAL"><br><small>13min</small></td><td width="16"></td><td v
- align="top"><i>Thriller\, Mystère</i><br>FR<br><br><b>Réalisateur :</b> 
- Lucas Lafont<br><b>Production :</b> Films SStation Production</td></tr></t
- able><p>Lors d’un séjour dans une maison isolée en pleine forêt\, deu
- x amis découvrent  un randonneur blessé. Après l’avoir aidé\, ils se
-  retrouvent coupés du monde\,  sans réseau ni moyen de transport. Ce qui
-  devait être une simple mésaventure  prend une tournure inquiétante\, l
- aissant planer le doute sur la véritable nature des événements.</p><p><
- small><a href="https://www.themoviedb.org/movie/1629232">Fiche TMDB</a><br
- >Données fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1629232
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/57KcgT8EixA5KPjXb7YlKmGoNL8.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/57KcgT8EixA5KPjXb
- 7YlKmGoNL8.jpg
-CATEGORIES:Thriller,Mystère
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1429601@calendrier-cine-fr
 DTSTAMP:20270217T000000Z
 DTSTART;VALUE=DATE:20270217
@@ -10270,85 +8006,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1719852@calendrier-cine-fr
-DTSTAMP:20270224T000000Z
-DTSTART;VALUE=DATE:20270224
-DTEND;VALUE=DATE:20270225
-SUMMARY:La petite classe
-DESCRIPTION:1h42\n\nDocumentaire\nFrance\n\nRéalisateur : Laetitia Carton\
- nScénario : Laetitia Carton\nPhotographie : Laetitia Carton\nProduction :
-  SaNoSi Productions\n\n\nIls s’appellent Tom\, Kamila\, Alyzée\, Marwan
- \, Bloo\, Ilyes... Ils sont 18\, ils ont entre 2 et 3 ans. Et ils vont dé
- jà à l’école\, en toute petite section d’une maternelle publique pr
- ès d’Angoulême. Ça rit\, ça pleure\, ça crie\, ça chante\, ça bab
- ille... sous le regard bienveillant de Katia\, leur enseignante\, formée 
- à la Communication Non Violente\, portée par une immense patience et une
-  foi inébranlable en chaque enfant. Avec elle\, ils découvrent l’autre
- \, le partage et le langage\, qui ouvrent les portes sur le monde.\n\n\nFi
- che TMDB : https://www.themoviedb.org/movie/1719852\n\nDonnées fournies p
- ar The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Documentair
- e</i><br>France<br><br><b>Réalisateur :</b> Laetitia Carton<br><b>Scénar
- io :</b> Laetitia Carton<br><b>Photographie :</b> Laetitia Carton<br><b>Pr
- oduction :</b> SaNoSi Productions</div><p>Ils s’appellent Tom\, Kamila\,
-  Alyzée\, Marwan\, Bloo\, Ilyes... Ils sont 18\, ils ont entre 2 et 3 ans
- . Et ils vont déjà à l’école\, en toute petite section d’une mater
- nelle publique près d’Angoulême. Ça rit\, ça pleure\, ça crie\, ça
-  chante\, ça babille... sous le regard bienveillant de Katia\, leur ensei
- gnante\, formée à la Communication Non Violente\, portée par une immens
- e patience et une foi inébranlable en chaque enfant. Avec elle\, ils déc
- ouvrent l’autre\, le partage et le langage\, qui ouvrent les portes sur 
- le monde.</p><p><small><a href="https://www.themoviedb.org/movie/1719852">
- Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</small><
- /p></body></html>
-URL:https://www.themoviedb.org/movie/1719852
-TRANSP:TRANSPARENT
-CATEGORIES:Documentaire
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1483224@calendrier-cine-fr
-DTSTAMP:20270224T000000Z
-DTSTART;VALUE=DATE:20270224
-DTEND;VALUE=DATE:20270225
-SUMMARY:Maudits Français
-DESCRIPTION:Comédie\nFrance\, Canada\n\nRéalisateur : Émile Gaudreault\n
- Scénario : Émile Gaudreault\, Guy Laurent\nPhotographie : Ronald Plante\
- nProduction : Cine Nomine\, Gemma Pictures\, StudioCanal\n\nActeurs :\n- L
- ambert Wilson\n- Thierry Lhermitte\n- Anne Consigny\n- Suzanne Jouannet\n-
-  Laura Laune\n- Patrick Chanfray\n- Patrick Huard\n- Antoine Bertrand\n- S
- andrine Bisson\n- Pierrette Robitaille\n- Pier-Luc Funk\n- Magali Saint-Vi
- ncent\n\n\nQuand deux familles que tout oppose se retrouvent autour d’un
-  mariage\, les étincelles ne tardent pas à jaillir. D’un côté\, une 
- famille française\, aristocratique\, râleuse et conservatrice. De l’au
- tre\, une famille québécoise\, aux allures bienveillantes\, optimistes e
- t un brin trop « woke » aux yeux de leurs hôtes. Entre incompréhension
- s et chocs culturels\, les deux clans vont devoir apprendre à se supporte
- r – et peut-être même finalement à s’apprécier…\n\n\nFiche TMDB 
- : https://www.themoviedb.org/movie/1483224\n\nDonnées fournies par The Mo
- vie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie</i
- ><br>France\, Canada<br><br><b>Réalisateur :</b> Émile Gaudreault<br><b>
- Scénario :</b> Émile Gaudreault\, Guy Laurent<br><b>Photographie :</b> R
- onald Plante<br><b>Production :</b> Cine Nomine\, Gemma Pictures\, StudioC
- anal<br><br><b>Acteurs :</b><ul><li>Lambert Wilson</li><li>Thierry Lhermit
- te</li><li>Anne Consigny</li><li>Suzanne Jouannet</li><li>Laura Laune</li>
- <li>Patrick Chanfray</li><li>Patrick Huard</li><li>Antoine Bertrand</li><l
- i>Sandrine Bisson</li><li>Pierrette Robitaille</li><li>Pier-Luc Funk</li><
- li>Magali Saint-Vincent</li></ul></div><p>Quand deux familles que tout opp
- ose se retrouvent autour d’un mariage\, les étincelles ne tardent pas 
- à jaillir. D’un côté\, une famille française\, aristocratique\, râl
- euse et conservatrice. De l’autre\, une famille québécoise\, aux allur
- es bienveillantes\, optimistes et un brin trop « woke » aux yeux de leur
- s hôtes. Entre incompréhensions et chocs culturels\, les deux clans vont
-  devoir apprendre à se supporter – et peut-être même finalement à s
- ’apprécier…</p><p><small><a href="https://www.themoviedb.org/movie/14
- 83224">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</
- small></p></body></html>
-URL:https://www.themoviedb.org/movie/1483224
-TRANSP:TRANSPARENT
-CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1510574@calendrier-cine-fr
 DTSTAMP:20270303T000000Z
 DTSTART;VALUE=DATE:20270303
@@ -10506,124 +8163,6 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame</i><b
 URL:https://www.themoviedb.org/movie/1429585
 TRANSP:TRANSPARENT
 CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1591026@calendrier-cine-fr
-DTSTAMP:20270310T000000Z
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270311
-SUMMARY:Roxie au milieu
-DESCRIPTION:Comédie\nFrance\, Belgium\n\nRéalisateur : Jennifer Devoldèr
- e\nScénario : Jennifer Devoldère\, Cécile Sellam\nPhotographie : Jean-F
- rançois Hensgens\nProduction : Karé Productions\, Auvergne-Rhône-Alpes 
- Cinéma\, Beside Productions\n\nActeurs :\n- Karin Viard\n- Mathias Mlekuz
- \n- Catherine Davenier\n- Oscar Pauleau\n- Callixte Gaffney\n- Léontine C
- lerbois\n\n\nRoxie\, 17 ans\, solaire et porteuse de trisomie 21\, voit so
- n rêve s’effondrer lorsqu’elle est exclue de son équipe de majorette
- s à quelques mois des championnats de France. Dans la famille Desrochelle
- \, hors de question de baisser les bras : ses parents décident de monter 
- Les Perles\, une équipe bricolée de toutes pièces. En fanfare et en pom
- pons\, leur plus grand défi sera d’apprendre à marcher tous ensemble
- …\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1591026\n\nDonnées
-  fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie</i
- ><br>France\, Belgium<br><br><b>Réalisateur :</b> Jennifer Devoldère<br>
- <b>Scénario :</b> Jennifer Devoldère\, Cécile Sellam<br><b>Photographie
-  :</b> Jean-François Hensgens<br><b>Production :</b> Karé Productions\, 
- Auvergne-Rhône-Alpes Cinéma\, Beside Productions<br><br><b>Acteurs :</b>
- <ul><li>Karin Viard</li><li>Mathias Mlekuz</li><li>Catherine Davenier</li>
- <li>Oscar Pauleau</li><li>Callixte Gaffney</li><li>Léontine Clerbois</li>
- </ul></div><p>Roxie\, 17 ans\, solaire et porteuse de trisomie 21\, voit s
- on rêve s’effondrer lorsqu’elle est exclue de son équipe de majorett
- es à quelques mois des championnats de France. Dans la famille Desrochell
- e\, hors de question de baisser les bras : ses parents décident de monter
-  Les Perles\, une équipe bricolée de toutes pièces. En fanfare et en po
- mpons\, leur plus grand défi sera d’apprendre à marcher tous ensemble
- …</p><p><small><a href="https://www.themoviedb.org/movie/1591026">Fiche 
- TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></p></b
- ody></html>
-URL:https://www.themoviedb.org/movie/1591026
-TRANSP:TRANSPARENT
-CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1571174@calendrier-cine-fr
-DTSTAMP:20270317T000000Z
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270318
-SUMMARY:A double tour
-DESCRIPTION:Comédie\, Action\nFrance\, Belgium\n\nRéalisateur : Bastien D
- aret\nScénario : Bastien Daret\nPhotographie : David Cailley\nProduction 
- : Topshot Films\, Nolita\, Pictanovo\n\nActeurs :\n- Baptiste Lecaplain\n-
-  José Garcia\n- Isabelle Carré\n- Corinne Masiero\n- Marilou Aussiloux\n
- \n\nTom est un menteur compulsif\, condamné à trois ans ferme pour escro
- querie. Afin de s’assurer la protection d’un gang de criminels en pris
- on\, il se fait passer pour un crocheteur de génie et leur promet ses ser
- vices pour de futurs casses. Problème : il ne connaît rien aux serrures\
- , si ce n’est qu’il est le fils d’un serrurier\, avec qui il ne s’
- entend plus. À sa sortie\, Tom est persuadé qu’il n’aura jamais à h
- onorer sa promesse. Mais rien ne va se passer comme prévu…\n\n\nFiche T
- MDB : https://www.themoviedb.org/movie/1571174\n\nDonnées fournies par Th
- e Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie\, 
- Action</i><br>France\, Belgium<br><br><b>Réalisateur :</b> Bastien Daret<
- br><b>Scénario :</b> Bastien Daret<br><b>Photographie :</b> David Cailley
- <br><b>Production :</b> Topshot Films\, Nolita\, Pictanovo<br><br><b>Acteu
- rs :</b><ul><li>Baptiste Lecaplain</li><li>José Garcia</li><li>Isabelle C
- arré</li><li>Corinne Masiero</li><li>Marilou Aussiloux</li></ul></div><p>
- Tom est un menteur compulsif\, condamné à trois ans ferme pour escroquer
- ie. Afin de s’assurer la protection d’un gang de criminels en prison\,
-  il se fait passer pour un crocheteur de génie et leur promet ses service
- s pour de futurs casses. Problème : il ne connaît rien aux serrures\, si
-  ce n’est qu’il est le fils d’un serrurier\, avec qui il ne s’ente
- nd plus. À sa sortie\, Tom est persuadé qu’il n’aura jamais à honor
- er sa promesse. Mais rien ne va se passer comme prévu…</p><p><small><a 
- href="https://www.themoviedb.org/movie/1571174">Fiche TMDB</a><br>Données
-  fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1571174
-TRANSP:TRANSPARENT
-CATEGORIES:Comédie,Action
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1410702@calendrier-cine-fr
-DTSTAMP:20270324T000000Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-SUMMARY:Voilà\, c’est fini
-DESCRIPTION:1h41\n\nComédie\, Drame\, Romance\nFrance\n\nRéalisateur : Gu
- stave Kervern\nScénario : Gustave Kervern\nPhotographie : Stéphane Nigen
- tz Gumuschian\nProduction : Les films du Worso\, No Money Productions\n\nA
- cteurs :\n- Loic Mandere\n- Suzanne Lindon\n- Mathieu Amalric\n- Léa Druc
- ker\n- Carlita Latour\n- Victor Kervern\n- Martine Hennequin-Charrié\n- M
- enwar\n\n\nÎle Maurice. Une histoire d’amour nait entre Pierre\, employ
- é d’hôtel\, et Louise\, touriste française souffrant d’anorexie. Il
-  lui montre une autre facette de son pays : plages sauvages\, vie nocturne
- \, rues populaires... Chacun à sa manière rêve d’ailleurs et d’éma
- ncipation. Mais le départ de Louise approche et Pierre se tend à l’id
- ée de rester sur cette île qu’il veut quitter à tout prix. Il jouera 
- le tout pour le tout pour tenter d’échapper à un futur programmé d’
- avance.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1410702\n\nDonn
- ées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie\, 
- Drame\, Romance</i><br>France<br><br><b>Réalisateur :</b> Gustave Kervern
- <br><b>Scénario :</b> Gustave Kervern<br><b>Photographie :</b> Stéphane 
- Nigentz Gumuschian<br><b>Production :</b> Les films du Worso\, No Money Pr
- oductions<br><br><b>Acteurs :</b><ul><li>Loic Mandere</li><li>Suzanne Lind
- on</li><li>Mathieu Amalric</li><li>Léa Drucker</li><li>Carlita Latour</li
- ><li>Victor Kervern</li><li>Martine Hennequin-Charrié</li><li>Menwar</li>
- </ul></div><p>Île Maurice. Une histoire d’amour nait entre Pierre\, emp
- loyé d’hôtel\, et Louise\, touriste française souffrant d’anorexie.
-  Il lui montre une autre facette de son pays : plages sauvages\, vie noctu
- rne\, rues populaires... Chacun à sa manière rêve d’ailleurs et d’
- émancipation. Mais le départ de Louise approche et Pierre se tend à l
- ’idée de rester sur cette île qu’il veut quitter à tout prix. Il jo
- uera le tout pour le tout pour tenter d’échapper à un futur programmé
-  d’avance.</p><p><small><a href="https://www.themoviedb.org/movie/141070
- 2">Fiche TMDB</a><br>Données fournies par The Movie Database (TMDB)</smal
- l></p></body></html>
-URL:https://www.themoviedb.org/movie/1410702
-TRANSP:TRANSPARENT
-CATEGORIES:Comédie,Drame,Romance
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1718699@calendrier-cine-fr
