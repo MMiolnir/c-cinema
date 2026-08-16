@@ -32,6 +32,12 @@ from zoneinfo import ZoneInfo
 # REGLAGES  -  la seule partie que vous aurez besoin de modifier
 # ---------------------------------------------------------------------------
 
+# Mode rapide : pour tester une modification en quelques secondes au lieu de
+# plusieurs minutes. Reduit tout - une page de sorties, deux jours de seances.
+# Le resultat est incomplet : c'est fait pour verifier qu'un changement marche,
+# pas pour produire le vrai calendrier. A laisser sur False sur GitHub.
+MODE_RAPIDE = False
+
 REGION = "FR"          # pays dont on veut les dates de sortie
 LANGUE = "fr-FR"       # langue des titres, genres et synopsis
 
@@ -111,7 +117,16 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # consulte, pas parce qu'il est confidentiel. Un seuil eleve couperait donc
 # surtout les sorties lointaines. Le journal affiche la repartition reelle
 # pour vous aider a choisir : commencez a 0, montez seulement si necessaire.
-POPULARITE_MINIMALE = 2.0
+POPULARITE_MINIMALE = 3.0
+
+# Langues d'origine exemptees du filtre de popularite.
+# La popularite TMDB mesure l'attention d'un public surtout anglophone : un
+# petit film francais y est mal note alors qu'il passe pres de chez vous, tandis
+# qu'un petit film international confidentiel ne passera jamais. Exempter le
+# francais fait donc exactement le tri voulu : on ecarte le confidentiel
+# etranger sans sacrifier le cinema francais.
+# Mettre () pour appliquer le seuil a tout le monde.
+LANGUES_TOUJOURS_GARDEES = ("fr",)
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
@@ -240,21 +255,33 @@ def lister_sorties():
 
     films = {}
     scores = []
+    exemptes = []
     page, total_pages = 1, 1
-    while page <= total_pages and page <= 500:
+    pages_max = 1 if MODE_RAPIDE else 500
+    while page <= total_pages and page <= pages_max:
         donnees = appel_api("/discover/movie", {**commun, "page": page})
         total_pages = min(donnees.get("total_pages", 1), 500)
         for film in donnees.get("results", []):
             if not film.get("release_date"):
                 continue
-            scores.append((float(film.get("popularity") or 0), film.get("title") or "?"))
-            if float(film.get("popularity") or 0) < POPULARITE_MINIMALE:
+            popularite = float(film.get("popularity") or 0)
+            scores.append((popularite, film.get("title") or "?"))
+            exemptee = (film.get("original_language") or "").lower() in LANGUES_TOUJOURS_GARDEES
+            if not exemptee and popularite < POPULARITE_MINIMALE:
                 continue
+            if exemptee and popularite < POPULARITE_MINIMALE:
+                exemptes.append(film.get("title") or "?")
             films[film["id"]] = {"id": film["id"], "date": film["release_date"], "impose": False}
         print(f"  page {page}/{total_pages} - {len(films)} films")
         page += 1
 
     afficher_repartition(scores)
+    if exemptes:
+        print(f"\n  {len(exemptes)} films gardes malgre le seuil, langue d'origine exemptee :")
+        for titre in sorted(exemptes)[:15]:
+            print(f"    - {titre}")
+        if len(exemptes) > 15:
+            print(f"    ... et {len(exemptes) - 15} autres")
     lister_sorties.derniers_scores = scores      # reutilise pour la couverture cinema
     return list(films.values())
 
@@ -605,7 +632,7 @@ def seances_du_cinema():
     fin = (aujourdhui + timedelta(days=ALLOCINE_JOURS - 1)).isoformat()
     print(f"  releve du {debut} au {fin}")
 
-    for decalage in range(ALLOCINE_JOURS):
+    for decalage in range(2 if MODE_RAPIDE else ALLOCINE_JOURS):
         jour = (aujourdhui + timedelta(days=decalage)).isoformat()
         avant = len(trouves)
         page, total_pages = 1, 1
@@ -948,12 +975,22 @@ def formats_de_seance(seance):
     for jeton in candidats:
         if not (2 <= len(jeton) <= 30):
             continue
-        brut = jeton.strip().upper().replace(" ", "_").replace("-", "_")
         CODES_RENCONTRES.add(jeton.strip())
+        brut = jeton.strip().upper().replace(" ", "_").replace("-", "_")
+        # AlloCine prefixe ses codes : E_ pour une experience (E_4DX),
+        # F_ pour un format (F_3D). On les retire avant de chercher, ce qui
+        # rend inutile d'enumerer chaque variante.
+        noyau = brut
+        for prefixe in ("E_", "F_", "A_", "P_"):
+            if noyau.startswith(prefixe) and len(noyau) > len(prefixe) + 1:
+                noyau = noyau[len(prefixe):]
+                break
         if brut in FORMATS_LISIBLES:
             lisible = FORMATS_LISIBLES[brut]
+        elif noyau in FORMATS_LISIBLES:
+            lisible = FORMATS_LISIBLES[noyau]
         else:
-            lisible = jeton.strip().lstrip("E_").replace("_", " ").title()
+            lisible = noyau.replace("_", " ").title()
         if lisible and lisible not in trouves:
             trouves.append(lisible)
 
@@ -983,7 +1020,7 @@ def horaires_du_cinema():
     fin = (aujourdhui + timedelta(days=SEANCES_JOURS - 1)).isoformat()
     print(f"  releve des horaires du {debut} au {fin}")
 
-    for decalage in range(SEANCES_JOURS):
+    for decalage in range(2 if MODE_RAPIDE else SEANCES_JOURS):
         jour = (aujourdhui + timedelta(days=decalage)).isoformat()
         page, total_pages = 1, 1
         while page <= total_pages and page <= 10:
@@ -1639,7 +1676,13 @@ def calendrier_des_seances():
         connus, inconnus = [], []
         for code in sorted(CODES_RENCONTRES):
             brut = code.upper().replace(" ", "_").replace("-", "_")
-            (connus if brut in FORMATS_LISIBLES else inconnus).append(code)
+            noyau = brut
+            for prefixe in ("E_", "F_", "A_", "P_"):
+                if noyau.startswith(prefixe) and len(noyau) > len(prefixe) + 1:
+                    noyau = noyau[len(prefixe):]
+                    break
+            connu = brut in FORMATS_LISIBLES or noyau in FORMATS_LISIBLES
+            (connus if connu else inconnus).append(code)
         print(f"\n  Codes de format rencontres chez {ALLOCINE_NOM} :")
         print(f"    reconnus  : {', '.join(connus) or 'aucun'}")
         if inconnus:
@@ -1668,6 +1711,8 @@ def ecrire_calendrier(films, chemin, nom):
 
 
 def main():
+    if MODE_RAPIDE:
+        print("*** MODE RAPIDE : resultat volontairement incomplet ***\n")
     charger_base_images()
 
     # --- calendrier principal : les sorties nationales ---
