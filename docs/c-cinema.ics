@@ -272,6 +272,55 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cm1uBPBUDfSIZXhWx
 CATEGORIES:Romance,Action,Drame
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1536433@calendrier-cine-fr
+DTSTAMP:20260812T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Chicas tristes
+DESCRIPTION:https://image.tmdb.org/t/p/w780/tBmuURPrzxck9wAe6sRbuGe7kPn.jpg
+ \n(3.9)\n𝟭𝗵𝟯𝟬\n\nDrame\nMexico\, Spain\, France\n(Spanish)\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Fernanda Tovar\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Fernanda Tovar\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
+ 𝗮𝗽𝗵𝗶𝗲 : Rosa Hadit Hernández\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : Martini Shot Films\, Colectivo Colmena\, Potenza Produccion
+ es\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Rocío Guzmán\n- Darana Álvarez\
+ n- Tatsumi Milori\n- Tomás García Agraz\n- Mónica del Carmen\n- Raúl V
+ illegas\n- Lucio Lemus\n- Luisa Almaguer\n- Andrea Jiménez Camacho\n- Áy
+ ax\n- Óscar Lever\n- Mario Flores\n\n\nLa Maestra et Paula\, deux amies i
+ nséparables\, sont les meilleures nageuses de leur équipe. Jusqu’à ce
+  qu’un évènement traumatique\, survenu au cours d’une soirée\, les 
+ oblige à choisir entre garder le silence et prendre la parole\, quitte à
+  mettre leur amitié à rude épreuve…\n\n\nFiche TMDB : https://www.the
+ moviedb.org/movie/1536433\n\nDonnées fournies par The Movie Database (TMD
+ B)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/tBmuURPrzxck9wAe6sRbuGe7kPn.jpg" width="220" alt="Affi
+ che de Chicas tristes"><br><small>(3.9)</small><br><small>1h30</small></td
+ ><td width="16"></td><td valign="top"><i>Drame</i><br>Mexico\, Spain\, Fra
+ nce<br>(Spanish)<br><br><b>Réalisateur :</b> Fernanda Tovar<br><b>Scénar
+ io :</b> Fernanda Tovar<br><b>Photographie :</b> Rosa Hadit Hernández<br>
+ <b>Production :</b> Martini Shot Films\, Colectivo Colmena\, Potenza Produ
+ cciones<br><br><b>Acteurs :</b><ul><li>Rocío Guzmán</li><li>Darana Álva
+ rez</li><li>Tatsumi Milori</li><li>Tomás García Agraz</li><li>Mónica de
+ l Carmen</li><li>Raúl Villegas</li><li>Lucio Lemus</li><li>Luisa Almaguer
+ </li><li>Andrea Jiménez Camacho</li><li>Áyax</li><li>Óscar Lever</li><l
+ i>Mario Flores</li></ul></td></tr></table><p>La Maestra et Paula\, deux am
+ ies inséparables\, sont les meilleures nageuses de leur équipe. Jusqu’
+ à ce qu’un évènement traumatique\, survenu au cours d’une soirée\,
+  les oblige à choisir entre garder le silence et prendre la parole\, quit
+ te à mettre leur amitié à rude épreuve…</p><p><small><a href="https:
+ //www.themoviedb.org/movie/1536433">Fiche TMDB</a><br><br>Données fournie
+ s par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1536433
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/tBmuURPrzxck9wAe6sRbuGe7kPn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tBmuURPrzxck9wAe6
+ sRbuGe7kPn.jpg
+CATEGORIES:Drame
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1433367@calendrier-cine-fr
 DTSTAMP:20260812T000000Z
 DTSTART;VALUE=DATE:20260812
@@ -774,6 +823,64 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yEuZLk7pJF2H17Yaw
 CATEGORIES:Horreur,Mystère
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1401459@calendrier-cine-fr
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Fjord
+DESCRIPTION:https://image.tmdb.org/t/p/w780/3btHoXx6lJtDJEybsCLhkqhNCb9.jpg
+ \n(4.5)\n𝟮𝗵𝟮𝟲\n\nDrame\nRomania\, Norway\, France\, Finland\, 
+ Denmark\, Sweden\, United States of America\n(Norwegian\, English\, Romani
+ an)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Cristian Mungiu\n
+ 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Cristian Mungiu\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Tudor Vladimir Panduru\n𝗣𝗿𝗼𝗱
+ 𝘂𝗰𝘁𝗶𝗼𝗻 : Mobra Films\, Why Not Productions\, Eye Eye Pic
+ tures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Sebastian Stan\n- Renate Reinsv
+ e\n- Lisa Carlehed\n- Ellen Dorrit Petersen\n- Lisa Loven Kongsli\n- Henri
+ kke Lund Olsen\n- Vanessa Ceban\n- Jonathan Ciprian Breazu\n- Giulia Nahma
+ ny\n- Ingvild Lien\n- Turid Rivertz Vatne\n- Alin Panc\n\n\nLes Gheorghiu\
+ , un couple roumano-norvégien très pieux\, s’installent dans un villag
+ e au bout d’un fjord où ils se lient rapidement d’amitié avec leurs 
+ voisins\, les Halberg. Les enfants des deux familles deviennent très proc
+ hes\, malgré des éducations différentes. Lorsque le corps enseignant d
+ écouvre des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gh
+ eorghiu\, la communauté se demande si l’éducation traditionnelle que l
+ es enfants Gheorghiu reçoivent de leurs parents pourrait en être la caus
+ e.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1401459\n\nDonnées 
+ fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/3btHoXx6lJtDJEybsCLhkqhNCb9.jpg" width="220" alt="Affi
+ che de Fjord"><br><small>(4.5)</small><br><small>2h26</small></td><td widt
+ h="16"></td><td valign="top"><i>Drame</i><br>Romania\, Norway\, France\, F
+ inland\, Denmark\, Sweden\, United States of America<br>(Norwegian\, Engli
+ sh\, Romanian)<br><br><b>Réalisateur :</b> Cristian Mungiu<br><b>Scénari
+ o :</b> Cristian Mungiu<br><b>Photographie :</b> Tudor Vladimir Panduru<br
+ ><b>Production :</b> Mobra Films\, Why Not Productions\, Eye Eye Pictures<
+ br><br><b>Acteurs :</b><ul><li>Sebastian Stan</li><li>Renate Reinsve</li><
+ li>Lisa Carlehed</li><li>Ellen Dorrit Petersen</li><li>Lisa Loven Kongsli<
+ /li><li>Henrikke Lund Olsen</li><li>Vanessa Ceban</li><li>Jonathan Ciprian
+  Breazu</li><li>Giulia Nahmany</li><li>Ingvild Lien</li><li>Turid Rivertz 
+ Vatne</li><li>Alin Panc</li></ul></td></tr></table><p>Les Gheorghiu\, un c
+ ouple roumano-norvégien très pieux\, s’installent dans un village au b
+ out d’un fjord où ils se lient rapidement d’amitié avec leurs voisin
+ s\, les Halberg. Les enfants des deux familles deviennent très proches\, 
+ malgré des éducations différentes. Lorsque le corps enseignant découvr
+ e des ecchymoses sur le corps d’Elia\, l’aînée des enfants Gheorghiu
+ \, la communauté se demande si l’éducation traditionnelle que les enfa
+ nts Gheorghiu reçoivent de leurs parents pourrait en être la cause.</p><
+ p><small><a href="https://www.themoviedb.org/movie/1401459">Fiche TMDB</a>
+ <br><br>Données fournies par The Movie Database (TMDB)</small></p></body>
+ </html>
+URL:https://www.themoviedb.org/movie/1401459
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/3btHoXx6lJtDJEybsCLhkqhNCb9.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/3btHoXx6lJtDJEybs
+ CLhkqhNCb9.jpg
+CATEGORIES:Drame
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1291595@calendrier-cine-fr
 DTSTAMP:20260819T000000Z
 DTSTART;VALUE=DATE:20260819
@@ -986,6 +1093,164 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6YCH9yUVO9Fh23WIO
 CATEGORIES:Crime,Drame,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-26405@calendrier-cine-fr
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Réveil dans la terreur
+DESCRIPTION:https://image.tmdb.org/t/p/w780/7jKMv96C03VRYxdbvZIqlRkIkiP.jpg
+ \n(Wake in Fright)   (3.6)\n𝟭𝗵𝟰𝟴\n\nDrame\, Thriller\nAustrali
+ a\, United Kingdom\, United States of America\n(English)\n(sortie initiale
+  : 21/07/1971)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ted Kotch
+ eff\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Evan Jones\, Ted Kotcheff\n𝗣
+ 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Brian West\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : NLT Productions\, Group W\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Donald Pleasence\n- Gary Bond\n- Chips Rafferty\n- S
+ ylvia Kay\n- Jack Thompson\n- Peter Whittle\n- Al Thomas\n- John Meillon\n
+ - John Armstrong\n- Slim DeGrey\n- Maggie Dence\n- Norm Erskine\n\n\nInsti
+ tuteur de la classe unique de Timboonda\, une bourgade perdue d'Australie\
+ , John Grant se réjouit de s'envoler vers Sydney pour les vacances d'ét
+ é. Il fait une halte obligée à Bundanyabba pour prendre son avion. Le s
+ hérif de cette ville minière lui offre la première d'une longue série 
+ de pintes\, avant qu'il ne soit entraîné dans un ruineux jeu de pile ou 
+ face. Le lendemain\, il se réveille avec la gueule de bois\, a raté son 
+ vol et n'a plus d'argent. Débute alors pour lui un long calvaire canicula
+ ire fortement alcoolisé…\n\n\nFiche TMDB : https://www.themoviedb.org/m
+ ovie/26405\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/7jKMv96C03VRYxdbvZIqlRkIkiP.jpg" width="220" alt="Affi
+ che de Réveil dans la terreur"><br><small>(Wake in Fright)   (3.6)</small
+ ><br><small>1h48</small></td><td width="16"></td><td valign="top"><i>Drame
+ \, Thriller</i><br>Australia\, United Kingdom\, United States of America<b
+ r>(English)<br>(sortie initiale : 21/07/1971)<br><br><b>Réalisateur :</b>
+  Ted Kotcheff<br><b>Scénario :</b> Evan Jones\, Ted Kotcheff<br><b>Photog
+ raphie :</b> Brian West<br><b>Production :</b> NLT Productions\, Group W<b
+ r><br><b>Acteurs :</b><ul><li>Donald Pleasence</li><li>Gary Bond</li><li>C
+ hips Rafferty</li><li>Sylvia Kay</li><li>Jack Thompson</li><li>Peter Whitt
+ le</li><li>Al Thomas</li><li>John Meillon</li><li>John Armstrong</li><li>S
+ lim DeGrey</li><li>Maggie Dence</li><li>Norm Erskine</li></ul></td></tr></
+ table><p>Instituteur de la classe unique de Timboonda\, une bourgade perdu
+ e d'Australie\, John Grant se réjouit de s'envoler vers Sydney pour les v
+ acances d'été. Il fait une halte obligée à Bundanyabba pour prendre so
+ n avion. Le shérif de cette ville minière lui offre la première d'une l
+ ongue série de pintes\, avant qu'il ne soit entraîné dans un ruineux je
+ u de pile ou face. Le lendemain\, il se réveille avec la gueule de bois\,
+  a raté son vol et n'a plus d'argent. Débute alors pour lui un long calv
+ aire caniculaire fortement alcoolisé…</p><p><small><a href="https://www
+ .themoviedb.org/movie/26405">Fiche TMDB</a><br><br>Données fournies par T
+ he Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/26405
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/7jKMv96C03VRYxdbvZIqlRkIkiP.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7jKMv96C03VRYxdbv
+ ZIqlRkIkiP.jpg
+CATEGORIES:Drame,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1284186@calendrier-cine-fr
+DTSTAMP:20260820T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Sacrifice
+DESCRIPTION:https://image.tmdb.org/t/p/w780/o4iceiahzncK2yMnG6lnb4JSheq.jpg
+ \n(4.9)\n𝟭𝗵𝟰𝟯\n\nAventure\, Comédie\, Action\nFrance\, Greece
+ \, United States of America\, Cyprus\, United Kingdom\n(English)\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Romain Gavras\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Romain Gavras\, Will Arbery\n𝗣𝗵𝗼𝘁𝗼𝗴
+ 𝗿𝗮𝗽𝗵𝗶𝗲 : Matias Boucard\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : Mid March Media\, Heretic\, Lady Killer Productions\n\n𝗔
+ 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Chris Evans\n- Anya Taylor-Joy\n- Vincent Ca
+ ssel\n- Salma Hayek Pinault\n- John Malkovich\n- Charli xcx\n- Yung Lean\n
+ - Sam Richardson\n- Jade Croot\n- Ambika Mod\n- Bebe Massey\n- Jeremy O. H
+ arris\n\n\nUn gala de charité est interrompu par l'attaque d'un violent g
+ roupe de radicaux lancés dans une mystérieuse quête pour accomplir une 
+ prophétie.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1284186\n\n
+ Données fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/o4iceiahzncK2yMnG6lnb4JSheq.jpg" width="220" alt="Affi
+ che de Sacrifice"><br><small>(4.9)</small><br><small>1h43</small></td><td 
+ width="16"></td><td valign="top"><i>Aventure\, Comédie\, Action</i><br>Fr
+ ance\, Greece\, United States of America\, Cyprus\, United Kingdom<br>(Eng
+ lish)<br><br><b>Réalisateur :</b> Romain Gavras<br><b>Scénario :</b> Rom
+ ain Gavras\, Will Arbery<br><b>Photographie :</b> Matias Boucard<br><b>Pro
+ duction :</b> Mid March Media\, Heretic\, Lady Killer Productions<br><br><
+ b>Acteurs :</b><ul><li>Chris Evans</li><li>Anya Taylor-Joy</li><li>Vincent
+  Cassel</li><li>Salma Hayek Pinault</li><li>John Malkovich</li><li>Charli 
+ xcx</li><li>Yung Lean</li><li>Sam Richardson</li><li>Jade Croot</li><li>Am
+ bika Mod</li><li>Bebe Massey</li><li>Jeremy O. Harris</li></ul></td></tr><
+ /table><p>Un gala de charité est interrompu par l'attaque d'un violent gr
+ oupe de radicaux lancés dans une mystérieuse quête pour accomplir une p
+ rophétie.</p><p><small><a href="https://www.themoviedb.org/movie/1284186"
+ >Fiche TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</sm
+ all></p></body></html>
+URL:https://www.themoviedb.org/movie/1284186
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/o4iceiahzncK2yMnG6lnb4JSheq.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/o4iceiahzncK2yMnG
+ 6lnb4JSheq.jpg
+CATEGORIES:Aventure,Comédie,Action
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1507796@calendrier-cine-fr
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Face à la mer
+DESCRIPTION:https://image.tmdb.org/t/p/w780/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg
+ \n(On the Sea)   (4.1)\n𝟭𝗵𝟱𝟭\n\nDrame\, Romance\nUnited Kingdo
+ m\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Helen Walsh
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Helen Walsh\n𝗣𝗵𝗼𝘁𝗼𝗴
+ 𝗿𝗮𝗽𝗵𝗶𝗲 : Sam Goldie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
+ 𝗼𝗻 : Red Union Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Barry Ward
+ \n- Lorne MacFadyen\n- Liz White\n- Henry Lawfull\n- Celyn Jones\n- Leisa 
+ Gwenllian\n- Danny Webb\n- Callum Hymers\n- Sheldon Jones\n- Tristan Jones
+ \n- Kieran Roberts\n- Lisa Jên Brown\n\n\nJack est marié à Maggie depui
+ s plus de la moitié de sa vie. Il travaille comme ramasseur de moules dan
+ s les bancs du nord du Pays de Galles avec son jeune frère\, Dyfan\, et s
+ es trois fils. Jack a toujours pensé que son fils\, Tom\, rejoindrait l
+ ’entreprise familiale à la fin de ses études\, mais la réticence de T
+ om à suivre ses traces provoque des tensions familiales. Celles-ci sont e
+ ncore exacerbées par l’arrivée d’un matelot itinérant\, Daniel\, qu
+ i avoue ses sentiments à Jack. Dans cette communauté rurale isolée où 
+ la vie tourne autour de l’Église et de la pêche\, Jack est confronté 
+ à un dilemme insurmontable.\n\n\nFiche TMDB : https://www.themoviedb.org/
+ movie/1507796\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg" width="220" alt="Affi
+ che de Face à la mer"><br><small>(On the Sea)   (4.1)</small><br><small>1
+ h51</small></td><td width="16"></td><td valign="top"><i>Drame\, Romance</i
+ ><br>United Kingdom<br>(English)<br><br><b>Réalisateur :</b> Helen Walsh<
+ br><b>Scénario :</b> Helen Walsh<br><b>Photographie :</b> Sam Goldie<br><
+ b>Production :</b> Red Union Films<br><br><b>Acteurs :</b><ul><li>Barry Wa
+ rd</li><li>Lorne MacFadyen</li><li>Liz White</li><li>Henry Lawfull</li><li
+ >Celyn Jones</li><li>Leisa Gwenllian</li><li>Danny Webb</li><li>Callum Hym
+ ers</li><li>Sheldon Jones</li><li>Tristan Jones</li><li>Kieran Roberts</li
+ ><li>Lisa Jên Brown</li></ul></td></tr></table><p>Jack est marié à Magg
+ ie depuis plus de la moitié de sa vie. Il travaille comme ramasseur de mo
+ ules dans les bancs du nord du Pays de Galles avec son jeune frère\, Dyfa
+ n\, et ses trois fils. Jack a toujours pensé que son fils\, Tom\, rejoind
+ rait l’entreprise familiale à la fin de ses études\, mais la réticenc
+ e de Tom à suivre ses traces provoque des tensions familiales. Celles-ci 
+ sont encore exacerbées par l’arrivée d’un matelot itinérant\, Danie
+ l\, qui avoue ses sentiments à Jack. Dans cette communauté rurale isolé
+ e où la vie tourne autour de l’Église et de la pêche\, Jack est confr
+ onté à un dilemme insurmontable.</p><p><small><a href="https://www.themo
+ viedb.org/movie/1507796">Fiche TMDB</a><br><br>Données fournies par The M
+ ovie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1507796
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/9dZj1TDR2TlSdWjnzGI87jbZSts.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9dZj1TDR2TlSdWjnz
+ GI87jbZSts.jpg
+CATEGORIES:Drame,Romance
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1182935@calendrier-cine-fr
 DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
@@ -1032,6 +1297,46 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qgdjIXMerOn9pQHqB
  TVucobj2Zu.jpg
 CATEGORIES:Fantastique,Drame,Mystère
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1187326@calendrier-cine-fr
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Tad l'explorateur et la Lampe Magique
+DESCRIPTION:https://image.tmdb.org/t/p/w780/6XYRSFddCKNTSHfk1e4GOoWi9V7.jpg
+ \n(Tadeo Jones y La Lámpara Maravillosa)   (4.1)\n\nAnimation\, Comédie\
+ , Familial\nSpain\n(Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Enrique Gato\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Josep Gatell\, Man
+ uel Burque\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Mediaset España\, 
+ Ikiru Films\, Anangu Grup\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Óscar Barb
+ erán\n- Michelle Jenner\n- Luis Posada\n- Joseph Balderrama\n- Trevor Whi
+ te\n\n\nL’explorateur et ses complices voyageront dans le temps grâce a
+ u pouvoir d’une mystérieuse lampe magique.\n\n\nFiche TMDB : https://ww
+ w.themoviedb.org/movie/1187326\n\nDonnées fournies par The Movie Database
+  (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/6XYRSFddCKNTSHfk1e4GOoWi9V7.jpg" width="220" alt="Affi
+ che de Tad l'explorateur et la Lampe Magique"><br><small>(Tadeo Jones y La
+  Lámpara Maravillosa)   (4.1)</small></td><td width="16"></td><td valign=
+ "top"><i>Animation\, Comédie\, Familial</i><br>Spain<br>(Spanish)<br><br>
+ <b>Réalisateur :</b> Enrique Gato<br><b>Scénario :</b> Josep Gatell\, Ma
+ nuel Burque<br><b>Production :</b> Mediaset España\, Ikiru Films\, Anangu
+  Grup<br><br><b>Acteurs :</b><ul><li>Óscar Barberán</li><li>Michelle Jen
+ ner</li><li>Luis Posada</li><li>Joseph Balderrama</li><li>Trevor White</li
+ ></ul></td></tr></table><p>L’explorateur et ses complices voyageront dan
+ s le temps grâce au pouvoir d’une mystérieuse lampe magique.</p><p><sm
+ all><a href="https://www.themoviedb.org/movie/1187326">Fiche TMDB</a><br><
+ br>Données fournies par The Movie Database (TMDB)</small></p></body></htm
+ l>
+URL:https://www.themoviedb.org/movie/1187326
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/6XYRSFddCKNTSHfk1e4GOoWi9V7.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6XYRSFddCKNTSHfk1
+ e4GOoWi9V7.jpg
+CATEGORIES:Animation,Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1384216@calendrier-cine-fr
@@ -2334,6 +2639,50 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/lmrulvLbmaejTix1Y
 CATEGORIES:Crime,Drame,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1503762@calendrier-cine-fr
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Raison et sentiments
+DESCRIPTION:https://image.tmdb.org/t/p/w780/9XNEI2AYgQIIqXper5kOdGTnyf5.jpg
+ \n(Sense and Sensibility)   (3.9)\n𝟮𝗵𝟭𝟮\n\nDrame\, Romance\nUn
+ ited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
+ 𝘀𝗮𝘁𝗲𝘂𝗿 : Georgia Oakley\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
+ 𝗼 : Diana Reid\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Arna
+ ud Potier\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Focus Features\, Wor
+ king Title Films\, November Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 
+ Daisy Edgar-Jones\n- Esmé Creed-Miles\n- Caitríona Balfe\n- Bodhi Rae Br
+ eathnach\n- Frank Dillane\n- George MacKay\n- Herbert Nordrum\n- Fiona Sha
+ w\n- Stacy Martin\n- Tom Brooke\n- Chloe Pirrie\n- Forrest Bothwell\n\n\n(
+ synopsis non encore traduit sur TMDB)\nA charming\, witty\, and deeply rel
+ atable story of love and sisterhood.\n\n\nFiche TMDB : https://www.themovi
+ edb.org/movie/1503762\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/9XNEI2AYgQIIqXper5kOdGTnyf5.jpg" width="220" alt="Affi
+ che de Raison et sentiments"><br><small>(Sense and Sensibility)   (3.9)</s
+ mall><br><small>2h12</small></td><td width="16"></td><td valign="top"><i>D
+ rame\, Romance</i><br>United Kingdom\, United States of America<br>(Englis
+ h)<br><br><b>Réalisateur :</b> Georgia Oakley<br><b>Scénario :</b> Diana
+  Reid<br><b>Photographie :</b> Arnaud Potier<br><b>Production :</b> Focus 
+ Features\, Working Title Films\, November Pictures<br><br><b>Acteurs :</b>
+ <ul><li>Daisy Edgar-Jones</li><li>Esmé Creed-Miles</li><li>Caitríona Bal
+ fe</li><li>Bodhi Rae Breathnach</li><li>Frank Dillane</li><li>George MacKa
+ y</li><li>Herbert Nordrum</li><li>Fiona Shaw</li><li>Stacy Martin</li><li>
+ Tom Brooke</li><li>Chloe Pirrie</li><li>Forrest Bothwell</li></ul></td></t
+ r></table><p><i>(synopsis non encore traduit sur TMDB)</i><br>A charming\,
+  witty\, and deeply relatable story of love and sisterhood.</p><p><small><
+ a href="https://www.themoviedb.org/movie/1503762">Fiche TMDB</a><br><br>Do
+ nnées fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1503762
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/9XNEI2AYgQIIqXper5kOdGTnyf5.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9XNEI2AYgQIIqXper
+ 5kOdGTnyf5.jpg
+CATEGORIES:Drame,Romance
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1248832@calendrier-cine-fr
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
@@ -2717,6 +3066,95 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4ztRtYDSQa7zgtY63
  oAfbTNJKpx.jpg
 CATEGORIES:Drame,Romance
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1281331@calendrier-cine-fr
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:The Social Reckoning
+DESCRIPTION:https://image.tmdb.org/t/p/w780/l8IgQcSRqW4gCYGzIbdYVtY4CBX.jpg
+ \n(5.0)\n\nDrame\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Aaron Sorkin\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
+ 𝗼 : Aaron Sorkin\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Je
+ ff Cronenweth\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Columbia Picture
+ s\, Escape Artists\, Alcon Entertainment\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
+ \n- Mikey Madison\n- Jeremy Allen White\n- Jeremy Strong\n- Wunmi Mosaku\n
+ - Betty Gilpin\n- Billy Magnussen\n- Bill Burr\n- Gbenga Akinnagbe\n- Anna
+  Lambe\n- Aidan Laprete\n- Kelley Pereira\n- Nelson Franklin\n\n\nFrances 
+ Haugen\, une jeune ingénieure de Facebook\, sollicite l'aide de Jeff Horw
+ itz\, un journaliste du Wall Street Journal\, pour entreprendre un voyage 
+ dangereux qui finira par révéler les secrets les mieux gardés du résea
+ u social.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1281331\n\nDo
+ nnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/l8IgQcSRqW4gCYGzIbdYVtY4CBX.jpg" width="220" alt="Affi
+ che de The Social Reckoning"><br><small>(5.0)</small></td><td width="16"><
+ /td><td valign="top"><i>Drame</i><br>United States of America<br>(English)
+ <br><br><b>Réalisateur :</b> Aaron Sorkin<br><b>Scénario :</b> Aaron Sor
+ kin<br><b>Photographie :</b> Jeff Cronenweth<br><b>Production :</b> Columb
+ ia Pictures\, Escape Artists\, Alcon Entertainment<br><br><b>Acteurs :</b>
+ <ul><li>Mikey Madison</li><li>Jeremy Allen White</li><li>Jeremy Strong</li
+ ><li>Wunmi Mosaku</li><li>Betty Gilpin</li><li>Billy Magnussen</li><li>Bil
+ l Burr</li><li>Gbenga Akinnagbe</li><li>Anna Lambe</li><li>Aidan Laprete</
+ li><li>Kelley Pereira</li><li>Nelson Franklin</li></ul></td></tr></table><
+ p>Frances Haugen\, une jeune ingénieure de Facebook\, sollicite l'aide de
+  Jeff Horwitz\, un journaliste du Wall Street Journal\, pour entreprendre 
+ un voyage dangereux qui finira par révéler les secrets les mieux gardés
+  du réseau social.</p><p><small><a href="https://www.themoviedb.org/movie
+ /1281331">Fiche TMDB</a><br><br>Données fournies par The Movie Database (
+ TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1281331
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/l8IgQcSRqW4gCYGzIbdYVtY4CBX.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/l8IgQcSRqW4gCYGzI
+ bdYVtY4CBX.jpg
+CATEGORIES:Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1255833@calendrier-cine-fr
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Englouti
+DESCRIPTION:https://image.tmdb.org/t/p/w780/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg
+ \n(Whalefall)   (3.7)\n𝟭𝗵𝟯𝟴\n\nThriller\, Horreur\nUnited Stat
+ es of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 :
+  Brian Duffield\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Brian Duffield\, Danie
+ l Kraus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Aaron Morton\n
+ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Imagine Entertainment\, 3 Arts 
+ Entertainment\, 20th Century Studios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 
+ Austin Abrams\n- Josh Brolin\n- Elisabeth Shue\n- John Ortiz\n- Jane Levy\
+ n- Emily Rudd\n\n\nUn plongeur sous-marin est à la recherche des restes d
+ e son père décédé\, qui s'est fait avaler par un cachalot. Il ne lui r
+ este plus qu'une heure avant que l'oxygène ne vienne à lui manquer.\n\n\
+ nFiche TMDB : https://www.themoviedb.org/movie/1255833\n\nDonnées fournie
+ s par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg" width="220" alt="Affi
+ che de Englouti"><br><small>(Whalefall)   (3.7)</small><br><small>1h38</sm
+ all></td><td width="16"></td><td valign="top"><i>Thriller\, Horreur</i><br
+ >United States of America<br>(English)<br><br><b>Réalisateur :</b> Brian 
+ Duffield<br><b>Scénario :</b> Brian Duffield\, Daniel Kraus<br><b>Photogr
+ aphie :</b> Aaron Morton<br><b>Production :</b> Imagine Entertainment\, 3 
+ Arts Entertainment\, 20th Century Studios<br><br><b>Acteurs :</b><ul><li>A
+ ustin Abrams</li><li>Josh Brolin</li><li>Elisabeth Shue</li><li>John Ortiz
+ </li><li>Jane Levy</li><li>Emily Rudd</li></ul></td></tr></table><p>Un plo
+ ngeur sous-marin est à la recherche des restes de son père décédé\, q
+ ui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure av
+ ant que l'oxygène ne vienne à lui manquer.</p><p><small><a href="https:/
+ /www.themoviedb.org/movie/1255833">Fiche TMDB</a><br><br>Données fournies
+  par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1255833
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wse4S4EuVHSNk9yzs
+ jhdRLmipXk.jpg
+CATEGORIES:Thriller,Horreur
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-947493@calendrier-cine-fr
@@ -3134,6 +3572,58 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hwEZ6fOtXX9mIZHSZ
  PoOJW7AvmP.jpg
 CATEGORIES:Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-858035@calendrier-cine-fr
+DTSTAMP:20261021T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Klara et le Soleil
+DESCRIPTION:https://image.tmdb.org/t/p/w780/zJZ1ii7XPAJkdBWKIQN2fyyz5cQ.jpg
+ \n(Klara and the Sun)   (4.3)\n𝟭𝗵𝟱𝟲\n\nScience-Fiction\, Drame
+ \, Comédie\nNew Zealand\, United Kingdom\, United States of America\n(Eng
+ lish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Taika Waititi\n
+ 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dahvi Waller\, Taika Waititi\n𝗣𝗵
+ 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Berlucchi\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 3000 Pictures\, Heyday Films\, Defender Fil
+ ms\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Jenna Ortega\n- Mia Tharia\n- Amy 
+ Adams\n- Natasha Lyonne\n- Aran Murphy\n- Rachel House\n- Steve Buscemi\n-
+  Davida McKenzie\n- Harry Greenwood\n- Anastasiia Aksiuta\n\n\nLorsque Kla
+ ra rencontre Josie\, chacune perçoit immédiatement chez l'autre une âme
+  soeur. Josie entretient une relation compliquée avec sa mère et toutes 
+ deux ont traversé de lourdes épreuves. Mais l'émerveillement sincère d
+ e Klara et sa loyauté sans faille commencent peu à peu à apaiser les bl
+ essures de cette famille et à apporter de la lumière dans l'univers comp
+ lexe de Josie.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/858035\n
+ \nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/zJZ1ii7XPAJkdBWKIQN2fyyz5cQ.jpg" width="220" alt="Affi
+ che de Klara et le Soleil"><br><small>(Klara and the Sun)   (4.3)</small><
+ br><small>1h56</small></td><td width="16"></td><td valign="top"><i>Science
+ -Fiction\, Drame\, Comédie</i><br>New Zealand\, United Kingdom\, United S
+ tates of America<br>(English)<br><br><b>Réalisateur :</b> Taika Waititi<b
+ r><b>Scénario :</b> Dahvi Waller\, Taika Waititi<br><b>Photographie :</b>
+  Mike Berlucchi<br><b>Production :</b> 3000 Pictures\, Heyday Films\, Defe
+ nder Films<br><br><b>Acteurs :</b><ul><li>Jenna Ortega</li><li>Mia Tharia<
+ /li><li>Amy Adams</li><li>Natasha Lyonne</li><li>Aran Murphy</li><li>Rache
+ l House</li><li>Steve Buscemi</li><li>Davida McKenzie</li><li>Harry Greenw
+ ood</li><li>Anastasiia Aksiuta</li></ul></td></tr></table><p>Lorsque Klara
+  rencontre Josie\, chacune perçoit immédiatement chez l'autre une âme s
+ oeur. Josie entretient une relation compliquée avec sa mère et toutes de
+ ux ont traversé de lourdes épreuves. Mais l'émerveillement sincère de 
+ Klara et sa loyauté sans faille commencent peu à peu à apaiser les bles
+ sures de cette famille et à apporter de la lumière dans l'univers comple
+ xe de Josie.</p><p><small><a href="https://www.themoviedb.org/movie/858035
+ ">Fiche TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</s
+ mall></p></body></html>
+URL:https://www.themoviedb.org/movie/858035
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/zJZ1ii7XPAJkdBWKIQN2fyyz5cQ.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zJZ1ii7XPAJkdBWKI
+ QN2fyyz5cQ.jpg
+CATEGORIES:Science-Fiction,Drame,Comédie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1465063@calendrier-cine-fr
@@ -3786,6 +4276,54 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6K3STw9hI7VypXagv
 CATEGORIES:Comédie,Romance
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1381071@calendrier-cine-fr
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:https://image.tmdb.org/t/p/w780/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg
+ \n(ゴジラ-0.0 — G-0.0)   (5.0)\n𝟭𝗵𝟱𝟵\n\nScience-Fiction\,
+  Horreur\, Action\nJapan\n(Japanese\, English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : Takashi Yamazaki\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
+ : Takashi Yamazaki\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : TOHO\, Robo
+ t Communications\, TOHO Studios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Ryuno
+ suke Kamiki\n- Minami Hamabe\n- 山田裕貴\n- Munetaka Aoki\n- 吉岡秀
+ 隆\n- Miou Tanaka\n- 永谷咲笑\n- Kuranosuke Sasaki\n- Sakura Ando\n- 
+ 田中泯\n- Wes Wing\n\n\nJapon après la Seconde Guerre mondiale\, Shiki
+ shima Koichi\, un ancien pilote kamikaze survit à une rencontre avec Godz
+ illa et souffre de symptômes de stress post-traumatique. Lorsque la créa
+ ture réapparaît des années plus tard\, un groupe de soldats et de vét
+ érans doit s'unir pour vaincre le monstre avant qu'il ne puisse détruire
+  le Japon.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1381071\n\nD
+ onnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" width="220" alt="Affi
+ che de Godzilla Minus Zero"><br><small>(ゴジラ-0.0 — G-0.0)   (5.0)</
+ small><br><small>1h59</small></td><td width="16"></td><td valign="top"><i>
+ Science-Fiction\, Horreur\, Action</i><br>Japan<br>(Japanese\, English)<br
+ ><br><b>Réalisateur :</b> Takashi Yamazaki<br><b>Scénario :</b> Takashi 
+ Yamazaki<br><b>Production :</b> TOHO\, Robot Communications\, TOHO Studios
+ <br><br><b>Acteurs :</b><ul><li>Ryunosuke Kamiki</li><li>Minami Hamabe</li
+ ><li>山田裕貴</li><li>Munetaka Aoki</li><li>吉岡秀隆</li><li>Miou 
+ Tanaka</li><li>永谷咲笑</li><li>Kuranosuke Sasaki</li><li>Sakura Ando<
+ /li><li>田中泯</li><li>Wes Wing</li></ul></td></tr></table><p>Japon apr
+ ès la Seconde Guerre mondiale\, Shikishima Koichi\, un ancien pilote kami
+ kaze survit à une rencontre avec Godzilla et souffre de symptômes de str
+ ess post-traumatique. Lorsque la créature réapparaît des années plus t
+ ard\, un groupe de soldats et de vétérans doit s'unir pour vaincre le mo
+ nstre avant qu'il ne puisse détruire le Japon.</p><p><small><a href="http
+ s://www.themoviedb.org/movie/1381071">Fiche TMDB</a><br><br>Données fourn
+ ies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1381071
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zpcoFlZwyLnBt7bb5
+ wmvGDCdg06.jpg
+CATEGORIES:Science-Fiction,Horreur,Action
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1003494@calendrier-cine-fr
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
@@ -3836,6 +4374,102 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/q539jeQw6RdAvXf2h
  HqOMvqMEAr.jpg
 CATEGORIES:Histoire,Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1562642@calendrier-cine-fr
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Soldat fantôme
+DESCRIPTION:https://image.tmdb.org/t/p/w780/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg
+ \n(Ghost Soldier)   (4.2)\n\nAction\nUnited States of America\, Romania\n(
+ English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : William Eubank\
+ n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Chris Papasadero\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Agustin Claramunt\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Mandalay Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 
+ Jim Caviezel\n- Olivia Thirlby\n- Garret Dillahunt\n- Shea Whigham\n- Beau
+  Knapp\n- Alexej Manvelov\n- Ricky Whittle\n- Olivia Chenery\n- Gunner Wri
+ ght\n- Jaina Lee Ortiz\n- Dylan Corbett-Bader\n- Georgia Small\n\n\nUn ing
+ énieur en systèmes d'armement et ancien béret vert protège ses voisins
+  du Wyoming contre une multinationale impitoyable qui menace leur communau
+ té rurale.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1562642\n\n
+ Données fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg" width="220" alt="Affi
+ che de Soldat fantôme"><br><small>(Ghost Soldier)   (4.2)</small></td><td
+  width="16"></td><td valign="top"><i>Action</i><br>United States of Americ
+ a\, Romania<br>(English)<br><br><b>Réalisateur :</b> William Eubank<br><b
+ >Scénario :</b> Chris Papasadero<br><b>Photographie :</b> Agustin Claramu
+ nt<br><b>Production :</b> Mandalay Pictures<br><br><b>Acteurs :</b><ul><li
+ >Jim Caviezel</li><li>Olivia Thirlby</li><li>Garret Dillahunt</li><li>Shea
+  Whigham</li><li>Beau Knapp</li><li>Alexej Manvelov</li><li>Ricky Whittle<
+ /li><li>Olivia Chenery</li><li>Gunner Wright</li><li>Jaina Lee Ortiz</li><
+ li>Dylan Corbett-Bader</li><li>Georgia Small</li></ul></td></tr></table><p
+ >Un ingénieur en systèmes d'armement et ancien béret vert protège ses 
+ voisins du Wyoming contre une multinationale impitoyable qui menace leur c
+ ommunauté rurale.</p><p><small><a href="https://www.themoviedb.org/movie/
+ 1562642">Fiche TMDB</a><br><br>Données fournies par The Movie Database (T
+ MDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1562642
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/h3N9bQbuDtswq6nNtREpyhUYyv9.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/h3N9bQbuDtswq6nNt
+ REpyhUYyv9.jpg
+CATEGORIES:Action
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-891621@calendrier-cine-fr
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Wild Horse Nine
+DESCRIPTION:https://image.tmdb.org/t/p/w780/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg
+ \n(4.6)\n𝟭𝗵𝟱𝟴\n\nComédie\, Crime\, Thriller\nUnited Kingdom\,
+  United States of America\, Chile\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : Martin McDonagh\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 :
+  Martin McDonagh\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ben D
+ avis\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Searchlight Pictures\, Bl
+ ueprint Pictures\, Film4 Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 
+ John Malkovich\n- Sam Rockwell\n- Steve Buscemi\n- Parker Posey\n- Tom Wai
+ ts\n- Mariana Di Girolamo\n- Paola Giannini\n- Ailín Salas\n- Samuel Wayt
+ \n\n\nPeu avant le coup d'État chilien de 1973\, deux agents de la CIA\, 
+ Chris et Lee\, sont envoyés de Santiago vers l'île de Pâques par leur s
+ upérieur\, MJ. Au milieu des statues emblématiques de l'île\, tandis qu
+ e ces partenaires de longue date sont confrontés à leur sombre passé et
+  aux complots en cours\, Chris noue une relation avec deux étudiantes reb
+ elles qui menace de faire basculer dans le chaos leur séjour dans ce para
+ dis isolé…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/891621\n\
+ nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg" width="220" alt="Affi
+ che de Wild Horse Nine"><br><small>(4.6)</small><br><small>1h58</small></t
+ d><td width="16"></td><td valign="top"><i>Comédie\, Crime\, Thriller</i><
+ br>United Kingdom\, United States of America\, Chile<br>(English)<br><br><
+ b>Réalisateur :</b> Martin McDonagh<br><b>Scénario :</b> Martin McDonagh
+ <br><b>Photographie :</b> Ben Davis<br><b>Production :</b> Searchlight Pic
+ tures\, Blueprint Pictures\, Film4 Productions<br><br><b>Acteurs :</b><ul>
+ <li>John Malkovich</li><li>Sam Rockwell</li><li>Steve Buscemi</li><li>Park
+ er Posey</li><li>Tom Waits</li><li>Mariana Di Girolamo</li><li>Paola Giann
+ ini</li><li>Ailín Salas</li><li>Samuel Wayt</li></ul></td></tr></table><p
+ >Peu avant le coup d'État chilien de 1973\, deux agents de la CIA\, Chris
+  et Lee\, sont envoyés de Santiago vers l'île de Pâques par leur supér
+ ieur\, MJ. Au milieu des statues emblématiques de l'île\, tandis que ces
+  partenaires de longue date sont confrontés à leur sombre passé et aux 
+ complots en cours\, Chris noue une relation avec deux étudiantes rebelles
+  qui menace de faire basculer dans le chaos leur séjour dans ce paradis i
+ solé…</p><p><small><a href="https://www.themoviedb.org/movie/891621">Fi
+ che TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small
+ ></p></body></html>
+URL:https://www.themoviedb.org/movie/891621
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/dNJFRtVg3xLQ7dbNI
+ Q55cmmIniD.jpg
+CATEGORIES:Comédie,Crime,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1408696@calendrier-cine-fr
@@ -4707,6 +5341,47 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2fvwypcDnZK1KwwD6
 CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1078446@calendrier-cine-fr
+DTSTAMP:20261202T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Violent Night 2
+DESCRIPTION:https://image.tmdb.org/t/p/w780/wKgTxSjVZBjtTzK1wEXkLffaWC1.jpg
+ \n(4.5)\n\nAction\, Comédie\, Fantastique\nUnited States of America\n(Eng
+ lish\, German)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Tommy Wir
+ kola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Pat Casey\, Josh Miller\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 87North Productions\, Universal Picture
+ s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- David Harbour\n- Kristen Bell\n- Da
+ niela Melchior\n- Jared Harris\n- Joe Pantoliano\n- Maxwell Friedman\n- An
+ drew Bachelor\n- Maggie Robertson\n- David Lawrence Brown\n- Sarah Luby\n-
+  David MacInnis\n- Isla Verot\n\n\nUne suite du film de 2022. Détails inc
+ onnus\, en cours de préparation.\n\n\nFiche TMDB : https://www.themoviedb
+ .org/movie/1078446\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/wKgTxSjVZBjtTzK1wEXkLffaWC1.jpg" width="220" alt="Affi
+ che de Violent Night 2"><br><small>(4.5)</small></td><td width="16"></td><
+ td valign="top"><i>Action\, Comédie\, Fantastique</i><br>United States of
+  America<br>(English\, German)<br><br><b>Réalisateur :</b> Tommy Wirkola<
+ br><b>Scénario :</b> Pat Casey\, Josh Miller<br><b>Production :</b> 87Nor
+ th Productions\, Universal Pictures<br><br><b>Acteurs :</b><ul><li>David H
+ arbour</li><li>Kristen Bell</li><li>Daniela Melchior</li><li>Jared Harris<
+ /li><li>Joe Pantoliano</li><li>Maxwell Friedman</li><li>Andrew Bachelor</l
+ i><li>Maggie Robertson</li><li>David Lawrence Brown</li><li>Sarah Luby</li
+ ><li>David MacInnis</li><li>Isla Verot</li></ul></td></tr></table><p>Une s
+ uite du film de 2022. Détails inconnus\, en cours de préparation.</p><p>
+ <small><a href="https://www.themoviedb.org/movie/1078446">Fiche TMDB</a><b
+ r><br>Données fournies par The Movie Database (TMDB)</small></p></body></
+ html>
+URL:https://www.themoviedb.org/movie/1078446
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/wKgTxSjVZBjtTzK1wEXkLffaWC1.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wKgTxSjVZBjtTzK1w
+ EXkLffaWC1.jpg
+CATEGORIES:Action,Comédie,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1705737@calendrier-cine-fr
 DTSTAMP:20261205T000000Z
 DTSTART;VALUE=DATE:20261205
@@ -5145,6 +5820,51 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/c1vESDKwUGjAatrxt
 CATEGORIES:Drame,Guerre
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1300926@calendrier-cine-fr
+DTSTAMP:20261223T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Angry Birds : La grande envolée
+DESCRIPTION:https://image.tmdb.org/t/p/w780/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg
+ \n(The Angry Birds Movie 3)   (5.0)\n𝟭𝗵𝟯𝟲\n\nAnimation\, Comé
+ die\, Familial\nFinland\, Japan\, United States of America\, India\, Hong 
+ Kong\, United Kingdom\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
+ 𝘂𝗿 : John Rice\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Thurop Van Orman\
+ n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Rovio Animation\, SEGA of Amer
+ ica\, Flywheel Media\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Jason Sudeikis\n
+ - Josh Gad\n- Danny McBride\n- Rachel Bloom\n- Emma Myers\n- Walker Scobel
+ l\n- James Austin Johnson\n- Tim Robinson\n- Lily James\n- Marcello Herná
+ ndez\n- Sam Richardson\n- Anna Cathcart\n\n\n(synopsis non encore traduit 
+ sur TMDB)\nRed faces his greatest challenge yet… surviving fatherhood wh
+ ile saving the world.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1
+ 300926\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg" width="220" alt="Affi
+ che de Angry Birds : La grande envolée"><br><small>(The Angry Birds Movie
+  3)   (5.0)</small><br><small>1h36</small></td><td width="16"></td><td val
+ ign="top"><i>Animation\, Comédie\, Familial</i><br>Finland\, Japan\, Unit
+ ed States of America\, India\, Hong Kong\, United Kingdom<br>(English)<br>
+ <br><b>Réalisateur :</b> John Rice<br><b>Scénario :</b> Thurop Van Orman
+ <br><b>Production :</b> Rovio Animation\, SEGA of America\, Flywheel Media
+ <br><br><b>Acteurs :</b><ul><li>Jason Sudeikis</li><li>Josh Gad</li><li>Da
+ nny McBride</li><li>Rachel Bloom</li><li>Emma Myers</li><li>Walker Scobell
+ </li><li>James Austin Johnson</li><li>Tim Robinson</li><li>Lily James</li>
+ <li>Marcello Hernández</li><li>Sam Richardson</li><li>Anna Cathcart</li><
+ /ul></td></tr></table><p><i>(synopsis non encore traduit sur TMDB)</i><br>
+ Red faces his greatest challenge yet… surviving fatherhood while saving 
+ the world.</p><p><small><a href="https://www.themoviedb.org/movie/1300926"
+ >Fiche TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</sm
+ all></p></body></html>
+URL:https://www.themoviedb.org/movie/1300926
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/oxaW6X3xohnzdFSBKCrCjRDckMe.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/oxaW6X3xohnzdFSBK
+ CrCjRDckMe.jpg
+CATEGORIES:Animation,Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1552265@calendrier-cine-fr
 DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
@@ -5284,6 +6004,50 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xMkf1d2gDtagqFENf
  EN0oxjScXb.jpg
 CATEGORIES:Drame,Comédie,Horreur,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1553969@calendrier-cine-fr
+DTSTAMP:20261223T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Sheep In The Box
+DESCRIPTION:https://image.tmdb.org/t/p/w780/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg
+ \n(箱の中の羊 — Hako no Naka no Hitsuji)   (4.5)\n𝟮𝗵𝟬𝟲\
+ n\nDrame\, Science-Fiction\nJapan\n(Japanese)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : Hirokazu Kore-eda\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼
+  : Hirokazu Kore-eda\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 
+ 近藤龍人\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Fuji Television N
+ etwork\, GAGA Corporation\, TOHO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Haru
+ ka Ayase\n- 大悟\n- 桒木里夢\n- 清野菜名\n- 寛一郎\n- 柊木
+ 陽太\n- 角田晃広\n- 野呂佳代\n- 星野真里\n- 中島歩\n- Kim
+ iko Yo\n- 田中泯\n\n\nDans un futur proche\, Otone et son mari Kensuke\
+ , qui ont perdu leur enfant\, se voient proposer un robot humanoïde total
+ ement identique à leur fils.\n\n\nFiche TMDB : https://www.themoviedb.org
+ /movie/1553969\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg" width="220" alt="Affi
+ che de Sheep In The Box"><br><small>(箱の中の羊 — Hako no Naka no H
+ itsuji)   (4.5)</small><br><small>2h06</small></td><td width="16"></td><td
+  valign="top"><i>Drame\, Science-Fiction</i><br>Japan<br>(Japanese)<br><br
+ ><b>Réalisateur :</b> Hirokazu Kore-eda<br><b>Scénario :</b> Hirokazu Ko
+ re-eda<br><b>Photographie :</b> 近藤龍人<br><b>Production :</b> Fuji T
+ elevision Network\, GAGA Corporation\, TOHO<br><br><b>Acteurs :</b><ul><li
+ >Haruka Ayase</li><li>大悟</li><li>桒木里夢</li><li>清野菜名</li
+ ><li>寛一郎</li><li>柊木陽太</li><li>角田晃広</li><li>野呂佳
+ 代</li><li>星野真里</li><li>中島歩</li><li>Kimiko Yo</li><li>田
+ 中泯</li></ul></td></tr></table><p>Dans un futur proche\, Otone et son m
+ ari Kensuke\, qui ont perdu leur enfant\, se voient proposer un robot huma
+ noïde totalement identique à leur fils.</p><p><small><a href="https://ww
+ w.themoviedb.org/movie/1553969">Fiche TMDB</a><br><br>Données fournies pa
+ r The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1553969
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/aUeOpkCfGJHgQYFy8
+ 9vTb0OvgWF.jpg
+CATEGORIES:Drame,Science-Fiction
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1588900@calendrier-cine-fr
@@ -5516,6 +6280,105 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/imnkSt4PSQpxIuyiR
 CATEGORIES:Horreur
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1473148@calendrier-cine-fr
+DTSTAMP:20270113T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Gentle Monster
+DESCRIPTION:https://image.tmdb.org/t/p/w780/vER7UcKarHai0vP9ocHIu1wxJL3.jpg
+ \n(4.5)\n𝟭𝗵𝟱𝟰\n\nDrame\nAustria\, Germany\, France\, Sweden\, 
+ Singapore\n(German\, English\, French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
+ 𝗲𝘂𝗿 : Marie Kreutzer\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Marie Kr
+ eutzer\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Judith Kaufmann
+ \n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Film AG\, Komplizen Film\, Ka
+ zak Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Léa Seydoux\n- Cathe
+ rine Deneuve\n- Jella Haase\n- Laurence Rupp\n- Sylvester Groth\n- Kathari
+ na Lorenz\n- Regina Fritsch\n- Raphael Nicholas\n- Anton Rubtsov\n- Nils S
+ trunk\n- Malo Blanchet\n- Patrycja Ziółkowska\n\n\nLucy et Philip sont h
+ eureux\, ils viennent d’emménager avec leur fils dans une maison de cam
+ pagne près de Munich. Un matin\, leur vie bascule lorsque la police se pr
+ ésente à leur domicile pour arrêter Philip et saisir ses ordinateurs. B
+ ouleversée\, Lucy cherche la vérité sur son mari. Qui est-il réellemen
+ t ? Doit-elle l’éloigner de son fils ?\n\n\nFiche TMDB : https://www.th
+ emoviedb.org/movie/1473148\n\nDonnées fournies par The Movie Database (TM
+ DB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/vER7UcKarHai0vP9ocHIu1wxJL3.jpg" width="220" alt="Affi
+ che de Gentle Monster"><br><small>(4.5)</small><br><small>1h54</small></td
+ ><td width="16"></td><td valign="top"><i>Drame</i><br>Austria\, Germany\, 
+ France\, Sweden\, Singapore<br>(German\, English\, French)<br><br><b>Réal
+ isateur :</b> Marie Kreutzer<br><b>Scénario :</b> Marie Kreutzer<br><b>Ph
+ otographie :</b> Judith Kaufmann<br><b>Production :</b> Film AG\, Komplize
+ n Film\, Kazak Productions<br><br><b>Acteurs :</b><ul><li>Léa Seydoux</li
+ ><li>Catherine Deneuve</li><li>Jella Haase</li><li>Laurence Rupp</li><li>S
+ ylvester Groth</li><li>Katharina Lorenz</li><li>Regina Fritsch</li><li>Rap
+ hael Nicholas</li><li>Anton Rubtsov</li><li>Nils Strunk</li><li>Malo Blanc
+ het</li><li>Patrycja Ziółkowska</li></ul></td></tr></table><p>Lucy et Ph
+ ilip sont heureux\, ils viennent d’emménager avec leur fils dans une ma
+ ison de campagne près de Munich. Un matin\, leur vie bascule lorsque la p
+ olice se présente à leur domicile pour arrêter Philip et saisir ses ord
+ inateurs. Bouleversée\, Lucy cherche la vérité sur son mari. Qui est-il
+  réellement ? Doit-elle l’éloigner de son fils ?</p><p><small><a href=
+ "https://www.themoviedb.org/movie/1473148">Fiche TMDB</a><br><br>Données 
+ fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1473148
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/vER7UcKarHai0vP9ocHIu1wxJL3.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vER7UcKarHai0vP9o
+ cHIu1wxJL3.jpg
+CATEGORIES:Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-621304@calendrier-cine-fr
+DTSTAMP:20270113T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Le Royaume d'Orïsha
+DESCRIPTION:https://image.tmdb.org/t/p/w780/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg
+ \n(Children of Blood and Bone)   (4.0)\n\nFantastique\, Aventure\nUnited S
+ tates of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Gina Prince-Bythewood\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Gina Prin
+ ce-Bythewood\, Tomi Adeyemi\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
+ 𝗲 : Polly Morgan\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Temple Hil
+ l Entertainment\, Sunswept Entertainment\, Paramount Pictures\n\n𝗔𝗰
+ 𝘁𝗲𝘂𝗿𝘀 :\n- Thuso Mbedu\n- Amandla Stenberg\n- Damson Idris\
+ n- Tosin Cole\n- Viola Davis\n- Cynthia Erivo\n- Idris Elba\n- Lashana Lyn
+ ch\n- Chiwetel Ejiofor\n- Regina King\n- Diaana Babnicova\n- Bukky Bakray\
+ n\n\nUne jeune femme\, Orisha\, assiste à la mort de sa mère et de magic
+ iens connus sous le nom de maji. La jeune femme va devoir faire équipe av
+ ec un voleur et éviter des esprits vengeurs et des "leoponaires" afin de 
+ ramener la magie au sein de son pays.\n\n\nFiche TMDB : https://www.themov
+ iedb.org/movie/621304\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg" width="220" alt="Affi
+ che de Le Royaume d'Orïsha"><br><small>(Children of Blood and Bone)   (4.
+ 0)</small></td><td width="16"></td><td valign="top"><i>Fantastique\, Avent
+ ure</i><br>United States of America<br>(English)<br><br><b>Réalisateur :<
+ /b> Gina Prince-Bythewood<br><b>Scénario :</b> Gina Prince-Bythewood\, To
+ mi Adeyemi<br><b>Photographie :</b> Polly Morgan<br><b>Production :</b> Te
+ mple Hill Entertainment\, Sunswept Entertainment\, Paramount Pictures<br><
+ br><b>Acteurs :</b><ul><li>Thuso Mbedu</li><li>Amandla Stenberg</li><li>Da
+ mson Idris</li><li>Tosin Cole</li><li>Viola Davis</li><li>Cynthia Erivo</l
+ i><li>Idris Elba</li><li>Lashana Lynch</li><li>Chiwetel Ejiofor</li><li>Re
+ gina King</li><li>Diaana Babnicova</li><li>Bukky Bakray</li></ul></td></tr
+ ></table><p>Une jeune femme\, Orisha\, assiste à la mort de sa mère et d
+ e magiciens connus sous le nom de maji. La jeune femme va devoir faire éq
+ uipe avec un voleur et éviter des esprits vengeurs et des &quot\;leoponai
+ res&quot\; afin de ramener la magie au sein de son pays.</p><p><small><a h
+ ref="https://www.themoviedb.org/movie/621304">Fiche TMDB</a><br><br>Donné
+ es fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/621304
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qxUPu92DF5Bo6jcCD
+ hnMTHFPEEc.jpg
+CATEGORIES:Fantastique,Aventure
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1454104@calendrier-cine-fr
 DTSTAMP:20270113T000000Z
 DTSTART;VALUE=DATE:20270113
@@ -5561,6 +6424,56 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie\,
 URL:https://www.themoviedb.org/movie/1454104
 TRANSP:TRANSPARENT
 CATEGORIES:Comédie,Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1391239@calendrier-cine-fr
+DTSTAMP:20270113T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:The Debut
+DESCRIPTION:https://image.tmdb.org/t/p/w780/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg
+ \n(4.0)\n𝟭𝗵𝟰𝟱\n\nMusique\, Comédie\, Drame\nUnited States of 
+ America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jesse
+  Eisenberg\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jesse Eisenberg\n𝗣𝗵
+ 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Drew Daniels\n𝗣𝗿𝗼𝗱
+ 𝘂𝗰𝘁𝗶𝗼𝗻 : Topic Studios\, Fruit Tree\, Rego Park\n\n𝗔
+ 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Julianne Moore\n- Paul Giamatti\n- Halle Bai
+ ley\n- Havana Rose Liu\n- Jesse Eisenberg\n- Cara Buono\n- Bernadette Pete
+ rs\n- Lilli Cooper\n- Colton Ryan\n- Maulik Pancholy\n- Eldar Isgandarov\n
+ - Bonnie Milligan\n\n\n(synopsis non encore traduit sur TMDB)\nWhen Mona F
+ riedman is cast in a bit part at a small community theater\, she transform
+ s from a shy\, unassuming housewife into a zealous method actor willing to
+  do anything to protect the artistic integrity of her marginal role—even
+  if it means waging war against the show’s domineering director.\n\n\nFi
+ che TMDB : https://www.themoviedb.org/movie/1391239\n\nDonnées fournies p
+ ar The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg" width="220" alt="Affi
+ che de The Debut"><br><small>(4.0)</small><br><small>1h45</small></td><td 
+ width="16"></td><td valign="top"><i>Musique\, Comédie\, Drame</i><br>Unit
+ ed States of America<br>(English)<br><br><b>Réalisateur :</b> Jesse Eisen
+ berg<br><b>Scénario :</b> Jesse Eisenberg<br><b>Photographie :</b> Drew D
+ aniels<br><b>Production :</b> Topic Studios\, Fruit Tree\, Rego Park<br><b
+ r><b>Acteurs :</b><ul><li>Julianne Moore</li><li>Paul Giamatti</li><li>Hal
+ le Bailey</li><li>Havana Rose Liu</li><li>Jesse Eisenberg</li><li>Cara Buo
+ no</li><li>Bernadette Peters</li><li>Lilli Cooper</li><li>Colton Ryan</li>
+ <li>Maulik Pancholy</li><li>Eldar Isgandarov</li><li>Bonnie Milligan</li><
+ /ul></td></tr></table><p><i>(synopsis non encore traduit sur TMDB)</i><br>
+ When Mona Friedman is cast in a bit part at a small community theater\, sh
+ e transforms from a shy\, unassuming housewife into a zealous method actor
+  willing to do anything to protect the artistic integrity of her marginal 
+ role—even if it means waging war against the show’s domineering direct
+ or.</p><p><small><a href="https://www.themoviedb.org/movie/1391239">Fiche 
+ TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small></p
+ ></body></html>
+URL:https://www.themoviedb.org/movie/1391239
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/5CZdxLiBpYMBXwo0r
+ ur6YzZTVP4.jpg
+CATEGORIES:Musique,Comédie,Drame
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1560399@calendrier-cine-fr
@@ -5683,6 +6596,62 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/u9SmhsOoAEZzGhCto
  9A618L1mRB.jpg
 CATEGORIES:Animation,Comédie
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1620313@calendrier-cine-fr
+DTSTAMP:20270127T000000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Le Château d’Arioka
+DESCRIPTION:https://image.tmdb.org/t/p/w780/q0CWp4udY4AxuxlmebuIRNT3lyW.jpg
+ \n(黒牢城 — Kokurojo)   (4.3)\n𝟮𝗵𝟮𝟳\n\nDrame\, Histoire\,
+  Mystère\nJapan\n(Japanese)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Kiyoshi Kurosawa\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Kiyoshi Kurosa
+ wa\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 佐々木靖之\n
+ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Shochiku\, TBS\, Shochiku Studi
+ o\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 本木雅弘\n- Masaki Suda\n- Yuri
+ ko Yoshitaka\n- Munetaka Aoki\n- 宮舘涼太\n- 柄本佑\n- オダギリ
+ ジョー\n- 中山裕介\n- 吉原光夫\n- 坂東龍汰\n- Yoshiyoshi Ar
+ akawa\n- Kiyohiko Shibukawa\n\n\nDans le Japon féodal\, le seigneur Muras
+ hige se retranche dans son château et y fait prisonnier son ennemi\, le s
+ tratège Kanbei\, qu’il décide d’épargner. Au fil des saisons\, des 
+ crimes inexpliqués viennent troubler l’ordre des lieux\; Murashige mèn
+ e l’enquête\, mais se heurte chaque fois à une pièce manquante que se
+ ul Kanbei\, depuis sa cellule\, semble capable de déchiffrer. Entre méfi
+ ance et emprise\, leur relation se transforme\, tandis que de nouveaux meu
+ rtres surviennent et que Murashige perd peu à peu le contrôle de ce qui 
+ se joue dans son propre château…\n\n\nFiche TMDB : https://www.themovie
+ db.org/movie/1620313\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/q0CWp4udY4AxuxlmebuIRNT3lyW.jpg" width="220" alt="Affi
+ che de Le Château d’Arioka"><br><small>(黒牢城 — Kokurojo)   (4.3)
+ </small><br><small>2h27</small></td><td width="16"></td><td valign="top"><
+ i>Drame\, Histoire\, Mystère</i><br>Japan<br>(Japanese)<br><br><b>Réalis
+ ateur :</b> Kiyoshi Kurosawa<br><b>Scénario :</b> Kiyoshi Kurosawa<br><b>
+ Photographie :</b> 佐々木靖之<br><b>Production :</b> Shochiku\, TBS\,
+  Shochiku Studio<br><br><b>Acteurs :</b><ul><li>本木雅弘</li><li>Masak
+ i Suda</li><li>Yuriko Yoshitaka</li><li>Munetaka Aoki</li><li>宮舘涼太
+ </li><li>柄本佑</li><li>オダギリジョー</li><li>中山裕介</li>
+ <li>吉原光夫</li><li>坂東龍汰</li><li>Yoshiyoshi Arakawa</li><li>K
+ iyohiko Shibukawa</li></ul></td></tr></table><p>Dans le Japon féodal\, le
+  seigneur Murashige se retranche dans son château et y fait prisonnier so
+ n ennemi\, le stratège Kanbei\, qu’il décide d’épargner. Au fil des
+  saisons\, des crimes inexpliqués viennent troubler l’ordre des lieux\;
+  Murashige mène l’enquête\, mais se heurte chaque fois à une pièce m
+ anquante que seul Kanbei\, depuis sa cellule\, semble capable de déchiffr
+ er. Entre méfiance et emprise\, leur relation se transforme\, tandis que 
+ de nouveaux meurtres surviennent et que Murashige perd peu à peu le contr
+ ôle de ce qui se joue dans son propre château…</p><p><small><a href="h
+ ttps://www.themoviedb.org/movie/1620313">Fiche TMDB</a><br><br>Données fo
+ urnies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1620313
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/q0CWp4udY4AxuxlmebuIRNT3lyW.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/q0CWp4udY4Axuxlme
+ buIRNT3lyW.jpg
+CATEGORIES:Drame,Histoire,Mystère
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1172597@calendrier-cine-fr
@@ -6398,6 +7367,63 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame</i><b
 URL:https://www.themoviedb.org/movie/1429585
 TRANSP:TRANSPARENT
 CATEGORIES:Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1718699@calendrier-cine-fr
+DTSTAMP:20270331T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Not Alone
+DESCRIPTION:https://image.tmdb.org/t/p/w780/9HqA8Hxwd7KNs6ttYqRbXtYHLpv.jpg
+ \n(3.8)\n\nAnimation\, Comédie\, Familial\, Romance\, Science-Fiction\nUn
+ ited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
+ 𝘂𝗿𝘀 : Eric Guillon\, Claire Dodgson\, Jonathan del Val\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Illumination\, Universal Pictures\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Timothée Chalamet\n- Selena Gomez\n- Ro
+ b Brydon\n- Diane Morgan\n- Jamie Demetriou\n- Brett Goldstein\n- Allison 
+ Janney\n- Lamorne Morris\n\n\nJoe est un mécanicien de fusées introverti
+ . Fran est une brillante astro-botaniste qui met au point la toute premiè
+ re fusée au monde alimentée par des plantes. Joe et Fran préparent ense
+ mble le lancement inaugural de cette fusée révolutionnaire\, l’étince
+ lle est immédiate entre eux\, mais aucun des deux n’est particulièreme
+ nt doué en matière de romance. Les choses se compliquent lorsque trois e
+ xtraterrestres — petits\, turbulents et adorables — trouvent refuge da
+ ns la maison de Joe. Dunk\, Welly et Shirm sont en fuite à travers l’es
+ pace\, poursuivis par Zandro\, un représentant de la loi. Les extraterres
+ tres comprennent rapidement que la fusée de Fran pourrait leur offrir le 
+ moyen de rentrer chez eux en toute sécurité.\n\n\nFiche TMDB : https://w
+ ww.themoviedb.org/movie/1718699\n\nDonnées fournies par The Movie Databas
+ e (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/9HqA8Hxwd7KNs6ttYqRbXtYHLpv.jpg" width="220" alt="Affi
+ che de Not Alone"><br><small>(3.8)</small></td><td width="16"></td><td val
+ ign="top"><i>Animation\, Comédie\, Familial\, Romance\, Science-Fiction</
+ i><br>United States of America<br>(English)<br><br><b>Réalisateurs :</b> 
+ Eric Guillon\, Claire Dodgson\, Jonathan del Val<br><b>Production :</b> Il
+ lumination\, Universal Pictures<br><br><b>Acteurs :</b><ul><li>Timothée C
+ halamet</li><li>Selena Gomez</li><li>Rob Brydon</li><li>Diane Morgan</li><
+ li>Jamie Demetriou</li><li>Brett Goldstein</li><li>Allison Janney</li><li>
+ Lamorne Morris</li></ul></td></tr></table><p>Joe est un mécanicien de fus
+ ées introverti. Fran est une brillante astro-botaniste qui met au point l
+ a toute première fusée au monde alimentée par des plantes. Joe et Fran 
+ préparent ensemble le lancement inaugural de cette fusée révolutionnair
+ e\, l’étincelle est immédiate entre eux\, mais aucun des deux n’est 
+ particulièrement doué en matière de romance. Les choses se compliquent 
+ lorsque trois extraterrestres — petits\, turbulents et adorables — tro
+ uvent refuge dans la maison de Joe. Dunk\, Welly et Shirm sont en fuite à
+  travers l’espace\, poursuivis par Zandro\, un représentant de la loi. 
+ Les extraterrestres comprennent rapidement que la fusée de Fran pourrait 
+ leur offrir le moyen de rentrer chez eux en toute sécurité.</p><p><small
+ ><a href="https://www.themoviedb.org/movie/1718699">Fiche TMDB</a><br><br>
+ Données fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1718699
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/9HqA8Hxwd7KNs6ttYqRbXtYHLpv.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9HqA8Hxwd7KNs6ttY
+ qRbXtYHLpv.jpg
+CATEGORIES:Animation,Comédie,Familial,Romance,Science-Fiction
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1693612@calendrier-cine-fr
