@@ -11,1032 +11,6 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:seance-80244770842@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T093000Z
-DTEND:20260816T114500Z
-SUMMARY:Tombé du ciel (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg
- \n(Tombé du ciel)   (4.4)\n\nComédie\, Familial\nFrance\n(French)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Mohamed Hamidi\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Mohamed Hamidi\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Pierre-Hugues Galien\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Kissfilms\, SND\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Ilyes 
- Djadel\n- Jamel Debbouze\n- Josiane Balasko\n- Fred Testot\n- Ted Etienne\
- n- Ludovic Berthillot\n- Laurence Porteil\n- Michel Bompoil\n- Brice Fourn
- ier\n- Jade Pedri\n- Antoine Duléry\n- Max Baissette de Malglaive\n\n\nIl
- yès mène une vie joyeuse dans la banlieue de Roubaix. Seul problème : l
- e bac. Après avoir échoué deux fois\, c’est sa dernière chance de l
- ’avoir et de rendre enfin fier ses parents. Mais un incendie survient pe
- ndant le bac blanc\, et on l’accuse d’en être à l’origine… Exclu
-  de son lycée\, il doit quitter son quartier et aller dans le seul établ
- issement qui l’accepte : le pensionnat catholique de Saint-Albert-le-Gra
- nd\, en Bourgogne. Entre choc des cultures et quête de rédemption\, Ily
- ès va devoir surmonter ses préjugés… Et ceux des autres.\n\n\nFiche T
- MDB : https://www.themoviedb.org/movie/1564831\n\nDonnées fournies par Th
- e Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg" width="220" alt="Affi
- che de Tombé du ciel (VF)"><br><small>(Tombé du ciel)   (4.4)</small></t
- d><td width="16"></td><td valign="top"><i>Comédie\, Familial</i><br>Franc
- e<br>(French)<br><br><b>Réalisateur :</b> Mohamed Hamidi<br><b>Scénario 
- :</b> Mohamed Hamidi<br><b>Photographie :</b> Pierre-Hugues Galien<br><b>P
- roduction :</b> Kissfilms\, SND<br><br><b>Acteurs :</b><ul><li>Ilyes Djade
- l</li><li>Jamel Debbouze</li><li>Josiane Balasko</li><li>Fred Testot</li><
- li>Ted Etienne</li><li>Ludovic Berthillot</li><li>Laurence Porteil</li><li
- >Michel Bompoil</li><li>Brice Fournier</li><li>Jade Pedri</li><li>Antoine 
- Duléry</li><li>Max Baissette de Malglaive</li></ul></td></tr></table><p>I
- lyès mène une vie joyeuse dans la banlieue de Roubaix. Seul problème : 
- le bac. Après avoir échoué deux fois\, c’est sa dernière chance de l
- ’avoir et de rendre enfin fier ses parents. Mais un incendie survient pe
- ndant le bac blanc\, et on l’accuse d’en être à l’origine… Exclu
-  de son lycée\, il doit quitter son quartier et aller dans le seul établ
- issement qui l’accepte : le pensionnat catholique de Saint-Albert-le-Gra
- nd\, en Bourgogne. Entre choc des cultures et quête de rédemption\, Ily
- ès va devoir surmonter ses préjugés… Et ceux des autres.</p><p><small
- ><a href="https://www.themoviedb.org/movie/1564831">Fiche TMDB</a><br><br>
- Données fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1564831
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
- GZvCPDHPc0.jpg
-CATEGORIES:Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770990@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T093000Z
-DTEND:20260816T121500Z
-SUMMARY:Spider-Man : Brand New Day (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)   (1407.5)\n𝟮𝗵𝟯𝟬\n\nScience-Fict
- ion\, Action\, Aventure\nUnited States of America\n(English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Destin Daniel Cretton\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Erik Sommers\, Chris McKenna\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Brett Pawlak\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Marvel Studios\, Columbia Pictures\, Pascal Pictures\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tom Holland\n- Zendaya\n- Mark Ruffalo\n
- - Jon Bernthal\n- Jacob Batalon\n- Sadie Sink\n- Florence Pugh\n- Liza Col
- ón-Zayas\n- Tramell Tillman\n- Marisa Tomei\n- Naomi Watts\n- Michael Man
- do\n\n\nQuatre ans se sont écoulés\, Peter\, désormais adulte\, vit seu
- l\, s'est volontairement effacé de la vie et des souvenirs de ses proches
- . Luttant contre le crime dans un New York qui ne le reconnaît plus\, il 
- se consacre entièrement à la protection de la ville - un Spider-Man à p
- lein temps - mais à mesure que les responsabilités s'intensifient\, la p
- ression provoque une transformation physique surprenante qui menace son ex
- istence\, tandis qu'une étrange nouvelle vague de crimes donne naissance 
- à l'une des menaces les plus redoutables qu'il ait jamais affrontées.\n\
- n\nFiche TMDB : https://www.themoviedb.org/movie/969681\n\nDonnées fourni
- es par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VOST English)"><br><small>(Spider-Man: 
- Brand New Day)   (1407.5)</small><br><small>2h30</small></td><td width="16
- "></td><td valign="top"><i>Science-Fiction\, Action\, Aventure</i><br>Unit
- ed States of America<br>(English)<br><br><b>Réalisateur :</b> Destin Dani
- el Cretton<br><b>Scénario :</b> Erik Sommers\, Chris McKenna<br><b>Photog
- raphie :</b> Brett Pawlak<br><b>Production :</b> Marvel Studios\, Columbia
-  Pictures\, Pascal Pictures<br><br><b>Acteurs :</b><ul><li>Tom Holland</li
- ><li>Zendaya</li><li>Mark Ruffalo</li><li>Jon Bernthal</li><li>Jacob Batal
- on</li><li>Sadie Sink</li><li>Florence Pugh</li><li>Liza Colón-Zayas</li>
- <li>Tramell Tillman</li><li>Marisa Tomei</li><li>Naomi Watts</li><li>Micha
- el Mando</li></ul></td></tr></table><p>Quatre ans se sont écoulés\, Pete
- r\, désormais adulte\, vit seul\, s'est volontairement effacé de la vie 
- et des souvenirs de ses proches. Luttant contre le crime dans un New York 
- qui ne le reconnaît plus\, il se consacre entièrement à la protection d
- e la ville - un Spider-Man à plein temps - mais à mesure que les respons
- abilités s'intensifient\, la pression provoque une transformation physiqu
- e surprenante qui menace son existence\, tandis qu'une étrange nouvelle v
- ague de crimes donne naissance à l'une des menaces les plus redoutables q
- u'il ait jamais affrontées.</p><p><small><a href="https://www.themoviedb.
- org/movie/969681">Fiche TMDB</a><br><br>Données fournies par The Movie Da
- tabase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770493@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T093000Z
-DTEND:20260816T111400Z
-SUMMARY:Kyma\, l'onde mystérieuse (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/zivl8VZfE8rNthfAsrrc03pspkb.jpg
- \n(Kyma\, l'onde mystérieuse)   (2.0)\n𝟭𝗵𝟮𝟵\n\nFantastique\, 
- Aventure\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
-  : Romain Daudet-Jahan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Romain Daudet-J
- ahan\, Émilie Dubois\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 
- Thomas Rames\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Parasomnia Produc
- tions\, Moana Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Jules Lefebvre\n-
-  Lucie Loste Berset\n- Mamadou Haïdara\n- Patrick d'Assumçao\n- Ève Dur
- anceau\n- Stéphan Guérin-Tillié\n- Quentin D'Hainaut\n- Yoann Blanc\n- 
- Damien Jouillerot\n- Virgile Daudet\n\n\nTony\, adolescent solitaire passi
- onné par les animaux\, voit son existence bouleversée lorsqu’il rencon
- tre dans son petit village une créature mystérieuse : la Kyma\, onde son
- ore vivante capable de briser la matière. Tony l’apprivoise\, sans réa
- liser le danger qu’elle représente.\n\n\nFiche TMDB : https://www.themo
- viedb.org/movie/1365362\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/zivl8VZfE8rNthfAsrrc03pspkb.jpg" width="220" alt="Affi
- che de Kyma\, l'onde mystérieuse (VF)"><br><small>(Kyma\, l'onde mystéri
- euse)   (2.0)</small><br><small>1h29</small></td><td width="16"></td><td v
- align="top"><i>Fantastique\, Aventure</i><br>France<br>(French)<br><br><b>
- Réalisateur :</b> Romain Daudet-Jahan<br><b>Scénario :</b> Romain Daudet
- -Jahan\, Émilie Dubois<br><b>Photographie :</b> Thomas Rames<br><b>Produc
- tion :</b> Parasomnia Productions\, Moana Films<br><br><b>Acteurs :</b><ul
- ><li>Jules Lefebvre</li><li>Lucie Loste Berset</li><li>Mamadou Haïdara</l
- i><li>Patrick d'Assumçao</li><li>Ève Duranceau</li><li>Stéphan Guérin-
- Tillié</li><li>Quentin D'Hainaut</li><li>Yoann Blanc</li><li>Damien Jouil
- lerot</li><li>Virgile Daudet</li></ul></td></tr></table><p>Tony\, adolesce
- nt solitaire passionné par les animaux\, voit son existence bouleversée 
- lorsqu’il rencontre dans son petit village une créature mystérieuse : 
- la Kyma\, onde sonore vivante capable de briser la matière. Tony l’appr
- ivoise\, sans réaliser le danger qu’elle représente.</p><p><small><a h
- ref="https://www.themoviedb.org/movie/1365362">Fiche TMDB</a><br><br>Donn
- ées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1365362
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/zivl8VZfE8rNthfAsrrc03pspkb.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zivl8VZfE8rNthfAs
- rrc03pspkb.jpg
-CATEGORIES:Fantastique,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244771053@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T110000Z
-DTEND:20260816T124100Z
-SUMMARY:Les Gendarmes (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
- \n(Les Gendarmes)   (2.6)\n𝟭𝗵𝟮𝟲\n\nComédie\nFrance\n(French)\
- n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : François Prévôt-L
- eygonie\, Stéphan Archinard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : François
-  Prévôt-Leygonie\, Stéphan Archinard\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
- 𝗽𝗵𝗶𝗲 : Laurent Dailland\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : Bamboo Films\, Studio TF1\, TF1 Films Production\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Arnaud Ducret\n- Alice David\n- Julien Arruti\n- Fre
- d Testot\n- Marc Riso\n- Sofia Belabbes\n- Thomas Gioria\n- Margot Heckman
- n\n- Henri Guybet\n- Marion Mezadorian\n- Frédéric Bouraly\n- Clémentin
- e Verdier\n\n\nToute la brigade de gendarmerie de Charnay-Lès-Mâcon (71)
-  se prépare à l’annuelle Grande Fête des Jardins.  Mais l’arrivée 
- d’un jeune stagiaire désinvolte débarqué tout droit de la capitale et
-  de deux voleurs de nains de jardin va venir bouleverser leur organisation
-  bien huilée…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/147228
- 7\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg" width="220" alt="Affi
- che de Les Gendarmes (VF)"><br><small>(Les Gendarmes)   (2.6)</small><br><
- small>1h26</small></td><td width="16"></td><td valign="top"><i>Comédie</i
- ><br>France<br>(French)<br><br><b>Réalisateurs :</b> François Prévôt-L
- eygonie\, Stéphan Archinard<br><b>Scénario :</b> François Prévôt-Leyg
- onie\, Stéphan Archinard<br><b>Photographie :</b> Laurent Dailland<br><b>
- Production :</b> Bamboo Films\, Studio TF1\, TF1 Films Production<br><br><
- b>Acteurs :</b><ul><li>Arnaud Ducret</li><li>Alice David</li><li>Julien Ar
- ruti</li><li>Fred Testot</li><li>Marc Riso</li><li>Sofia Belabbes</li><li>
- Thomas Gioria</li><li>Margot Heckmann</li><li>Henri Guybet</li><li>Marion 
- Mezadorian</li><li>Frédéric Bouraly</li><li>Clémentine Verdier</li></ul
- ></td></tr></table><p>Toute la brigade de gendarmerie de Charnay-Lès-Mâc
- on (71) se prépare à l’annuelle Grande Fête des Jardins.  Mais l’ar
- rivée d’un jeune stagiaire désinvolte débarqué tout droit de la capi
- tale et de deux voleurs de nains de jardin va venir bouleverser leur organ
- isation bien huilée…</p><p><small><a href="https://www.themoviedb.org/m
- ovie/1472287">Fiche TMDB</a><br><br>Données fournies par The Movie Databa
- se (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1472287
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA
- 68j1M8ZDJj.jpg
-CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770928@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T110000Z
-DTEND:20260816T130300Z
-SUMMARY:Obsession (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
- \n(Obsession)   (248.4)\n𝟭𝗵𝟰𝟴\n\nHorreur\, Thriller\nUnited St
- ates of America\, United Kingdom\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿 : Curry Barker\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Cu
- rry Barker\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Taylor Clem
- ons\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Tea Shop Productions\, Und
- er the Shell\, Capstone Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mich
- ael Johnston\n- Inde Navarrette\n- Cooper Tomlinson\n- Megan Lawless\n- An
- dy Richter\n- Haley Fitzgerald\n- Darin Toonder\n- Anthony Pavone\n- Justi
- ce\n- Anthony Casabianca\n- Chloe Breen\n- Malcolm Kelner\n\n\nEt si vous 
- pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la mai
- n sur un objet magique capable d’exaucer n’importe quel souhait. Son c
- rush de toujours tombe alors raide dingue de lui… jusqu’à l’obsessi
- on la plus totale. Faites attention à ce que vous souhaitez !\n\n\nFiche 
- TMDB : https://www.themoviedb.org/movie/1339713\n\nDonnées fournies par T
- he Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg" width="220" alt="Affi
- che de Obsession (VF)"><br><small>(Obsession)   (248.4)</small><br><small>
- 1h48</small></td><td width="16"></td><td valign="top"><i>Horreur\, Thrille
- r</i><br>United States of America\, United Kingdom<br>(English)<br><br><b>
- Réalisateur :</b> Curry Barker<br><b>Scénario :</b> Curry Barker<br><b>P
- hotographie :</b> Taylor Clemons<br><b>Production :</b> Tea Shop Productio
- ns\, Under the Shell\, Capstone Pictures<br><br><b>Acteurs :</b><ul><li>Mi
- chael Johnston</li><li>Inde Navarrette</li><li>Cooper Tomlinson</li><li>Me
- gan Lawless</li><li>Andy Richter</li><li>Haley Fitzgerald</li><li>Darin To
- onder</li><li>Anthony Pavone</li><li>Justice</li><li>Anthony Casabianca</l
- i><li>Chloe Breen</li><li>Malcolm Kelner</li></ul></td></tr></table><p>Et 
- si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti me
- t la main sur un objet magique capable d’exaucer n’importe quel souhai
- t. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l
- ’obsession la plus totale. Faites attention à ce que vous souhaitez !</
- p><p><small><a href="https://www.themoviedb.org/movie/1339713">Fiche TMDB<
- /a><br><br>Données fournies par The Movie Database (TMDB)</small></p></bo
- dy></html>
-URL:https://www.themoviedb.org/movie/1339713
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksu
- M440VLb7X9.jpg
-CATEGORIES:Horreur,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80324703114@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T111000Z
-DTEND:20260816T125500Z
-SUMMARY:‎Des Minions et des Monstres (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg\
- n(Minions & Monsters)   (329.1)\n𝟭𝗵𝟯𝟬\n\nAventure\, Animation\
- , Comédie\, Familial\, Fantastique\nUnited States of America\n(English\, 
- Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre Coffin\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Brian Lynch\, Pierre Coffin\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Universal Pictures\, Illumination\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Pierre Coffin\n- Trey Parker\n- Christop
- h Waltz\n- Allison Janney\n- Jesse Eisenberg\n- Jeff Bridges\n- Zoey Deutc
- h\n- Bobby Moynihan\n- Phil LaMarr\n- George Lucas\n- Barbara Eve Harris\n
- - Eric Bauza\n\n\nVoici l'histoire mouvementée\, déjantée et complètem
- ent véridique des Minions à Hollywood : devenus vedettes de cinéma\, il
- s perdent tout\, libèrent des monstres et font équipe pour sauver la pla
- nète du chaos qu'ils ont créé.\n\n\nFiche TMDB : https://www.themoviedb
- .org/movie/1315772\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg" width="220" alt="Affic
- he de ‎Des Minions et des Monstres (VF)"><br><small>(Minions &amp\; Mons
- ters)   (329.1)</small><br><small>1h30</small></td><td width="16"></td><td
-  valign="top"><i>Aventure\, Animation\, Comédie\, Familial\, Fantastique<
- /i><br>United States of America<br>(English\, Spanish)<br><br><b>Réalisat
- eur :</b> Pierre Coffin<br><b>Scénario :</b> Brian Lynch\, Pierre Coffin<
- br><b>Production :</b> Universal Pictures\, Illumination<br><br><b>Acteurs
-  :</b><ul><li>Pierre Coffin</li><li>Trey Parker</li><li>Christoph Waltz</l
- i><li>Allison Janney</li><li>Jesse Eisenberg</li><li>Jeff Bridges</li><li>
- Zoey Deutch</li><li>Bobby Moynihan</li><li>Phil LaMarr</li><li>George Luca
- s</li><li>Barbara Eve Harris</li><li>Eric Bauza</li></ul></td></tr></table
- ><p>Voici l'histoire mouvementée\, déjantée et complètement véridique
-  des Minions à Hollywood : devenus vedettes de cinéma\, ils perdent tout
- \, libèrent des monstres et font équipe pour sauver la planète du chaos
-  qu'ils ont créé.</p><p><small><a href="https://www.themoviedb.org/movie
- /1315772">Fiche TMDB</a><br><br>Données fournies par The Movie Database (
- TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1315772
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
- TKEU8mxvc.jpg
-CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770592@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T111500Z
-DTEND:20260816T130900Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\nScience-Fiction\,
-  Mystère\, Thriller\nUnited States of America\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
- 𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- Christian 
- Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Bethany Ann
- e Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Gee Byrd\n-
-  Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement cosmique
-  arrache Oak Street à sa paisible banlieue et la transporte vers un lieu 
- inconnu\, la famille Platt\, désorientée dans ce nouvel environnement ho
- stile\, comprend vite qu’il leur faudra rester unis pour survivre.\n\n\n
- Fiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées fournies
-  par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
- .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
- "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
- <br>(English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Sc
- énario :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulaki
- s<br><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Ba
- d Robot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor
- </li><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis
- </li><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li
- >Denitra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-C
- hristian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux évé
- nement cosmique arrache Oak Street à sa paisible banlieue et la transport
- e vers un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel e
- nvironnement hostile\, comprend vite qu’il leur faudra rester unis pour 
- survivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">
- Fiche TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</sma
- ll></p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80324703111@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T111500Z
-DTEND:20260816T125800Z
-SUMMARY:La Pat’ Patrouille : Le film mission Dino (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
- \n(PAW Patrol: The Dino Movie)   (41.2)\n𝟭𝗵𝟮𝟴\n\nAnimation\, A
- venture\, Familial\, Fantastique\, Comédie\nCanada\n(English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Cal Brunker\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Cal Brunker\, Bob Barlen\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : Spin Master\, Nickelodeon Movies\, Paramount Animation\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Carter Young\n- Mckenna Grace\n- Terry Crews
- \n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chemberlen
- \n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- Paris 
- Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\, la P
- at’ Patrouille s’échoue sur une île tropicale encore inexplorée… 
- et peuplée de dinosaures ! Ils y rencontrent Rex\, un chiot courageux ins
- tallé sur l’île depuis des années et devenu un véritable expert des 
- dinosaures. Mais leur ennemi de toujours\, M. Hellinger\, arrive lui aussi
-  sur l’île avec un projet dangereux : exploiter ses richesses naturelle
- s en creusant des mines. Ses actions imprudentes déclenchent bientôt l
- ’éruption d’un gigantesque volcan endormi. La Pat’ Patrouille se re
- trouve alors entraînée dans une série de missions de sauvetage spectacu
- laires\, plus impressionnantes que tout ce qu’elle a connu jusqu’ici. 
- Elle devra arrêter M. Hellinger et sauver l’île avant qu’il ne soit 
- trop tard.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1185806\n\nD
- onnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg" width="220" alt="Affi
- che de La Pat’ Patrouille : Le film mission Dino (VF)"><br><small>(PAW P
- atrol: The Dino Movie)   (41.2)</small><br><small>1h28</small></td><td wid
- th="16"></td><td valign="top"><i>Animation\, Aventure\, Familial\, Fantast
- ique\, Comédie</i><br>Canada<br>(English)<br><br><b>Réalisateur :</b> Ca
- l Brunker<br><b>Scénario :</b> Cal Brunker\, Bob Barlen<br><b>Production 
- :</b> Spin Master\, Nickelodeon Movies\, Paramount Animation<br><br><b>Act
- eurs :</b><ul><li>Carter Young</li><li>Mckenna Grace</li><li>Terry Crews</
- li><li>Meredith MacNeill</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li
- >Hayden Chemberlen</li><li>Fortune Feimster</li><li>Jameela Jamil</li><li>
- Rain Janjua</li><li>Bill Nye</li><li>Paris Hilton</li></ul></td></tr></tab
- le><p>Lorsqu’une mystérieuse tempête surprend leur navire\, la Pat’ 
- Patrouille s’échoue sur une île tropicale encore inexplorée… et peu
- plée de dinosaures ! Ils y rencontrent Rex\, un chiot courageux installé
-  sur l’île depuis des années et devenu un véritable expert des dinosa
- ures. Mais leur ennemi de toujours\, M. Hellinger\, arrive lui aussi sur l
- ’île avec un projet dangereux : exploiter ses richesses naturelles en c
- reusant des mines. Ses actions imprudentes déclenchent bientôt l’érup
- tion d’un gigantesque volcan endormi. La Pat’ Patrouille se retrouve a
- lors entraînée dans une série de missions de sauvetage spectaculaires\,
-  plus impressionnantes que tout ce qu’elle a connu jusqu’ici. Elle dev
- ra arrêter M. Hellinger et sauver l’île avant qu’il ne soit trop tar
- d.</p><p><small><a href="https://www.themoviedb.org/movie/1185806">Fiche T
- MDB</a><br><br>Données fournies par The Movie Database (TMDB)</small></p>
- </body></html>
-URL:https://www.themoviedb.org/movie/1185806
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPu
- rtB7Zcq6ph.jpg
-CATEGORIES:Animation,Aventure,Familial,Fantastique,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244771062@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T112000Z
-DTEND:20260816T131700Z
-SUMMARY:Toy Story 5 (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg
- \n(Toy Story 5)   (247.6)\n𝟭𝗵𝟰𝟮\n\nAnimation\, Familial\, Com
- édie\, Aventure\nUnited States of America\n(English\, Portuguese\, Spanis
- h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Andrew Stanton\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Andrew Stanton\, Kenna Harris\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Matt Aspbury\, Jean-Claude Kalache\
- n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n𝗔𝗰𝘁𝗲𝘂
- 𝗿𝘀 :\n- Tom Hanks\n- Tim Allen\n- Joan Cusack\n- Conan O'Brien\n- Sc
- arlett Spears\n- Greta Lee\n- Shelby Rabara\n- Mykal-Michelle Harris\n- Cr
- aig Robinson\n- Jay Hernandez\n- Lori Alan\n- Bonnie Hunt\n\n\nBuzz\, Wood
- y\, Jessie et le reste de la bande verront leur travail remis en question 
- lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’
- appelle… l'électronique !\n\n\nFiche TMDB : https://www.themoviedb.org/
- movie/1084244\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg" width="220" alt="Affi
- che de Toy Story 5 (VF)"><br><small>(Toy Story 5)   (247.6)</small><br><sm
- all>1h42</small></td><td width="16"></td><td valign="top"><i>Animation\, F
- amilial\, Comédie\, Aventure</i><br>United States of America<br>(English\
- , Portuguese\, Spanish)<br><br><b>Réalisateur :</b> Andrew Stanton<br><b>
- Scénario :</b> Andrew Stanton\, Kenna Harris<br><b>Photographie :</b> Mat
- t Aspbury\, Jean-Claude Kalache<br><b>Production :</b> Pixar<br><br><b>Act
- eurs :</b><ul><li>Tom Hanks</li><li>Tim Allen</li><li>Joan Cusack</li><li>
- Conan O'Brien</li><li>Scarlett Spears</li><li>Greta Lee</li><li>Shelby Rab
- ara</li><li>Mykal-Michelle Harris</li><li>Craig Robinson</li><li>Jay Herna
- ndez</li><li>Lori Alan</li><li>Bonnie Hunt</li></ul></td></tr></table><p>B
- uzz\, Woody\, Jessie et le reste de la bande verront leur travail remis en
-  question lorsqu'ils découvriront que ce qui obsède les enfants d'aujour
- d'hui s’appelle… l'électronique !</p><p><small><a href="https://www.t
- hemoviedb.org/movie/1084244">Fiche TMDB</a><br><br>Données fournies par T
- he Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1084244
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZm
- IsSNmXzidU.jpg
-CATEGORIES:Animation,Familial,Comédie,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80324703112@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T113000Z
-DTEND:20260816T134500Z
-SUMMARY:Tombé du ciel (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg
- \n(Tombé du ciel)   (4.4)\n\nComédie\, Familial\nFrance\n(French)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Mohamed Hamidi\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Mohamed Hamidi\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Pierre-Hugues Galien\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Kissfilms\, SND\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Ilyes 
- Djadel\n- Jamel Debbouze\n- Josiane Balasko\n- Fred Testot\n- Ted Etienne\
- n- Ludovic Berthillot\n- Laurence Porteil\n- Michel Bompoil\n- Brice Fourn
- ier\n- Jade Pedri\n- Antoine Duléry\n- Max Baissette de Malglaive\n\n\nIl
- yès mène une vie joyeuse dans la banlieue de Roubaix. Seul problème : l
- e bac. Après avoir échoué deux fois\, c’est sa dernière chance de l
- ’avoir et de rendre enfin fier ses parents. Mais un incendie survient pe
- ndant le bac blanc\, et on l’accuse d’en être à l’origine… Exclu
-  de son lycée\, il doit quitter son quartier et aller dans le seul établ
- issement qui l’accepte : le pensionnat catholique de Saint-Albert-le-Gra
- nd\, en Bourgogne. Entre choc des cultures et quête de rédemption\, Ily
- ès va devoir surmonter ses préjugés… Et ceux des autres.\n\n\nFiche T
- MDB : https://www.themoviedb.org/movie/1564831\n\nDonnées fournies par Th
- e Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg" width="220" alt="Affi
- che de Tombé du ciel (VF)"><br><small>(Tombé du ciel)   (4.4)</small></t
- d><td width="16"></td><td valign="top"><i>Comédie\, Familial</i><br>Franc
- e<br>(French)<br><br><b>Réalisateur :</b> Mohamed Hamidi<br><b>Scénario 
- :</b> Mohamed Hamidi<br><b>Photographie :</b> Pierre-Hugues Galien<br><b>P
- roduction :</b> Kissfilms\, SND<br><br><b>Acteurs :</b><ul><li>Ilyes Djade
- l</li><li>Jamel Debbouze</li><li>Josiane Balasko</li><li>Fred Testot</li><
- li>Ted Etienne</li><li>Ludovic Berthillot</li><li>Laurence Porteil</li><li
- >Michel Bompoil</li><li>Brice Fournier</li><li>Jade Pedri</li><li>Antoine 
- Duléry</li><li>Max Baissette de Malglaive</li></ul></td></tr></table><p>I
- lyès mène une vie joyeuse dans la banlieue de Roubaix. Seul problème : 
- le bac. Après avoir échoué deux fois\, c’est sa dernière chance de l
- ’avoir et de rendre enfin fier ses parents. Mais un incendie survient pe
- ndant le bac blanc\, et on l’accuse d’en être à l’origine… Exclu
-  de son lycée\, il doit quitter son quartier et aller dans le seul établ
- issement qui l’accepte : le pensionnat catholique de Saint-Albert-le-Gra
- nd\, en Bourgogne. Entre choc des cultures et quête de rédemption\, Ily
- ès va devoir surmonter ses préjugés… Et ceux des autres.</p><p><small
- ><a href="https://www.themoviedb.org/movie/1564831">Fiche TMDB</a><br><br>
- Données fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1564831
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
- GZvCPDHPc0.jpg
-CATEGORIES:Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770904@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T113000Z
-DTEND:20260816T141500Z
-SUMMARY:Spider-Man : Brand New Day (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)   (1407.5)\n𝟮𝗵𝟯𝟬\n\nScience-Fict
- ion\, Action\, Aventure\nUnited States of America\n(English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Destin Daniel Cretton\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Erik Sommers\, Chris McKenna\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Brett Pawlak\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Marvel Studios\, Columbia Pictures\, Pascal Pictures\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tom Holland\n- Zendaya\n- Mark Ruffalo\n
- - Jon Bernthal\n- Jacob Batalon\n- Sadie Sink\n- Florence Pugh\n- Liza Col
- ón-Zayas\n- Tramell Tillman\n- Marisa Tomei\n- Naomi Watts\n- Michael Man
- do\n\n\nQuatre ans se sont écoulés\, Peter\, désormais adulte\, vit seu
- l\, s'est volontairement effacé de la vie et des souvenirs de ses proches
- . Luttant contre le crime dans un New York qui ne le reconnaît plus\, il 
- se consacre entièrement à la protection de la ville - un Spider-Man à p
- lein temps - mais à mesure que les responsabilités s'intensifient\, la p
- ression provoque une transformation physique surprenante qui menace son ex
- istence\, tandis qu'une étrange nouvelle vague de crimes donne naissance 
- à l'une des menaces les plus redoutables qu'il ait jamais affrontées.\n\
- n\nFiche TMDB : https://www.themoviedb.org/movie/969681\n\nDonnées fourni
- es par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VF)"><br><small>(Spider-Man: Brand New 
- Day)   (1407.5)</small><br><small>2h30</small></td><td width="16"></td><td
-  valign="top"><i>Science-Fiction\, Action\, Aventure</i><br>United States 
- of America<br>(English)<br><br><b>Réalisateur :</b> Destin Daniel Cretton
- <br><b>Scénario :</b> Erik Sommers\, Chris McKenna<br><b>Photographie :</
- b> Brett Pawlak<br><b>Production :</b> Marvel Studios\, Columbia Pictures\
- , Pascal Pictures<br><br><b>Acteurs :</b><ul><li>Tom Holland</li><li>Zenda
- ya</li><li>Mark Ruffalo</li><li>Jon Bernthal</li><li>Jacob Batalon</li><li
- >Sadie Sink</li><li>Florence Pugh</li><li>Liza Colón-Zayas</li><li>Tramel
- l Tillman</li><li>Marisa Tomei</li><li>Naomi Watts</li><li>Michael Mando</
- li></ul></td></tr></table><p>Quatre ans se sont écoulés\, Peter\, désor
- mais adulte\, vit seul\, s'est volontairement effacé de la vie et des sou
- venirs de ses proches. Luttant contre le crime dans un New York qui ne le 
- reconnaît plus\, il se consacre entièrement à la protection de la ville
-  - un Spider-Man à plein temps - mais à mesure que les responsabilités 
- s'intensifient\, la pression provoque une transformation physique surprena
- nte qui menace son existence\, tandis qu'une étrange nouvelle vague de cr
- imes donne naissance à l'une des menaces les plus redoutables qu'il ait j
- amais affrontées.</p><p><small><a href="https://www.themoviedb.org/movie/
- 969681">Fiche TMDB</a><br><br>Données fournies par The Movie Database (TM
- DB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770677@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T113000Z
-DTEND:20260816T134000Z
-SUMMARY:Vaiana\, la légende du bout du monde (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg
- \n(Moana)   (194.0)\n𝟭𝗵𝟱𝟱\n\nFamilial\, Fantastique\, Comédie
- \, Aventure\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿 : Thomas Kail\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 :
-  Jared Bush\, Dana Ledoux Miller\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
- 𝗶𝗲 : Óscar Faura\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Walt D
- isney Pictures\, Seven Bucks Productions\, Flynn Picture Company\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Catherine Lagaʻaia\n- Dwayne Johnson\n- Ren
- a Owen\n- John Tui\n- Frankie Adams\n- Jemaine Clement\n- Emma Puahi-Shapa
- zian\n- Amaya Masoli\n- Sam Puefua\n- Sione Milford\n- Kapeneta Te'o-Tafit
- i\n- Eric Scanlan\n\n\nDans l'ancienne Polynésie\, lorsqu'une terrible ma
- lédiction lancée par Maui atteint l'île d'un chef impétueux\, sa fille
-  obstinée répond à l'appel de l'océan et part à la recherche du demi-
- dieu pour rétablir la situation. Live-Action du film Vaiana\, la Légende
-  du bout du monde de Disney en 2016.\n\n\nFiche TMDB : https://www.themovi
- edb.org/movie/1108427\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg" width="220" alt="Affi
- che de Vaiana\, la légende du bout du monde (VF)"><br><small>(Moana)   (1
- 94.0)</small><br><small>1h55</small></td><td width="16"></td><td valign="t
- op"><i>Familial\, Fantastique\, Comédie\, Aventure</i><br>United States o
- f America<br>(English)<br><br><b>Réalisateur :</b> Thomas Kail<br><b>Scé
- nario :</b> Jared Bush\, Dana Ledoux Miller<br><b>Photographie :</b> Ósca
- r Faura<br><b>Production :</b> Walt Disney Pictures\, Seven Bucks Producti
- ons\, Flynn Picture Company<br><br><b>Acteurs :</b><ul><li>Catherine Laga
- ʻaia</li><li>Dwayne Johnson</li><li>Rena Owen</li><li>John Tui</li><li>Fr
- ankie Adams</li><li>Jemaine Clement</li><li>Emma Puahi-Shapazian</li><li>A
- maya Masoli</li><li>Sam Puefua</li><li>Sione Milford</li><li>Kapeneta Te'o
- -Tafiti</li><li>Eric Scanlan</li></ul></td></tr></table><p>Dans l'ancienne
-  Polynésie\, lorsqu'une terrible malédiction lancée par Maui atteint l'
- île d'un chef impétueux\, sa fille obstinée répond à l'appel de l'oc
- éan et part à la recherche du demi-dieu pour rétablir la situation. Liv
- e-Action du film Vaiana\, la Légende du bout du monde de Disney en 2016.<
- /p><p><small><a href="https://www.themoviedb.org/movie/1108427">Fiche TMDB
- </a><br><br>Données fournies par The Movie Database (TMDB)</small></p></b
- ody></html>
-URL:https://www.themoviedb.org/movie/1108427
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBl
- zGLyShO6sc.jpg
-CATEGORIES:Familial,Fantastique,Comédie,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770939@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T114500Z
-DTEND:20260816T143000Z
-SUMMARY:Spider-Man : Brand New Day (VF · 4DX 3D · Salle premium)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)   (1407.5)\n𝟮𝗵𝟯𝟬\n\nScience-Fict
- ion\, Action\, Aventure\nUnited States of America\n(English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Destin Daniel Cretton\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Erik Sommers\, Chris McKenna\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Brett Pawlak\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Marvel Studios\, Columbia Pictures\, Pascal Pictures\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tom Holland\n- Zendaya\n- Mark Ruffalo\n
- - Jon Bernthal\n- Jacob Batalon\n- Sadie Sink\n- Florence Pugh\n- Liza Col
- ón-Zayas\n- Tramell Tillman\n- Marisa Tomei\n- Naomi Watts\n- Michael Man
- do\n\n\nQuatre ans se sont écoulés\, Peter\, désormais adulte\, vit seu
- l\, s'est volontairement effacé de la vie et des souvenirs de ses proches
- . Luttant contre le crime dans un New York qui ne le reconnaît plus\, il 
- se consacre entièrement à la protection de la ville - un Spider-Man à p
- lein temps - mais à mesure que les responsabilités s'intensifient\, la p
- ression provoque une transformation physique surprenante qui menace son ex
- istence\, tandis qu'une étrange nouvelle vague de crimes donne naissance 
- à l'une des menaces les plus redoutables qu'il ait jamais affrontées.\n\
- n\nFiche TMDB : https://www.themoviedb.org/movie/969681\n\nDonnées fourni
- es par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VF · 4DX 3D · Salle premium)"><br><sm
- all>(Spider-Man: Brand New Day)   (1407.5)</small><br><small>2h30</small><
- /td><td width="16"></td><td valign="top"><i>Science-Fiction\, Action\, Ave
- nture</i><br>United States of America<br>(English)<br><br><b>Réalisateur 
- :</b> Destin Daniel Cretton<br><b>Scénario :</b> Erik Sommers\, Chris McK
- enna<br><b>Photographie :</b> Brett Pawlak<br><b>Production :</b> Marvel S
- tudios\, Columbia Pictures\, Pascal Pictures<br><br><b>Acteurs :</b><ul><l
- i>Tom Holland</li><li>Zendaya</li><li>Mark Ruffalo</li><li>Jon Bernthal</l
- i><li>Jacob Batalon</li><li>Sadie Sink</li><li>Florence Pugh</li><li>Liza 
- Colón-Zayas</li><li>Tramell Tillman</li><li>Marisa Tomei</li><li>Naomi Wa
- tts</li><li>Michael Mando</li></ul></td></tr></table><p>Quatre ans se sont
-  écoulés\, Peter\, désormais adulte\, vit seul\, s'est volontairement e
- ffacé de la vie et des souvenirs de ses proches. Luttant contre le crime 
- dans un New York qui ne le reconnaît plus\, il se consacre entièrement 
- à la protection de la ville - un Spider-Man à plein temps - mais à mesu
- re que les responsabilités s'intensifient\, la pression provoque une tran
- sformation physique surprenante qui menace son existence\, tandis qu'une 
- étrange nouvelle vague de crimes donne naissance à l'une des menaces les
-  plus redoutables qu'il ait jamais affrontées.</p><p><small><a href="http
- s://www.themoviedb.org/movie/969681">Fiche TMDB</a><br><br>Données fourni
- es par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770846@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T114500Z
-DTEND:20260816T144000Z
-SUMMARY:La Bataille de Gaulle : J’écris ton nom (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg
- \n(La Bataille de Gaulle : J’écris ton nom)   (5.0)\n𝟮𝗵𝟰𝟬\n
- \nHistoire\, Drame\nFrance\, Belgium\, United States of America\n(French\,
-  English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Antonin Baudry
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Baudry\, Bérénice Vila\n
- 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Pierre Cottereau\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pathé\, Auvergne-Rhône-Alpes Cin
- éma\, TF1 Films Production\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Simon Abk
- arian\n- Niels Schneider\n- Thierry Lhermitte\n- Karim Leklou\n- Anamaria 
- Vartolomei\n- Simon Russell Beale\n- Kacey Mottet Klein\n- Tom Mison\n- Lo
- ïc Corbery\n- Stéphane Varupenne\n- Anthony Calf\n- Noémie Schmidt\n\n\
- nJuin 1940. La France s'effondre et signe l’armistice. Au milieu du chao
- s\, un homme refuse de céder. Seul contre tous\, ce général inconnu s'
- échappe vers Londres pour sauver ce qu'il reste d'un rêve : la liberté.
-  Sans armée\, sans appui\, sans espoir. Mais avec une folle conviction : 
- la France\, sa France\, n'a pas déposé les armes. Il tente un ultime par
- i : convaincre le monde que la bataille de France n'est ni terminée\, ni 
- perdue. La réalité est têtue\, et lui donne tort. Mais peu à peu se l
- èvent autour de lui en Angleterre\, en France et en Afrique des résistan
- ts de l'ombre\, des lycéens révoltés\, des soldats déterminés. Leur f
- oi\, leur audace\, leur rage de liberté défient l'Histoire qui semblait 
- pourtant écrite d’avance.\n\n\nFiche TMDB : https://www.themoviedb.org/
- movie/1165369\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg" width="220" alt="Affi
- che de La Bataille de Gaulle : J’écris ton nom (VF)"><br><small>(La Bat
- aille de Gaulle : J’écris ton nom)   (5.0)</small><br><small>2h40</smal
- l></td><td width="16"></td><td valign="top"><i>Histoire\, Drame</i><br>Fra
- nce\, Belgium\, United States of America<br>(French\, English)<br><br><b>R
- éalisateur :</b> Antonin Baudry<br><b>Scénario :</b> Antonin Baudry\, B
- érénice Vila<br><b>Photographie :</b> Pierre Cottereau<br><b>Production 
- :</b> Pathé\, Auvergne-Rhône-Alpes Cinéma\, TF1 Films Production<br><br
- ><b>Acteurs :</b><ul><li>Simon Abkarian</li><li>Niels Schneider</li><li>Th
- ierry Lhermitte</li><li>Karim Leklou</li><li>Anamaria Vartolomei</li><li>S
- imon Russell Beale</li><li>Kacey Mottet Klein</li><li>Tom Mison</li><li>Lo
- ïc Corbery</li><li>Stéphane Varupenne</li><li>Anthony Calf</li><li>Noém
- ie Schmidt</li></ul></td></tr></table><p>Juin 1940. La France s'effondre e
- t signe l’armistice. Au milieu du chaos\, un homme refuse de céder. Seu
- l contre tous\, ce général inconnu s'échappe vers Londres pour sauver c
- e qu'il reste d'un rêve : la liberté. Sans armée\, sans appui\, sans es
- poir. Mais avec une folle conviction : la France\, sa France\, n'a pas dé
- posé les armes. Il tente un ultime pari : convaincre le monde que la bata
- ille de France n'est ni terminée\, ni perdue. La réalité est têtue\, e
- t lui donne tort. Mais peu à peu se lèvent autour de lui en Angleterre\,
-  en France et en Afrique des résistants de l'ombre\, des lycéens révolt
- és\, des soldats déterminés. Leur foi\, leur audace\, leur rage de libe
- rté défient l'Histoire qui semblait pourtant écrite d’avance.</p><p><
- small><a href="https://www.themoviedb.org/movie/1165369">Fiche TMDB</a><br
- ><br>Données fournies par The Movie Database (TMDB)</small></p></body></h
- tml>
-URL:https://www.themoviedb.org/movie/1165369
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
- s60FrtJmiz.jpg
-CATEGORIES:Histoire,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80246540647@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T120000Z
-DTEND:20260816T134800Z
-SUMMARY:undertone (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg
- \n(undertone)   (15.4)\n𝟭𝗵𝟯𝟯\n\nHorreur\, Mystère\nCanada\, U
- nited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
- 𝘂𝗿 : Ian Tuason\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ian Tuason\n𝗣
- 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Graham Beasley\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Black Fawn Films\, Slaterverse Pictures
- \, KINO Studios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Nina Kiri\n- Adam DiM
- arco\n- Keana Bastidas\n- Jeff Yung\n- Michèle Duquet\n- Ryan Turner\n- A
- ri Millen\n- Marisol D’Andrea\n- Austin Tuason\n- Seled Calderon\n- Bian
- ca Nugara\n- Jayda Woods\n\n\nAnimatrice d’un podcast consacré aux phé
- nomènes paranormaux\, Evy retourne dans la maison de son enfance pour vei
- ller sa mère mourante. Un jour\, elle reçoit d’étranges enregistremen
- ts. En les diffusant dans son émission\, Evy réalise que les événement
- s décrits semblent déteindre sur la réalité. Les sons deviennent de pl
- us en plus troublants\, comme si quelque chose cherchait à lui parler. Et
-  plus elle écoute\, plus la menace se rapproche.\n\n\nFiche TMDB : https:
- //www.themoviedb.org/movie/1480387\n\nDonnées fournies par The Movie Data
- base (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg" width="220" alt="Affi
- che de undertone (VOST English)"><br><small>(undertone)   (15.4)</small><b
- r><small>1h33</small></td><td width="16"></td><td valign="top"><i>Horreur\
- , Mystère</i><br>Canada\, United States of America<br>(English)<br><br><b
- >Réalisateur :</b> Ian Tuason<br><b>Scénario :</b> Ian Tuason<br><b>Phot
- ographie :</b> Graham Beasley<br><b>Production :</b> Black Fawn Films\, Sl
- aterverse Pictures\, KINO Studios<br><br><b>Acteurs :</b><ul><li>Nina Kiri
- </li><li>Adam DiMarco</li><li>Keana Bastidas</li><li>Jeff Yung</li><li>Mic
- hèle Duquet</li><li>Ryan Turner</li><li>Ari Millen</li><li>Marisol D’An
- drea</li><li>Austin Tuason</li><li>Seled Calderon</li><li>Bianca Nugara</l
- i><li>Jayda Woods</li></ul></td></tr></table><p>Animatrice d’un podcast 
- consacré aux phénomènes paranormaux\, Evy retourne dans la maison de so
- n enfance pour veiller sa mère mourante. Un jour\, elle reçoit d’étra
- nges enregistrements. En les diffusant dans son émission\, Evy réalise q
- ue les événements décrits semblent déteindre sur la réalité. Les son
- s deviennent de plus en plus troublants\, comme si quelque chose cherchait
-  à lui parler. Et plus elle écoute\, plus la menace se rapproche.</p><p>
- <small><a href="https://www.themoviedb.org/movie/1480387">Fiche TMDB</a><b
- r><br>Données fournies par The Movie Database (TMDB)</small></p></body></
- html>
-URL:https://www.themoviedb.org/movie/1480387
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yEuZLk7pJF2H17Yaw
- E2ILOg9HB3.jpg
-CATEGORIES:Horreur,Mystère
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770823@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T120000Z
-DTEND:20260816T145500Z
-SUMMARY:La bataille de Gaulle: L'âge de fer (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/wRvwPOxWXkeBhPFwpuE8v9tmsY9.jpg
- \n(La bataille de Gaulle: L'âge de fer)   (6.5)\n𝟮𝗵𝟰𝟬\n\nHist
- oire\, Drame\nFrance\, Belgium\, United States of America\n(French\, Engli
- sh)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Antonin Baudry\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Baudry\, Bérénice Vila\n𝗣𝗵
- 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Pierre Cottereau\n𝗣𝗿𝗼
- 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pathé\, Auvergne-Rhône-Alpes Cinéma\, TF
- 1 Films Production\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Simon Abkarian\n- 
- Simon Russell Beale\n- Florian Lesieur\n- Benoît Magimel\n- Mathieu Kasso
- vitz\n- Loïc Corbery\n- Anamaria Vartolomei\n- Niels Schneider\n- Félix 
- Kysyl\n- Karim Leklou\n- Tom Mison\n- Kacey Mottet Klein\n\n\nJuin 1940. L
- a France s'effondre et signe l’armistice. Au milieu du chaos\, un homme 
- refuse de céder. Seul contre tous\, ce général inconnu s'échappe vers 
- Londres pour sauver ce qu'il reste d'un rêve : la liberté. Sans armée\,
-  sans appui\, sans espoir. Mais avec une folle conviction : la France\, sa
-  France\, n'a pas déposé les armes. Il tente un ultime pari : convaincre
-  le monde que la bataille de France n'est ni terminée\, ni perdue. La ré
- alité est têtue\, et lui donne tort. Mais peu à peu se lèvent autour d
- e lui en Angleterre\, en France et en Afrique des résistants de l'ombre\,
-  des lycéens révoltés\, des soldats déterminés. Leur foi\, leur audac
- e\, leur rage de liberté défient l'Histoire qui semblait pourtant écrit
- e d’avance.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1165366\n
- \nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/wRvwPOxWXkeBhPFwpuE8v9tmsY9.jpg" width="220" alt="Affi
- che de La bataille de Gaulle: L'âge de fer (VF)"><br><small>(La bataille 
- de Gaulle: L'âge de fer)   (6.5)</small><br><small>2h40</small></td><td w
- idth="16"></td><td valign="top"><i>Histoire\, Drame</i><br>France\, Belgiu
- m\, United States of America<br>(French\, English)<br><br><b>Réalisateur 
- :</b> Antonin Baudry<br><b>Scénario :</b> Antonin Baudry\, Bérénice Vil
- a<br><b>Photographie :</b> Pierre Cottereau<br><b>Production :</b> Pathé\
- , Auvergne-Rhône-Alpes Cinéma\, TF1 Films Production<br><br><b>Acteurs :
- </b><ul><li>Simon Abkarian</li><li>Simon Russell Beale</li><li>Florian Les
- ieur</li><li>Benoît Magimel</li><li>Mathieu Kassovitz</li><li>Loïc Corbe
- ry</li><li>Anamaria Vartolomei</li><li>Niels Schneider</li><li>Félix Kysy
- l</li><li>Karim Leklou</li><li>Tom Mison</li><li>Kacey Mottet Klein</li></
- ul></td></tr></table><p>Juin 1940. La France s'effondre et signe l’armis
- tice. Au milieu du chaos\, un homme refuse de céder. Seul contre tous\, c
- e général inconnu s'échappe vers Londres pour sauver ce qu'il reste d'u
- n rêve : la liberté. Sans armée\, sans appui\, sans espoir. Mais avec u
- ne folle conviction : la France\, sa France\, n'a pas déposé les armes. 
- Il tente un ultime pari : convaincre le monde que la bataille de France n'
- est ni terminée\, ni perdue. La réalité est têtue\, et lui donne tort.
-  Mais peu à peu se lèvent autour de lui en Angleterre\, en France et en 
- Afrique des résistants de l'ombre\, des lycéens révoltés\, des soldats
-  déterminés. Leur foi\, leur audace\, leur rage de liberté défient l'H
- istoire qui semblait pourtant écrite d’avance.</p><p><small><a href="ht
- tps://www.themoviedb.org/movie/1165366">Fiche TMDB</a><br><br>Données fou
- rnies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1165366
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/wRvwPOxWXkeBhPFwpuE8v9tmsY9.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wRvwPOxWXkeBhPFwp
- uE8v9tmsY9.jpg
-CATEGORIES:Histoire,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770861@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T121500Z
-DTEND:20260816T140900Z
-SUMMARY:La Fin d'Oak Street (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\nScience-Fiction\,
-  Mystère\, Thriller\nUnited States of America\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
- 𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- Christian 
- Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Bethany Ann
- e Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Gee Byrd\n-
-  Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement cosmique
-  arrache Oak Street à sa paisible banlieue et la transporte vers un lieu 
- inconnu\, la famille Platt\, désorientée dans ce nouvel environnement ho
- stile\, comprend vite qu’il leur faudra rester unis pour survivre.\n\n\n
- Fiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées fournies
-  par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VOST English)"><br><small>(The End of Oak Stre
- et)   (212.4)</small><br><small>1h39</small></td><td width="16"></td><td v
- align="top"><i>Science-Fiction\, Mystère\, Thriller</i><br>United States 
- of America<br>(English)<br><br><b>Réalisateur :</b> David Robert Mitchell
- <br><b>Scénario :</b> David Robert Mitchell<br><b>Photographie :</b> Mike
-  Gioulakis<br><b>Production :</b> Warner Bros. Pictures\, Domain Entertain
- ment\, Bad Robot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan
-  McGregor</li><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Al
- exa Davis</li><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kurod
- a</li><li>Denitra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>
- Michael-Christian Moore</li></ul></td></tr></table><p>Lorsqu’un mystéri
- eux événement cosmique arrache Oak Street à sa paisible banlieue et la 
- transporte vers un lieu inconnu\, la famille Platt\, désorientée dans ce
-  nouvel environnement hostile\, comprend vite qu’il leur faudra rester u
- nis pour survivre.</p><p><small><a href="https://www.themoviedb.org/movie/
- 1101383">Fiche TMDB</a><br><br>Données fournies par The Movie Database (T
- MDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770626@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T122500Z
-DTEND:20260816T153300Z
-SUMMARY:L'Odyssée (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\nAventure\, Action\, Fantast
- ique\nUnited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
- 𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : U
- niversal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt Damo
- n\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\n- C
- harlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- Jarre
- th J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son dépa
- rt pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais 
- son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : http
- s://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movie Da
- tabase (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VF)"><br><small>(The Odyssey)   (814.2)</small><br><sma
- ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
- ion\, Fantastique</i><br>United Kingdom\, United States of America<br>(Eng
- lish)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b>
-  Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Produc
- tion :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Mat
- t Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson
- </li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><
- li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko
-  Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans apr
- ès son départ pour la guerre de Troie\, le roi Ulysse rentre enfin à It
- haque\, mais son voyage est parsemé d'aventures et d'épreuves.</p><p><sm
- all><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br><
- br>Données fournies par The Movie Database (TMDB)</small></p></body></htm
- l>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770539@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T130000Z
-DTEND:20260816T154500Z
-SUMMARY:Spider-Man : Brand New Day (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)   (1407.5)\n𝟮𝗵𝟯𝟬\n\nScience-Fict
- ion\, Action\, Aventure\nUnited States of America\n(English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Destin Daniel Cretton\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Erik Sommers\, Chris McKenna\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Brett Pawlak\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Marvel Studios\, Columbia Pictures\, Pascal Pictures\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tom Holland\n- Zendaya\n- Mark Ruffalo\n
- - Jon Bernthal\n- Jacob Batalon\n- Sadie Sink\n- Florence Pugh\n- Liza Col
- ón-Zayas\n- Tramell Tillman\n- Marisa Tomei\n- Naomi Watts\n- Michael Man
- do\n\n\nQuatre ans se sont écoulés\, Peter\, désormais adulte\, vit seu
- l\, s'est volontairement effacé de la vie et des souvenirs de ses proches
- . Luttant contre le crime dans un New York qui ne le reconnaît plus\, il 
- se consacre entièrement à la protection de la ville - un Spider-Man à p
- lein temps - mais à mesure que les responsabilités s'intensifient\, la p
- ression provoque une transformation physique surprenante qui menace son ex
- istence\, tandis qu'une étrange nouvelle vague de crimes donne naissance 
- à l'une des menaces les plus redoutables qu'il ait jamais affrontées.\n\
- n\nFiche TMDB : https://www.themoviedb.org/movie/969681\n\nDonnées fourni
- es par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VOST English)"><br><small>(Spider-Man: 
- Brand New Day)   (1407.5)</small><br><small>2h30</small></td><td width="16
- "></td><td valign="top"><i>Science-Fiction\, Action\, Aventure</i><br>Unit
- ed States of America<br>(English)<br><br><b>Réalisateur :</b> Destin Dani
- el Cretton<br><b>Scénario :</b> Erik Sommers\, Chris McKenna<br><b>Photog
- raphie :</b> Brett Pawlak<br><b>Production :</b> Marvel Studios\, Columbia
-  Pictures\, Pascal Pictures<br><br><b>Acteurs :</b><ul><li>Tom Holland</li
- ><li>Zendaya</li><li>Mark Ruffalo</li><li>Jon Bernthal</li><li>Jacob Batal
- on</li><li>Sadie Sink</li><li>Florence Pugh</li><li>Liza Colón-Zayas</li>
- <li>Tramell Tillman</li><li>Marisa Tomei</li><li>Naomi Watts</li><li>Micha
- el Mando</li></ul></td></tr></table><p>Quatre ans se sont écoulés\, Pete
- r\, désormais adulte\, vit seul\, s'est volontairement effacé de la vie 
- et des souvenirs de ses proches. Luttant contre le crime dans un New York 
- qui ne le reconnaît plus\, il se consacre entièrement à la protection d
- e la ville - un Spider-Man à plein temps - mais à mesure que les respons
- abilités s'intensifient\, la pression provoque une transformation physiqu
- e surprenante qui menace son existence\, tandis qu'une étrange nouvelle v
- ague de crimes donne naissance à l'une des menaces les plus redoutables q
- u'il ait jamais affrontées.</p><p><small><a href="https://www.themoviedb.
- org/movie/969681">Fiche TMDB</a><br><br>Données fournies par The Movie Da
- tabase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80324703121@calendrier-cine-fr
 DTSTAMP:20260816T000000Z
 DTSTART:20260816T131500Z
@@ -2870,6 +1844,52 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770848@calendrier-cine-fr
+DTSTAMP:20260816T000000Z
+DTSTART:20260816T184500Z
+DTEND:20260816T215300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\nAventure\, Action\, Fantast
+ ique\nUnited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
+ 𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : U
+ niversal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt Damo
+ n\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\n- C
+ harlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- Jarre
+ th J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son dépa
+ rt pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais 
+ son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : http
+ s://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movie Da
+ tabase (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
+ l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
+ ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
+ ca<br>(English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scén
+ ario :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br
+ ><b>Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><
+ ul><li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert
+  Pattinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Legui
+ zamo</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</l
+ i><li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Ving
+ t ans après son départ pour la guerre de Troie\, le roi Ulysse rentre en
+ fin à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.<
+ /p><p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB
+ </a><br><br>Données fournies par The Movie Database (TMDB)</small></p></b
+ ody></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80244770497@calendrier-cine-fr
 DTSTAMP:20260816T000000Z
 DTSTART:20260816T184500Z
@@ -2933,52 +1953,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
  s60FrtJmiz.jpg
 CATEGORIES:Histoire,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770848@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T184500Z
-DTEND:20260816T215300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\nAventure\, Action\, Fantast
- ique\nUnited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
- 𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : U
- niversal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt Damo
- n\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\n- C
- harlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- Jarre
- th J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son dépa
- rt pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais 
- son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : http
- s://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movie Da
- tabase (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
- l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
- ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca<br>(English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scén
- ario :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br
- ><b>Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><
- ul><li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert
-  Pattinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Legui
- zamo</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</l
- i><li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Ving
- t ans après son départ pour la guerre de Troie\, le roi Ulysse rentre en
- fin à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.<
- /p><p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB
- </a><br><br>Données fournies par The Movie Database (TMDB)</small></p></b
- ody></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244771036@calendrier-cine-fr
@@ -4370,6 +3344,53 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPu
 CATEGORIES:Animation,Aventure,Familial,Fantastique,Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770763@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T093000Z
+DTEND:20260817T111500Z
+SUMMARY:‎Des Minions et des Monstres (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg\
+ n(Minions & Monsters)   (329.1)\n𝟭𝗵𝟯𝟬\n\nAventure\, Animation\
+ , Comédie\, Familial\, Fantastique\nUnited States of America\n(English\, 
+ Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre Coffin\n
+ 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Brian Lynch\, Pierre Coffin\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Universal Pictures\, Illumination\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Pierre Coffin\n- Trey Parker\n- Christop
+ h Waltz\n- Allison Janney\n- Jesse Eisenberg\n- Jeff Bridges\n- Zoey Deutc
+ h\n- Bobby Moynihan\n- Phil LaMarr\n- George Lucas\n- Barbara Eve Harris\n
+ - Eric Bauza\n\n\nVoici l'histoire mouvementée\, déjantée et complètem
+ ent véridique des Minions à Hollywood : devenus vedettes de cinéma\, il
+ s perdent tout\, libèrent des monstres et font équipe pour sauver la pla
+ nète du chaos qu'ils ont créé.\n\n\nFiche TMDB : https://www.themoviedb
+ .org/movie/1315772\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg" width="220" alt="Affic
+ he de ‎Des Minions et des Monstres (VF)"><br><small>(Minions &amp\; Mons
+ ters)   (329.1)</small><br><small>1h30</small></td><td width="16"></td><td
+  valign="top"><i>Aventure\, Animation\, Comédie\, Familial\, Fantastique<
+ /i><br>United States of America<br>(English\, Spanish)<br><br><b>Réalisat
+ eur :</b> Pierre Coffin<br><b>Scénario :</b> Brian Lynch\, Pierre Coffin<
+ br><b>Production :</b> Universal Pictures\, Illumination<br><br><b>Acteurs
+  :</b><ul><li>Pierre Coffin</li><li>Trey Parker</li><li>Christoph Waltz</l
+ i><li>Allison Janney</li><li>Jesse Eisenberg</li><li>Jeff Bridges</li><li>
+ Zoey Deutch</li><li>Bobby Moynihan</li><li>Phil LaMarr</li><li>George Luca
+ s</li><li>Barbara Eve Harris</li><li>Eric Bauza</li></ul></td></tr></table
+ ><p>Voici l'histoire mouvementée\, déjantée et complètement véridique
+  des Minions à Hollywood : devenus vedettes de cinéma\, ils perdent tout
+ \, libèrent des monstres et font équipe pour sauver la planète du chaos
+  qu'ils ont créé.</p><p><small><a href="https://www.themoviedb.org/movie
+ /1315772">Fiche TMDB</a><br><br>Données fournies par The Movie Database (
+ TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1315772
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
+ TKEU8mxvc.jpg
+CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80244770864@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T093000Z
@@ -4474,53 +3495,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zivl8VZfE8rNthfAs
  rrc03pspkb.jpg
 CATEGORIES:Fantastique,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770763@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T093000Z
-DTEND:20260817T111500Z
-SUMMARY:‎Des Minions et des Monstres (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg\
- n(Minions & Monsters)   (329.1)\n𝟭𝗵𝟯𝟬\n\nAventure\, Animation\
- , Comédie\, Familial\, Fantastique\nUnited States of America\n(English\, 
- Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre Coffin\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Brian Lynch\, Pierre Coffin\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Universal Pictures\, Illumination\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Pierre Coffin\n- Trey Parker\n- Christop
- h Waltz\n- Allison Janney\n- Jesse Eisenberg\n- Jeff Bridges\n- Zoey Deutc
- h\n- Bobby Moynihan\n- Phil LaMarr\n- George Lucas\n- Barbara Eve Harris\n
- - Eric Bauza\n\n\nVoici l'histoire mouvementée\, déjantée et complètem
- ent véridique des Minions à Hollywood : devenus vedettes de cinéma\, il
- s perdent tout\, libèrent des monstres et font équipe pour sauver la pla
- nète du chaos qu'ils ont créé.\n\n\nFiche TMDB : https://www.themoviedb
- .org/movie/1315772\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg" width="220" alt="Affic
- he de ‎Des Minions et des Monstres (VF)"><br><small>(Minions &amp\; Mons
- ters)   (329.1)</small><br><small>1h30</small></td><td width="16"></td><td
-  valign="top"><i>Aventure\, Animation\, Comédie\, Familial\, Fantastique<
- /i><br>United States of America<br>(English\, Spanish)<br><br><b>Réalisat
- eur :</b> Pierre Coffin<br><b>Scénario :</b> Brian Lynch\, Pierre Coffin<
- br><b>Production :</b> Universal Pictures\, Illumination<br><br><b>Acteurs
-  :</b><ul><li>Pierre Coffin</li><li>Trey Parker</li><li>Christoph Waltz</l
- i><li>Allison Janney</li><li>Jesse Eisenberg</li><li>Jeff Bridges</li><li>
- Zoey Deutch</li><li>Bobby Moynihan</li><li>Phil LaMarr</li><li>George Luca
- s</li><li>Barbara Eve Harris</li><li>Eric Bauza</li></ul></td></tr></table
- ><p>Voici l'histoire mouvementée\, déjantée et complètement véridique
-  des Minions à Hollywood : devenus vedettes de cinéma\, ils perdent tout
- \, libèrent des monstres et font équipe pour sauver la planète du chaos
-  qu'ils ont créé.</p><p><small><a href="https://www.themoviedb.org/movie
- /1315772">Fiche TMDB</a><br><br>Données fournies par The Movie Database (
- TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1315772
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
- TKEU8mxvc.jpg
-CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770735@calendrier-cine-fr
@@ -6462,6 +5436,56 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
 CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770996@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T161500Z
+DTEND:20260817T175600Z
+SUMMARY:Les Gendarmes (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
+ \n(Les Gendarmes)   (2.6)\n𝟭𝗵𝟮𝟲\n\nComédie\nFrance\n(French)\
+ n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : François Prévôt-L
+ eygonie\, Stéphan Archinard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : François
+  Prévôt-Leygonie\, Stéphan Archinard\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
+ 𝗽𝗵𝗶𝗲 : Laurent Dailland\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : Bamboo Films\, Studio TF1\, TF1 Films Production\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Arnaud Ducret\n- Alice David\n- Julien Arruti\n- Fre
+ d Testot\n- Marc Riso\n- Sofia Belabbes\n- Thomas Gioria\n- Margot Heckman
+ n\n- Henri Guybet\n- Marion Mezadorian\n- Frédéric Bouraly\n- Clémentin
+ e Verdier\n\n\nToute la brigade de gendarmerie de Charnay-Lès-Mâcon (71)
+  se prépare à l’annuelle Grande Fête des Jardins.  Mais l’arrivée 
+ d’un jeune stagiaire désinvolte débarqué tout droit de la capitale et
+  de deux voleurs de nains de jardin va venir bouleverser leur organisation
+  bien huilée…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/147228
+ 7\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg" width="220" alt="Affi
+ che de Les Gendarmes (VF)"><br><small>(Les Gendarmes)   (2.6)</small><br><
+ small>1h26</small></td><td width="16"></td><td valign="top"><i>Comédie</i
+ ><br>France<br>(French)<br><br><b>Réalisateurs :</b> François Prévôt-L
+ eygonie\, Stéphan Archinard<br><b>Scénario :</b> François Prévôt-Leyg
+ onie\, Stéphan Archinard<br><b>Photographie :</b> Laurent Dailland<br><b>
+ Production :</b> Bamboo Films\, Studio TF1\, TF1 Films Production<br><br><
+ b>Acteurs :</b><ul><li>Arnaud Ducret</li><li>Alice David</li><li>Julien Ar
+ ruti</li><li>Fred Testot</li><li>Marc Riso</li><li>Sofia Belabbes</li><li>
+ Thomas Gioria</li><li>Margot Heckmann</li><li>Henri Guybet</li><li>Marion 
+ Mezadorian</li><li>Frédéric Bouraly</li><li>Clémentine Verdier</li></ul
+ ></td></tr></table><p>Toute la brigade de gendarmerie de Charnay-Lès-Mâc
+ on (71) se prépare à l’annuelle Grande Fête des Jardins.  Mais l’ar
+ rivée d’un jeune stagiaire désinvolte débarqué tout droit de la capi
+ tale et de deux voleurs de nains de jardin va venir bouleverser leur organ
+ isation bien huilée…</p><p><small><a href="https://www.themoviedb.org/m
+ ovie/1472287">Fiche TMDB</a><br><br>Données fournies par The Movie Databa
+ se (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1472287
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA
+ 68j1M8ZDJj.jpg
+CATEGORIES:Comédie
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80244770858@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T161500Z
@@ -6518,56 +5542,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
  Xjyux1VEdZ.jpg
 CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770996@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T161500Z
-DTEND:20260817T175600Z
-SUMMARY:Les Gendarmes (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
- \n(Les Gendarmes)   (2.6)\n𝟭𝗵𝟮𝟲\n\nComédie\nFrance\n(French)\
- n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : François Prévôt-L
- eygonie\, Stéphan Archinard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : François
-  Prévôt-Leygonie\, Stéphan Archinard\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
- 𝗽𝗵𝗶𝗲 : Laurent Dailland\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : Bamboo Films\, Studio TF1\, TF1 Films Production\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Arnaud Ducret\n- Alice David\n- Julien Arruti\n- Fre
- d Testot\n- Marc Riso\n- Sofia Belabbes\n- Thomas Gioria\n- Margot Heckman
- n\n- Henri Guybet\n- Marion Mezadorian\n- Frédéric Bouraly\n- Clémentin
- e Verdier\n\n\nToute la brigade de gendarmerie de Charnay-Lès-Mâcon (71)
-  se prépare à l’annuelle Grande Fête des Jardins.  Mais l’arrivée 
- d’un jeune stagiaire désinvolte débarqué tout droit de la capitale et
-  de deux voleurs de nains de jardin va venir bouleverser leur organisation
-  bien huilée…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/147228
- 7\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg" width="220" alt="Affi
- che de Les Gendarmes (VF)"><br><small>(Les Gendarmes)   (2.6)</small><br><
- small>1h26</small></td><td width="16"></td><td valign="top"><i>Comédie</i
- ><br>France<br>(French)<br><br><b>Réalisateurs :</b> François Prévôt-L
- eygonie\, Stéphan Archinard<br><b>Scénario :</b> François Prévôt-Leyg
- onie\, Stéphan Archinard<br><b>Photographie :</b> Laurent Dailland<br><b>
- Production :</b> Bamboo Films\, Studio TF1\, TF1 Films Production<br><br><
- b>Acteurs :</b><ul><li>Arnaud Ducret</li><li>Alice David</li><li>Julien Ar
- ruti</li><li>Fred Testot</li><li>Marc Riso</li><li>Sofia Belabbes</li><li>
- Thomas Gioria</li><li>Margot Heckmann</li><li>Henri Guybet</li><li>Marion 
- Mezadorian</li><li>Frédéric Bouraly</li><li>Clémentine Verdier</li></ul
- ></td></tr></table><p>Toute la brigade de gendarmerie de Charnay-Lès-Mâc
- on (71) se prépare à l’annuelle Grande Fête des Jardins.  Mais l’ar
- rivée d’un jeune stagiaire désinvolte débarqué tout droit de la capi
- tale et de deux voleurs de nains de jardin va venir bouleverser leur organ
- isation bien huilée…</p><p><small><a href="https://www.themoviedb.org/m
- ovie/1472287">Fiche TMDB</a><br><br>Données fournies par The Movie Databa
- se (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1472287
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA
- 68j1M8ZDJj.jpg
-CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770666@calendrier-cine-fr
@@ -7213,6 +6187,52 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770627@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T184500Z
+DTEND:20260817T215300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\nAventure\, Action\, Fantast
+ ique\nUnited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
+ 𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : U
+ niversal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt Damo
+ n\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\n- C
+ harlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- Jarre
+ th J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son dépa
+ rt pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais 
+ son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : http
+ s://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movie Da
+ tabase (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
+ l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
+ ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
+ ca<br>(English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scén
+ ario :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br
+ ><b>Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><
+ ul><li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert
+  Pattinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Legui
+ zamo</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</l
+ i><li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Ving
+ t ans après son départ pour la guerre de Troie\, le roi Ulysse rentre en
+ fin à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.<
+ /p><p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB
+ </a><br><br>Données fournies par The Movie Database (TMDB)</small></p></b
+ ody></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80244770568@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T184500Z
@@ -7276,52 +6296,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
  s60FrtJmiz.jpg
 CATEGORIES:Histoire,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770627@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T184500Z
-DTEND:20260817T215300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\nAventure\, Action\, Fantast
- ique\nUnited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
- 𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : U
- niversal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt Damo
- n\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\n- C
- harlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- Jarre
- th J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son dépa
- rt pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais 
- son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : http
- s://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movie Da
- tabase (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
- l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
- ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca<br>(English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scén
- ario :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br
- ><b>Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><
- ul><li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert
-  Pattinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Legui
- zamo</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</l
- i><li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Ving
- t ans après son départ pour la guerre de Troie\, le roi Ulysse rentre en
- fin à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.<
- /p><p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB
- </a><br><br>Données fournies par The Movie Database (TMDB)</small></p></b
- ody></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244771011@calendrier-cine-fr
@@ -8664,6 +7638,53 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdN
 CATEGORIES:Animation,Familial,Comédie,Téléfilm
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770575@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T093000Z
+DTEND:20260818T111500Z
+SUMMARY:‎Des Minions et des Monstres (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg\
+ n(Minions & Monsters)   (329.1)\n𝟭𝗵𝟯𝟬\n\nAventure\, Animation\
+ , Comédie\, Familial\, Fantastique\nUnited States of America\n(English\, 
+ Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre Coffin\n
+ 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Brian Lynch\, Pierre Coffin\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Universal Pictures\, Illumination\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Pierre Coffin\n- Trey Parker\n- Christop
+ h Waltz\n- Allison Janney\n- Jesse Eisenberg\n- Jeff Bridges\n- Zoey Deutc
+ h\n- Bobby Moynihan\n- Phil LaMarr\n- George Lucas\n- Barbara Eve Harris\n
+ - Eric Bauza\n\n\nVoici l'histoire mouvementée\, déjantée et complètem
+ ent véridique des Minions à Hollywood : devenus vedettes de cinéma\, il
+ s perdent tout\, libèrent des monstres et font équipe pour sauver la pla
+ nète du chaos qu'ils ont créé.\n\n\nFiche TMDB : https://www.themoviedb
+ .org/movie/1315772\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg" width="220" alt="Affic
+ he de ‎Des Minions et des Monstres (VF)"><br><small>(Minions &amp\; Mons
+ ters)   (329.1)</small><br><small>1h30</small></td><td width="16"></td><td
+  valign="top"><i>Aventure\, Animation\, Comédie\, Familial\, Fantastique<
+ /i><br>United States of America<br>(English\, Spanish)<br><br><b>Réalisat
+ eur :</b> Pierre Coffin<br><b>Scénario :</b> Brian Lynch\, Pierre Coffin<
+ br><b>Production :</b> Universal Pictures\, Illumination<br><br><b>Acteurs
+  :</b><ul><li>Pierre Coffin</li><li>Trey Parker</li><li>Christoph Waltz</l
+ i><li>Allison Janney</li><li>Jesse Eisenberg</li><li>Jeff Bridges</li><li>
+ Zoey Deutch</li><li>Bobby Moynihan</li><li>Phil LaMarr</li><li>George Luca
+ s</li><li>Barbara Eve Harris</li><li>Eric Bauza</li></ul></td></tr></table
+ ><p>Voici l'histoire mouvementée\, déjantée et complètement véridique
+  des Minions à Hollywood : devenus vedettes de cinéma\, ils perdent tout
+ \, libèrent des monstres et font équipe pour sauver la planète du chaos
+  qu'ils ont créé.</p><p><small><a href="https://www.themoviedb.org/movie
+ /1315772">Fiche TMDB</a><br><br>Données fournies par The Movie Database (
+ TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1315772
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
+ TKEU8mxvc.jpg
+CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80244770804@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T093000Z
@@ -8768,53 +7789,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zivl8VZfE8rNthfAs
  rrc03pspkb.jpg
 CATEGORIES:Fantastique,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770575@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T093000Z
-DTEND:20260818T111500Z
-SUMMARY:‎Des Minions et des Monstres (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg\
- n(Minions & Monsters)   (329.1)\n𝟭𝗵𝟯𝟬\n\nAventure\, Animation\
- , Comédie\, Familial\, Fantastique\nUnited States of America\n(English\, 
- Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre Coffin\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Brian Lynch\, Pierre Coffin\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Universal Pictures\, Illumination\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Pierre Coffin\n- Trey Parker\n- Christop
- h Waltz\n- Allison Janney\n- Jesse Eisenberg\n- Jeff Bridges\n- Zoey Deutc
- h\n- Bobby Moynihan\n- Phil LaMarr\n- George Lucas\n- Barbara Eve Harris\n
- - Eric Bauza\n\n\nVoici l'histoire mouvementée\, déjantée et complètem
- ent véridique des Minions à Hollywood : devenus vedettes de cinéma\, il
- s perdent tout\, libèrent des monstres et font équipe pour sauver la pla
- nète du chaos qu'ils ont créé.\n\n\nFiche TMDB : https://www.themoviedb
- .org/movie/1315772\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg" width="220" alt="Affic
- he de ‎Des Minions et des Monstres (VF)"><br><small>(Minions &amp\; Mons
- ters)   (329.1)</small><br><small>1h30</small></td><td width="16"></td><td
-  valign="top"><i>Aventure\, Animation\, Comédie\, Familial\, Fantastique<
- /i><br>United States of America<br>(English\, Spanish)<br><br><b>Réalisat
- eur :</b> Pierre Coffin<br><b>Scénario :</b> Brian Lynch\, Pierre Coffin<
- br><b>Production :</b> Universal Pictures\, Illumination<br><br><b>Acteurs
-  :</b><ul><li>Pierre Coffin</li><li>Trey Parker</li><li>Christoph Waltz</l
- i><li>Allison Janney</li><li>Jesse Eisenberg</li><li>Jeff Bridges</li><li>
- Zoey Deutch</li><li>Bobby Moynihan</li><li>Phil LaMarr</li><li>George Luca
- s</li><li>Barbara Eve Harris</li><li>Eric Bauza</li></ul></td></tr></table
- ><p>Voici l'histoire mouvementée\, déjantée et complètement véridique
-  des Minions à Hollywood : devenus vedettes de cinéma\, ils perdent tout
- \, libèrent des monstres et font équipe pour sauver la planète du chaos
-  qu'ils ont créé.</p><p><small><a href="https://www.themoviedb.org/movie
- /1315772">Fiche TMDB</a><br><br>Données fournies par The Movie Database (
- TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1315772
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
- TKEU8mxvc.jpg
-CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770657@calendrier-cine-fr
@@ -10759,6 +9733,56 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
 CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770971@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T161500Z
+DTEND:20260818T175600Z
+SUMMARY:Les Gendarmes (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
+ \n(Les Gendarmes)   (2.6)\n𝟭𝗵𝟮𝟲\n\nComédie\nFrance\n(French)\
+ n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : François Prévôt-L
+ eygonie\, Stéphan Archinard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : François
+  Prévôt-Leygonie\, Stéphan Archinard\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
+ 𝗽𝗵𝗶𝗲 : Laurent Dailland\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : Bamboo Films\, Studio TF1\, TF1 Films Production\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Arnaud Ducret\n- Alice David\n- Julien Arruti\n- Fre
+ d Testot\n- Marc Riso\n- Sofia Belabbes\n- Thomas Gioria\n- Margot Heckman
+ n\n- Henri Guybet\n- Marion Mezadorian\n- Frédéric Bouraly\n- Clémentin
+ e Verdier\n\n\nToute la brigade de gendarmerie de Charnay-Lès-Mâcon (71)
+  se prépare à l’annuelle Grande Fête des Jardins.  Mais l’arrivée 
+ d’un jeune stagiaire désinvolte débarqué tout droit de la capitale et
+  de deux voleurs de nains de jardin va venir bouleverser leur organisation
+  bien huilée…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/147228
+ 7\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg" width="220" alt="Affi
+ che de Les Gendarmes (VF)"><br><small>(Les Gendarmes)   (2.6)</small><br><
+ small>1h26</small></td><td width="16"></td><td valign="top"><i>Comédie</i
+ ><br>France<br>(French)<br><br><b>Réalisateurs :</b> François Prévôt-L
+ eygonie\, Stéphan Archinard<br><b>Scénario :</b> François Prévôt-Leyg
+ onie\, Stéphan Archinard<br><b>Photographie :</b> Laurent Dailland<br><b>
+ Production :</b> Bamboo Films\, Studio TF1\, TF1 Films Production<br><br><
+ b>Acteurs :</b><ul><li>Arnaud Ducret</li><li>Alice David</li><li>Julien Ar
+ ruti</li><li>Fred Testot</li><li>Marc Riso</li><li>Sofia Belabbes</li><li>
+ Thomas Gioria</li><li>Margot Heckmann</li><li>Henri Guybet</li><li>Marion 
+ Mezadorian</li><li>Frédéric Bouraly</li><li>Clémentine Verdier</li></ul
+ ></td></tr></table><p>Toute la brigade de gendarmerie de Charnay-Lès-Mâc
+ on (71) se prépare à l’annuelle Grande Fête des Jardins.  Mais l’ar
+ rivée d’un jeune stagiaire désinvolte débarqué tout droit de la capi
+ tale et de deux voleurs de nains de jardin va venir bouleverser leur organ
+ isation bien huilée…</p><p><small><a href="https://www.themoviedb.org/m
+ ovie/1472287">Fiche TMDB</a><br><br>Données fournies par The Movie Databa
+ se (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1472287
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA
+ 68j1M8ZDJj.jpg
+CATEGORIES:Comédie
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80244770531@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T161500Z
@@ -10815,56 +9839,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
  Xjyux1VEdZ.jpg
 CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770971@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T161500Z
-DTEND:20260818T175600Z
-SUMMARY:Les Gendarmes (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
- \n(Les Gendarmes)   (2.6)\n𝟭𝗵𝟮𝟲\n\nComédie\nFrance\n(French)\
- n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : François Prévôt-L
- eygonie\, Stéphan Archinard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : François
-  Prévôt-Leygonie\, Stéphan Archinard\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
- 𝗽𝗵𝗶𝗲 : Laurent Dailland\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : Bamboo Films\, Studio TF1\, TF1 Films Production\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Arnaud Ducret\n- Alice David\n- Julien Arruti\n- Fre
- d Testot\n- Marc Riso\n- Sofia Belabbes\n- Thomas Gioria\n- Margot Heckman
- n\n- Henri Guybet\n- Marion Mezadorian\n- Frédéric Bouraly\n- Clémentin
- e Verdier\n\n\nToute la brigade de gendarmerie de Charnay-Lès-Mâcon (71)
-  se prépare à l’annuelle Grande Fête des Jardins.  Mais l’arrivée 
- d’un jeune stagiaire désinvolte débarqué tout droit de la capitale et
-  de deux voleurs de nains de jardin va venir bouleverser leur organisation
-  bien huilée…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/147228
- 7\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg" width="220" alt="Affi
- che de Les Gendarmes (VF)"><br><small>(Les Gendarmes)   (2.6)</small><br><
- small>1h26</small></td><td width="16"></td><td valign="top"><i>Comédie</i
- ><br>France<br>(French)<br><br><b>Réalisateurs :</b> François Prévôt-L
- eygonie\, Stéphan Archinard<br><b>Scénario :</b> François Prévôt-Leyg
- onie\, Stéphan Archinard<br><b>Photographie :</b> Laurent Dailland<br><b>
- Production :</b> Bamboo Films\, Studio TF1\, TF1 Films Production<br><br><
- b>Acteurs :</b><ul><li>Arnaud Ducret</li><li>Alice David</li><li>Julien Ar
- ruti</li><li>Fred Testot</li><li>Marc Riso</li><li>Sofia Belabbes</li><li>
- Thomas Gioria</li><li>Margot Heckmann</li><li>Henri Guybet</li><li>Marion 
- Mezadorian</li><li>Frédéric Bouraly</li><li>Clémentine Verdier</li></ul
- ></td></tr></table><p>Toute la brigade de gendarmerie de Charnay-Lès-Mâc
- on (71) se prépare à l’annuelle Grande Fête des Jardins.  Mais l’ar
- rivée d’un jeune stagiaire désinvolte débarqué tout droit de la capi
- tale et de deux voleurs de nains de jardin va venir bouleverser leur organ
- isation bien huilée…</p><p><small><a href="https://www.themoviedb.org/m
- ovie/1472287">Fiche TMDB</a><br><br>Données fournies par The Movie Databa
- se (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1472287
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/uKT4GBfWmEm1SQYHA68j1M8ZDJj.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA
- 68j1M8ZDJj.jpg
-CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770762@calendrier-cine-fr
@@ -11509,6 +10483,52 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/bfjG4eH78KOnpVNlE
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770687@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T184500Z
+DTEND:20260818T215300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\nAventure\, Action\, Fantast
+ ique\nUnited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
+ 𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : U
+ niversal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt Damo
+ n\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\n- C
+ harlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- Jarre
+ th J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son dépa
+ rt pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais 
+ son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : http
+ s://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movie Da
+ tabase (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
+ l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
+ ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
+ ca<br>(English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scén
+ ario :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br
+ ><b>Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><
+ ul><li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert
+  Pattinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Legui
+ zamo</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</l
+ i><li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Ving
+ t ans après son départ pour la guerre de Troie\, le roi Ulysse rentre en
+ fin à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.<
+ /p><p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB
+ </a><br><br>Données fournies par The Movie Database (TMDB)</small></p></b
+ ody></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80244770954@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T184500Z
@@ -11572,52 +10592,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
  s60FrtJmiz.jpg
 CATEGORIES:Histoire,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770687@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T184500Z
-DTEND:20260818T215300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\nAventure\, Action\, Fantast
- ique\nUnited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
- 𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : U
- niversal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt Damo
- n\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\n- C
- harlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- Jarre
- th J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son dépa
- rt pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais 
- son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : http
- s://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movie Da
- tabase (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
- l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
- ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca<br>(English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scén
- ario :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br
- ><b>Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><
- ul><li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert
-  Pattinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Legui
- zamo</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</l
- i><li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Ving
- t ans après son départ pour la guerre de Troie\, le roi Ulysse rentre en
- fin à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.<
- /p><p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB
- </a><br><br>Données fournies par The Movie Database (TMDB)</small></p></b
- ody></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770564@calendrier-cine-fr

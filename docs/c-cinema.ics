@@ -1639,79 +1639,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/aebmSpFu1lUV78PtO
 CATEGORIES:Comédie,Musique
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1736485@calendrier-cine-fr
-DTSTAMP:20260905T000000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Dans les cordes
-DESCRIPTION:(1.5)\n𝟭𝟵𝗺𝗶𝗻\n\nFrance\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿 : Belkacem Lalaoui\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Konstantin Pape\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : Avant la Nuit\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Iliès Kadri
- \n- Noham Edje\n- Yasmine Boujjat\n- Rachid Hafassa\n\n\nAmine\, un adoles
- cent solitaire\, fréquente à contrecœur la salle de boxe du coin. Pour 
- échapper à ces heures pénibles\, il se fixe sur Rayan\, un jeune boxeur
-  qui éveille en lui des désirs inconnus. Le soir\, après l’école\, A
- mine utilise des photos de sa cousine Sihem pour devenir « Amina » et di
- scuter en secret avec Rayan sur les réseaux sociaux.\n\n\nFiche TMDB : ht
- tps://www.themoviedb.org/movie/1736485\n\nDonnées fournies par The Movie 
- Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div>France<br><br>
- <b>Réalisateur :</b> Belkacem Lalaoui<br><b>Photographie :</b> Konstantin
-  Pape<br><b>Production :</b> Avant la Nuit<br><br><b>Acteurs :</b><ul><li>
- Iliès Kadri</li><li>Noham Edje</li><li>Yasmine Boujjat</li><li>Rachid Haf
- assa</li></ul></div><p>Amine\, un adolescent solitaire\, fréquente à con
- trecœur la salle de boxe du coin. Pour échapper à ces heures pénibles\
- , il se fixe sur Rayan\, un jeune boxeur qui éveille en lui des désirs i
- nconnus. Le soir\, après l’école\, Amine utilise des photos de sa cous
- ine Sihem pour devenir « Amina » et discuter en secret avec Rayan sur le
- s réseaux sociaux.</p><p><small><a href="https://www.themoviedb.org/movie
- /1736485">Fiche TMDB</a><br><br>Données fournies par The Movie Database (
- TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1736485
-TRANSP:TRANSPARENT
-CATEGORIES:Cinema
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1738515@calendrier-cine-fr
-DTSTAMP:20260906T000000Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:On s'était promis
-DESCRIPTION:https://image.tmdb.org/t/p/w780/80HMGgqAUzN8N1yNWp3wzyLygPX.jpg
- \n(1.4)\n𝟴𝗺𝗶𝗻\n\nDrame\nFR\n(French)\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿 : Thibault Geyer\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
- 𝗼 : Thibault Geyer\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Le Prode
- ur\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Simon Bonnot\n- Simon Bonnot\n- Kh
- alamité\n\n\nÀ la veille d'un nouveau départ\, un jeune homme retrouve 
- dans un parc un étrange inconnu qui semble le connaître mieux que person
- ne. Au fil de leur conversation\, des souvenirs enfouis\, des rêves oubli
- és et des promesses d'enfance ressurgissent.\n\n\nFiche TMDB : https://ww
- w.themoviedb.org/movie/1738515\n\nDonnées fournies par The Movie Database
-  (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/80HMGgqAUzN8N1yNWp3wzyLygPX.jpg" width="220" alt="Affi
- che de On s'était promis"><br><small>(1.4)</small><br><small>8min</small>
- </td><td width="16"></td><td valign="top"><i>Drame</i><br>FR<br>(French)<b
- r><br><b>Réalisateur :</b> Thibault Geyer<br><b>Scénario :</b> Thibault 
- Geyer<br><b>Production :</b> Le Prodeur<br><br><b>Acteurs :</b><ul><li>Sim
- on Bonnot</li><li>Simon Bonnot</li><li>Khalamité</li></ul></td></tr></tab
- le><p>À la veille d'un nouveau départ\, un jeune homme retrouve dans un 
- parc un étrange inconnu qui semble le connaître mieux que personne. Au f
- il de leur conversation\, des souvenirs enfouis\, des rêves oubliés et d
- es promesses d'enfance ressurgissent.</p><p><small><a href="https://www.th
- emoviedb.org/movie/1738515">Fiche TMDB</a><br><br>Données fournies par Th
- e Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1738515
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/80HMGgqAUzN8N1yNWp3wzyLygPX.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/80HMGgqAUzN8N1yNW
- p3wzyLygPX.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1507442@calendrier-cine-fr
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
@@ -2987,7 +2914,7 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Ni vue\, ni connue
-DESCRIPTION:https://image.tmdb.org/t/p/w780/zIA7PHpiIfLaZpgdvxLzUINUQgk.jpg
+DESCRIPTION:https://image.tmdb.org/t/p/w780/sXqiQw6cwZlp4B8OnT3LRGC6wgR.jpg
  \n(1.8)\n𝟭𝗵𝟱𝟯\n\nComédie\nFrance\, Belgium\n(French)\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Marc Fitoussi\n𝗦𝗰𝗲𝗻
  𝗮𝗿𝗶𝗼 : Marc Fitoussi\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
@@ -3006,7 +2933,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/zIA7PHpiIfLaZpgdvxLzUINUQgk.jpg
  Movie Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/zIA7PHpiIfLaZpgdvxLzUINUQgk.jpg" width="220" alt="Affi
+ e.tmdb.org/t/p/w780/sXqiQw6cwZlp4B8OnT3LRGC6wgR.jpg" width="220" alt="Affi
  che de Ni vue\, ni connue"><br><small>(1.8)</small><br><small>1h53</small>
  </td><td width="16"></td><td valign="top"><i>Comédie</i><br>France\, Belg
  ium<br>(French)<br><br><b>Réalisateur :</b> Marc Fitoussi<br><b>Scénario
@@ -3027,9 +2954,9 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
 URL:https://www.themoviedb.org/movie/1429592
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/zIA7PHpiIfLaZpgdvxLzUINUQgk.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zIA7PHpiIfLaZpgdv
- xLzUINUQgk.jpg
+ t/p/w780/sXqiQw6cwZlp4B8OnT3LRGC6wgR.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sXqiQw6cwZlp4B8On
+ T3LRGC6wgR.jpg
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
@@ -6142,54 +6069,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/eRq6Chsa6GksbX64T
  pMYUgOSRBY.jpg
 CATEGORIES:Romance,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1697811@calendrier-cine-fr
-DTSTAMP:20261231T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:Les Vouivres
-DESCRIPTION:https://image.tmdb.org/t/p/w780/ucBle6RC1L2FgVDa33J2TWuKIoZ.jpg
- \n(1.4)\n𝟮𝟬𝗺𝗶𝗻\n\nAventure\, Fantastique\nFrance\n(French)\
- n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Victoria Auzet\, Fé
- lix Lanaud\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Félix Lanaud\, Victoria Au
- zet\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Tommy Boullet\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Folle Allure\, Amnesy Films\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Lou MARLY\n- Emma CHARLES\n- Étienne GA
- LOO\n- Natéo ROCHER\n- Rayan ROCHER\n- Lancelot Dugrès\n\n\nJura\, été
-  1912. Deux sœurs\, Marie (11 ans) et Suzanne (15 ans)\, fuient leur quot
- idien pour  traverser la forêt et atteindre la grotte de la Vouivre\, fig
- ure féminine légendaire et  incarnation de la nature\, censée dévorer 
- ceux qui osent la défier. Entre croyance et  émancipation\, leur expédi
- tion prend un tournant inattendu. La Vouivre n’existe peut- être  pas m
- ais le mythe\, lui\, devient une arme.\n\n\nFiche TMDB : https://www.themo
- viedb.org/movie/1697811\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/ucBle6RC1L2FgVDa33J2TWuKIoZ.jpg" width="220" alt="Affi
- che de Les Vouivres"><br><small>(1.4)</small><br><small>20min</small></td>
- <td width="16"></td><td valign="top"><i>Aventure\, Fantastique</i><br>Fran
- ce<br>(French)<br><br><b>Réalisateurs :</b> Victoria Auzet\, Félix Lanau
- d<br><b>Scénario :</b> Félix Lanaud\, Victoria Auzet<br><b>Photographie 
- :</b> Tommy Boullet<br><b>Production :</b> Folle Allure\, Amnesy Films<br>
- <br><b>Acteurs :</b><ul><li>Lou MARLY</li><li>Emma CHARLES</li><li>Étienn
- e GALOO</li><li>Natéo ROCHER</li><li>Rayan ROCHER</li><li>Lancelot Dugrè
- s</li></ul></td></tr></table><p>Jura\, été 1912. Deux sœurs\, Marie (11
-  ans) et Suzanne (15 ans)\, fuient leur quotidien pour  traverser la forê
- t et atteindre la grotte de la Vouivre\, figure féminine légendaire et  
- incarnation de la nature\, censée dévorer ceux qui osent la défier. Ent
- re croyance et  émancipation\, leur expédition prend un tournant inatten
- du. La Vouivre n’existe peut- être  pas mais le mythe\, lui\, devient u
- ne arme.</p><p><small><a href="https://www.themoviedb.org/movie/1697811">F
- iche TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</smal
- l></p></body></html>
-URL:https://www.themoviedb.org/movie/1697811
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/ucBle6RC1L2FgVDa33J2TWuKIoZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ucBle6RC1L2FgVDa3
- 3J2TWuKIoZ.jpg
-CATEGORIES:Aventure,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1271661@calendrier-cine-fr
