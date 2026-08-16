@@ -121,8 +121,8 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # reflete l'attention d'un public surtout anglophone. Un petit film francais y
 # est mal note alors qu'il passe pres de chez vous ; un petit film international
 # confidentiel ne passera jamais. On filtre donc plus severement l'etranger.
-POPULARITE_MINIMALE = 3.0          # films en langue etrangere
-POPULARITE_MINIMALE_FR = 1.0       # films en langue francaise
+POPULARITE_MINIMALE = 3.5          # films en langue etrangere
+POPULARITE_MINIMALE_FR = 1.2       # films en langue francaise
 LANGUES_FRANCAISES = ("fr",)       # langues beneficiant du seuil francais
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
