@@ -121,8 +121,8 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # reflete l'attention d'un public surtout anglophone. Un petit film francais y
 # est mal note alors qu'il passe pres de chez vous ; un petit film international
 # confidentiel ne passera jamais. On filtre donc plus severement l'etranger.
-POPULARITE_MINIMALE = 3.0          # films en langue etrangere
-POPULARITE_MINIMALE_FR = 1.0       # films en langue francaise
+POPULARITE_MINIMALE = 3.5          # films en langue etrangere
+POPULARITE_MINIMALE_FR = 1.2       # films en langue francaise
 LANGUES_FRANCAISES = ("fr",)       # langues beneficiant du seuil francais
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
@@ -155,6 +155,7 @@ PREFIXE_TITRE = ""                 # texte place devant le titre, ex. "🎬 "
 REPLI_TITRE_ANGLAIS = False
 FICHIER_DE_SORTIE = "docs/c-cinema.ics"
 
+ESPACEMENT_SCORE = "   "           # entre le titre original et le score de popularite
 SEPARATEUR_ROMANISATION = " — "    # entre le titre original et sa version en alphabet latin
 LIGNES_AVANT_SYNOPSIS = 2          # aeration avant le synopsis (1 = comme les autres blocs)
 LIGNES_AVANT_MENTION = 2           # aeration avant la mention legale TMDB
@@ -581,6 +582,7 @@ def details_du_film(film):
         "synopsis_en_anglais": synopsis_en_anglais,
         "affiche": fiche.get("poster_path"),
         "duree": duree_en_minutes(fiche.get("runtime")),
+        "popularite": float(fiche.get("popularity") or 0) or None,
         "langue_origine": langue_originale(fiche),
     }
 
@@ -1330,8 +1332,11 @@ def description_texte(film):
     if affiche:
         entete.append(affiche)
     original = titre_original_a_afficher(film)
+    score = f"({film['popularite']:.1f})" if film.get("popularite") else ""
     if original:
-        entete.append(f"({original})")
+        entete.append(f"({original}){ESPACEMENT_SCORE}{score}".rstrip())
+    elif score:
+        entete.append(score)
     duree = duree_lisible(film.get("duree"))
     if duree:
         entete.append(duree)
@@ -1444,8 +1449,11 @@ def description_html(film):
             f'alt="Affiche de {echapper_html(film["titre"])}">'
         )
         original = titre_original_a_afficher(film)
+        score = f"({film['popularite']:.1f})" if film.get("popularite") else ""
         if original:
-            gauche += f"<br><small>({echapper_html(original)})</small>"
+            gauche += f"<br><small>{echapper_html(f'({original}){ESPACEMENT_SCORE}{score}'.rstrip())}</small>"
+        elif score:
+            gauche += f"<br><small>{echapper_html(score)}</small>"
         duree = duree_lisible(film.get("duree"))
         if duree:
             gauche += f"<br><small>{echapper_html(duree)}</small>"
@@ -1469,7 +1477,7 @@ def description_html(film):
 
     # --- sous le synopsis : la mention legale TMDB ---
     bouts.append(
-        f'<p><small><a href="{LIEN_TMDB}{film["id"]}">Fiche TMDB</a><br>'
+        f'<p><small><a href="{LIEN_TMDB}{film["id"]}">Fiche TMDB</a><br><br>'
         "Données fournies par The Movie Database (TMDB)"
         "</small></p>"
     )
@@ -1610,6 +1618,7 @@ def film_depuis_allocine(fiche):
         "synopsis_en_anglais": False,
         "affiche": (fiche.get("poster") or {}).get("url"),
         "duree": duree,
+        "popularite": None,
         "langue_origine": None, "sortie_initiale": None,
     }
 
