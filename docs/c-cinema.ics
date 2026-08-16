@@ -228,45 +228,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1337438@calendrier-cine-fr
-DTSTAMP:20260805T000000Z
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-SUMMARY:Les Silences de Riyad
-DESCRIPTION:https://image.tmdb.org/t/p/w780/i3PjFqaU0s2dwOeVioGiyxqAb7V.jpg
- \n(المجهولة)   (3.1)\n𝟭𝗵𝟯𝟵\n\n𝗖𝗿𝗶𝗺𝗲\, 
- 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\nSaudi Arabia (Arabic)\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Haifaa al-Mansour\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Haifaa al-Mansour\, Brad Niemann\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Rotana Studios\, Al Mansour Establishment\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- ميلا الزهراني\n- Aziz Gharbawi\n- Shafi 
- Al Harthy\n- Abdullah Al-Qahtani\n\n\nUne adolescente est retrouvée morte
-  dans le désert. Sa mère Noelle Al Saffan cherche des réponses car l'en
- quête piétine.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/133743
- 8\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/i3PjFqaU0s2dwOeVioGiyxqAb7V.jpg" width="220" alt="Affi
- che de Les Silences de Riyad"><br><small>(المجهولة)   (3.1)</small
- ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Crime
- \, Mystère</i><br>Saudi Arabia (Arabic)<br><br><b>Réalisateur :</b> Haif
- aa al-Mansour<br><b>Scénario :</b> Haifaa al-Mansour\, Brad Niemann<br><b
- >Production :</b> Rotana Studios\, Al Mansour Establishment<br><br><b>Acte
- urs :</b><ul><li>ميلا الزهراني</li><li>Aziz Gharbawi</li><li>S
- hafi Al Harthy</li><li>Abdullah Al-Qahtani</li></ul></td></tr></table><p>U
- ne adolescente est retrouvée morte dans le désert. Sa mère Noelle Al Sa
- ffan cherche des réponses car l'enquête piétine.</p><p><small><a href="
- https://www.themoviedb.org/movie/1337438">Fiche TMDB</a><br><br>Données f
- ournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1337438
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/i3PjFqaU0s2dwOeVioGiyxqAb7V.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/i3PjFqaU0s2dwOeVi
- oGiyxqAb7V.jpg
-CATEGORIES:Crime,Mystère
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1479832@calendrier-cine-fr
 DTSTAMP:20260807T000000Z
 DTSTART;VALUE=DATE:20260807
@@ -1202,42 +1163,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7jKMv96C03VRYxdbv
 CATEGORIES:Drame,Thriller
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1376470@calendrier-cine-fr
-DTSTAMP:20260819T000000Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:Tu me diras
-DESCRIPTION:(1.1)\n\n𝗗𝗿𝗮𝗺𝗲\, 𝗚𝘂𝗲𝗿𝗿𝗲\nFranc
- e\, Belgium\, Morocco (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Radu Mihăileanu\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Radu Mihăilea
- nu\, Alain-Michel Blanc\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
- : Laurent Dailland\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Elzévir Fi
- lms\, Oï  Oï  Oï Productions\, La Compagnie Cinématographique\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Pierre Lottin\n- Marwa Haqjoo\n- Karim Segha
- ir\n- Sima Seyed\n\n\n15 août 2021. Les Talibans rentrent dans Kaboul. Mi
- chael Le Guen\, sous-officier du RAID en charge de la sécurité de l’Am
- bassade de France décide le tout pour le tout afin de sauver une fillette
-  afghane dont les parents ont été assassinés.\n\n\nFiche TMDB : https:/
- /www.themoviedb.org/movie/1376470\n\nDonnées fournies par The Movie Datab
- ase (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame\, Gue
- rre</i><br>France\, Belgium\, Morocco (French)<br><br><b>Réalisateur :</b
- > Radu Mihăileanu<br><b>Scénario :</b> Radu Mihăileanu\, Alain-Michel B
- lanc<br><b>Photographie :</b> Laurent Dailland<br><b>Production :</b> Elz
- évir Films\, Oï  Oï  Oï Productions\, La Compagnie Cinématographique<
- br><br><b>Acteurs :</b><ul><li>Pierre Lottin</li><li>Marwa Haqjoo</li><li>
- Karim Seghair</li><li>Sima Seyed</li></ul></div><p>15 août 2021. Les Tali
- bans rentrent dans Kaboul. Michael Le Guen\, sous-officier du RAID en char
- ge de la sécurité de l’Ambassade de France décide le tout pour le tou
- t afin de sauver une fillette afghane dont les parents ont été assassin
- és.</p><p><small><a href="https://www.themoviedb.org/movie/1376470">Fiche
-  TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small></
- p></body></html>
-URL:https://www.themoviedb.org/movie/1376470
-TRANSP:TRANSPARENT
-CATEGORIES:Drame,Guerre
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1284186@calendrier-cine-fr
 DTSTAMP:20260820T000000Z
 DTSTART;VALUE=DATE:20260820
@@ -1283,107 +1208,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/o4iceiahzncK2yMnG
  6lnb4JSheq.jpg
 CATEGORIES:Aventure,Comédie,Action
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1331345@calendrier-cine-fr
-DTSTAMP:20260826T000000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Bombonera
-DESCRIPTION:https://image.tmdb.org/t/p/w780/ej9cbiiFhJRSS5QBQWltf7tP3gh.jpg
- \n(1.2)\n𝟭𝗵𝟮𝟳\n\n𝗗𝗿𝗮𝗺𝗲\nFrance (French)\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Syrine Boulanouar\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Karim Boukercha\, Syrine Boulanouar\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Fabio Caldironi\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : UNITÉ\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Lou
- ai El Amrousy\n- Soufiane Guerrab\n- Vimala Pons\n- Emma Boumali\n- Thomas
-  Aprahamian\n- Boubacar Kabo\n\n\nEnzo\, sans domicile\, enchaîne les arn
- aques sur le dos de jeunes prodiges du ballon. Lors de la sélection des j
- oueurs en vue d’un important tournoi de streetfoot dans son stade\, il e
- ntrevoit un très grand potentiel en la personne de Lisa\, 14 ans\, jeune 
- fille déterminée à devenir la première femme à jouer parmi des garço
- ns…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1331345\n\nDonné
- es fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/ej9cbiiFhJRSS5QBQWltf7tP3gh.jpg" width="220" alt="Affi
- che de Bombonera"><br><small>(1.2)</small><br><small>1h27</small></td><td 
- width="16"></td><td valign="top"><i>Drame</i><br>France (French)<br><br><b
- >Réalisateur :</b> Syrine Boulanouar<br><b>Scénario :</b> Karim Boukerch
- a\, Syrine Boulanouar<br><b>Photographie :</b> Fabio Caldironi<br><b>Produ
- ction :</b> UNITÉ<br><br><b>Acteurs :</b><ul><li>Louai El Amrousy</li><li
- >Soufiane Guerrab</li><li>Vimala Pons</li><li>Emma Boumali</li><li>Thomas 
- Aprahamian</li><li>Boubacar Kabo</li></ul></td></tr></table><p>Enzo\, sans
-  domicile\, enchaîne les arnaques sur le dos de jeunes prodiges du ballon
- . Lors de la sélection des joueurs en vue d’un important tournoi de str
- eetfoot dans son stade\, il entrevoit un très grand potentiel en la perso
- nne de Lisa\, 14 ans\, jeune fille déterminée à devenir la première fe
- mme à jouer parmi des garçons…</p><p><small><a href="https://www.themo
- viedb.org/movie/1331345">Fiche TMDB</a><br><br>Données fournies par The M
- ovie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1331345
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/ej9cbiiFhJRSS5QBQWltf7tP3gh.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ej9cbiiFhJRSS5QBQ
- Wltf7tP3gh.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1061771@calendrier-cine-fr
-DTSTAMP:20260826T000000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Decorado
-DESCRIPTION:https://image.tmdb.org/t/p/w780/sovYYZk4mWl5KkapkrozU6l85ze.jpg
- \n(3.4)\n𝟭𝗵𝟯𝟱\n\n𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻\, 𝗖
- 𝗼𝗺𝗲𝗱𝗶𝗲\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾𝘂𝗲\, 
- 𝗛𝗼𝗿𝗿𝗲𝘂𝗿\nSpain (Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿 : Alberto Vázquez\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
- : Alberto Vázquez\, F. Xavier Manuel\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : UniKo\, Abano Producións\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 
- Asier Hormaza\n- Aintzane Gamiz\n- Kandido Uranga\n- Mikel Garmendia\n- Jo
- sé Felipe Auzmendi\n- Ander Vildosola\n- Nagore Irizar\n- Arkaitz Gartzia
- ndia\n- Marga Altolaguirre\n- Iñaki Beraetxe\n- Aintzane Crujeiras\n- Ram
- ón Zalakain\n\n\nArnold\, une souris de la classe moyenne au chômage\, t
- raverse une crise existentielle profonde. Il vit dans une ville ou l'entre
- prise ultralibérale A.L.M.A. dirige tout \; abrutissant la population pou
- r mieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis
-  longtemps l'impression que ce monde est irréel et faux. Décidant de se 
- rebeller contre la société\, quitte à devoir affronter ses soi-disant a
- mis\, ses voisins\, ses médecins\, Arnold élabore un plan astucieux pour
-  s'échapper de la ville afin de commencer une nouvelle vie.\n\n\nFiche TM
- DB : https://www.themoviedb.org/movie/1061771\n\nDonnées fournies par The
-  Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/sovYYZk4mWl5KkapkrozU6l85ze.jpg" width="220" alt="Affi
- che de Decorado"><br><small>(3.4)</small><br><small>1h35</small></td><td w
- idth="16"></td><td valign="top"><i>Animation\, Comédie\, Fantastique\, Ho
- rreur</i><br>Spain (Spanish)<br><br><b>Réalisateur :</b> Alberto Vázquez
- <br><b>Scénario :</b> Alberto Vázquez\, F. Xavier Manuel<br><b>Productio
- n :</b> UniKo\, Abano Producións<br><br><b>Acteurs :</b><ul><li>Asier Hor
- maza</li><li>Aintzane Gamiz</li><li>Kandido Uranga</li><li>Mikel Garmendia
- </li><li>José Felipe Auzmendi</li><li>Ander Vildosola</li><li>Nagore Iriz
- ar</li><li>Arkaitz Gartziandia</li><li>Marga Altolaguirre</li><li>Iñaki B
- eraetxe</li><li>Aintzane Crujeiras</li><li>Ramón Zalakain</li></ul></td><
- /tr></table><p>Arnold\, une souris de la classe moyenne au chômage\, trav
- erse une crise existentielle profonde. Il vit dans une ville ou l'entrepri
- se ultralibérale A.L.M.A. dirige tout \; abrutissant la population pour m
- ieux imposer sa loi. Contrairement à sa femme María\, Arnold a depuis lo
- ngtemps l'impression que ce monde est irréel et faux. Décidant de se reb
- eller contre la société\, quitte à devoir affronter ses soi-disant amis
- \, ses voisins\, ses médecins\, Arnold élabore un plan astucieux pour s'
- échapper de la ville afin de commencer une nouvelle vie.</p><p><small><a 
- href="https://www.themoviedb.org/movie/1061771">Fiche TMDB</a><br><br>Donn
- ées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1061771
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/sovYYZk4mWl5KkapkrozU6l85ze.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sovYYZk4mWl5Kkapk
- rozU6l85ze.jpg
-CATEGORIES:Animation,Comédie,Fantastique,Horreur
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1507796@calendrier-cine-fr
@@ -1672,55 +1496,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ysfRdxQqOQqAcxxTF
 CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1446078@calendrier-cine-fr
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:La Malédiction des Tahu'a
-DESCRIPTION:https://image.tmdb.org/t/p/w780/3XNLCv7wRDcaR7QAuBedLGhP4DJ.jpg
- \n(1.0)\n\n𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\, 𝗛𝗼𝗿𝗿𝗲𝘂𝗿
- \nFrance (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Benjam
- in Busnel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Benjamin Busnel\, Myriam Dup
- uis\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Malory Congoste\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Parasomnia Productions\, Sony P
- ictures Entertainment France\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Marie Ka
- ffman\n- Alexandra Gentil\n- Ali Tiemoko-Haïdara\n- Ha'anui Bellais\n- To
- ki Pilioko\n- Frédérique Cantrel\n- Gaudéric Maléjac\n- Eddy Kelly\n- 
- Dany Verissimo-Petit\n- Tini Chaulet\n\n\nLa soirée de Moea\, une contrô
- leuse aérienne sur un atoll isolé du Pacifique. Alors qu’une tempête 
- tropicale arrive\, elle est contactée par un avion en difficulté qui n
- ’apparaît sur aucun radar. Tandis que d’étranges phénomènes font l
- eur apparition\, Moea comprend que la vraie menace se trouve à l’intér
- ieur de l’avion.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1446
- 078\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/3XNLCv7wRDcaR7QAuBedLGhP4DJ.jpg" width="220" alt="Affi
- che de La Malédiction des Tahu'a"><br><small>(1.0)</small></td><td width=
- "16"></td><td valign="top"><i>Thriller\, Horreur</i><br>France (French)<br
- ><br><b>Réalisateur :</b> Benjamin Busnel<br><b>Scénario :</b> Benjamin 
- Busnel\, Myriam Dupuis<br><b>Photographie :</b> Malory Congoste<br><b>Prod
- uction :</b> Parasomnia Productions\, Sony Pictures Entertainment France<b
- r><br><b>Acteurs :</b><ul><li>Marie Kaffman</li><li>Alexandra Gentil</li><
- li>Ali Tiemoko-Haïdara</li><li>Ha'anui Bellais</li><li>Toki Pilioko</li><
- li>Frédérique Cantrel</li><li>Gaudéric Maléjac</li><li>Eddy Kelly</li>
- <li>Dany Verissimo-Petit</li><li>Tini Chaulet</li></ul></td></tr></table><
- p>La soirée de Moea\, une contrôleuse aérienne sur un atoll isolé du P
- acifique. Alors qu’une tempête tropicale arrive\, elle est contactée p
- ar un avion en difficulté qui n’apparaît sur aucun radar. Tandis que d
- ’étranges phénomènes font leur apparition\, Moea comprend que la vrai
- e menace se trouve à l’intérieur de l’avion.</p><p><small><a href="h
- ttps://www.themoviedb.org/movie/1446078">Fiche TMDB</a><br><br>Données fo
- urnies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1446078
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/3XNLCv7wRDcaR7QAuBedLGhP4DJ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/3XNLCv7wRDcaR7QAu
- BedLGhP4DJ.jpg
-CATEGORIES:Thriller,Horreur
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1671548@calendrier-cine-fr
 DTSTAMP:20260902T000000Z
 DTSTART;VALUE=DATE:20260902
@@ -1774,59 +1549,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/s0sC3hPPX4OobLNfd
  l2iSs2vtvI.jpg
 CATEGORIES:Drame,Familial,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1130022@calendrier-cine-fr
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:Sovereign
-DESCRIPTION:https://image.tmdb.org/t/p/w780/cWXUMfnMj4ioReprwsDZgt8sghK.jpg
- \n(3.0)\n𝟭𝗵𝟰𝟭\n\n𝗖𝗿𝗶𝗺𝗲\, 𝗗𝗿𝗮𝗺𝗲\,
-  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christian Swegal\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Christian Swegal\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Dustin Lane\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : All Night Diner\, Concourse Media\, Rockhill Studios\n\n𝗔𝗰
- 𝘁𝗲𝘂𝗿𝘀 :\n- Nick Offerman\n- Jacob Tremblay\n- Dennis Quaid\
- n- Kezia Dacosta\n- Terry J. Nelson\n- Bobby Gilchrist\n- Megan Mullally\n
- - Ruby Wolf\n- Buddy Campbell\n- Tommy Kramer\n- Jared Carter\n- Jennifer 
- Nesbitt-Eck\n\n\nJer­ry\, père céli­ba­taire en rup­ture avec la soc
- ié­té\, endoc­trine son fils Joe dans le mou­ve­ment des Citoyens So
- u­ve­rains\, com­po­sé d’ac­ti­vistes anti-gou­ver­ne­men­tau
- x. À mesure que cette idéo­lo­gie les consume\, père et fils se dirig
- ent inexo­ra­ble­ment vers une confron­ta­tion avec un chef de la pol
- ice qui a consa­cré sa vie à défendre les lois que Jer­ry s’acharne
-  à piétiner.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1130022\
- n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/cWXUMfnMj4ioReprwsDZgt8sghK.jpg" width="220" alt="Affi
- che de Sovereign"><br><small>(3.0)</small><br><small>1h41</small></td><td 
- width="16"></td><td valign="top"><i>Crime\, Drame\, Thriller</i><br>United
-  States of America (English)<br><br><b>Réalisateur :</b> Christian Swegal
- <br><b>Scénario :</b> Christian Swegal<br><b>Photographie :</b> Dustin La
- ne<br><b>Production :</b> All Night Diner\, Concourse Media\, Rockhill Stu
- dios<br><br><b>Acteurs :</b><ul><li>Nick Offerman</li><li>Jacob Tremblay</
- li><li>Dennis Quaid</li><li>Kezia Dacosta</li><li>Terry J. Nelson</li><li>
- Bobby Gilchrist</li><li>Megan Mullally</li><li>Ruby Wolf</li><li>Buddy Cam
- pbell</li><li>Tommy Kramer</li><li>Jared Carter</li><li>Jennifer Nesbitt-E
- ck</li></ul></td></tr></table><p>Jer­ry\, père céli­ba­taire en rup­
- ture avec la socié­té\, endoc­trine son fils Joe dans le mou­ve­ment
-  des Citoyens Sou­ve­rains\, com­po­sé d’ac­ti­vistes anti-gou­v
- er­ne­men­taux. À mesure que cette idéo­lo­gie les consume\, père 
- et fils se dirigent inexo­ra­ble­ment vers une confron­ta­tion avec u
- n chef de la police qui a consa­cré sa vie à défendre les lois que Jer
- ­ry s’acharne à piétiner.</p><p><small><a href="https://www.themovied
- b.org/movie/1130022">Fiche TMDB</a><br><br>Données fournies par The Movie
-  Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1130022
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/cWXUMfnMj4ioReprwsDZgt8sghK.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cWXUMfnMj4ioReprw
- sDZgt8sghK.jpg
-CATEGORIES:Crime,Drame,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1092936@calendrier-cine-fr
@@ -2420,51 +2142,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4DDWugXO577GrmtBa
 CATEGORIES:Comédie,Drame,Romance
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1493053@calendrier-cine-fr
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:La Ligne bleue
-DESCRIPTION:https://image.tmdb.org/t/p/w780/z3yZKwgtYVwz7kz6vaX3gpckGAs.jpg
- \n(1.1)\n𝟮𝗵𝟬𝟰\n\n𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝗶𝗿
- 𝗲\nFrance (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ma
- rie Dumora\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Marie Dumor
- a\n\n\nLà-haut\, à huit-cents mètres d’altitude\, dans la vallée de 
- la Bruche\, à Natzwiller\, des hommes et des femmes vivaient du tissage\,
-  de la culture de l’orge et du seigle\, jusqu’à ce que les nazis vien
- nent y construire le camp de concentration du Struthof. Aujourd’hui enco
- re\, les hommes et la montagne portent les traces de ces blessures\, les s
- trates de cette mémoire meurtrie. Dans chaque maison\, dort une histoire.
-  Là-haut\, à travers les fenêtres des derniers témoins\, le film explo
- re une topographie des lieux\, une cartographie des mémoires\, autant qu
- ’il raconte une humanité.\n\n\nFiche TMDB : https://www.themoviedb.org/
- movie/1493053\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/z3yZKwgtYVwz7kz6vaX3gpckGAs.jpg" width="220" alt="Affi
- che de La Ligne bleue"><br><small>(1.1)</small><br><small>2h04</small></td
- ><td width="16"></td><td valign="top"><i>Documentaire</i><br>France (Frenc
- h)<br><br><b>Réalisateur :</b> Marie Dumora<br><b>Photographie :</b> Mari
- e Dumora</td></tr></table><p>Là-haut\, à huit-cents mètres d’altitude
- \, dans la vallée de la Bruche\, à Natzwiller\, des hommes et des femmes
-  vivaient du tissage\, de la culture de l’orge et du seigle\, jusqu’à
-  ce que les nazis viennent y construire le camp de concentration du Struth
- of. Aujourd’hui encore\, les hommes et la montagne portent les traces de
-  ces blessures\, les strates de cette mémoire meurtrie. Dans chaque maiso
- n\, dort une histoire. Là-haut\, à travers les fenêtres des derniers t
- émoins\, le film explore une topographie des lieux\, une cartographie des
-  mémoires\, autant qu’il raconte une humanité.</p><p><small><a href="h
- ttps://www.themoviedb.org/movie/1493053">Fiche TMDB</a><br><br>Données fo
- urnies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1493053
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/z3yZKwgtYVwz7kz6vaX3gpckGAs.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/z3yZKwgtYVwz7kz6v
- aX3gpckGAs.jpg
-CATEGORIES:Documentaire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1423191@calendrier-cine-fr
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
@@ -2956,56 +2633,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6q3zCTkbrHw0AhdfW
 CATEGORIES:Drame,Romance
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1358167@calendrier-cine-fr
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Où vont les âmes?
-DESCRIPTION:https://image.tmdb.org/t/p/w780/h3W7XAPzoaqtR6Ei6tRljkKp8lm.jpg
- \n(1.0)\n𝟮𝗵𝟬𝟭\n\n𝗗𝗿𝗮𝗺𝗲\nCanada (French)\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Brigitte Poupart\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Brigitte Poupart\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
- 𝗽𝗵𝗶𝗲 : Gontran Chartré\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : Bravo Charlie\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Sara Montpetit\n
- - Julianne Côté\n- Monia Chokri\n- Sylvie Testud\n- Micheline Lanctôt\n
- - Fabiola N. Aladin\n- Jean Marchand\n- Guillermina Kerwin\n- Reda Guerini
- k\n- Ambre Jabrane\n- Geneviève Laroche\n- Brigitte Poupart\n\n\nAnna\, 1
- 8 ans\, demande l’aide médicale à mourir. Elle décide de se laisser q
- uinze jours pour accomplir son souhait de revoir ses demi-sœurs avant de 
- s’éteindre. Séparées par le procès de leur père quatre ans auparava
- nt\, les trois sœurs révèlent leurs forces individuelles et collectives
-  à travers ces ultimes moments de sororité où leurs vies s'entremêlent
- .\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1358167\n\nDonnées f
- ournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/h3W7XAPzoaqtR6Ei6tRljkKp8lm.jpg" width="220" alt="Affi
- che de Où vont les âmes?"><br><small>(1.0)</small><br><small>2h01</small
- ></td><td width="16"></td><td valign="top"><i>Drame</i><br>Canada (French)
- <br><br><b>Réalisateur :</b> Brigitte Poupart<br><b>Scénario :</b> Brigi
- tte Poupart<br><b>Photographie :</b> Gontran Chartré<br><b>Production :</
- b> Bravo Charlie<br><br><b>Acteurs :</b><ul><li>Sara Montpetit</li><li>Jul
- ianne Côté</li><li>Monia Chokri</li><li>Sylvie Testud</li><li>Micheline 
- Lanctôt</li><li>Fabiola N. Aladin</li><li>Jean Marchand</li><li>Guillermi
- na Kerwin</li><li>Reda Guerinik</li><li>Ambre Jabrane</li><li>Geneviève L
- aroche</li><li>Brigitte Poupart</li></ul></td></tr></table><p>Anna\, 18 an
- s\, demande l’aide médicale à mourir. Elle décide de se laisser quinz
- e jours pour accomplir son souhait de revoir ses demi-sœurs avant de s’
- éteindre. Séparées par le procès de leur père quatre ans auparavant\,
-  les trois sœurs révèlent leurs forces individuelles et collectives à 
- travers ces ultimes moments de sororité où leurs vies s'entremêlent.</p
- ><p><small><a href="https://www.themoviedb.org/movie/1358167">Fiche TMDB</
- a><br><br>Données fournies par The Movie Database (TMDB)</small></p></bod
- y></html>
-URL:https://www.themoviedb.org/movie/1358167
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/h3W7XAPzoaqtR6Ei6tRljkKp8lm.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/h3W7XAPzoaqtR6Ei6
- tRljkKp8lm.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1375441@calendrier-cine-fr
 DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
@@ -3188,113 +2815,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hlNRCWGoFFvmRZERU
 CATEGORIES:Horreur
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1514891@calendrier-cine-fr
-DTSTAMP:20260930T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Mémoire de fille
-DESCRIPTION:https://image.tmdb.org/t/p/w780/vmSnGjmeu5Ql42ZRo1RYU2HbB3C.jpg
- \n(1.2)\n𝟭𝗵𝟱𝟳\n\n𝗗𝗿𝗮𝗺𝗲\nFrance\, Belgium (Frenc
- h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Judith Godrèche\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Judith Godrèche\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Joachim Philippe\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Moana Films\, Windy Production\, Parcelles Films\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tess Barthélémy\n- Valérie Dréville\
- n- Victor Bonnel\n- Ariane Labed\n- Maïwène Barthélémy\n- Anja Verdero
- sa\n- Louise Labèque\n- Manon Valentin\n- Esther Archambault\n- Mamadou S
- idibé\n- Thibault Bonenfant\n- Lancelot Courcieras\n\n\nAnnie Ernaux est 
- sollicitée pour une signature de son dernier ouvrage dans la ville de son
-  enfance\, Rouen. Alors qu'elle s'y rend\, elle est prise d'un vertige et 
- replonge dans le souvenir de l'été 1958\, celui de sa première nuit ave
- c un homme. Nuit dont l'onde de choc s'est propagée violemment dans son c
- orps et sur le reste de son existence.\n\n\nFiche TMDB : https://www.themo
- viedb.org/movie/1514891\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/vmSnGjmeu5Ql42ZRo1RYU2HbB3C.jpg" width="220" alt="Affi
- che de Mémoire de fille"><br><small>(1.2)</small><br><small>1h57</small><
- /td><td width="16"></td><td valign="top"><i>Drame</i><br>France\, Belgium 
- (French)<br><br><b>Réalisateur :</b> Judith Godrèche<br><b>Scénario :</
- b> Judith Godrèche<br><b>Photographie :</b> Joachim Philippe<br><b>Produc
- tion :</b> Moana Films\, Windy Production\, Parcelles Films<br><br><b>Acte
- urs :</b><ul><li>Tess Barthélémy</li><li>Valérie Dréville</li><li>Vict
- or Bonnel</li><li>Ariane Labed</li><li>Maïwène Barthélémy</li><li>Anja
-  Verderosa</li><li>Louise Labèque</li><li>Manon Valentin</li><li>Esther A
- rchambault</li><li>Mamadou Sidibé</li><li>Thibault Bonenfant</li><li>Lanc
- elot Courcieras</li></ul></td></tr></table><p>Annie Ernaux est sollicitée
-  pour une signature de son dernier ouvrage dans la ville de son enfance\, 
- Rouen. Alors qu'elle s'y rend\, elle est prise d'un vertige et replonge da
- ns le souvenir de l'été 1958\, celui de sa première nuit avec un homme.
-  Nuit dont l'onde de choc s'est propagée violemment dans son corps et sur
-  le reste de son existence.</p><p><small><a href="https://www.themoviedb.o
- rg/movie/1514891">Fiche TMDB</a><br><br>Données fournies par The Movie Da
- tabase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1514891
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/vmSnGjmeu5Ql42ZRo1RYU2HbB3C.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vmSnGjmeu5Ql42ZRo
- 1RYU2HbB3C.jpg
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1318864@calendrier-cine-fr
-DTSTAMP:20260930T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Notre salut
-DESCRIPTION:https://image.tmdb.org/t/p/w780/czoh6LEwj3FFIvkRQmXhEb0v9li.jpg
- \n(1.1)\n𝟮𝗵𝟯𝟯\n\n𝗛𝗶𝘀𝘁𝗼𝗶𝗿𝗲\, 𝗖𝗼
- 𝗺𝗲𝗱𝗶𝗲\, 𝗗𝗿𝗮𝗺𝗲\nFrance\, Belgium (French)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Emmanuel Marre\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Emmanuel Marre\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Olivier Boonjing\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : Kidam\, Michigan Films\, Les Films Pelléas\n\n𝗔𝗰𝘁𝗲
- 𝘂𝗿𝘀 :\n- Swann Arlaud\n- Sandrine Blancke\n- Mathieu Perotto\n- H
- arpo Guit\n- Mathilde Abd El Kader\n- Jean-Baptiste Marre\n- Bruno Borsu\n
- - Claudine Barthel Fournier\n- Yoann Blanc\n- Thierry de Peretti\n- Maxim 
- Driesen\n- Paul Garatte\n\n\nSeptembre 1940\, le régime de Pétain se met
-  en place. Henri Marre\, 49 ans\, débarque à Vichy sans le sou\, sans co
- ntact\, loin de sa femme et ses enfants. Il voit dans la nouvelle administ
- ration l’opportunité de trouver enfin la place qu’il mérite. Dans sa
-  valise\, son traité politique édité à compte d’auteur\, Notre Salut
- \, où il défend ses convictions patriotiques et ses méthodes d'ingénie
- ur. Son credo: « gagner en efficacité » pour relever la France de la d
- ébâcle. Mais peut-être qu’Henri cherche avant tout à fuir sa propre 
- débâcle…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1318864\n\
- nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/czoh6LEwj3FFIvkRQmXhEb0v9li.jpg" width="220" alt="Affi
- che de Notre salut"><br><small>(1.1)</small><br><small>2h33</small></td><t
- d width="16"></td><td valign="top"><i>Histoire\, Comédie\, Drame</i><br>F
- rance\, Belgium (French)<br><br><b>Réalisateur :</b> Emmanuel Marre<br><b
- >Scénario :</b> Emmanuel Marre<br><b>Photographie :</b> Olivier Boonjing<
- br><b>Production :</b> Kidam\, Michigan Films\, Les Films Pelléas<br><br>
- <b>Acteurs :</b><ul><li>Swann Arlaud</li><li>Sandrine Blancke</li><li>Math
- ieu Perotto</li><li>Harpo Guit</li><li>Mathilde Abd El Kader</li><li>Jean-
- Baptiste Marre</li><li>Bruno Borsu</li><li>Claudine Barthel Fournier</li><
- li>Yoann Blanc</li><li>Thierry de Peretti</li><li>Maxim Driesen</li><li>Pa
- ul Garatte</li></ul></td></tr></table><p>Septembre 1940\, le régime de P
- étain se met en place. Henri Marre\, 49 ans\, débarque à Vichy sans le 
- sou\, sans contact\, loin de sa femme et ses enfants. Il voit dans la nouv
- elle administration l’opportunité de trouver enfin la place qu’il mé
- rite. Dans sa valise\, son traité politique édité à compte d’auteur\
- , Notre Salut\, où il défend ses convictions patriotiques et ses méthod
- es d'ingénieur. Son credo: « gagner en efficacité » pour relever la Fr
- ance de la débâcle. Mais peut-être qu’Henri cherche avant tout à fui
- r sa propre débâcle…</p><p><small><a href="https://www.themoviedb.org/
- movie/1318864">Fiche TMDB</a><br><br>Données fournies par The Movie Datab
- ase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1318864
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/czoh6LEwj3FFIvkRQmXhEb0v9li.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/czoh6LEwj3FFIvkRQ
- mXhEb0v9li.jpg
-CATEGORIES:Histoire,Comédie,Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1283515@calendrier-cine-fr
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
@@ -3407,71 +2927,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ncJWnLIT2Lb1Hb4WE
 CATEGORIES:Animation,Aventure,Fantastique,Familial
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1001405@calendrier-cine-fr
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:L'Espèce explosive
-DESCRIPTION:https://image.tmdb.org/t/p/w780/vKn8iEridbzuPBtTp8ZX4yKmRmS.jpg
- \n(1.1)\n𝟭𝗵𝟯𝟱\n\n𝗗𝗿𝗮𝗺𝗲\, 𝗖𝗿𝗶𝗺𝗲\,
-  𝗖𝗼𝗺𝗲𝗱𝗶𝗲\nFrance (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿 : Sarah Arnold\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sa
- rah Arnold\, Olivier Séror\, Jérémie Dubois\n𝗣𝗵𝗼𝘁𝗼𝗴
- 𝗿𝗮𝗽𝗵𝗶𝗲 : Noé Bach\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : France 3 Cinéma\, 5à7 Films\, Pan-Européenne\n\n𝗔𝗰𝘁𝗲
- 𝘂𝗿𝘀 :\n- Alexis Manenti\n- Ella Rumpf\n- Vincent Dedienne\n- Jean
- -Louis Coulloc'h\n- Pascal Rénéric\n- Bertrand Belin\n- Jade Fiess\n- Be
- rnard Blancan\n- Thierry Godard\n- Mathieu Perotto\n- Xavier de Guillebon\
- n- Jacques Develay\n\n\nDans la campagne du Nord-Est de la France. Les san
- gliers qui ravagent les cultures provoquent une guerre ouverte entre chass
- eurs et agriculteurs. Brun\, céréalier en faillite\, lutte pour mainteni
- r sa ferme à flot. Quand un notable du coin le pousse à bout\, il dérai
- lle et disparaît. Un an plus tard\, Fulda\, un gendarme corse muté dans 
- la région pour raisons disciplinaires\, mène l’enquête. Entre intuiti
- ons fulgurantes et ratés spectaculaires\, ses méthodes approximatives le
-  mènent sur la piste des Attilas\, des sangliers aux dimensions hors norm
- es. Mais sa récente rupture amoureuse et la vodka dans laquelle flotte so
- n cerveau n’aident pas. Heureusement\, il y a Stéphane\, la nouvelle ps
- y de la gendarmerie : elle est là pour mettre un peu d’ordre dans son c
- haos — à moins que ce ne soit l’inverse ?\n\n\nFiche TMDB : https://w
- ww.themoviedb.org/movie/1001405\n\nDonnées fournies par The Movie Databas
- e (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/vKn8iEridbzuPBtTp8ZX4yKmRmS.jpg" width="220" alt="Affi
- che de L'Espèce explosive"><br><small>(1.1)</small><br><small>1h35</small
- ></td><td width="16"></td><td valign="top"><i>Drame\, Crime\, Comédie</i>
- <br>France (French)<br><br><b>Réalisateur :</b> Sarah Arnold<br><b>Scéna
- rio :</b> Sarah Arnold\, Olivier Séror\, Jérémie Dubois<br><b>Photograp
- hie :</b> Noé Bach<br><b>Production :</b> France 3 Cinéma\, 5à7 Films\,
-  Pan-Européenne<br><br><b>Acteurs :</b><ul><li>Alexis Manenti</li><li>Ell
- a Rumpf</li><li>Vincent Dedienne</li><li>Jean-Louis Coulloc'h</li><li>Pasc
- al Rénéric</li><li>Bertrand Belin</li><li>Jade Fiess</li><li>Bernard Bla
- ncan</li><li>Thierry Godard</li><li>Mathieu Perotto</li><li>Xavier de Guil
- lebon</li><li>Jacques Develay</li></ul></td></tr></table><p>Dans la campag
- ne du Nord-Est de la France. Les sangliers qui ravagent les cultures provo
- quent une guerre ouverte entre chasseurs et agriculteurs. Brun\, céréali
- er en faillite\, lutte pour maintenir sa ferme à flot. Quand un notable d
- u coin le pousse à bout\, il déraille et disparaît. Un an plus tard\, F
- ulda\, un gendarme corse muté dans la région pour raisons disciplinaires
- \, mène l’enquête. Entre intuitions fulgurantes et ratés spectaculair
- es\, ses méthodes approximatives le mènent sur la piste des Attilas\, de
- s sangliers aux dimensions hors normes. Mais sa récente rupture amoureuse
-  et la vodka dans laquelle flotte son cerveau n’aident pas. Heureusement
- \, il y a Stéphane\, la nouvelle psy de la gendarmerie : elle est là pou
- r mettre un peu d’ordre dans son chaos — à moins que ce ne soit l’i
- nverse ?</p><p><small><a href="https://www.themoviedb.org/movie/1001405">F
- iche TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</smal
- l></p></body></html>
-URL:https://www.themoviedb.org/movie/1001405
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/vKn8iEridbzuPBtTp8ZX4yKmRmS.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vKn8iEridbzuPBtTp
- 8ZX4yKmRmS.jpg
-CATEGORIES:Drame,Crime,Comédie
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1547995@calendrier-cine-fr
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
@@ -3519,46 +2974,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/f6qgo7R1teVQAPn8l
  QnHbr3HnRd.jpg
 CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1711490@calendrier-cine-fr
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Le Monde à l'envers
-DESCRIPTION:https://image.tmdb.org/t/p/w780/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg
- \n(1.1)\n𝟰𝟱𝗺𝗶𝗻\n\n𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻\nBel
- gium\, France (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀
-  : Arnaud Demuynck\, Noé Garcia\, Erwann Hette\, Pascale Hecquet\, Stéph
- anie Yang Chun\, Tristan Francia\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Les Films du Nord\, La Boîte\, ... Productions\n\n\nUn souriceau qui v
- it la tête à l’envers\, un tout petit poisson explorateur et des enfan
- ts à l’imagination débordante: ces personnages nous invitent à nous m
- ettre à la place de celles et ceux qui perçoivent le monde différemment
-  pour mieux les comprendre.\n\n\nFiche TMDB : https://www.themoviedb.org/m
- ovie/1711490\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg" width="220" alt="Affi
- che de Le Monde à l'envers"><br><small>(1.1)</small><br><small>45min</sma
- ll></td><td width="16"></td><td valign="top"><i>Animation</i><br>Belgium\,
-  France (French)<br><br><b>Réalisateurs :</b> Arnaud Demuynck\, Noé Garc
- ia\, Erwann Hette\, Pascale Hecquet\, Stéphanie Yang Chun\, Tristan Franc
- ia<br><b>Production :</b> Les Films du Nord\, La Boîte\, ... Productions<
- /td></tr></table><p>Un souriceau qui vit la tête à l’envers\, un tout 
- petit poisson explorateur et des enfants à l’imagination débordante: c
- es personnages nous invitent à nous mettre à la place de celles et ceux 
- qui perçoivent le monde différemment pour mieux les comprendre.</p><p><s
- mall><a href="https://www.themoviedb.org/movie/1711490">Fiche TMDB</a><br>
- <br>Données fournies par The Movie Database (TMDB)</small></p></body></ht
- ml>
-URL:https://www.themoviedb.org/movie/1711490
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zRmRwAZV7AGcnzxFM
- 92ENUK2yvA.jpg
-CATEGORIES:Animation
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1564614@calendrier-cine-fr
@@ -4387,54 +3802,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1477104@calendrier-cine-fr
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Shaun le Mouton : La Bêêête d'Halloween
-DESCRIPTION:https://image.tmdb.org/t/p/w780/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg
- \n(Shaun the Sheep: The Beast of Mossy Bottom)   (3.0)\n𝟭𝗵𝟮𝟭\n
- \n𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻\, 𝗖𝗼𝗺𝗲𝗱𝗶𝗲\, 
- 𝗔𝘃𝗲𝗻𝘁𝘂𝗿𝗲\, 𝗦𝗰𝗶𝗲𝗻𝗰𝗲-𝗙𝗶
- 𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\nUnited Kingdom\, 
- France (No Language)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 :
-  Steve Cox\, Matthew Walker\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mark Burto
- n\, Giles Pilbrow\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Aardman\, St
- udioCanal\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Justin Fletcher\n- John Spa
- rkes\n- Kate Harbour\n\n\nÀ Halloween\, les habitants de la ferme de Moss
- y Bottom se réjouissent des festivités\, jusqu’à ce que le Fermier ma
- ladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se
-  transforme en scientifique fou pour résoudre le problème\, les choses d
- érapent : le Fermier disparaît et une bête sauvage rôde dans les bois.
- \n\n\nFiche TMDB : https://www.themoviedb.org/movie/1477104\n\nDonnées fo
- urnies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg" width="220" alt="Affi
- che de Shaun le Mouton : La Bêêête d'Halloween"><br><small>(Shaun the S
- heep: The Beast of Mossy Bottom)   (3.0)</small><br><small>1h21</small></t
- d><td width="16"></td><td valign="top"><i>Animation\, Comédie\, Aventure\
- , Science-Fiction\, Familial</i><br>United Kingdom\, France (No Language)<
- br><br><b>Réalisateurs :</b> Steve Cox\, Matthew Walker<br><b>Scénario :
- </b> Mark Burton\, Giles Pilbrow<br><b>Production :</b> Aardman\, StudioCa
- nal<br><br><b>Acteurs :</b><ul><li>Justin Fletcher</li><li>John Sparkes</l
- i><li>Kate Harbour</li></ul></td></tr></table><p>À Halloween\, les habita
- nts de la ferme de Mossy Bottom se réjouissent des festivités\, jusqu’
- à ce que le Fermier maladroit saccage les citrouilles bien-aimées du tro
- upeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le p
- roblème\, les choses dérapent : le Fermier disparaît et une bête sauva
- ge rôde dans les bois.</p><p><small><a href="https://www.themoviedb.org/m
- ovie/1477104">Fiche TMDB</a><br><br>Données fournies par The Movie Databa
- se (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1477104
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/poG8LaprHjz2Ka0c6
- zCvDrVjEUq.jpg
-CATEGORIES:Animation,Comédie,Aventure,Science-Fiction,Familial
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1381027@calendrier-cine-fr
 DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
@@ -4847,93 +4214,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/brhIE4RjToAKcHCkV
 CATEGORIES:Science-Fiction,Horreur
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1746571@calendrier-cine-fr
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Woodstock express
-DESCRIPTION:https://image.tmdb.org/t/p/w780/xVcwgQJh5xZtFC6JvX3YgokpSjW.jpg
- \n(1.0)\n𝟭𝗵𝟮𝟱\n\n𝗖𝗼𝗺𝗲𝗱𝗶𝗲\, 𝗗𝗿𝗮
- 𝗺𝗲\, 𝗠𝘂𝘀𝗶𝗾𝘂𝗲\nFrance (French)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Coline Pagoda\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Coline Pagoda\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
-  : Florian De Magalhaes\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Coco &
-  Co Prod\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Joseph Boisselle\n- Eliott L
- obrot\n- Lison Boisselle\n\n\nLorsqu'un ami tombe dans le désespoir\, Juv
- énal (12 ans) se demande : il est musicien\, pourquoi cela ne suffit-il p
- as ? Et comment la musique pourrait-elle le protéger ? C'est alors qu'il 
- entend parler du festival de Woodstock.\n\n\nFiche TMDB : https://www.them
- oviedb.org/movie/1746571\n\nDonnées fournies par The Movie Database (TMDB
- )
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/xVcwgQJh5xZtFC6JvX3YgokpSjW.jpg" width="220" alt="Affi
- che de Woodstock express"><br><small>(1.0)</small><br><small>1h25</small><
- /td><td width="16"></td><td valign="top"><i>Comédie\, Drame\, Musique</i>
- <br>France (French)<br><br><b>Réalisateur :</b> Coline Pagoda<br><b>Scén
- ario :</b> Coline Pagoda<br><b>Photographie :</b> Florian De Magalhaes<br>
- <b>Production :</b> Coco &amp\; Co Prod<br><br><b>Acteurs :</b><ul><li>Jos
- eph Boisselle</li><li>Eliott Lobrot</li><li>Lison Boisselle</li></ul></td>
- </tr></table><p>Lorsqu'un ami tombe dans le désespoir\, Juvénal (12 ans)
-  se demande : il est musicien\, pourquoi cela ne suffit-il pas ? Et commen
- t la musique pourrait-elle le protéger ? C'est alors qu'il entend parler 
- du festival de Woodstock.</p><p><small><a href="https://www.themoviedb.org
- /movie/1746571">Fiche TMDB</a><br><br>Données fournies par The Movie Data
- base (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1746571
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/xVcwgQJh5xZtFC6JvX3YgokpSjW.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xVcwgQJh5xZtFC6Jv
- X3YgokpSjW.jpg
-CATEGORIES:Comédie,Drame,Musique
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1585239@calendrier-cine-fr
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Club Kid
-DESCRIPTION:https://image.tmdb.org/t/p/w780/6vAp5qyxvgh1g937AqXi30Rt9UE.jpg
- \n(3.2)\n𝟮𝗵𝟬𝟲\n\n𝗖𝗼𝗺𝗲𝗱𝗶𝗲\, 𝗗𝗿𝗮
- 𝗺𝗲\nUnited States of America (English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿 : Jordan Firstman\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 :
-  Jordan Firstman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adam 
- Newport-Berra\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Topic Studios\, 
- Stay Gold Features\, Rapt Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Jorda
- n Firstman\n- Cara Delevingne\n- Diego Calva\n- Reggie Absolom\n- Kirby Ho
- well-Baptiste\n- Colleen Camp\n- Eldar Isgandarov\n- Miss Benny\n- Tanner 
- Devore\n- Saturn Risin9\n- Ludwig Hurtado\n\n\n(synopsis non encore tradui
- t sur TMDB)\nA hard-partying New York City club promoter sees his whirlwin
- d lifestyle upended by the arrival of the 10-year-old son he never knew he
-  had.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1585239\n\nDonné
- es fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/6vAp5qyxvgh1g937AqXi30Rt9UE.jpg" width="220" alt="Affi
- che de Club Kid"><br><small>(3.2)</small><br><small>2h06</small></td><td w
- idth="16"></td><td valign="top"><i>Comédie\, Drame</i><br>United States o
- f America (English)<br><br><b>Réalisateur :</b> Jordan Firstman<br><b>Sc
- énario :</b> Jordan Firstman<br><b>Photographie :</b> Adam Newport-Berra<
- br><b>Production :</b> Topic Studios\, Stay Gold Features\, Rapt Films<br>
- <br><b>Acteurs :</b><ul><li>Jordan Firstman</li><li>Cara Delevingne</li><l
- i>Diego Calva</li><li>Reggie Absolom</li><li>Kirby Howell-Baptiste</li><li
- >Colleen Camp</li><li>Eldar Isgandarov</li><li>Miss Benny</li><li>Tanner D
- evore</li><li>Saturn Risin9</li><li>Ludwig Hurtado</li></ul></td></tr></ta
- ble><p><i>(synopsis non encore traduit sur TMDB)</i><br>A hard-partying Ne
- w York City club promoter sees his whirlwind lifestyle upended by the arri
- val of the 10-year-old son he never knew he had.</p><p><small><a href="htt
- ps://www.themoviedb.org/movie/1585239">Fiche TMDB</a><br><br>Données four
- nies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1585239
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/6vAp5qyxvgh1g937AqXi30Rt9UE.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6vAp5qyxvgh1g937A
- qXi30Rt9UE.jpg
-CATEGORIES:Comédie,Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1729329@calendrier-cine-fr
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
@@ -5151,53 +4431,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/q539jeQw6RdAvXf2h
  HqOMvqMEAr.jpg
 CATEGORIES:Histoire,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1729337@calendrier-cine-fr
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Silence
-DESCRIPTION:https://image.tmdb.org/t/p/w780/9aQqKti6zfDSrqsfa9kZjPXYHeS.jpg
- \n(1.2)\n\n𝗗𝗿𝗮𝗺𝗲\nFrance (French)\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Thibaut Miche\, Patrick Attali\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Thibaut Miche\, Patrick Attali\n𝗣𝗿𝗼
- 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Nema 777\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\
- n- Moussa Maaskri\n- Juliette Perez\n- Ninon Le Henry\n- Vadim Léger\n\n\
- nSarah (15 ans)\, drôle et discrète\, voit son monde basculer quand des 
- photos “sexy”\, prises naïvement avec sa meilleure amie Chloé\, fuit
- ent au collège. Au centre du manège : Charles\, meneur charismatique et 
- cruel\, qui fait la loi dans la classe et va faire de Sarah son bouc émis
- saire en lançant un harcèlement quotidien sur elle. Face à cette monté
- e invisible\, M. Favin\, professeur principal au calme fragile\, perçoit 
- ce que les autres refusent de voir : l’isolement\, la honte\, la bascule
-  possible.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1729337\n\nD
- onnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/9aQqKti6zfDSrqsfa9kZjPXYHeS.jpg" width="220" alt="Affi
- che de Silence"><br><small>(1.2)</small></td><td width="16"></td><td valig
- n="top"><i>Drame</i><br>France (French)<br><br><b>Réalisateurs :</b> Thib
- aut Miche\, Patrick Attali<br><b>Scénario :</b> Thibaut Miche\, Patrick A
- ttali<br><b>Production :</b> Nema 777<br><br><b>Acteurs :</b><ul><li>Mouss
- a Maaskri</li><li>Juliette Perez</li><li>Ninon Le Henry</li><li>Vadim Lég
- er</li></ul></td></tr></table><p>Sarah (15 ans)\, drôle et discrète\, vo
- it son monde basculer quand des photos “sexy”\, prises naïvement avec
-  sa meilleure amie Chloé\, fuitent au collège. Au centre du manège : Ch
- arles\, meneur charismatique et cruel\, qui fait la loi dans la classe et 
- va faire de Sarah son bouc émissaire en lançant un harcèlement quotidie
- n sur elle. Face à cette montée invisible\, M. Favin\, professeur princi
- pal au calme fragile\, perçoit ce que les autres refusent de voir : l’i
- solement\, la honte\, la bascule possible.</p><p><small><a href="https://w
- ww.themoviedb.org/movie/1729337">Fiche TMDB</a><br><br>Données fournies p
- ar The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1729337
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/9aQqKti6zfDSrqsfa9kZjPXYHeS.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9aQqKti6zfDSrqsfa
- 9kZjPXYHeS.jpg
-CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1562642@calendrier-cine-fr
@@ -5528,110 +4761,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4kSGIZfmm3NXkIV5R
 CATEGORIES:Aventure,Fantastique,Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1049439@calendrier-cine-fr
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:L'Âge d'or
-DESCRIPTION:https://image.tmdb.org/t/p/w780/tuLe4oHdG4wrCsscEpcCxzibBfB.jpg
- \n(1.1)\n𝟭𝗵𝟱𝟯\n\n𝗛𝗶𝘀𝘁𝗼𝗶𝗿𝗲\, 𝗗𝗿
- 𝗮𝗺𝗲\nFrance\, Italy (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿 : Bérenger Thouin\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mehdi 
- Ben Attia\, Bérenger Thouin\, Virginie Legeay\n𝗣𝗵𝗼𝘁𝗼𝗴
- 𝗿𝗮𝗽𝗵𝗶𝗲 : Martin Roux\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : Gogogo Films\, Graffiti Film\, Les Films de la Chapelle\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Souheila Yacoub\n- Vassili Schneider\n- Pier
- re-Antoine Billon\n- Yile Yara Vianello\n- Laïs Mayyas\n- Kevin Lissajoux
- \n\n\nLa vie hors-norme de Jeanne Lavaur n’appartient qu’à elle-même
- . Elle traverse le XXème siècle et défie son destin\, depuis son enfanc
- e dans la boucherie de ses parents jusqu’à son rêve de devenir comtess
- e. D’une guerre à l’autre\, du Paris des années folles au Brésil\, 
- son chemin croise l’Histoire et embrasse le monde\, aux côtés de Guill
- aume de Barante et de l’intrépide Céleste.\n\n\nFiche TMDB : https://w
- ww.themoviedb.org/movie/1049439\n\nDonnées fournies par The Movie Databas
- e (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/tuLe4oHdG4wrCsscEpcCxzibBfB.jpg" width="220" alt="Affi
- che de L'Âge d'or"><br><small>(1.1)</small><br><small>1h53</small></td><t
- d width="16"></td><td valign="top"><i>Histoire\, Drame</i><br>France\, Ita
- ly (French)<br><br><b>Réalisateur :</b> Bérenger Thouin<br><b>Scénario 
- :</b> Mehdi Ben Attia\, Bérenger Thouin\, Virginie Legeay<br><b>Photograp
- hie :</b> Martin Roux<br><b>Production :</b> Gogogo Films\, Graffiti Film\
- , Les Films de la Chapelle<br><br><b>Acteurs :</b><ul><li>Souheila Yacoub<
- /li><li>Vassili Schneider</li><li>Pierre-Antoine Billon</li><li>Yile Yara 
- Vianello</li><li>Laïs Mayyas</li><li>Kevin Lissajoux</li></ul></td></tr><
- /table><p>La vie hors-norme de Jeanne Lavaur n’appartient qu’à elle-m
- ême. Elle traverse le XXème siècle et défie son destin\, depuis son en
- fance dans la boucherie de ses parents jusqu’à son rêve de devenir com
- tesse. D’une guerre à l’autre\, du Paris des années folles au Brési
- l\, son chemin croise l’Histoire et embrasse le monde\, aux côtés de G
- uillaume de Barante et de l’intrépide Céleste.</p><p><small><a href="h
- ttps://www.themoviedb.org/movie/1049439">Fiche TMDB</a><br><br>Données fo
- urnies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1049439
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/tuLe4oHdG4wrCsscEpcCxzibBfB.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tuLe4oHdG4wrCsscE
- pcCxzibBfB.jpg
-CATEGORIES:Histoire,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1496012@calendrier-cine-fr
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:L’Ordre Pourpre
-DESCRIPTION:https://image.tmdb.org/t/p/w780/3r3R4pHya1vH8rrytVcY1I83tiG.jpg
- \n(1.1)\n𝟭𝗵𝟯𝟬\n\n𝗛𝗼𝗿𝗿𝗲𝘂𝗿\, 𝗠𝘆𝘀
- 𝘁𝗲𝗿𝗲\, 𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\, 𝗖𝗼𝗺𝗲𝗱
- 𝗶𝗲\nBelgium (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
-  : Thomas Ancora\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Thomas Ancora\n𝗣
- 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Samuel Esselinckx\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : RTBF\, Les Gens\n\n𝗔𝗰𝘁𝗲𝘂
- 𝗿𝘀 :\n- Mentissa\n- Janelle Vanes\n- Victor Meutelet\n- Nicolas Goda
- rt\n- Fantine Harduin\n- Igor van Dessel\n- Milton Riche\n- Bernard Yerlè
- s\n- Emma Dupont\n- Thomas Ancora\n- Jeanne Sauvat\n\n\nAu cours d’un bi
- zutage sur un campus élitiste\, un jeune étudiant est tué. Panique\, le
- s participants\, jeunes\, brillants\, intouchables décident d’étouffer
-  l’affaire. Un an plus tard\, Octave et les autres étudiants reçoivent
-  un colis inquiétant: quelqu’un sait et veut se venger. cette fois-ci\,
-  leur statut social et leurs privilèges ne suffiront pas à les protéger
- . Qui est le mystérieux tueur ? surtout...qui sera encore vivant à la fi
- n du weekend ? Bienvenue dans l’ordre pourpre !\n\n\nFiche TMDB : https:
- //www.themoviedb.org/movie/1496012\n\nDonnées fournies par The Movie Data
- base (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/3r3R4pHya1vH8rrytVcY1I83tiG.jpg" width="220" alt="Affi
- che de L’Ordre Pourpre"><br><small>(1.1)</small><br><small>1h30</small><
- /td><td width="16"></td><td valign="top"><i>Horreur\, Mystère\, Thriller\
- , Comédie</i><br>Belgium (French)<br><br><b>Réalisateur :</b> Thomas Anc
- ora<br><b>Scénario :</b> Thomas Ancora<br><b>Photographie :</b> Samuel Es
- selinckx<br><b>Production :</b> RTBF\, Les Gens<br><br><b>Acteurs :</b><ul
- ><li>Mentissa</li><li>Janelle Vanes</li><li>Victor Meutelet</li><li>Nicola
- s Godart</li><li>Fantine Harduin</li><li>Igor van Dessel</li><li>Milton Ri
- che</li><li>Bernard Yerlès</li><li>Emma Dupont</li><li>Thomas Ancora</li>
- <li>Jeanne Sauvat</li></ul></td></tr></table><p>Au cours d’un bizutage s
- ur un campus élitiste\, un jeune étudiant est tué. Panique\, les partic
- ipants\, jeunes\, brillants\, intouchables décident d’étouffer l’aff
- aire. Un an plus tard\, Octave et les autres étudiants reçoivent un coli
- s inquiétant: quelqu’un sait et veut se venger. cette fois-ci\, leur st
- atut social et leurs privilèges ne suffiront pas à les protéger. Qui es
- t le mystérieux tueur ? surtout...qui sera encore vivant à la fin du wee
- kend ? Bienvenue dans l’ordre pourpre !</p><p><small><a href="https://ww
- w.themoviedb.org/movie/1496012">Fiche TMDB</a><br><br>Données fournies pa
- r The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1496012
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/3r3R4pHya1vH8rrytVcY1I83tiG.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/3r3R4pHya1vH8rryt
- VcY1I83tiG.jpg
-CATEGORIES:Horreur,Mystère,Thriller,Comédie
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1567605@calendrier-cine-fr
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
@@ -5797,58 +4926,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7w6v7FHdTbxuKqAPi
  MqKxEq8hro.jpg
 CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1502759@calendrier-cine-fr
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Jupiter
-DESCRIPTION:https://image.tmdb.org/t/p/w780/nYO9oRfwlkbQxxZDI182yK1dC6D.jpg
- \n(1.0)\n𝟭𝗵𝟮𝟳\n\n𝗗𝗿𝗮𝗺𝗲\, 𝗧𝗵𝗿𝗶𝗹
- 𝗹𝗲𝗿\nFrance (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Alexandre Smia\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alexandre Smia\,
-  Thomas Finkielkraut\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : N
- icolas Loir\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Chi-Fou-Mi Product
- ions\, France 2 Cinéma\, SND\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Denis M
- énochet\n- Ella Rumpf\n- Céline Sallette\n- Dominique Blanc\n- Reda Kate
- b\n- André Dussollier\n- Frédéric Pierrot\n- Cédric Kahn\n- Jérémy L
- opez\n- Clotilde Courau\n- Pascal Greggory\n- Valeriu Andriuță\n\n\nFra
- îchement élu\, le président Paul Archambault doit affronter une crise s
- ans précédent : son homologue russe\, cible d'un attentat\, brandit un u
- ltimatum nucléaire menaçant un allié de la France. Face au risque d'esc
- alade militaire\, le président réunit son état-major dans le bunker de 
- l'Elysée. Dans le secret du Poste de Commandement Jupiter\, Paul va devoi
- r prendre une décision vertigineuse.\n\n\nFiche TMDB : https://www.themov
- iedb.org/movie/1502759\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/nYO9oRfwlkbQxxZDI182yK1dC6D.jpg" width="220" alt="Affi
- che de Jupiter"><br><small>(1.0)</small><br><small>1h27</small></td><td wi
- dth="16"></td><td valign="top"><i>Drame\, Thriller</i><br>France (French)<
- br><br><b>Réalisateur :</b> Alexandre Smia<br><b>Scénario :</b> Alexandr
- e Smia\, Thomas Finkielkraut<br><b>Photographie :</b> Nicolas Loir<br><b>P
- roduction :</b> Chi-Fou-Mi Productions\, France 2 Cinéma\, SND<br><br><b>
- Acteurs :</b><ul><li>Denis Ménochet</li><li>Ella Rumpf</li><li>Céline Sa
- llette</li><li>Dominique Blanc</li><li>Reda Kateb</li><li>André Dussollie
- r</li><li>Frédéric Pierrot</li><li>Cédric Kahn</li><li>Jérémy Lopez</
- li><li>Clotilde Courau</li><li>Pascal Greggory</li><li>Valeriu Andriuță<
- /li></ul></td></tr></table><p>Fraîchement élu\, le président Paul Archa
- mbault doit affronter une crise sans précédent : son homologue russe\, c
- ible d'un attentat\, brandit un ultimatum nucléaire menaçant un allié d
- e la France. Face au risque d'escalade militaire\, le président réunit s
- on état-major dans le bunker de l'Elysée. Dans le secret du Poste de Com
- mandement Jupiter\, Paul va devoir prendre une décision vertigineuse.</p>
- <p><small><a href="https://www.themoviedb.org/movie/1502759">Fiche TMDB</a
- ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
- ></html>
-URL:https://www.themoviedb.org/movie/1502759
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/nYO9oRfwlkbQxxZDI182yK1dC6D.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/nYO9oRfwlkbQxxZDI
- 182yK1dC6D.jpg
-CATEGORIES:Drame,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1437981@calendrier-cine-fr
@@ -6964,43 +6041,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uJcqVO2ZVhA6qqzHv
 CATEGORIES:Aventure,Comédie,Fantastique
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1719847@calendrier-cine-fr
-DTSTAMP:20261223T000000Z
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-SUMMARY:Popi ou l'état sauvage
-DESCRIPTION:(1.1)\n𝟭𝗵𝟮𝟬\n\n𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮
- 𝗶𝗿𝗲\nFrance (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Audrey Bauduin\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Audrey Bauduin\,
-  Laure Bourdon Zarader\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 :
-  Manon Blanc\, Chloé Terren\, Audrey Bauduin\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Quartett Production\n\n\nAu cœur de la forêt tropical
- e de Bornéo\, Popi\, une jeune orang-outan rescapée\, vit dans un centre
-  de réhabilitation où elle est élevée par des soigneurs. D'année en a
- nnée\, je filme son apprentissage de la vie en forêt et les efforts des 
- soigneurs pour que\, doucement\, elle se détache d'eux. Mais autour du ce
- ntre\, les plantations de palmeraies gagnent du terrain et ses chances de 
- retrouver la liberté se délitent peu à peu...\n\n\nFiche TMDB : https:/
- /www.themoviedb.org/movie/1719847\n\nDonnées fournies par The Movie Datab
- ase (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Documentair
- e</i><br>France (French)<br><br><b>Réalisateur :</b> Audrey Bauduin<br><b
- >Scénario :</b> Audrey Bauduin\, Laure Bourdon Zarader<br><b>Photographie
-  :</b> Manon Blanc\, Chloé Terren\, Audrey Bauduin<br><b>Production :</b>
-  Quartett Production</div><p>Au cœur de la forêt tropicale de Bornéo\, 
- Popi\, une jeune orang-outan rescapée\, vit dans un centre de réhabilita
- tion où elle est élevée par des soigneurs. D'année en année\, je film
- e son apprentissage de la vie en forêt et les efforts des soigneurs pour 
- que\, doucement\, elle se détache d'eux. Mais autour du centre\, les plan
- tations de palmeraies gagnent du terrain et ses chances de retrouver la li
- berté se délitent peu à peu...</p><p><small><a href="https://www.themov
- iedb.org/movie/1719847">Fiche TMDB</a><br><br>Données fournies par The Mo
- vie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1719847
-TRANSP:TRANSPARENT
-CATEGORIES:Documentaire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1302994@calendrier-cine-fr
 DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
@@ -7089,57 +6129,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/aUeOpkCfGJHgQYFy8
  9vTb0OvgWF.jpg
 CATEGORIES:Drame,Science-Fiction
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1286656@calendrier-cine-fr
-DTSTAMP:20261230T000000Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:I Play Rocky
-DESCRIPTION:https://image.tmdb.org/t/p/w780/gYnp0VAzcScVfTn4wLGa8nlrgeb.jpg
- \n(3.1)\n𝟮𝗵𝟬𝟳\n\n𝗗𝗿𝗮𝗺𝗲\, 𝗛𝗶𝘀𝘁𝗼
- 𝗶𝗿𝗲\nUnited States of America (English)\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farrelly\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
- 𝗼 : Peter Gamble\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Se
- an Porter\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Eden Rock Media\, Ba
- ha Productions\, Fireside Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Antho
- ny Ippolito\n- Stephan James\n- Matt Dillon\n- AnnaSophia Robb\n- P.J. Byr
- ne\n- Jay Duplass\n- Kiki Seto\n- Toby Kebbell\n- Tracy Letts\n- Robert Mo
- rgan\n- Saul Stein\n- Trevor St. John\n\n\nUn acteur en difficulté avec u
- n visage partiellement paralysé et un trouble de l’élocution écrit un
-  scénario qu’un grand studio de cinéma veut acheter. Mais l’acteur r
- efuse de le vendre à moins de pouvoir jouer le rôle principal. Refusant 
- une offre d’argent qui pourrait changer sa vie\, il travaille pour des c
- entimes afin que le film soit réalisé avec lui dans le rôle principal.\
- n\n\nFiche TMDB : https://www.themoviedb.org/movie/1286656\n\nDonnées fou
- rnies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/gYnp0VAzcScVfTn4wLGa8nlrgeb.jpg" width="220" alt="Affi
- che de I Play Rocky"><br><small>(3.1)</small><br><small>2h07</small></td><
- td width="16"></td><td valign="top"><i>Drame\, Histoire</i><br>United Stat
- es of America (English)<br><br><b>Réalisateur :</b> Peter Farrelly<br><b>
- Scénario :</b> Peter Gamble<br><b>Photographie :</b> Sean Porter<br><b>Pr
- oduction :</b> Eden Rock Media\, Baha Productions\, Fireside Films<br><br>
- <b>Acteurs :</b><ul><li>Anthony Ippolito</li><li>Stephan James</li><li>Mat
- t Dillon</li><li>AnnaSophia Robb</li><li>P.J. Byrne</li><li>Jay Duplass</l
- i><li>Kiki Seto</li><li>Toby Kebbell</li><li>Tracy Letts</li><li>Robert Mo
- rgan</li><li>Saul Stein</li><li>Trevor St. John</li></ul></td></tr></table
- ><p>Un acteur en difficulté avec un visage partiellement paralysé et un 
- trouble de l’élocution écrit un scénario qu’un grand studio de cin
- éma veut acheter. Mais l’acteur refuse de le vendre à moins de pouvoir
-  jouer le rôle principal. Refusant une offre d’argent qui pourrait chan
- ger sa vie\, il travaille pour des centimes afin que le film soit réalis
- é avec lui dans le rôle principal.</p><p><small><a href="https://www.the
- moviedb.org/movie/1286656">Fiche TMDB</a><br><br>Données fournies par The
-  Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1286656
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/gYnp0VAzcScVfTn4wLGa8nlrgeb.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gYnp0VAzcScVfTn4w
- LGa8nlrgeb.jpg
-CATEGORIES:Drame,Histoire
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1588900@calendrier-cine-fr
@@ -7284,46 +6273,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ucBle6RC1L2FgVDa3
  3J2TWuKIoZ.jpg
 CATEGORIES:Aventure,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1477299@calendrier-cine-fr
-DTSTAMP:20261231T000000Z
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:Marie-Rose et le Mystérieux Voyage
-DESCRIPTION:https://image.tmdb.org/t/p/w780/nfWcZOnEFhra57CdEtZTGpOPX30.jpg
- \n(1.0)\n𝟭𝗵𝟭𝟬\n\n𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻\, 𝗠
- 𝘂𝘀𝗶𝗾𝘂𝗲\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\nFrance (Frenc
- h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Tanguy de Kermel\
- , Jérome Mouscadet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Laure Doyonnax\, S
- ophie Decroisette\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Mangouste An
- im\n\n\nCette aventure musicale et fantastique familiale mettra en scène 
- les plus célèbres chansons et personnages des spectacles de Chantal Goya
-  dont Jeannot Lapin\, Pandi-Panda\, le Dragon Bleu\, Pinocchio\, Polichine
- lle\, Bécassine ou encore le Chat Botté.\n\n\nFiche TMDB : https://www.t
- hemoviedb.org/movie/1477299\n\nDonnées fournies par The Movie Database (T
- MDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/nfWcZOnEFhra57CdEtZTGpOPX30.jpg" width="220" alt="Affi
- che de Marie-Rose et le Mystérieux Voyage"><br><small>(1.0)</small><br><s
- mall>1h10</small></td><td width="16"></td><td valign="top"><i>Animation\, 
- Musique\, Familial</i><br>France (French)<br><br><b>Réalisateurs :</b> Ta
- nguy de Kermel\, Jérome Mouscadet<br><b>Scénario :</b> Laure Doyonnax\, 
- Sophie Decroisette<br><b>Production :</b> Mangouste Anim</td></tr></table>
- <p>Cette aventure musicale et fantastique familiale mettra en scène les p
- lus célèbres chansons et personnages des spectacles de Chantal Goya dont
-  Jeannot Lapin\, Pandi-Panda\, le Dragon Bleu\, Pinocchio\, Polichinelle\,
-  Bécassine ou encore le Chat Botté.</p><p><small><a href="https://www.th
- emoviedb.org/movie/1477299">Fiche TMDB</a><br><br>Données fournies par Th
- e Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1477299
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/nfWcZOnEFhra57CdEtZTGpOPX30.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/nfWcZOnEFhra57CdE
- tZTGpOPX30.jpg
-CATEGORIES:Animation,Musique,Familial
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1271661@calendrier-cine-fr
@@ -7648,63 +6597,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:Drame,Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1506476@calendrier-cine-fr
-DTSTAMP:20270120T000000Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:La Troisième nuit
-DESCRIPTION:https://image.tmdb.org/t/p/w780/qUAfZLeygsrCpVooaTlPaeYEIRp.jpg
- \n(1.0)\n𝟭𝗵𝟰𝟬\n\n𝗗𝗿𝗮𝗺𝗲\, 𝗛𝗶𝘀𝘁𝗼
- 𝗶𝗿𝗲\nFrance (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Daniel Auteuil\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Daniel Auteuil\,
-  Camille Lugan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jean-Fr
- ançois Hensgens\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Les Films Vel
- vet\, Zack Films\, Auvergne-Rhône-Alpes Cinéma\n\n𝗔𝗰𝘁𝗲𝘂
- 𝗿𝘀 :\n- Daniel Auteuil\n- Antoine Reinartz\n- Grégory Gadebois\n- A
- licia Dadoun\n- Victor Bonnel\n- Eliott Margueron\n- Laurent Bozzi\n- Côm
- e Levin\n- Valentin Dupic\n- Luàna Bajrami\n- Grégoire Colin\n- Yannick 
- Choirat\n\n\nAoût 1942. En pleine occupation\, le gouvernement de Vichy o
- rganise une rafle massive de Juifs étrangers. Gilbert Lesage\, jeune fonc
- tionnaire au Service Social des Étrangers\, est chargé d’organiser une
-  commission de criblage pour statuer sur le sort des Juifs arrêtés\, tan
- dis que l’abbé Alexandre Glasberg\, humanitaire engagé\, manœuvre pou
- r les sauver. Pris entre la bureaucratie de Vichy et les réseaux d’entr
- aide\, ils vont devoir s’allier pour défier la machine d’État et ris
- quer l’impensable pour arracher des vies au destin funeste qui leur est 
- promis.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1506476\n\nDonn
- ées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/qUAfZLeygsrCpVooaTlPaeYEIRp.jpg" width="220" alt="Affi
- che de La Troisième nuit"><br><small>(1.0)</small><br><small>1h40</small>
- </td><td width="16"></td><td valign="top"><i>Drame\, Histoire</i><br>Franc
- e (French)<br><br><b>Réalisateur :</b> Daniel Auteuil<br><b>Scénario :</
- b> Daniel Auteuil\, Camille Lugan<br><b>Photographie :</b> Jean-François 
- Hensgens<br><b>Production :</b> Les Films Velvet\, Zack Films\, Auvergne-R
- hône-Alpes Cinéma<br><br><b>Acteurs :</b><ul><li>Daniel Auteuil</li><li>
- Antoine Reinartz</li><li>Grégory Gadebois</li><li>Alicia Dadoun</li><li>V
- ictor Bonnel</li><li>Eliott Margueron</li><li>Laurent Bozzi</li><li>Côme 
- Levin</li><li>Valentin Dupic</li><li>Luàna Bajrami</li><li>Grégoire Coli
- n</li><li>Yannick Choirat</li></ul></td></tr></table><p>Août 1942. En ple
- ine occupation\, le gouvernement de Vichy organise une rafle massive de Ju
- ifs étrangers. Gilbert Lesage\, jeune fonctionnaire au Service Social des
-  Étrangers\, est chargé d’organiser une commission de criblage pour st
- atuer sur le sort des Juifs arrêtés\, tandis que l’abbé Alexandre Gla
- sberg\, humanitaire engagé\, manœuvre pour les sauver. Pris entre la bur
- eaucratie de Vichy et les réseaux d’entraide\, ils vont devoir s’alli
- er pour défier la machine d’État et risquer l’impensable pour arrach
- er des vies au destin funeste qui leur est promis.</p><p><small><a href="h
- ttps://www.themoviedb.org/movie/1506476">Fiche TMDB</a><br><br>Données fo
- urnies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1506476
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/qUAfZLeygsrCpVooaTlPaeYEIRp.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qUAfZLeygsrCpVooa
- TlPaeYEIRp.jpg
-CATEGORIES:Drame,Histoire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-676670@calendrier-cine-fr
 DTSTAMP:20270120T000000Z
 DTSTART;VALUE=DATE:20270120
@@ -7848,62 +6740,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/q0CWp4udY4Axuxlme
 CATEGORIES:Drame,Histoire,Mystère
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1090025@calendrier-cine-fr
-DTSTAMP:20270127T000000Z
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
-SUMMARY:Le Faux Soir
-DESCRIPTION:https://image.tmdb.org/t/p/w780/4ENeE5HxabyaTLc6ZlQkzBScr2u.jpg
- \n(1.0)\n𝟮𝗵𝟭𝟮\n\n𝗗𝗿𝗮𝗺𝗲\, 𝗛𝗶𝘀𝘁𝗼
- 𝗶𝗿𝗲\nFrance\, Belgium (French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
- 𝘁𝗲𝘂𝗿 : Michaël R. Roskam\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 
- Michaël R. Roskam\, Bernard Falaise\, Domenico La Porta\n𝗣𝗵𝗼𝘁
- 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Nicolas Karakatsanis\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : Frakas Productions\, Goodfellas\, Rectangle Pro
- ductions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Arieh Worthalter\n- Mélanie
-  Thierry\n- Karim Leklou\n- Mara Taquin\n- Bouli Lanners\n- Julien Frison\
- n- François Damiens\n- Ruth Becquart\n- Peter van den Begin\n- Jean-Beno
- ît Ugeux\n- Laurent Capelluto\n- Pierre Gervais\n\n\n1943. Les Nazis occu
- pent la Belgique et font du quotidien national Le Soir leur outil de propa
- gande. Alors qu’il est interdit de commémorer le 11 novembre\, un group
- e de résistants a une idée folle : et si\, pour remonter le moral des Be
- lges\, ils parvenaient à imprimer une fausse édition du Soir. Le même p
- apier\, le même titre\, le même format\, mais truffé d'articles ridicul
- isant l'occupant ? Ceci est la folle aventure et l'histoire vraie du faux 
- numéro d'un vrai journal…\n\n\nFiche TMDB : https://www.themoviedb.org/
- movie/1090025\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/4ENeE5HxabyaTLc6ZlQkzBScr2u.jpg" width="220" alt="Affi
- che de Le Faux Soir"><br><small>(1.0)</small><br><small>2h12</small></td><
- td width="16"></td><td valign="top"><i>Drame\, Histoire</i><br>France\, Be
- lgium (French)<br><br><b>Réalisateur :</b> Michaël R. Roskam<br><b>Scén
- ario :</b> Michaël R. Roskam\, Bernard Falaise\, Domenico La Porta<br><b>
- Photographie :</b> Nicolas Karakatsanis<br><b>Production :</b> Frakas Prod
- uctions\, Goodfellas\, Rectangle Productions<br><br><b>Acteurs :</b><ul><l
- i>Arieh Worthalter</li><li>Mélanie Thierry</li><li>Karim Leklou</li><li>M
- ara Taquin</li><li>Bouli Lanners</li><li>Julien Frison</li><li>François D
- amiens</li><li>Ruth Becquart</li><li>Peter van den Begin</li><li>Jean-Beno
- ît Ugeux</li><li>Laurent Capelluto</li><li>Pierre Gervais</li></ul></td><
- /tr></table><p>1943. Les Nazis occupent la Belgique et font du quotidien n
- ational Le Soir leur outil de propagande. Alors qu’il est interdit de co
- mmémorer le 11 novembre\, un groupe de résistants a une idée folle : et
-  si\, pour remonter le moral des Belges\, ils parvenaient à imprimer une 
- fausse édition du Soir. Le même papier\, le même titre\, le même forma
- t\, mais truffé d'articles ridiculisant l'occupant ? Ceci est la folle av
- enture et l'histoire vraie du faux numéro d'un vrai journal…</p><p><sma
- ll><a href="https://www.themoviedb.org/movie/1090025">Fiche TMDB</a><br><b
- r>Données fournies par The Movie Database (TMDB)</small></p></body></html
- >
-URL:https://www.themoviedb.org/movie/1090025
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/4ENeE5HxabyaTLc6ZlQkzBScr2u.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4ENeE5HxabyaTLc6Z
- lQkzBScr2u.jpg
-CATEGORIES:Drame,Histoire
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1172597@calendrier-cine-fr
 DTSTAMP:20270127T000000Z
 DTSTART;VALUE=DATE:20270127
@@ -7934,47 +6770,6 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Animation\,
 URL:https://www.themoviedb.org/movie/1172597
 TRANSP:TRANSPARENT
 CATEGORIES:Animation,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1701371@calendrier-cine-fr
-DTSTAMP:20270127T000000Z
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
-SUMMARY:Un jeu dangereux
-DESCRIPTION:https://image.tmdb.org/t/p/w780/8CMb5Hl3w5QT2uMS3SCHjF3WVhC.jpg
- \n(1.0)\n𝟭𝗵𝟯𝟬\n\n𝗗𝗿𝗮𝗺𝗲\nFrance (French)\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Karine Silla\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Karine Silla\, Alma Brami\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Thelma Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Valeria B
- runi Tedeschi\n- Vincent Perez\n- Zahia Dehar\n\n\nDans une villa d’ét
- é\, un couple marié depuis vingt ans invite une jeune femme énigmatique
- . Entre désir\, jalousie et non-dits\, un jeu dangereux s’installe où 
- chacun joue son rôle. Leurs enfants\, à distance\, surveillent et s’in
- quiètent : qui joue avec qui ? Leur mère est-elle en danger ?\n\n\nFiche
-  TMDB : https://www.themoviedb.org/movie/1701371\n\nDonnées fournies par 
- The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/8CMb5Hl3w5QT2uMS3SCHjF3WVhC.jpg" width="220" alt="Affi
- che de Un jeu dangereux"><br><small>(1.0)</small><br><small>1h30</small></
- td><td width="16"></td><td valign="top"><i>Drame</i><br>France (French)<br
- ><br><b>Réalisateur :</b> Karine Silla<br><b>Scénario :</b> Karine Silla
- \, Alma Brami<br><b>Production :</b> Thelma Films<br><br><b>Acteurs :</b><
- ul><li>Valeria Bruni Tedeschi</li><li>Vincent Perez</li><li>Zahia Dehar</l
- i></ul></td></tr></table><p>Dans une villa d’été\, un couple marié de
- puis vingt ans invite une jeune femme énigmatique. Entre désir\, jalousi
- e et non-dits\, un jeu dangereux s’installe où chacun joue son rôle. L
- eurs enfants\, à distance\, surveillent et s’inquiètent : qui joue ave
- c qui ? Leur mère est-elle en danger ?</p><p><small><a href="https://www.
- themoviedb.org/movie/1701371">Fiche TMDB</a><br><br>Données fournies par 
- The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1701371
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/8CMb5Hl3w5QT2uMS3SCHjF3WVhC.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8CMb5Hl3w5QT2uMS3
- SCHjF3WVhC.jpg
-CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1384758@calendrier-cine-fr
@@ -8313,41 +7108,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2gwQ9LuE1Kr9JsmMR
 CATEGORIES:Animation,Drame,Familial,Guerre,Histoire
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-1480654@calendrier-cine-fr
-DTSTAMP:20270210T000000Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
-SUMMARY:On était des loups
-DESCRIPTION:(1.1)\n\n𝗗𝗿𝗮𝗺𝗲\nFrance\, Canada\, Belgium (Frenc
- h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : François Busnel\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : François Busnel\, Delphine de Vigan\n
- 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Léo Lefèvre\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Windy Production\, Rosebud Productions\
- , Auvergne-Rhône-Alpes Cinéma\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andre
- as Pietschmann\n- César Richier Le Moan\n- Marie-Sophie Ferdane\n- Denis 
- O'Hare\n- Carlo Brandt\n- Genc Jakupi\n- Robin Greer\n- Anne Loiret\n- Jea
- n-Louis Garçon\n\n\nÉtrangers l’un pour l’autre\, un père et son fi
- ls partent ensemble dans la nature sauvage\, au bout des grands espaces\, 
- pour apprendre à s’apprivoiser.\n\n\nFiche TMDB : https://www.themovied
- b.org/movie/1480654\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Drame</i><b
- r>France\, Canada\, Belgium (French)<br><br><b>Réalisateur :</b> Françoi
- s Busnel<br><b>Scénario :</b> François Busnel\, Delphine de Vigan<br><b>
- Photographie :</b> Léo Lefèvre<br><b>Production :</b> Windy Production\,
-  Rosebud Productions\, Auvergne-Rhône-Alpes Cinéma<br><br><b>Acteurs :</
- b><ul><li>Andreas Pietschmann</li><li>César Richier Le Moan</li><li>Marie
- -Sophie Ferdane</li><li>Denis O'Hare</li><li>Carlo Brandt</li><li>Genc Jak
- upi</li><li>Robin Greer</li><li>Anne Loiret</li><li>Jean-Louis Garçon</li
- ></ul></div><p>Étrangers l’un pour l’autre\, un père et son fils par
- tent ensemble dans la nature sauvage\, au bout des grands espaces\, pour a
- pprendre à s’apprivoiser.</p><p><small><a href="https://www.themoviedb.
- org/movie/1480654">Fiche TMDB</a><br><br>Données fournies par The Movie D
- atabase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1480654
-TRANSP:TRANSPARENT
-CATEGORIES:Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1404588@calendrier-cine-fr
 DTSTAMP:20270210T000000Z
 DTSTART;VALUE=DATE:20270210
@@ -8535,45 +7295,6 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie\,
 URL:https://www.themoviedb.org/movie/1542021
 TRANSP:TRANSPARENT
 CATEGORIES:Comédie,Romance
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1611801@calendrier-cine-fr
-DTSTAMP:20270217T000000Z
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270218
-SUMMARY:Trois c’est bien
-DESCRIPTION:(1.1)\n\n𝗖𝗼𝗺𝗲𝗱𝗶𝗲\nFrance\, Belgium (French
- )\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Frédéric Quiring\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Frédéric Quiring\n𝗣𝗵𝗼𝘁
- 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Christian Abomnes\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : TF1 Studio\, Octopods Films\, TF1 Films Production\
- n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Marilou Berry\n- Julien Pestel\n- Dia
- ne Segard\n- Barbara Bolotner\n\n\nFlo et Seb\, un couple de trentenaires 
- passionnés\, fêtards et un peu égoïstes sur les bords\, voient leurs v
- ies bouleversées par le destin : ils n’ont jamais rêvé\, ni même env
- isagé d’être parents\, et pourtant\, inexplicablement\, ils se réveil
- lent un matin avec trois enfants de 6\,10 et 13 ans qui les appellent papa
-  et maman. Tout faire pour revenir à leur "heureuse" vie d'avant\, va dev
- enir leur seul objectif.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
- e/1611801\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><div><i>Comédie</i
- ><br>France\, Belgium (French)<br><br><b>Réalisateur :</b> Frédéric Qui
- ring<br><b>Scénario :</b> Frédéric Quiring<br><b>Photographie :</b> Chr
- istian Abomnes<br><b>Production :</b> TF1 Studio\, Octopods Films\, TF1 Fi
- lms Production<br><br><b>Acteurs :</b><ul><li>Marilou Berry</li><li>Julien
-  Pestel</li><li>Diane Segard</li><li>Barbara Bolotner</li></ul></div><p>Fl
- o et Seb\, un couple de trentenaires passionnés\, fêtards et un peu égo
- ïstes sur les bords\, voient leurs vies bouleversées par le destin : ils
-  n’ont jamais rêvé\, ni même envisagé d’être parents\, et pourtan
- t\, inexplicablement\, ils se réveillent un matin avec trois enfants de 6
- \,10 et 13 ans qui les appellent papa et maman. Tout faire pour revenir à
-  leur &quot\;heureuse&quot\; vie d'avant\, va devenir leur seul objectif.<
- /p><p><small><a href="https://www.themoviedb.org/movie/1611801">Fiche TMDB
- </a><br><br>Données fournies par The Movie Database (TMDB)</small></p></b
- ody></html>
-URL:https://www.themoviedb.org/movie/1611801
-TRANSP:TRANSPARENT
-CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1510574@calendrier-cine-fr

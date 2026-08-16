@@ -11,588 +11,6 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:seance-80244770559@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T081500Z
-DTEND:20260816T110000Z
-SUMMARY:Spider-Man : Brand New Day (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)   (1407.5)\n𝟮𝗵𝟯𝟬\n\n𝗦𝗰𝗶
- 𝗲𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗔𝗰𝘁𝗶𝗼𝗻\,
-  𝗔𝘃𝗲𝗻𝘁𝘂𝗿𝗲\nUnited States of America (English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Destin Daniel Cretton\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Erik Sommers\, Chris McKenna\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Brett Pawlak\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : Marvel Studios\, Columbia Pictures\, Pascal Picture
- s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tom Holland\n- Zendaya\n- Mark Ruff
- alo\n- Jon Bernthal\n- Jacob Batalon\n- Sadie Sink\n- Florence Pugh\n- Liz
- a Colón-Zayas\n- Tramell Tillman\n- Marisa Tomei\n- Naomi Watts\n- Michae
- l Mando\n\n\nQuatre ans se sont écoulés\, Peter\, désormais adulte\, vi
- t seul\, s'est volontairement effacé de la vie et des souvenirs de ses pr
- oches. Luttant contre le crime dans un New York qui ne le reconnaît plus\
- , il se consacre entièrement à la protection de la ville - un Spider-Man
-  à plein temps - mais à mesure que les responsabilités s'intensifient\,
-  la pression provoque une transformation physique surprenante qui menace s
- on existence\, tandis qu'une étrange nouvelle vague de crimes donne naiss
- ance à l'une des menaces les plus redoutables qu'il ait jamais affrontée
- s.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/969681\n\nDonnées f
- ournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VF)"><br><small>(Spider-Man: Brand New 
- Day)   (1407.5)</small><br><small>2h30</small></td><td width="16"></td><td
-  valign="top"><i>Science-Fiction\, Action\, Aventure</i><br>United States 
- of America (English)<br><br><b>Réalisateur :</b> Destin Daniel Cretton<br
- ><b>Scénario :</b> Erik Sommers\, Chris McKenna<br><b>Photographie :</b> 
- Brett Pawlak<br><b>Production :</b> Marvel Studios\, Columbia Pictures\, P
- ascal Pictures<br><br><b>Acteurs :</b><ul><li>Tom Holland</li><li>Zendaya<
- /li><li>Mark Ruffalo</li><li>Jon Bernthal</li><li>Jacob Batalon</li><li>Sa
- die Sink</li><li>Florence Pugh</li><li>Liza Colón-Zayas</li><li>Tramell T
- illman</li><li>Marisa Tomei</li><li>Naomi Watts</li><li>Michael Mando</li>
- </ul></td></tr></table><p>Quatre ans se sont écoulés\, Peter\, désormai
- s adulte\, vit seul\, s'est volontairement effacé de la vie et des souven
- irs de ses proches. Luttant contre le crime dans un New York qui ne le rec
- onnaît plus\, il se consacre entièrement à la protection de la ville - 
- un Spider-Man à plein temps - mais à mesure que les responsabilités s'i
- ntensifient\, la pression provoque une transformation physique surprenante
-  qui menace son existence\, tandis qu'une étrange nouvelle vague de crime
- s donne naissance à l'une des menaces les plus redoutables qu'il ait jama
- is affrontées.</p><p><small><a href="https://www.themoviedb.org/movie/969
- 681">Fiche TMDB</a><br><br>Données fournies par The Movie Database (TMDB)
- </small></p></body></html>
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770950@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T081500Z
-DTEND:20260816T112300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
- 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
- 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
- Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
- n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
- arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
- épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
- ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
- l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
- ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
- o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
- >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
- <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
- ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
- o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
- li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
- ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
-  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
- <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
- ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
- ></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770673@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T081500Z
-DTEND:20260816T102500Z
-SUMMARY:Vaiana\, la légende du bout du monde (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg
- \n(Moana)   (194.0)\n𝟭𝗵𝟱𝟱\n\n𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\
- , 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾𝘂𝗲\, 𝗖𝗼𝗺𝗲𝗱𝗶
- 𝗲\, 𝗔𝘃𝗲𝗻𝘁𝘂𝗿𝗲\nUnited States of America (English
- )\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Thomas Kail\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Jared Bush\, Dana Ledoux Miller\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Óscar Faura\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : Walt Disney Pictures\, Seven Bucks Productions\, Fl
- ynn Picture Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Catherine Lagaʻa
- ia\n- Dwayne Johnson\n- Rena Owen\n- John Tui\n- Frankie Adams\n- Jemaine 
- Clement\n- Emma Puahi-Shapazian\n- Amaya Masoli\n- Sam Puefua\n- Sione Mil
- ford\n- Kapeneta Te'o-Tafiti\n- Eric Scanlan\n\n\nDans l'ancienne Polynés
- ie\, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un
-  chef impétueux\, sa fille obstinée répond à l'appel de l'océan et pa
- rt à la recherche du demi-dieu pour rétablir la situation. Live-Action d
- u film Vaiana\, la Légende du bout du monde de Disney en 2016.\n\n\nFiche
-  TMDB : https://www.themoviedb.org/movie/1108427\n\nDonnées fournies par 
- The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg" width="220" alt="Affi
- che de Vaiana\, la légende du bout du monde (VF)"><br><small>(Moana)   (1
- 94.0)</small><br><small>1h55</small></td><td width="16"></td><td valign="t
- op"><i>Familial\, Fantastique\, Comédie\, Aventure</i><br>United States o
- f America (English)<br><br><b>Réalisateur :</b> Thomas Kail<br><b>Scénar
- io :</b> Jared Bush\, Dana Ledoux Miller<br><b>Photographie :</b> Óscar F
- aura<br><b>Production :</b> Walt Disney Pictures\, Seven Bucks Productions
- \, Flynn Picture Company<br><br><b>Acteurs :</b><ul><li>Catherine Lagaʻai
- a</li><li>Dwayne Johnson</li><li>Rena Owen</li><li>John Tui</li><li>Franki
- e Adams</li><li>Jemaine Clement</li><li>Emma Puahi-Shapazian</li><li>Amaya
-  Masoli</li><li>Sam Puefua</li><li>Sione Milford</li><li>Kapeneta Te'o-Taf
- iti</li><li>Eric Scanlan</li></ul></td></tr></table><p>Dans l'ancienne Pol
- ynésie\, lorsqu'une terrible malédiction lancée par Maui atteint l'île
-  d'un chef impétueux\, sa fille obstinée répond à l'appel de l'océan 
- et part à la recherche du demi-dieu pour rétablir la situation. Live-Act
- ion du film Vaiana\, la Légende du bout du monde de Disney en 2016.</p><p
- ><small><a href="https://www.themoviedb.org/movie/1108427">Fiche TMDB</a><
- br><br>Données fournies par The Movie Database (TMDB)</small></p></body><
- /html>
-URL:https://www.themoviedb.org/movie/1108427
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBl
- zGLyShO6sc.jpg
-CATEGORIES:Familial,Fantastique,Comédie,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-79494223440@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T081500Z
-DTEND:20260816T104700Z
-SUMMARY:Le Conte de la princesse Kaguya (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/yBbJpLFmwdEHzeyeEstoi9mM5lX.jpg
- \n(かぐや姫の物語 — Kaguya-hime no monogatari)   (6.5)\n𝟮𝗵
- 𝟭𝟳\n\n𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻\, 𝗗𝗿𝗮𝗺𝗲\, 
- 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾𝘂𝗲\nJapan (Japanese)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Isao Takahata\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : 坂口理子\, Isao Takahata\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : 中村圭介\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : Studio Ghibli\, Hakuhodo DY Media Partners\, KDDI\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- 朝倉あき\n- 地井武男\n- 宮本信子\n- 高
- 良健吾\n- 高畑淳子\n- 田畑智子\n- 立川志の輔\n- 上川隆
- 也\n- Hikaru Ijuin\n- 宇崎竜童\n- Shichinosuke Nakamura\n- 橋爪功\
- n\n\nAdapté d’un conte populaire japonais "Le coupeur de bambou"\, un d
- es textes fondateurs de la littérature japonaise\, Kaguya\, "la princesse
-  lumineuse"\, est découverte dans la tige d'un bambou par des paysans. El
- le devient très vite une magnifique jeune femme que les plus grands princ
- es convoitent : ceux-ci vont devoir relever d’impossibles défis dans l
- ’espoir d’obtenir sa main.\n\n\nFiche TMDB : https://www.themoviedb.or
- g/movie/149871\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/yBbJpLFmwdEHzeyeEstoi9mM5lX.jpg" width="220" alt="Affi
- che de Le Conte de la princesse Kaguya (VF)"><br><small>(かぐや姫の
- 物語 — Kaguya-hime no monogatari)   (6.5)</small><br><small>2h17</smal
- l></td><td width="16"></td><td valign="top"><i>Animation\, Drame\, Fantast
- ique</i><br>Japan (Japanese)<br><br><b>Réalisateur :</b> Isao Takahata<br
- ><b>Scénario :</b> 坂口理子\, Isao Takahata<br><b>Photographie :</b> 
- 中村圭介<br><b>Production :</b> Studio Ghibli\, Hakuhodo DY Media Part
- ners\, KDDI<br><br><b>Acteurs :</b><ul><li>朝倉あき</li><li>地井武
- 男</li><li>宮本信子</li><li>高良健吾</li><li>高畑淳子</li><li
- >田畑智子</li><li>立川志の輔</li><li>上川隆也</li><li>Hikaru 
- Ijuin</li><li>宇崎竜童</li><li>Shichinosuke Nakamura</li><li>橋爪功
- </li></ul></td></tr></table><p>Adapté d’un conte populaire japonais &qu
- ot\;Le coupeur de bambou&quot\;\, un des textes fondateurs de la littérat
- ure japonaise\, Kaguya\, &quot\;la princesse lumineuse&quot\;\, est décou
- verte dans la tige d'un bambou par des paysans. Elle devient très vite un
- e magnifique jeune femme que les plus grands princes convoitent : ceux-ci 
- vont devoir relever d’impossibles défis dans l’espoir d’obtenir sa 
- main.</p><p><small><a href="https://www.themoviedb.org/movie/149871">Fiche
-  TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small></
- p></body></html>
-URL:https://www.themoviedb.org/movie/149871
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/yBbJpLFmwdEHzeyeEstoi9mM5lX.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yBbJpLFmwdEHzeyeE
- stoi9mM5lX.jpg
-CATEGORIES:Animation,Drame,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770512@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T083000Z
-DTEND:20260816T111500Z
-SUMMARY:Spider-Man : Brand New Day (VF · 4DX 3D · Salle premium)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)   (1407.5)\n𝟮𝗵𝟯𝟬\n\n𝗦𝗰𝗶
- 𝗲𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗔𝗰𝘁𝗶𝗼𝗻\,
-  𝗔𝘃𝗲𝗻𝘁𝘂𝗿𝗲\nUnited States of America (English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Destin Daniel Cretton\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Erik Sommers\, Chris McKenna\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Brett Pawlak\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : Marvel Studios\, Columbia Pictures\, Pascal Picture
- s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tom Holland\n- Zendaya\n- Mark Ruff
- alo\n- Jon Bernthal\n- Jacob Batalon\n- Sadie Sink\n- Florence Pugh\n- Liz
- a Colón-Zayas\n- Tramell Tillman\n- Marisa Tomei\n- Naomi Watts\n- Michae
- l Mando\n\n\nQuatre ans se sont écoulés\, Peter\, désormais adulte\, vi
- t seul\, s'est volontairement effacé de la vie et des souvenirs de ses pr
- oches. Luttant contre le crime dans un New York qui ne le reconnaît plus\
- , il se consacre entièrement à la protection de la ville - un Spider-Man
-  à plein temps - mais à mesure que les responsabilités s'intensifient\,
-  la pression provoque une transformation physique surprenante qui menace s
- on existence\, tandis qu'une étrange nouvelle vague de crimes donne naiss
- ance à l'une des menaces les plus redoutables qu'il ait jamais affrontée
- s.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/969681\n\nDonnées f
- ournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VF · 4DX 3D · Salle premium)"><br><sm
- all>(Spider-Man: Brand New Day)   (1407.5)</small><br><small>2h30</small><
- /td><td width="16"></td><td valign="top"><i>Science-Fiction\, Action\, Ave
- nture</i><br>United States of America (English)<br><br><b>Réalisateur :</
- b> Destin Daniel Cretton<br><b>Scénario :</b> Erik Sommers\, Chris McKenn
- a<br><b>Photographie :</b> Brett Pawlak<br><b>Production :</b> Marvel Stud
- ios\, Columbia Pictures\, Pascal Pictures<br><br><b>Acteurs :</b><ul><li>T
- om Holland</li><li>Zendaya</li><li>Mark Ruffalo</li><li>Jon Bernthal</li><
- li>Jacob Batalon</li><li>Sadie Sink</li><li>Florence Pugh</li><li>Liza Col
- ón-Zayas</li><li>Tramell Tillman</li><li>Marisa Tomei</li><li>Naomi Watts
- </li><li>Michael Mando</li></ul></td></tr></table><p>Quatre ans se sont é
- coulés\, Peter\, désormais adulte\, vit seul\, s'est volontairement effa
- cé de la vie et des souvenirs de ses proches. Luttant contre le crime dan
- s un New York qui ne le reconnaît plus\, il se consacre entièrement à l
- a protection de la ville - un Spider-Man à plein temps - mais à mesure q
- ue les responsabilités s'intensifient\, la pression provoque une transfor
- mation physique surprenante qui menace son existence\, tandis qu'une étra
- nge nouvelle vague de crimes donne naissance à l'une des menaces les plus
-  redoutables qu'il ait jamais affrontées.</p><p><small><a href="https://w
- ww.themoviedb.org/movie/969681">Fiche TMDB</a><br><br>Données fournies pa
- r The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770669@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T083000Z
-DTEND:20260816T113800Z
-SUMMARY:L'Odyssée (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
- 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
- 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
- Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
- n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
- arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
- épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
- ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VF)"><br><small>(The Odyssey)   (814.2)</small><br><sma
- ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
- ion\, Fantastique</i><br>United Kingdom\, United States of America (Englis
- h)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Ch
- ristopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Productio
- n :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt D
- amon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</l
- i><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>
- Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Ni
- cotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après 
- son départ pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaqu
- e\, mais son voyage est parsemé d'aventures et d'épreuves.</p><p><small>
- <a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br><br>D
- onnées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770817@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T084500Z
-DTEND:20260816T104200Z
-SUMMARY:Toy Story 5 (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg
- \n(Toy Story 5)   (247.6)\n𝟭𝗵𝟰𝟮\n\n𝗔𝗻𝗶𝗺𝗮𝘁
- 𝗶𝗼𝗻\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\, 𝗖𝗼𝗺𝗲𝗱𝗶
- 𝗲\, 𝗔𝘃𝗲𝗻𝘁𝘂𝗿𝗲\nUnited States of America (English
- \, Portuguese\, Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 :
-  Andrew Stanton\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Andrew Stanton\, Kenna
-  Harris\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Matt Aspbury\,
-  Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tom Hanks\n- Tim Allen\n- Joan Cusack\n-
-  Conan O'Brien\n- Scarlett Spears\n- Greta Lee\n- Shelby Rabara\n- Mykal-M
- ichelle Harris\n- Craig Robinson\n- Jay Hernandez\n- Lori Alan\n- Bonnie H
- unt\n\n\nBuzz\, Woody\, Jessie et le reste de la bande verront leur travai
- l remis en question lorsqu'ils découvriront que ce qui obsède les enfant
- s d'aujourd'hui s’appelle… l'électronique !\n\n\nFiche TMDB : https:/
- /www.themoviedb.org/movie/1084244\n\nDonnées fournies par The Movie Datab
- ase (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg" width="220" alt="Affi
- che de Toy Story 5 (VF)"><br><small>(Toy Story 5)   (247.6)</small><br><sm
- all>1h42</small></td><td width="16"></td><td valign="top"><i>Animation\, F
- amilial\, Comédie\, Aventure</i><br>United States of America (English\, P
- ortuguese\, Spanish)<br><br><b>Réalisateur :</b> Andrew Stanton<br><b>Sc
- énario :</b> Andrew Stanton\, Kenna Harris<br><b>Photographie :</b> Matt 
- Aspbury\, Jean-Claude Kalache<br><b>Production :</b> Pixar<br><br><b>Acteu
- rs :</b><ul><li>Tom Hanks</li><li>Tim Allen</li><li>Joan Cusack</li><li>Co
- nan O'Brien</li><li>Scarlett Spears</li><li>Greta Lee</li><li>Shelby Rabar
- a</li><li>Mykal-Michelle Harris</li><li>Craig Robinson</li><li>Jay Hernand
- ez</li><li>Lori Alan</li><li>Bonnie Hunt</li></ul></td></tr></table><p>Buz
- z\, Woody\, Jessie et le reste de la bande verront leur travail remis en q
- uestion lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'
- hui s’appelle… l'électronique !</p><p><small><a href="https://www.the
- moviedb.org/movie/1084244">Fiche TMDB</a><br><br>Données fournies par The
-  Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1084244
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZm
- IsSNmXzidU.jpg
-CATEGORIES:Animation,Familial,Comédie,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770836@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T084500Z
-DTEND:20260816T102800Z
-SUMMARY:La Fille dans les nuages (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/o4V7Kq7KJhbjgPpzIYYBzfie77o.jpg
- \n(La Fille dans les nuages)   (2.0)\n𝟭𝗵𝟮𝟴\n\n𝗔𝗻𝗶𝗺
- 𝗮𝘁𝗶𝗼𝗻\, 𝗔𝘃𝗲𝗻𝘁𝘂𝗿𝗲\, 𝗙𝗮𝗻𝘁
- 𝗮𝘀𝘁𝗶𝗾𝘂𝗲\nFrance\, Belgium (French\, English)\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Philippe Riche\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Luc Bossi\, Philippe Riche\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : Brio Films\, SCOPE Pictures\, Panama Productions\n\
- n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Louane Emera\n- Jamel Debbouze\n- Grég
- oire Ludig\n- Patrick Brûll\n- Clémentine Domptail\n- Pauline Moulène\n
- - Érik Stouvenaker\n- Kaycie Chase\n- Damien Laquet\n- Paul Borne\n- Jean
- -François Rossion\n- Bénédicte Philippon\n\n\nProvidence\, une jeune pa
- risienne\, découvre qu’elle est la voisine de l’auteur des romans jeu
- nesse dont elle est fan. Quand l’écrivain lui avoue les avoir rédigés
-  avec une plume qui rend réel tout ce qu’on écrit avec et lui confie l
- ’objet magique\, elle réalise qu’elle peut accomplir tous ses rêves 
- et s’envole pour un incroyable voyage...\n\n\nFiche TMDB : https://www.t
- hemoviedb.org/movie/1151265\n\nDonnées fournies par The Movie Database (T
- MDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/o4V7Kq7KJhbjgPpzIYYBzfie77o.jpg" width="220" alt="Affi
- che de La Fille dans les nuages (VF)"><br><small>(La Fille dans les nuages
- )   (2.0)</small><br><small>1h28</small></td><td width="16"></td><td valig
- n="top"><i>Animation\, Aventure\, Fantastique</i><br>France\, Belgium (Fre
- nch\, English)<br><br><b>Réalisateur :</b> Philippe Riche<br><b>Scénario
-  :</b> Luc Bossi\, Philippe Riche<br><b>Production :</b> Brio Films\, SCOP
- E Pictures\, Panama Productions<br><br><b>Acteurs :</b><ul><li>Louane Emer
- a</li><li>Jamel Debbouze</li><li>Grégoire Ludig</li><li>Patrick Brûll</l
- i><li>Clémentine Domptail</li><li>Pauline Moulène</li><li>Érik Stouvena
- ker</li><li>Kaycie Chase</li><li>Damien Laquet</li><li>Paul Borne</li><li>
- Jean-François Rossion</li><li>Bénédicte Philippon</li></ul></td></tr></
- table><p>Providence\, une jeune parisienne\, découvre qu’elle est la vo
- isine de l’auteur des romans jeunesse dont elle est fan. Quand l’écri
- vain lui avoue les avoir rédigés avec une plume qui rend réel tout ce q
- u’on écrit avec et lui confie l’objet magique\, elle réalise qu’el
- le peut accomplir tous ses rêves et s’envole pour un incroyable voyage.
- ..</p><p><small><a href="https://www.themoviedb.org/movie/1151265">Fiche T
- MDB</a><br><br>Données fournies par The Movie Database (TMDB)</small></p>
- </body></html>
-URL:https://www.themoviedb.org/movie/1151265
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/o4V7Kq7KJhbjgPpzIYYBzfie77o.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/o4V7Kq7KJhbjgPpzI
- YYBzfie77o.jpg
-CATEGORIES:Animation,Aventure,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770525@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T090000Z
-DTEND:20260816T105400Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
- 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
-  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
- t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
- hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
- thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
- e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
-  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
-  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
- nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
- re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
-  fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
- .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
- "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
-  (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scéna
- rio :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br
- ><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Ro
- bot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li
- ><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li
- ><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Den
- itra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Chris
- tian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux événeme
- nt cosmique arrache Oak Street à sa paisible banlieue et la transporte ve
- rs un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel envir
- onnement hostile\, comprend vite qu’il leur faudra rester unis pour surv
- ivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">Fich
- e TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small><
- /p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770633@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T090000Z
-DTEND:20260816T104300Z
-SUMMARY:La Pat’ Patrouille : Le film mission Dino (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
- \n(PAW Patrol: The Dino Movie)   (41.2)\n𝟭𝗵𝟮𝟴\n\n𝗔𝗻𝗶
- 𝗺𝗮𝘁𝗶𝗼𝗻\, 𝗔𝘃𝗲𝗻𝘁𝘂𝗿𝗲\, 𝗙𝗮𝗺
- 𝗶𝗹𝗶𝗮𝗹\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾𝘂𝗲\, 𝗖
- 𝗼𝗺𝗲𝗱𝗶𝗲\nCanada (English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
- 𝘁𝗲𝘂𝗿 : Cal Brunker\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Cal Bru
- nker\, Bob Barlen\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Spin Master\
- , Nickelodeon Movies\, Paramount Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀
-  :\n- Carter Young\n- Mckenna Grace\n- Terry Crews\n- Meredith MacNeill\n-
-  Ron Pardo\n- Jennifer Hudson\n- Hayden Chemberlen\n- Fortune Feimster\n- 
- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- Paris Hilton\n\n\nLorsqu’une
-  mystérieuse tempête surprend leur navire\, la Pat’ Patrouille s’éc
- houe sur une île tropicale encore inexplorée… et peuplée de dinosaure
- s ! Ils y rencontrent Rex\, un chiot courageux installé sur l’île depu
- is des années et devenu un véritable expert des dinosaures. Mais leur en
- nemi de toujours\, M. Hellinger\, arrive lui aussi sur l’île avec un pr
- ojet dangereux : exploiter ses richesses naturelles en creusant des mines.
-  Ses actions imprudentes déclenchent bientôt l’éruption d’un gigant
- esque volcan endormi. La Pat’ Patrouille se retrouve alors entraînée d
- ans une série de missions de sauvetage spectaculaires\, plus impressionna
- ntes que tout ce qu’elle a connu jusqu’ici. Elle devra arrêter M. Hel
- linger et sauver l’île avant qu’il ne soit trop tard.\n\n\nFiche TMDB
-  : https://www.themoviedb.org/movie/1185806\n\nDonnées fournies par The M
- ovie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg" width="220" alt="Affi
- che de La Pat’ Patrouille : Le film mission Dino (VF)"><br><small>(PAW P
- atrol: The Dino Movie)   (41.2)</small><br><small>1h28</small></td><td wid
- th="16"></td><td valign="top"><i>Animation\, Aventure\, Familial\, Fantast
- ique\, Comédie</i><br>Canada (English)<br><br><b>Réalisateur :</b> Cal B
- runker<br><b>Scénario :</b> Cal Brunker\, Bob Barlen<br><b>Production :</
- b> Spin Master\, Nickelodeon Movies\, Paramount Animation<br><br><b>Acteur
- s :</b><ul><li>Carter Young</li><li>Mckenna Grace</li><li>Terry Crews</li>
- <li>Meredith MacNeill</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Ha
- yden Chemberlen</li><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rai
- n Janjua</li><li>Bill Nye</li><li>Paris Hilton</li></ul></td></tr></table>
- <p>Lorsqu’une mystérieuse tempête surprend leur navire\, la Pat’ Pat
- rouille s’échoue sur une île tropicale encore inexplorée… et peupl
- ée de dinosaures ! Ils y rencontrent Rex\, un chiot courageux installé s
- ur l’île depuis des années et devenu un véritable expert des dinosaur
- es. Mais leur ennemi de toujours\, M. Hellinger\, arrive lui aussi sur l
- ’île avec un projet dangereux : exploiter ses richesses naturelles en c
- reusant des mines. Ses actions imprudentes déclenchent bientôt l’érup
- tion d’un gigantesque volcan endormi. La Pat’ Patrouille se retrouve a
- lors entraînée dans une série de missions de sauvetage spectaculaires\,
-  plus impressionnantes que tout ce qu’elle a connu jusqu’ici. Elle dev
- ra arrêter M. Hellinger et sauver l’île avant qu’il ne soit trop tar
- d.</p><p><small><a href="https://www.themoviedb.org/movie/1185806">Fiche T
- MDB</a><br><br>Données fournies par The Movie Database (TMDB)</small></p>
- </body></html>
-URL:https://www.themoviedb.org/movie/1185806
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPu
- rtB7Zcq6ph.jpg
-CATEGORIES:Animation,Aventure,Familial,Fantastique,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770829@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T090000Z
-DTEND:20260816T095500Z
-SUMMARY:Superasticot (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
- \n(Superworm)   (1.6)\n𝟰𝟬𝗺𝗶𝗻\n\n𝗔𝗻𝗶𝗺𝗮𝘁
- 𝗶𝗼𝗻\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\, 𝗖𝗼𝗺𝗲𝗱𝗶
- 𝗲\, 𝗧𝗲𝗹𝗲𝗳𝗶𝗹𝗺\nUnited Kingdom (English)\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jac Hamman\, Sarah Scrimgeo
- ur\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Magic Light Pictures\, Blue
- -Zoo Animation Studio\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt Smith\n- O
- livia Colman\n- Patricia Allison\n- Rob Brydon\n- Kobna Holdbrook-Smith\n-
-  Paul Thornley\n- Cariad Lloyd\n- Felix Tandon\n- Samara Sutariya\n- Lizzi
- e Waterworth\n\n\nSuperasticot\, le plus ondulant et le plus tortillant de
-  tous les superhéros ! Superasticot est superélancé\, Superasticot est 
- supermusclé ! Héros au grand cœur\, il passe ses journées à sauver le
- s animaux du jardin. Quand le maléfique Saurien Magicien le capture\, qui
-  pourra lui venir en aide ?\n\n\nFiche TMDB : https://www.themoviedb.org/m
- ovie/912802\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg" width="220" alt="Affi
- che de Superasticot (VF)"><br><small>(Superworm)   (1.6)</small><br><small
- >40min</small></td><td width="16"></td><td valign="top"><i>Animation\, Fam
- ilial\, Comédie\, Téléfilm</i><br>United Kingdom (English)<br><br><b>R
- éalisateurs :</b> Jac Hamman\, Sarah Scrimgeour<br><b>Production :</b> Ma
- gic Light Pictures\, Blue-Zoo Animation Studio<br><br><b>Acteurs :</b><ul>
- <li>Matt Smith</li><li>Olivia Colman</li><li>Patricia Allison</li><li>Rob 
- Brydon</li><li>Kobna Holdbrook-Smith</li><li>Paul Thornley</li><li>Cariad 
- Lloyd</li><li>Felix Tandon</li><li>Samara Sutariya</li><li>Lizzie Waterwor
- th</li></ul></td></tr></table><p>Superasticot\, le plus ondulant et le plu
- s tortillant de tous les superhéros ! Superasticot est superélancé\, Su
- perasticot est supermusclé ! Héros au grand cœur\, il passe ses journé
- es à sauver les animaux du jardin. Quand le maléfique Saurien Magicien l
- e capture\, qui pourra lui venir en aide ?</p><p><small><a href="https://w
- ww.themoviedb.org/movie/912802">Fiche TMDB</a><br><br>Données fournies pa
- r The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/912802
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdN
- o7NJZWzR3f.jpg
-CATEGORIES:Animation,Familial,Comédie,Téléfilm
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770842@calendrier-cine-fr
 DTSTAMP:20260816T000000Z
 DTSTART:20260816T093000Z
@@ -2399,54 +1817,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
 CATEGORIES:Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770603@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T153000Z
-DTEND:20260816T172700Z
-SUMMARY:Toy Story 5 (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg
- \n(Toy Story 5)   (247.6)\n𝟭𝗵𝟰𝟮\n\n𝗔𝗻𝗶𝗺𝗮𝘁
- 𝗶𝗼𝗻\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\, 𝗖𝗼𝗺𝗲𝗱𝗶
- 𝗲\, 𝗔𝘃𝗲𝗻𝘁𝘂𝗿𝗲\nUnited States of America (English
- \, Portuguese\, Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 :
-  Andrew Stanton\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Andrew Stanton\, Kenna
-  Harris\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Matt Aspbury\,
-  Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tom Hanks\n- Tim Allen\n- Joan Cusack\n-
-  Conan O'Brien\n- Scarlett Spears\n- Greta Lee\n- Shelby Rabara\n- Mykal-M
- ichelle Harris\n- Craig Robinson\n- Jay Hernandez\n- Lori Alan\n- Bonnie H
- unt\n\n\nBuzz\, Woody\, Jessie et le reste de la bande verront leur travai
- l remis en question lorsqu'ils découvriront que ce qui obsède les enfant
- s d'aujourd'hui s’appelle… l'électronique !\n\n\nFiche TMDB : https:/
- /www.themoviedb.org/movie/1084244\n\nDonnées fournies par The Movie Datab
- ase (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg" width="220" alt="Affi
- che de Toy Story 5 (VF)"><br><small>(Toy Story 5)   (247.6)</small><br><sm
- all>1h42</small></td><td width="16"></td><td valign="top"><i>Animation\, F
- amilial\, Comédie\, Aventure</i><br>United States of America (English\, P
- ortuguese\, Spanish)<br><br><b>Réalisateur :</b> Andrew Stanton<br><b>Sc
- énario :</b> Andrew Stanton\, Kenna Harris<br><b>Photographie :</b> Matt 
- Aspbury\, Jean-Claude Kalache<br><b>Production :</b> Pixar<br><br><b>Acteu
- rs :</b><ul><li>Tom Hanks</li><li>Tim Allen</li><li>Joan Cusack</li><li>Co
- nan O'Brien</li><li>Scarlett Spears</li><li>Greta Lee</li><li>Shelby Rabar
- a</li><li>Mykal-Michelle Harris</li><li>Craig Robinson</li><li>Jay Hernand
- ez</li><li>Lori Alan</li><li>Bonnie Hunt</li></ul></td></tr></table><p>Buz
- z\, Woody\, Jessie et le reste de la bande verront leur travail remis en q
- uestion lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'
- hui s’appelle… l'électronique !</p><p><small><a href="https://www.the
- moviedb.org/movie/1084244">Fiche TMDB</a><br><br>Données fournies par The
-  Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1084244
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZm
- IsSNmXzidU.jpg
-CATEGORIES:Animation,Familial,Comédie,Aventure
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80366327086@calendrier-cine-fr
 DTSTAMP:20260816T000000Z
 DTSTART:20260816T153000Z
@@ -2510,6 +1880,54 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPu
  rtB7Zcq6ph.jpg
 CATEGORIES:Animation,Aventure,Familial,Fantastique,Comédie
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770603@calendrier-cine-fr
+DTSTAMP:20260816T000000Z
+DTSTART:20260816T153000Z
+DTEND:20260816T172700Z
+SUMMARY:Toy Story 5 (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg
+ \n(Toy Story 5)   (247.6)\n𝟭𝗵𝟰𝟮\n\n𝗔𝗻𝗶𝗺𝗮𝘁
+ 𝗶𝗼𝗻\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\, 𝗖𝗼𝗺𝗲𝗱𝗶
+ 𝗲\, 𝗔𝘃𝗲𝗻𝘁𝘂𝗿𝗲\nUnited States of America (English
+ \, Portuguese\, Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 :
+  Andrew Stanton\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Andrew Stanton\, Kenna
+  Harris\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Matt Aspbury\,
+  Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Tom Hanks\n- Tim Allen\n- Joan Cusack\n-
+  Conan O'Brien\n- Scarlett Spears\n- Greta Lee\n- Shelby Rabara\n- Mykal-M
+ ichelle Harris\n- Craig Robinson\n- Jay Hernandez\n- Lori Alan\n- Bonnie H
+ unt\n\n\nBuzz\, Woody\, Jessie et le reste de la bande verront leur travai
+ l remis en question lorsqu'ils découvriront que ce qui obsède les enfant
+ s d'aujourd'hui s’appelle… l'électronique !\n\n\nFiche TMDB : https:/
+ /www.themoviedb.org/movie/1084244\n\nDonnées fournies par The Movie Datab
+ ase (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg" width="220" alt="Affi
+ che de Toy Story 5 (VF)"><br><small>(Toy Story 5)   (247.6)</small><br><sm
+ all>1h42</small></td><td width="16"></td><td valign="top"><i>Animation\, F
+ amilial\, Comédie\, Aventure</i><br>United States of America (English\, P
+ ortuguese\, Spanish)<br><br><b>Réalisateur :</b> Andrew Stanton<br><b>Sc
+ énario :</b> Andrew Stanton\, Kenna Harris<br><b>Photographie :</b> Matt 
+ Aspbury\, Jean-Claude Kalache<br><b>Production :</b> Pixar<br><br><b>Acteu
+ rs :</b><ul><li>Tom Hanks</li><li>Tim Allen</li><li>Joan Cusack</li><li>Co
+ nan O'Brien</li><li>Scarlett Spears</li><li>Greta Lee</li><li>Shelby Rabar
+ a</li><li>Mykal-Michelle Harris</li><li>Craig Robinson</li><li>Jay Hernand
+ ez</li><li>Lori Alan</li><li>Bonnie Hunt</li></ul></td></tr></table><p>Buz
+ z\, Woody\, Jessie et le reste de la bande verront leur travail remis en q
+ uestion lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'
+ hui s’appelle… l'électronique !</p><p><small><a href="https://www.the
+ moviedb.org/movie/1084244">Fiche TMDB</a><br><br>Données fournies par The
+  Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1084244
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/b2bt3UomRX41rHHZmIsSNmXzidU.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZm
+ IsSNmXzidU.jpg
+CATEGORIES:Animation,Familial,Comédie,Aventure
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770791@calendrier-cine-fr
@@ -3499,53 +2917,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770848@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T184500Z
-DTEND:20260816T215300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
- 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
- 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
- Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
- n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
- arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
- épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
- ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
- l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
- ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
- o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
- >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
- <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
- ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
- o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
- li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
- ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
-  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
- <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
- ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
- ></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770497@calendrier-cine-fr
 DTSTAMP:20260816T000000Z
 DTSTART:20260816T184500Z
@@ -3610,6 +2981,53 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
  s60FrtJmiz.jpg
 CATEGORIES:Histoire,Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770848@calendrier-cine-fr
+DTSTAMP:20260816T000000Z
+DTSTART:20260816T184500Z
+DTEND:20260816T215300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
+ 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
+ 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
+ Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
+ n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
+ arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
+ épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
+ ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
+ e Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
+ l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
+ ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
+ ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
+ o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
+ >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
+ <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
+ ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
+ o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
+ li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
+ ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
+  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
+ <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
+ ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
+ ></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244771036@calendrier-cine-fr
@@ -4431,53 +3849,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770581@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T081500Z
-DTEND:20260817T112300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
- 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
- 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
- Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
- n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
- arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
- épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
- ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
- l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
- ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
- o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
- >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
- <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
- ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
- o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
- li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
- ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
-  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
- <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
- ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
- ></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770841@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T081500Z
@@ -4531,55 +3902,51 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBl
 CATEGORIES:Familial,Fantastique,Comédie,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770654@calendrier-cine-fr
+UID:seance-80244770581@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
-DTSTART:20260817T083000Z
-DTEND:20260817T102400Z
-SUMMARY:La Fin d'Oak Street (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
- 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
-  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
- t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
- hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
- thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
- e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
-  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
-  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
- nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
- re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
-  fournies par The Movie Database (TMDB)
+DTSTART:20260817T081500Z
+DTEND:20260817T112300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
+ 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
+ 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
+ Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
+ n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
+ arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
+ épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
+ ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
+ e Database (TMDB)
 X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VOST English)"><br><small>(The End of Oak Stre
- et)   (212.4)</small><br><small>1h39</small></td><td width="16"></td><td v
- align="top"><i>Science-Fiction\, Mystère\, Thriller</i><br>United States 
- of America (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br
- ><b>Scénario :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gi
- oulakis<br><b>Production :</b> Warner Bros. Pictures\, Domain Entertainmen
- t\, Bad Robot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan Mc
- Gregor</li><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa
-  Davis</li><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</
- li><li>Denitra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Mic
- hael-Christian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux
-  événement cosmique arrache Oak Street à sa paisible banlieue et la tra
- nsporte vers un lieu inconnu\, la famille Platt\, désorientée dans ce no
- uvel environnement hostile\, comprend vite qu’il leur faudra rester unis
-  pour survivre.</p><p><small><a href="https://www.themoviedb.org/movie/110
- 1383">Fiche TMDB</a><br><br>Données fournies par The Movie Database (TMDB
- )</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
+ l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
+ ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
+ ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
+ o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
+ >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
+ <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
+ ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
+ o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
+ li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
+ ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
+  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
+ <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
+ ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
+ ></html>
+URL:https://www.themoviedb.org/movie/1368337
 TRANSP:OPAQUE
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770684@calendrier-cine-fr
@@ -4635,6 +4002,57 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770654@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T083000Z
+DTEND:20260817T102400Z
+SUMMARY:La Fin d'Oak Street (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
+ 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
+  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
+ 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
+ t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
+ hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
+ thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
+ e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
+  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
+  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
+ nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
+ re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
+  fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VOST English)"><br><small>(The End of Oak Stre
+ et)   (212.4)</small><br><small>1h39</small></td><td width="16"></td><td v
+ align="top"><i>Science-Fiction\, Mystère\, Thriller</i><br>United States 
+ of America (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br
+ ><b>Scénario :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gi
+ oulakis<br><b>Production :</b> Warner Bros. Pictures\, Domain Entertainmen
+ t\, Bad Robot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan Mc
+ Gregor</li><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa
+  Davis</li><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</
+ li><li>Denitra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Mic
+ hael-Christian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux
+  événement cosmique arrache Oak Street à sa paisible banlieue et la tra
+ nsporte vers un lieu inconnu\, la famille Platt\, désorientée dans ce no
+ uvel environnement hostile\, comprend vite qu’il leur faudra rester unis
+  pour survivre.</p><p><small><a href="https://www.themoviedb.org/movie/110
+ 1383">Fiche TMDB</a><br><br>Données fournies par The Movie Database (TMDB
+ )</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770605@calendrier-cine-fr
@@ -6216,57 +5634,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
 CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770968@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T133000Z
-DTEND:20260817T152400Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
- 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
-  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
- t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
- hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
- thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
- e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
-  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
-  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
- nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
- re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
-  fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
- .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
- "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
-  (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scéna
- rio :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br
- ><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Ro
- bot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li
- ><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li
- ><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Den
- itra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Chris
- tian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux événeme
- nt cosmique arrache Oak Street à sa paisible banlieue et la transporte ve
- rs un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel envir
- onnement hostile\, comprend vite qu’il leur faudra rester unis pour surv
- ivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">Fich
- e TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small><
- /p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80325543921@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T133000Z
@@ -6320,6 +5687,57 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770968@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T133000Z
+DTEND:20260817T152400Z
+SUMMARY:La Fin d'Oak Street (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
+ 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
+  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
+ 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
+ t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
+ hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
+ thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
+ e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
+  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
+  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
+ nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
+ re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
+  fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
+ .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
+ "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
+  (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scéna
+ rio :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br
+ ><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Ro
+ bot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li
+ ><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li
+ ><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Den
+ itra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Chris
+ tian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux événeme
+ nt cosmique arrache Oak Street à sa paisible banlieue et la transporte ve
+ rs un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel envir
+ onnement hostile\, comprend vite qu’il leur faudra rester unis pour surv
+ ivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">Fich
+ e TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small><
+ /p></body></html>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770698@calendrier-cine-fr
@@ -7603,57 +7021,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/bfjG4eH78KOnpVNlE
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770895@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T180000Z
-DTEND:20260817T195400Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
- 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
-  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
- t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
- hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
- thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
- e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
-  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
-  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
- nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
- re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
-  fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
- .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
- "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
-  (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scéna
- rio :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br
- ><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Ro
- bot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li
- ><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li
- ><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Den
- itra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Chris
- tian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux événeme
- nt cosmique arrache Oak Street à sa paisible banlieue et la transporte ve
- rs un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel envir
- onnement hostile\, comprend vite qu’il leur faudra rester unis pour surv
- ivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">Fich
- e TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small><
- /p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80322795273@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T180000Z
@@ -7707,6 +7074,57 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770895@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T180000Z
+DTEND:20260817T195400Z
+SUMMARY:La Fin d'Oak Street (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
+ 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
+  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
+ 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
+ t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
+ hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
+ thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
+ e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
+  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
+  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
+ nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
+ re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
+  fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
+ .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
+ "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
+  (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scéna
+ rio :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br
+ ><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Ro
+ bot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li
+ ><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li
+ ><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Den
+ itra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Chris
+ tian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux événeme
+ nt cosmique arrache Oak Street à sa paisible banlieue et la transporte ve
+ rs un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel envir
+ onnement hostile\, comprend vite qu’il leur faudra rester unis pour surv
+ ivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">Fich
+ e TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small><
+ /p></body></html>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770982@calendrier-cine-fr
@@ -7763,52 +7181,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yEuZLk7pJF2H17Yaw
 CATEGORIES:Horreur,Mystère
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770515@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T181500Z
-DTEND:20260817T212300Z
-SUMMARY:L'Odyssée (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
- 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
- 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
- Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
- n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
- arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
- épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
- ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VF)"><br><small>(The Odyssey)   (814.2)</small><br><sma
- ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
- ion\, Fantastique</i><br>United Kingdom\, United States of America (Englis
- h)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Ch
- ristopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Productio
- n :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt D
- amon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</l
- i><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>
- Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Ni
- cotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après 
- son départ pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaqu
- e\, mais son voyage est parsemé d'aventures et d'épreuves.</p><p><small>
- <a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br><br>D
- onnées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244771024@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T181500Z
@@ -7855,6 +7227,52 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZm
  IsSNmXzidU.jpg
 CATEGORIES:Animation,Familial,Comédie,Aventure
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770515@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T181500Z
+DTEND:20260817T212300Z
+SUMMARY:L'Odyssée (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
+ 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
+ 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
+ Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
+ n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
+ arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
+ épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
+ ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
+ e Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VF)"><br><small>(The Odyssey)   (814.2)</small><br><sma
+ ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
+ ion\, Fantastique</i><br>United Kingdom\, United States of America (Englis
+ h)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Ch
+ ristopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Productio
+ n :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt D
+ amon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</l
+ i><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>
+ Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Ni
+ cotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après 
+ son départ pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaqu
+ e\, mais son voyage est parsemé d'aventures et d'épreuves.</p><p><small>
+ <a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br><br>D
+ onnées fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770818@calendrier-cine-fr
@@ -7914,53 +7332,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
  Xjyux1VEdZ.jpg
 CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770627@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T184500Z
-DTEND:20260817T215300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
- 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
- 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
- Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
- n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
- arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
- épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
- ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
- l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
- ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
- o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
- >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
- <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
- ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
- o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
- li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
- ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
-  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
- <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
- ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
- ></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770568@calendrier-cine-fr
@@ -8027,6 +7398,53 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
  s60FrtJmiz.jpg
 CATEGORIES:Histoire,Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770627@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T184500Z
+DTEND:20260817T215300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
+ 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
+ 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
+ Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
+ n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
+ arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
+ épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
+ ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
+ e Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
+ l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
+ ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
+ ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
+ o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
+ >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
+ <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
+ ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
+ o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
+ li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
+ ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
+  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
+ <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
+ ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
+ ></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244771011@calendrier-cine-fr
@@ -8471,57 +7889,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80410514201@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T201500Z
-DTEND:20260817T220900Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
- 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
-  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
- t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
- hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
- thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
- e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
-  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
-  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
- nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
- re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
-  fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
- .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
- "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
-  (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scéna
- rio :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br
- ><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Ro
- bot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li
- ><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li
- ><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Den
- itra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Chris
- tian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux événeme
- nt cosmique arrache Oak Street à sa paisible banlieue et la transporte ve
- rs un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel envir
- onnement hostile\, comprend vite qu’il leur faudra rester unis pour surv
- ivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">Fich
- e TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small><
- /p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80410514143@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T201500Z
@@ -8575,6 +7942,57 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80410514201@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T201500Z
+DTEND:20260817T220900Z
+SUMMARY:La Fin d'Oak Street (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
+ 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
+  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
+ 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
+ t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
+ hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
+ thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
+ e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
+  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
+  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
+ nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
+ re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
+  fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
+ .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
+ "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
+  (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scéna
+ rio :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br
+ ><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Ro
+ bot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li
+ ><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li
+ ><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Den
+ itra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Chris
+ tian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux événeme
+ nt cosmique arrache Oak Street à sa paisible banlieue et la transporte ve
+ rs un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel envir
+ onnement hostile\, comprend vite qu’il leur faudra rester unis pour surv
+ ivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">Fich
+ e TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small><
+ /p></body></html>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770917@calendrier-cine-fr
@@ -8868,53 +8286,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770704@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T081500Z
-DTEND:20260818T112300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
- 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
- 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
- Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
- n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
- arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
- épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
- ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
- l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
- ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
- o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
- >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
- <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
- ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
- o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
- li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
- ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
-  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
- <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
- ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
- ></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244771037@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T081500Z
@@ -8966,6 +8337,53 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBl
  zGLyShO6sc.jpg
 CATEGORIES:Familial,Fantastique,Comédie,Aventure
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770704@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T081500Z
+DTEND:20260818T112300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
+ 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
+ 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
+ Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
+ n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
+ arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
+ épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
+ ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
+ e Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
+ l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
+ ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
+ ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
+ o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
+ >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
+ <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
+ ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
+ o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
+ li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
+ ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
+  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
+ <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
+ ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
+ ></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244771017@calendrier-cine-fr
@@ -10578,6 +9996,55 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
 CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80323979894@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T133000Z
+DTEND:20260818T151500Z
+SUMMARY:‎Des Minions et des Monstres (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg\
+ n(Minions & Monsters)   (329.1)\n𝟭𝗵𝟯𝟬\n\n𝗔𝘃𝗲𝗻𝘁
+ 𝘂𝗿𝗲\, 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻\, 𝗖𝗼𝗺𝗲𝗱
+ 𝗶𝗲\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁
+ 𝗶𝗾𝘂𝗲\nUnited States of America (English\, Spanish)\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre Coffin\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Brian Lynch\, Pierre Coffin\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : Universal Pictures\, Illumination\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Pierre Coffin\n- Trey Parker\n- Christoph Waltz\n- Allison J
+ anney\n- Jesse Eisenberg\n- Jeff Bridges\n- Zoey Deutch\n- Bobby Moynihan\
+ n- Phil LaMarr\n- George Lucas\n- Barbara Eve Harris\n- Eric Bauza\n\n\nVo
+ ici l'histoire mouvementée\, déjantée et complètement véridique des M
+ inions à Hollywood : devenus vedettes de cinéma\, ils perdent tout\, lib
+ èrent des monstres et font équipe pour sauver la planète du chaos qu'il
+ s ont créé.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1315772\n
+ \nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg" width="220" alt="Affic
+ he de ‎Des Minions et des Monstres (VF)"><br><small>(Minions &amp\; Mons
+ ters)   (329.1)</small><br><small>1h30</small></td><td width="16"></td><td
+  valign="top"><i>Aventure\, Animation\, Comédie\, Familial\, Fantastique<
+ /i><br>United States of America (English\, Spanish)<br><br><b>Réalisateur
+  :</b> Pierre Coffin<br><b>Scénario :</b> Brian Lynch\, Pierre Coffin<br>
+ <b>Production :</b> Universal Pictures\, Illumination<br><br><b>Acteurs :<
+ /b><ul><li>Pierre Coffin</li><li>Trey Parker</li><li>Christoph Waltz</li><
+ li>Allison Janney</li><li>Jesse Eisenberg</li><li>Jeff Bridges</li><li>Zoe
+ y Deutch</li><li>Bobby Moynihan</li><li>Phil LaMarr</li><li>George Lucas</
+ li><li>Barbara Eve Harris</li><li>Eric Bauza</li></ul></td></tr></table><p
+ >Voici l'histoire mouvementée\, déjantée et complètement véridique de
+ s Minions à Hollywood : devenus vedettes de cinéma\, ils perdent tout\, 
+ libèrent des monstres et font équipe pour sauver la planète du chaos qu
+ 'ils ont créé.</p><p><small><a href="https://www.themoviedb.org/movie/13
+ 15772">Fiche TMDB</a><br><br>Données fournies par The Movie Database (TMD
+ B)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1315772
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
+ TKEU8mxvc.jpg
+CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80421209733@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T133000Z
@@ -10641,55 +10108,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPu
  rtB7Zcq6ph.jpg
 CATEGORIES:Animation,Aventure,Familial,Fantastique,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80323979894@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T133000Z
-DTEND:20260818T151500Z
-SUMMARY:‎Des Minions et des Monstres (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg\
- n(Minions & Monsters)   (329.1)\n𝟭𝗵𝟯𝟬\n\n𝗔𝘃𝗲𝗻𝘁
- 𝘂𝗿𝗲\, 𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻\, 𝗖𝗼𝗺𝗲𝗱
- 𝗶𝗲\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁
- 𝗶𝗾𝘂𝗲\nUnited States of America (English\, Spanish)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre Coffin\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Brian Lynch\, Pierre Coffin\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Universal Pictures\, Illumination\n\n𝗔𝗰𝘁𝗲𝘂
- 𝗿𝘀 :\n- Pierre Coffin\n- Trey Parker\n- Christoph Waltz\n- Allison J
- anney\n- Jesse Eisenberg\n- Jeff Bridges\n- Zoey Deutch\n- Bobby Moynihan\
- n- Phil LaMarr\n- George Lucas\n- Barbara Eve Harris\n- Eric Bauza\n\n\nVo
- ici l'histoire mouvementée\, déjantée et complètement véridique des M
- inions à Hollywood : devenus vedettes de cinéma\, ils perdent tout\, lib
- èrent des monstres et font équipe pour sauver la planète du chaos qu'il
- s ont créé.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1315772\n
- \nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg" width="220" alt="Affic
- he de ‎Des Minions et des Monstres (VF)"><br><small>(Minions &amp\; Mons
- ters)   (329.1)</small><br><small>1h30</small></td><td width="16"></td><td
-  valign="top"><i>Aventure\, Animation\, Comédie\, Familial\, Fantastique<
- /i><br>United States of America (English\, Spanish)<br><br><b>Réalisateur
-  :</b> Pierre Coffin<br><b>Scénario :</b> Brian Lynch\, Pierre Coffin<br>
- <b>Production :</b> Universal Pictures\, Illumination<br><br><b>Acteurs :<
- /b><ul><li>Pierre Coffin</li><li>Trey Parker</li><li>Christoph Waltz</li><
- li>Allison Janney</li><li>Jesse Eisenberg</li><li>Jeff Bridges</li><li>Zoe
- y Deutch</li><li>Bobby Moynihan</li><li>Phil LaMarr</li><li>George Lucas</
- li><li>Barbara Eve Harris</li><li>Eric Bauza</li></ul></td></tr></table><p
- >Voici l'histoire mouvementée\, déjantée et complètement véridique de
- s Minions à Hollywood : devenus vedettes de cinéma\, ils perdent tout\, 
- libèrent des monstres et font équipe pour sauver la planète du chaos qu
- 'ils ont créé.</p><p><small><a href="https://www.themoviedb.org/movie/13
- 15772">Fiche TMDB</a><br><br>Données fournies par The Movie Database (TMD
- B)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1315772
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/vuxZITXEqsBHBUhc1TKEU8mxvc.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
- TKEU8mxvc.jpg
-CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770778@calendrier-cine-fr
@@ -12078,52 +11496,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yEuZLk7pJF2H17Yaw
 CATEGORIES:Horreur,Mystère
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770838@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T181500Z
-DTEND:20260818T212300Z
-SUMMARY:L'Odyssée (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
- 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
- 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
- Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
- n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
- arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
- épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
- ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VF)"><br><small>(The Odyssey)   (814.2)</small><br><sma
- ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
- ion\, Fantastique</i><br>United Kingdom\, United States of America (Englis
- h)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Ch
- ristopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Productio
- n :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt D
- amon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</l
- i><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>
- Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Ni
- cotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après 
- son départ pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaqu
- e\, mais son voyage est parsemé d'aventures et d'épreuves.</p><p><small>
- <a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br><br>D
- onnées fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770771@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T181500Z
@@ -12170,6 +11542,52 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/b2bt3UomRX41rHHZm
  IsSNmXzidU.jpg
 CATEGORIES:Animation,Familial,Comédie,Aventure
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770838@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T181500Z
+DTEND:20260818T212300Z
+SUMMARY:L'Odyssée (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
+ 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
+ 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
+ Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
+ n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
+ arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
+ épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
+ ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
+ e Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VF)"><br><small>(The Odyssey)   (814.2)</small><br><sma
+ ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
+ ion\, Fantastique</i><br>United Kingdom\, United States of America (Englis
+ h)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Ch
+ ristopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Productio
+ n :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt D
+ amon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</l
+ i><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>
+ Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Ni
+ cotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après 
+ son départ pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaqu
+ e\, mais son voyage est parsemé d'aventures et d'épreuves.</p><p><small>
+ <a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br><br>D
+ onnées fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770492@calendrier-cine-fr
@@ -12287,53 +11705,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/bfjG4eH78KOnpVNlE
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770687@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T184500Z
-DTEND:20260818T215300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
- 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
- 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
- Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
- n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
- arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
- épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
- ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
- https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
- e Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
- l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
- ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
- ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
- o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
- >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
- <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
- ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
- o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
- li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
- ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
-  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
- <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
- ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
- ></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770954@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T184500Z
@@ -12398,6 +11769,53 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
  s60FrtJmiz.jpg
 CATEGORIES:Histoire,Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770687@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T184500Z
+DTEND:20260818T215300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)   (814.2)\n𝟮𝗵𝟱𝟯\n\n𝗔𝘃𝗲𝗻𝘁𝘂
+ 𝗿𝗲\, 𝗔𝗰𝘁𝗶𝗼𝗻\, 𝗙𝗮𝗻𝘁𝗮𝘀𝘁𝗶𝗾
+ 𝘂𝗲\nUnited Kingdom\, United States of America (English)\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Christopher Nolan\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Christopher Nolan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Hoyte van Hoytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+  : Universal Pictures\, Syncopy\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt 
+ Damon\n- Tom Holland\n- Anne Hathaway\n- Robert Pattinson\n- Himesh Patel\
+ n- Charlize Theron\n- John Leguizamo\n- Travis Scott\n- Corey Hawkins\n- J
+ arreth J. Merz\n- Niko Nicotera\n- Elliot Page\n\n\nVingt ans après son d
+ épart pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, m
+ ais son voyage est parsemé d'aventures et d'épreuves.\n\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1368337\n\nDonnées fournies par The Movi
+ e Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)   (814.2)</smal
+ l><br><small>2h53</small></td><td width="16"></td><td valign="top"><i>Aven
+ ture\, Action\, Fantastique</i><br>United Kingdom\, United States of Ameri
+ ca (English)<br><br><b>Réalisateur :</b> Christopher Nolan<br><b>Scénari
+ o :</b> Christopher Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b
+ >Production :</b> Universal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul>
+ <li>Matt Damon</li><li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pa
+ ttinson</li><li>Himesh Patel</li><li>Charlize Theron</li><li>John Leguizam
+ o</li><li>Travis Scott</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><
+ li>Niko Nicotera</li><li>Elliot Page</li></ul></td></tr></table><p>Vingt a
+ ns après son départ pour la guerre de Troie\, le roi Ulysse rentre enfin
+  à Ithaque\, mais son voyage est parsemé d'aventures et d'épreuves.</p>
+ <p><small><a href="https://www.themoviedb.org/movie/1368337">Fiche TMDB</a
+ ><br><br>Données fournies par The Movie Database (TMDB)</small></p></body
+ ></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770564@calendrier-cine-fr
@@ -12792,57 +12210,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80410514202@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T201500Z
-DTEND:20260818T220900Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
- 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
-  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
- t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
- hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
- thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
- e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
-  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
-  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
- nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
- re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
-  fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
- .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
- "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
-  (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scéna
- rio :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br
- ><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Ro
- bot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li
- ><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li
- ><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Den
- itra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Chris
- tian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux événeme
- nt cosmique arrache Oak Street à sa paisible banlieue et la transporte ve
- rs un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel envir
- onnement hostile\, comprend vite qu’il leur faudra rester unis pour surv
- ivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">Fich
- e TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small><
- /p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80410514156@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T201500Z
@@ -12896,6 +12263,57 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80410514202@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T201500Z
+DTEND:20260818T220900Z
+SUMMARY:La Fin d'Oak Street (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)   (212.4)\n𝟭𝗵𝟯𝟵\n\n𝗦𝗰𝗶𝗲
+ 𝗻𝗰𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\, 𝗠𝘆𝘀𝘁𝗲𝗿𝗲\,
+  𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\nUnited States of America (English)\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Robert Mitchell\n𝗦
+ 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : David Robert Mitchell\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Gioulakis\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Domain Entertainment\, Bad Robo
+ t\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Anne Hathaway\n- Ewan McGregor\n- C
+ hristian Convery\n- Maisy Stella\n- Jordan Alexa Davis\n- P.J. Byrne\n- Be
+ thany Anne Lind\n- Emily Kuroda\n- Denitra Isler\n- Hudson Meek\n- Anne Ge
+ e Byrd\n- Michael-Christian Moore\n\n\nLorsqu’un mystérieux événement
+  cosmique arrache Oak Street à sa paisible banlieue et la transporte vers
+  un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel environ
+ nement hostile\, comprend vite qu’il leur faudra rester unis pour surviv
+ re.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1101383\n\nDonnées
+  fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)   (212
+ .4)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
+ "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
+  (English)<br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scéna
+ rio :</b> David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br
+ ><b>Production :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Ro
+ bot<br><br><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li
+ ><li>Christian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li
+ ><li>P.J. Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Den
+ itra Isler</li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Chris
+ tian Moore</li></ul></td></tr></table><p>Lorsqu’un mystérieux événeme
+ nt cosmique arrache Oak Street à sa paisible banlieue et la transporte ve
+ rs un lieu inconnu\, la famille Platt\, désorientée dans ce nouvel envir
+ onnement hostile\, comprend vite qu’il leur faudra rester unis pour surv
+ ivre.</p><p><small><a href="https://www.themoviedb.org/movie/1101383">Fich
+ e TMDB</a><br><br>Données fournies par The Movie Database (TMDB)</small><
+ /p></body></html>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770541@calendrier-cine-fr

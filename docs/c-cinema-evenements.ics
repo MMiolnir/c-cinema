@@ -11,10 +11,59 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:event-912802@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Superasticot
+DESCRIPTION:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
+ \n(Superworm)   (1.6)\n𝟰𝟬𝗺𝗶𝗻\n\n𝗔𝗻𝗶𝗺𝗮𝘁
+ 𝗶𝗼𝗻\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\, 𝗖𝗼𝗺𝗲𝗱𝗶
+ 𝗲\, 𝗧𝗲𝗹𝗲𝗳𝗶𝗹𝗺\nUnited Kingdom (English)\n(sortie
+  initiale : 28/09/2022)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
+ 𝘀 : Jac Hamman\, Sarah Scrimgeour\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : Magic Light Pictures\, Blue-Zoo Animation Studio\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Matt Smith\n- Olivia Colman\n- Patricia Allison\n- R
+ ob Brydon\n- Kobna Holdbrook-Smith\n- Paul Thornley\n- Cariad Lloyd\n- Fel
+ ix Tandon\n- Samara Sutariya\n- Lizzie Waterworth\n\n\nSuperasticot\, le p
+ lus ondulant et le plus tortillant de tous les superhéros ! Superasticot 
+ est superélancé\, Superasticot est supermusclé ! Héros au grand cœur\
+ , il passe ses journées à sauver les animaux du jardin. Quand le maléfi
+ que Saurien Magicien le capture\, qui pourra lui venir en aide ?\n\n\nFich
+ e TMDB : https://www.themoviedb.org/movie/912802\n\nSéance relevée sur A
+ lloCiné.\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg" width="220" alt="Affi
+ che de Superasticot"><br><small>(Superworm)   (1.6)</small><br><small>40mi
+ n</small></td><td width="16"></td><td valign="top"><i>Animation\, Familial
+ \, Comédie\, Téléfilm</i><br>United Kingdom (English)<br>(sortie initia
+ le : 28/09/2022)<br><br><b>Réalisateurs :</b> Jac Hamman\, Sarah Scrimgeo
+ ur<br><b>Production :</b> Magic Light Pictures\, Blue-Zoo Animation Studio
+ <br><br><b>Acteurs :</b><ul><li>Matt Smith</li><li>Olivia Colman</li><li>P
+ atricia Allison</li><li>Rob Brydon</li><li>Kobna Holdbrook-Smith</li><li>P
+ aul Thornley</li><li>Cariad Lloyd</li><li>Felix Tandon</li><li>Samara Suta
+ riya</li><li>Lizzie Waterworth</li></ul></td></tr></table><p>Superasticot\
+ , le plus ondulant et le plus tortillant de tous les superhéros ! Superas
+ ticot est superélancé\, Superasticot est supermusclé ! Héros au grand 
+ cœur\, il passe ses journées à sauver les animaux du jardin. Quand le m
+ aléfique Saurien Magicien le capture\, qui pourra lui venir en aide ?</p>
+ <p><small><a href="https://www.themoviedb.org/movie/912802">Fiche TMDB</a>
+ <br><br>Données fournies par The Movie Database (TMDB)</small></p></body>
+ </html>
+URL:https://www.themoviedb.org/movie/912802
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdN
+ o7NJZWzR3f.jpg
+CATEGORIES:Animation,Familial,Comédie,Téléfilm
+END:VEVENT
+BEGIN:VEVENT
 UID:event-149871@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
+DTSTAMP:20260818T000000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
 SUMMARY:Le Conte de la princesse Kaguya
 DESCRIPTION:https://image.tmdb.org/t/p/w780/yBbJpLFmwdEHzeyeEstoi9mM5lX.jpg
  \n(かぐや姫の物語 — Kaguya-hime no monogatari)   (6.5)\n𝟮𝗵
@@ -64,55 +113,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yBbJpLFmwdEHzeyeE
  stoi9mM5lX.jpg
 CATEGORIES:Animation,Drame,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:event-912802@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:Superasticot
-DESCRIPTION:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
- \n(Superworm)   (1.6)\n𝟰𝟬𝗺𝗶𝗻\n\n𝗔𝗻𝗶𝗺𝗮𝘁
- 𝗶𝗼𝗻\, 𝗙𝗮𝗺𝗶𝗹𝗶𝗮𝗹\, 𝗖𝗼𝗺𝗲𝗱𝗶
- 𝗲\, 𝗧𝗲𝗹𝗲𝗳𝗶𝗹𝗺\nUnited Kingdom (English)\n(sortie
-  initiale : 28/09/2022)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
- 𝘀 : Jac Hamman\, Sarah Scrimgeour\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : Magic Light Pictures\, Blue-Zoo Animation Studio\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Matt Smith\n- Olivia Colman\n- Patricia Allison\n- R
- ob Brydon\n- Kobna Holdbrook-Smith\n- Paul Thornley\n- Cariad Lloyd\n- Fel
- ix Tandon\n- Samara Sutariya\n- Lizzie Waterworth\n\n\nSuperasticot\, le p
- lus ondulant et le plus tortillant de tous les superhéros ! Superasticot 
- est superélancé\, Superasticot est supermusclé ! Héros au grand cœur\
- , il passe ses journées à sauver les animaux du jardin. Quand le maléfi
- que Saurien Magicien le capture\, qui pourra lui venir en aide ?\n\n\nFich
- e TMDB : https://www.themoviedb.org/movie/912802\n\nSéance relevée sur A
- lloCiné.\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg" width="220" alt="Affi
- che de Superasticot"><br><small>(Superworm)   (1.6)</small><br><small>40mi
- n</small></td><td width="16"></td><td valign="top"><i>Animation\, Familial
- \, Comédie\, Téléfilm</i><br>United Kingdom (English)<br>(sortie initia
- le : 28/09/2022)<br><br><b>Réalisateurs :</b> Jac Hamman\, Sarah Scrimgeo
- ur<br><b>Production :</b> Magic Light Pictures\, Blue-Zoo Animation Studio
- <br><br><b>Acteurs :</b><ul><li>Matt Smith</li><li>Olivia Colman</li><li>P
- atricia Allison</li><li>Rob Brydon</li><li>Kobna Holdbrook-Smith</li><li>P
- aul Thornley</li><li>Cariad Lloyd</li><li>Felix Tandon</li><li>Samara Suta
- riya</li><li>Lizzie Waterworth</li></ul></td></tr></table><p>Superasticot\
- , le plus ondulant et le plus tortillant de tous les superhéros ! Superas
- ticot est superélancé\, Superasticot est supermusclé ! Héros au grand 
- cœur\, il passe ses journées à sauver les animaux du jardin. Quand le m
- aléfique Saurien Magicien le capture\, qui pourra lui venir en aide ?</p>
- <p><small><a href="https://www.themoviedb.org/movie/912802">Fiche TMDB</a>
- <br><br>Données fournies par The Movie Database (TMDB)</small></p></body>
- </html>
-URL:https://www.themoviedb.org/movie/912802
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdN
- o7NJZWzR3f.jpg
-CATEGORIES:Animation,Familial,Comédie,Téléfilm
 END:VEVENT
 BEGIN:VEVENT
 UID:event-671@calendrier-cine-fr
@@ -814,8 +814,8 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/mRtFOHF93zW4kTp4JOYrH71vxBh.jpg
  𝗶𝗼𝗻\, 𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗿\, 𝗦𝗰𝗶𝗲𝗻𝗰
  𝗲-𝗙𝗶𝗰𝘁𝗶𝗼𝗻\nFrance\, United States of America (Engl
  ish\, Spanish)\n(sortie initiale : 03/07/1991)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿 : James Cameron\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : J
- ames Cameron\, William Wisher\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
+ 𝗮𝘁𝗲𝘂𝗿 : James Cameron\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : W
+ illiam Wisher\, James Cameron\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
  𝗶𝗲 : Adam Greenberg\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Caro
  lco Pictures\, Pacific Western\, Lightstorm Entertainment\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Arnold Schwarzenegger\n- Linda Hamilton\n- Edward Fu
@@ -837,8 +837,8 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  ent Day)   (26.0)</small><br><small>2h17</small></td><td width="16"></td><
  td valign="top"><i>Action\, Thriller\, Science-Fiction</i><br>France\, Uni
  ted States of America (English\, Spanish)<br>(sortie initiale : 03/07/1991
- )<br><br><b>Réalisateur :</b> James Cameron<br><b>Scénario :</b> James C
- ameron\, William Wisher<br><b>Photographie :</b> Adam Greenberg<br><b>Prod
+ )<br><br><b>Réalisateur :</b> James Cameron<br><b>Scénario :</b> William
+  Wisher\, James Cameron<br><b>Photographie :</b> Adam Greenberg<br><b>Prod
  uction :</b> Carolco Pictures\, Pacific Western\, Lightstorm Entertainment
  <br><br><b>Acteurs :</b><ul><li>Arnold Schwarzenegger</li><li>Linda Hamilt
  on</li><li>Edward Furlong</li><li>Robert Patrick</li><li>Earl Boen</li><li
