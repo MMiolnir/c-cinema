@@ -121,8 +121,8 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # reflete l'attention d'un public surtout anglophone. Un petit film francais y
 # est mal note alors qu'il passe pres de chez vous ; un petit film international
 # confidentiel ne passera jamais. On filtre donc plus severement l'etranger.
-POPULARITE_MINIMALE = 3.5          # films en langue etrangere
-POPULARITE_MINIMALE_FR = 1.2       # films en langue francaise
+POPULARITE_MINIMALE = 3.0          # films en langue etrangere
+POPULARITE_MINIMALE_FR = 1.0       # films en langue francaise
 LANGUES_FRANCAISES = ("fr",)       # langues beneficiant du seuil francais
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
@@ -292,7 +292,18 @@ def lister_sorties():
     return list(films.values())
 
 
-PALIERS_POPULARITE = (0, 0.5, 1, 2, 3, 4, 5, 7, 10, 15, 20, 30, 50, 100)
+PALIERS_POPULARITE_BASE = (0, 0.5, 1, 2, 3, 4, 5, 7, 10, 15, 20, 30, 50, 100)
+
+
+def paliers_popularite():
+    """Les paliers d'affichage, avec votre seuil actuel insere s'il en manque.
+
+    Sans ca, un seuil a 3.5 n'apparait dans aucun tableau et vous perdez le
+    repere qui vous sert justement a l'ajuster.
+    """
+    paliers = set(PALIERS_POPULARITE_BASE)
+    paliers.add(POPULARITE_MINIMALE)
+    return tuple(sorted(paliers))
 
 
 def afficher_repartition(scores):
@@ -314,7 +325,7 @@ def afficher_repartition(scores):
     print("  " + "-" * 68)
 
     precedent = -1.0
-    for seuil in PALIERS_POPULARITE:
+    for seuil in paliers_popularite():
         restants = sum(1 for v, _, lg in scores
                        if v >= (POPULARITE_MINIMALE_FR if lg in LANGUES_FRANCAISES else seuil))
         perdus = [t for v, t, lg in scores
@@ -328,10 +339,22 @@ def afficher_repartition(scores):
 
     # Ce que votre reglage actuel ecarte, du plus populaire au moins populaire.
     # Si aucun de ces titres ne vous interesse, le seuil est bien choisi.
-    exclus = sorted(((v, t) for v, t, lg in scores if v < seuil_popularite(lg)), reverse=True)
-    if exclus:
-        print(f"\n  Les {min(20, len(exclus))} films les plus populaires que vous excluez"
-              f" (seuil {POPULARITE_MINIMALE}) :")
+    # Deux listes separees : melangees, les films francais exclus (tous sous le
+    # seuil francais) seraient noyes tout en bas et jamais visibles.
+    for libelle, francais, seuil in (
+        ("etrangers", False, POPULARITE_MINIMALE),
+        ("francais", True, POPULARITE_MINIMALE_FR),
+    ):
+        exclus = sorted(
+            ((v, t) for v, t, lg in scores
+             if (lg in LANGUES_FRANCAISES) == francais and v < seuil),
+            reverse=True,
+        )
+        if not exclus:
+            print(f"\n  Aucun film {libelle} exclu au seuil {seuil}.")
+            continue
+        print(f"\n  Les {min(20, len(exclus))} films {libelle} les plus populaires"
+              f" que vous excluez (seuil {seuil}) :")
         for valeur, titre in exclus[:20]:
             print(f"    {valeur:6.1f}  {titre}")
         if len(exclus) > 20:
@@ -884,7 +907,7 @@ def couverture_du_cinema(scores, seances):
     print(f"\n  seuil etranger  films du cinema conserves"
           f"  (seuil francais fixe a {POPULARITE_MINIMALE_FR})")
     print("  " + "-" * 40)
-    for seuil in PALIERS_POPULARITE:
+    for seuil in paliers_popularite():
         gardes = sum(1 for v, _, lg in apparies
                      if v >= (POPULARITE_MINIMALE_FR if lg in LANGUES_FRANCAISES else seuil))
         part = gardes / len(apparies) * 100
