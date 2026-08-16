@@ -125,6 +125,19 @@ POPULARITE_MINIMALE = 3.5          # films en langue etrangere
 POPULARITE_MINIMALE_FR = 1.2       # films en langue francaise
 LANGUES_FRANCAISES = ("fr",)       # langues beneficiant du seuil francais
 
+# Duree minimale, en minutes, pour qu'un film entre dans le calendrier des
+# sorties nationales. TMDB n'a AUCUN genre "court metrage" : la duree est le
+# seul moyen de les distinguer.
+# Les films dont TMDB ignore la duree (souvent les sorties lointaines, pas
+# encore documentees) sont TOUJOURS gardes : mieux vaut un court metrage de
+# temps en temps qu'un blockbuster perdu.
+# Reperes : 40 min separe le court du long selon l'Academie, 60 min selon le
+# CNC. 45 ecarte les courts sans toucher aux documentaires ni aux films
+# d'animation brefs. Mettre 0 pour desactiver ce filtre.
+DUREE_MINIMALE = 60
+
+ECARTES_COURTS = []                # rempli en cours de route, pour le journal
+
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
 # On reprend cet ordre et on plafonne : le premier role est donc toujours present.
 ACTEURS_MAX = 12           # nombre d'acteurs affiches au maximum
@@ -592,6 +605,13 @@ def details_du_film(film):
             print(f"  ecarte : {titre} - pas de sortie salle FR dans la fenetre", file=sys.stderr)
             return None
 
+    duree_film = duree_en_minutes(fiche.get("runtime"))
+    if not film.get("impose") and DUREE_MINIMALE and 0 < duree_film < DUREE_MINIMALE:
+        # un court metrage : ecarte du calendrier des sorties nationales, mais
+        # toujours visible dans les seances s'il passe dans votre cinema
+        ECARTES_COURTS.append(f"{titre} ({duree_film} min)")
+        return None
+
     return {
         "id": film["id"],
         "date": jour_retenu,
@@ -610,7 +630,7 @@ def details_du_film(film):
         "synopsis": synopsis,
         "synopsis_en_anglais": synopsis_en_anglais,
         "affiche": fiche.get("poster_path"),
-        "duree": duree_en_minutes(fiche.get("runtime")),
+        "duree": duree_film,
         "popularite": float(fiche.get("popularity") or 0) or None,
         "langue_origine": langue_originale(fiche),
         "langues": langues_du_film(fiche),
@@ -623,11 +643,17 @@ def enrichir(films):
         resultats = list(executeur.map(details_du_film, films))
 
     complets = [r for r in resultats if r]
-    rejetes = len(films) - len(complets)
+    rejetes = len(films) - len(complets) - len(ECARTES_COURTS)
     print(f"  {len(complets)} fiches retenues")
-    if rejetes:
+    if rejetes > 0:
         print(f"  {rejetes} films ecartes : pas de sortie salle FR dans la fenetre")
         print("    (sortie numerique, TV ou physique remontee a tort par /discover)")
+    if ECARTES_COURTS:
+        print(f"  {len(ECARTES_COURTS)} courts metrages ecartes (moins de {DUREE_MINIMALE} min) :")
+        for titre in sorted(ECARTES_COURTS)[:15]:
+            print(f"    - {titre}")
+        if len(ECARTES_COURTS) > 15:
+            print(f"    ... et {len(ECARTES_COURTS) - 15} autres")
     return sorted(complets, key=lambda f: (f["date"], f["titre"]))
 
 
