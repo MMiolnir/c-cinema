@@ -11,512 +11,6 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:seance-80244771065@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T192000Z
-DTEND:20260815T220500Z
-SUMMARY:Spider-Man : Brand New Day (VF · 4DX 3D · Salle premium · F 3D)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)\n2h30\n\nScience-Fiction\, Action\, Aventure
- \nUnited States of America\n\nRéalisateur : Destin Daniel Cretton\nScéna
- rio : Erik Sommers\, Chris McKenna\nPhotographie : Brett Pawlak\nProductio
- n : Marvel Studios\, Columbia Pictures\, Pascal Pictures\n\nActeurs :\n- T
- om Holland\n- Zendaya\n- Mark Ruffalo\n- Jon Bernthal\n- Jacob Batalon\n- 
- Sadie Sink\n- Florence Pugh\n- Liza Colón-Zayas\n- Tramell Tillman\n- Mar
- isa Tomei\n- Naomi Watts\n- Michael Mando\n\n\nQuatre ans se sont écoulé
- s\, Peter\, désormais adulte\, vit seul\, s'est volontairement effacé de
-  la vie et des souvenirs de ses proches. Luttant contre le crime dans un N
- ew York qui ne le reconnaît plus\, il se consacre entièrement à la prot
- ection de la ville - un Spider-Man à plein temps - mais à mesure que les
-  responsabilités s'intensifient\, la pression provoque une transformation
-  physique surprenante qui menace son existence\, tandis qu'une étrange no
- uvelle vague de crimes donne naissance à l'une des menaces les plus redou
- tables qu'il ait jamais affrontées.\n\n\nFiche TMDB : https://www.themovi
- edb.org/movie/969681\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VF · 4DX 3D · Salle premium · F 3D)"
- ><br><small>(Spider-Man: Brand New Day)</small><br><small>2h30</small></td
- ><td width="16"></td><td valign="top"><i>Science-Fiction\, Action\, Aventu
- re</i><br>United States of America<br><br><b>Réalisateur :</b> Destin Dan
- iel Cretton<br><b>Scénario :</b> Erik Sommers\, Chris McKenna<br><b>Photo
- graphie :</b> Brett Pawlak<br><b>Production :</b> Marvel Studios\, Columbi
- a Pictures\, Pascal Pictures<br><br><b>Acteurs :</b><ul><li>Tom Holland</l
- i><li>Zendaya</li><li>Mark Ruffalo</li><li>Jon Bernthal</li><li>Jacob Bata
- lon</li><li>Sadie Sink</li><li>Florence Pugh</li><li>Liza Colón-Zayas</li
- ><li>Tramell Tillman</li><li>Marisa Tomei</li><li>Naomi Watts</li><li>Mich
- ael Mando</li></ul></td></tr></table><p>Quatre ans se sont écoulés\, Pet
- er\, désormais adulte\, vit seul\, s'est volontairement effacé de la vie
-  et des souvenirs de ses proches. Luttant contre le crime dans un New York
-  qui ne le reconnaît plus\, il se consacre entièrement à la protection 
- de la ville - un Spider-Man à plein temps - mais à mesure que les respon
- sabilités s'intensifient\, la pression provoque une transformation physiq
- ue surprenante qui menace son existence\, tandis qu'une étrange nouvelle 
- vague de crimes donne naissance à l'une des menaces les plus redoutables 
- qu'il ait jamais affrontées.</p><p><small><a href="https://www.themoviedb
- .org/movie/969681">Fiche TMDB</a><br>Données fournies par The Movie Datab
- ase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770897@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T193000Z
-DTEND:20260815T221500Z
-SUMMARY:Spider-Man : Brand New Day (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)\n2h30\n\nScience-Fiction\, Action\, Aventure
- \nUnited States of America\n\nRéalisateur : Destin Daniel Cretton\nScéna
- rio : Erik Sommers\, Chris McKenna\nPhotographie : Brett Pawlak\nProductio
- n : Marvel Studios\, Columbia Pictures\, Pascal Pictures\n\nActeurs :\n- T
- om Holland\n- Zendaya\n- Mark Ruffalo\n- Jon Bernthal\n- Jacob Batalon\n- 
- Sadie Sink\n- Florence Pugh\n- Liza Colón-Zayas\n- Tramell Tillman\n- Mar
- isa Tomei\n- Naomi Watts\n- Michael Mando\n\n\nQuatre ans se sont écoulé
- s\, Peter\, désormais adulte\, vit seul\, s'est volontairement effacé de
-  la vie et des souvenirs de ses proches. Luttant contre le crime dans un N
- ew York qui ne le reconnaît plus\, il se consacre entièrement à la prot
- ection de la ville - un Spider-Man à plein temps - mais à mesure que les
-  responsabilités s'intensifient\, la pression provoque une transformation
-  physique surprenante qui menace son existence\, tandis qu'une étrange no
- uvelle vague de crimes donne naissance à l'une des menaces les plus redou
- tables qu'il ait jamais affrontées.\n\n\nFiche TMDB : https://www.themovi
- edb.org/movie/969681\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VOST English)"><br><small>(Spider-Man: 
- Brand New Day)</small><br><small>2h30</small></td><td width="16"></td><td 
- valign="top"><i>Science-Fiction\, Action\, Aventure</i><br>United States o
- f America<br><br><b>Réalisateur :</b> Destin Daniel Cretton<br><b>Scénar
- io :</b> Erik Sommers\, Chris McKenna<br><b>Photographie :</b> Brett Pawla
- k<br><b>Production :</b> Marvel Studios\, Columbia Pictures\, Pascal Pictu
- res<br><br><b>Acteurs :</b><ul><li>Tom Holland</li><li>Zendaya</li><li>Mar
- k Ruffalo</li><li>Jon Bernthal</li><li>Jacob Batalon</li><li>Sadie Sink</l
- i><li>Florence Pugh</li><li>Liza Colón-Zayas</li><li>Tramell Tillman</li>
- <li>Marisa Tomei</li><li>Naomi Watts</li><li>Michael Mando</li></ul></td><
- /tr></table><p>Quatre ans se sont écoulés\, Peter\, désormais adulte\, 
- vit seul\, s'est volontairement effacé de la vie et des souvenirs de ses 
- proches. Luttant contre le crime dans un New York qui ne le reconnaît plu
- s\, il se consacre entièrement à la protection de la ville - un Spider-M
- an à plein temps - mais à mesure que les responsabilités s'intensifient
- \, la pression provoque une transformation physique surprenante qui menace
-  son existence\, tandis qu'une étrange nouvelle vague de crimes donne nai
- ssance à l'une des menaces les plus redoutables qu'il ait jamais affront
- ées.</p><p><small><a href="https://www.themoviedb.org/movie/969681">Fiche
-  TMDB</a><br>Données fournies par The Movie Database (TMDB)</small></p></
- body></html>
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244771055@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T193000Z
-DTEND:20260815T223800Z
-SUMMARY:L'Odyssée (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)\n2h53\n\nAventure\, Action\, Fantastique\nUnited Kingdom\,
-  United States of America\n\nRéalisateur : Christopher Nolan\nScénario :
-  Christopher Nolan\nPhotographie : Hoyte van Hoytema\nProduction : Univers
- al Pictures\, Syncopy\n\nActeurs :\n- Matt Damon\n- Tom Holland\n- Anne Ha
- thaway\n- Robert Pattinson\n- Himesh Patel\n- Charlize Theron\n- John Legu
- izamo\n- Travis Scott\n- Corey Hawkins\n- Jarreth J. Merz\n- Niko Nicotera
- \n- Elliot Page\n\n\nVingt ans après son départ pour la guerre de Troie\
- , le roi Ulysse rentre enfin à Ithaque\, mais son voyage est parsemé d'a
- ventures et d'épreuves.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
- e/1368337\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VF)"><br><small>(The Odyssey)</small><br><small>2h53</s
- mall></td><td width="16"></td><td valign="top"><i>Aventure\, Action\, Fant
- astique</i><br>United Kingdom\, United States of America<br><br><b>Réalis
- ateur :</b> Christopher Nolan<br><b>Scénario :</b> Christopher Nolan<br><
- b>Photographie :</b> Hoyte van Hoytema<br><b>Production :</b> Universal Pi
- ctures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt Damon</li><li>Tom Hol
- land</li><li>Anne Hathaway</li><li>Robert Pattinson</li><li>Himesh Patel</
- li><li>Charlize Theron</li><li>John Leguizamo</li><li>Travis Scott</li><li
- >Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Nicotera</li><li>Ellio
- t Page</li></ul></td></tr></table><p>Vingt ans après son départ pour la 
- guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais son voyage 
- est parsemé d'aventures et d'épreuves.</p><p><small><a href="https://www
- .themoviedb.org/movie/1368337">Fiche TMDB</a><br>Données fournies par The
-  Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80366326904@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T194500Z
-DTEND:20260815T220000Z
-SUMMARY:Tombé du ciel (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg
- \n(Tombé du ciel)\n\nComédie\, Familial\nFrance\n\nRéalisateur : Mohame
- d Hamidi\nScénario : Mohamed Hamidi\nPhotographie : Pierre-Hugues Galien\
- nProduction : Kissfilms\, SND\n\nActeurs :\n- Ilyes Djadel\n- Jamel Debbou
- ze\n- Josiane Balasko\n- Fred Testot\n- Ted Etienne\n- Ludovic Berthillot\
- n- Laurence Porteil\n- Michel Bompoil\n- Brice Fournier\n- Jade Pedri\n- A
- ntoine Duléry\n- Max Baissette de Malglaive\n\n\nIlyès mène une vie joy
- euse dans la banlieue de Roubaix. Seul problème : le bac. Après avoir é
- choué deux fois\, c’est sa dernière chance de l’avoir et de rendre e
- nfin fier ses parents. Mais un incendie survient pendant le bac blanc\, et
-  on l’accuse d’en être à l’origine… Exclu de son lycée\, il doi
- t quitter son quartier et aller dans le seul établissement qui l’accept
- e : le pensionnat catholique de Saint-Albert-le-Grand\, en Bourgogne. Entr
- e choc des cultures et quête de rédemption\, Ilyès va devoir surmonter 
- ses préjugés… Et ceux des autres.\n\n\nFiche TMDB : https://www.themov
- iedb.org/movie/1564831\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg" width="220" alt="Affi
- che de Tombé du ciel (VF)"><br><small>(Tombé du ciel)</small></td><td wi
- dth="16"></td><td valign="top"><i>Comédie\, Familial</i><br>France<br><br
- ><b>Réalisateur :</b> Mohamed Hamidi<br><b>Scénario :</b> Mohamed Hamidi
- <br><b>Photographie :</b> Pierre-Hugues Galien<br><b>Production :</b> Kiss
- films\, SND<br><br><b>Acteurs :</b><ul><li>Ilyes Djadel</li><li>Jamel Debb
- ouze</li><li>Josiane Balasko</li><li>Fred Testot</li><li>Ted Etienne</li><
- li>Ludovic Berthillot</li><li>Laurence Porteil</li><li>Michel Bompoil</li>
- <li>Brice Fournier</li><li>Jade Pedri</li><li>Antoine Duléry</li><li>Max 
- Baissette de Malglaive</li></ul></td></tr></table><p>Ilyès mène une vie 
- joyeuse dans la banlieue de Roubaix. Seul problème : le bac. Après avoir
-  échoué deux fois\, c’est sa dernière chance de l’avoir et de rendr
- e enfin fier ses parents. Mais un incendie survient pendant le bac blanc\,
-  et on l’accuse d’en être à l’origine… Exclu de son lycée\, il 
- doit quitter son quartier et aller dans le seul établissement qui l’acc
- epte : le pensionnat catholique de Saint-Albert-le-Grand\, en Bourgogne. E
- ntre choc des cultures et quête de rédemption\, Ilyès va devoir surmont
- er ses préjugés… Et ceux des autres.</p><p><small><a href="https://www
- .themoviedb.org/movie/1564831">Fiche TMDB</a><br>Données fournies par The
-  Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1564831
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
- GZvCPDHPc0.jpg
-CATEGORIES:Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80366327107@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T195000Z
-DTEND:20260815T223500Z
-SUMMARY:Spider-Man : Brand New Day (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)\n2h30\n\nScience-Fiction\, Action\, Aventure
- \nUnited States of America\n\nRéalisateur : Destin Daniel Cretton\nScéna
- rio : Erik Sommers\, Chris McKenna\nPhotographie : Brett Pawlak\nProductio
- n : Marvel Studios\, Columbia Pictures\, Pascal Pictures\n\nActeurs :\n- T
- om Holland\n- Zendaya\n- Mark Ruffalo\n- Jon Bernthal\n- Jacob Batalon\n- 
- Sadie Sink\n- Florence Pugh\n- Liza Colón-Zayas\n- Tramell Tillman\n- Mar
- isa Tomei\n- Naomi Watts\n- Michael Mando\n\n\nQuatre ans se sont écoulé
- s\, Peter\, désormais adulte\, vit seul\, s'est volontairement effacé de
-  la vie et des souvenirs de ses proches. Luttant contre le crime dans un N
- ew York qui ne le reconnaît plus\, il se consacre entièrement à la prot
- ection de la ville - un Spider-Man à plein temps - mais à mesure que les
-  responsabilités s'intensifient\, la pression provoque une transformation
-  physique surprenante qui menace son existence\, tandis qu'une étrange no
- uvelle vague de crimes donne naissance à l'une des menaces les plus redou
- tables qu'il ait jamais affrontées.\n\n\nFiche TMDB : https://www.themovi
- edb.org/movie/969681\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VF)"><br><small>(Spider-Man: Brand New 
- Day)</small><br><small>2h30</small></td><td width="16"></td><td valign="to
- p"><i>Science-Fiction\, Action\, Aventure</i><br>United States of America<
- br><br><b>Réalisateur :</b> Destin Daniel Cretton<br><b>Scénario :</b> E
- rik Sommers\, Chris McKenna<br><b>Photographie :</b> Brett Pawlak<br><b>Pr
- oduction :</b> Marvel Studios\, Columbia Pictures\, Pascal Pictures<br><br
- ><b>Acteurs :</b><ul><li>Tom Holland</li><li>Zendaya</li><li>Mark Ruffalo<
- /li><li>Jon Bernthal</li><li>Jacob Batalon</li><li>Sadie Sink</li><li>Flor
- ence Pugh</li><li>Liza Colón-Zayas</li><li>Tramell Tillman</li><li>Marisa
-  Tomei</li><li>Naomi Watts</li><li>Michael Mando</li></ul></td></tr></tabl
- e><p>Quatre ans se sont écoulés\, Peter\, désormais adulte\, vit seul\,
-  s'est volontairement effacé de la vie et des souvenirs de ses proches. L
- uttant contre le crime dans un New York qui ne le reconnaît plus\, il se 
- consacre entièrement à la protection de la ville - un Spider-Man à plei
- n temps - mais à mesure que les responsabilités s'intensifient\, la pres
- sion provoque une transformation physique surprenante qui menace son exist
- ence\, tandis qu'une étrange nouvelle vague de crimes donne naissance à 
- l'une des menaces les plus redoutables qu'il ait jamais affrontées.</p><p
- ><small><a href="https://www.themoviedb.org/movie/969681">Fiche TMDB</a><b
- r>Données fournies par The Movie Database (TMDB)</small></p></body></html
- >
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770860@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T200000Z
-DTEND:20260815T224500Z
-SUMMARY:Spider-Man : Brand New Day (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
- \n(Spider-Man: Brand New Day)\n2h30\n\nScience-Fiction\, Action\, Aventure
- \nUnited States of America\n\nRéalisateur : Destin Daniel Cretton\nScéna
- rio : Erik Sommers\, Chris McKenna\nPhotographie : Brett Pawlak\nProductio
- n : Marvel Studios\, Columbia Pictures\, Pascal Pictures\n\nActeurs :\n- T
- om Holland\n- Zendaya\n- Mark Ruffalo\n- Jon Bernthal\n- Jacob Batalon\n- 
- Sadie Sink\n- Florence Pugh\n- Liza Colón-Zayas\n- Tramell Tillman\n- Mar
- isa Tomei\n- Naomi Watts\n- Michael Mando\n\n\nQuatre ans se sont écoulé
- s\, Peter\, désormais adulte\, vit seul\, s'est volontairement effacé de
-  la vie et des souvenirs de ses proches. Luttant contre le crime dans un N
- ew York qui ne le reconnaît plus\, il se consacre entièrement à la prot
- ection de la ville - un Spider-Man à plein temps - mais à mesure que les
-  responsabilités s'intensifient\, la pression provoque une transformation
-  physique surprenante qui menace son existence\, tandis qu'une étrange no
- uvelle vague de crimes donne naissance à l'une des menaces les plus redou
- tables qu'il ait jamais affrontées.\n\n\nFiche TMDB : https://www.themovi
- edb.org/movie/969681\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg" width="220" alt="Affi
- che de Spider-Man : Brand New Day (VF)"><br><small>(Spider-Man: Brand New 
- Day)</small><br><small>2h30</small></td><td width="16"></td><td valign="to
- p"><i>Science-Fiction\, Action\, Aventure</i><br>United States of America<
- br><br><b>Réalisateur :</b> Destin Daniel Cretton<br><b>Scénario :</b> E
- rik Sommers\, Chris McKenna<br><b>Photographie :</b> Brett Pawlak<br><b>Pr
- oduction :</b> Marvel Studios\, Columbia Pictures\, Pascal Pictures<br><br
- ><b>Acteurs :</b><ul><li>Tom Holland</li><li>Zendaya</li><li>Mark Ruffalo<
- /li><li>Jon Bernthal</li><li>Jacob Batalon</li><li>Sadie Sink</li><li>Flor
- ence Pugh</li><li>Liza Colón-Zayas</li><li>Tramell Tillman</li><li>Marisa
-  Tomei</li><li>Naomi Watts</li><li>Michael Mando</li></ul></td></tr></tabl
- e><p>Quatre ans se sont écoulés\, Peter\, désormais adulte\, vit seul\,
-  s'est volontairement effacé de la vie et des souvenirs de ses proches. L
- uttant contre le crime dans un New York qui ne le reconnaît plus\, il se 
- consacre entièrement à la protection de la ville - un Spider-Man à plei
- n temps - mais à mesure que les responsabilités s'intensifient\, la pres
- sion provoque une transformation physique surprenante qui menace son exist
- ence\, tandis qu'une étrange nouvelle vague de crimes donne naissance à 
- l'une des menaces les plus redoutables qu'il ait jamais affrontées.</p><p
- ><small><a href="https://www.themoviedb.org/movie/969681">Fiche TMDB</a><b
- r>Données fournies par The Movie Database (TMDB)</small></p></body></html
- >
-URL:https://www.themoviedb.org/movie/969681
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
- Xjyux1VEdZ.jpg
-CATEGORIES:Science-Fiction,Action,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770726@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T201500Z
-DTEND:20260815T220900Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
- United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
- o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
- ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
-  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
- Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
- Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
- qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
-  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
- rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
-  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
- b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)</small
- ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Scien
- ce-Fiction\, Mystère\, Thriller</i><br>United States of America<br><br><b
- >Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> David Robe
- rt Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Production :</b>
-  Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br><b>Acteur
- s :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Christian Conve
- ry</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. Byrne</li>
- <li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler</li><li>H
- udson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore</li></ul>
- </td></tr></table><p>Lorsqu’un mystérieux événement cosmique arrache 
- Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu\,
-  la famille Platt\, désorientée dans ce nouvel environnement hostile\, c
- omprend vite qu’il leur faudra rester unis pour survivre.</p><p><small><
- a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a><br>Donné
- es fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80366327113@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T201500Z
-DTEND:20260815T221800Z
-SUMMARY:Obsession (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
- \n(Obsession)\n1h48\n\nHorreur\, Thriller\nUnited States of America\, Unit
- ed Kingdom\n\nRéalisateur : Curry Barker\nScénario : Curry Barker\nPhoto
- graphie : Taylor Clemons\nProduction : Tea Shop Productions\, Under the Sh
- ell\, Capstone Pictures\n\nActeurs :\n- Michael Johnston\n- Inde Navarrett
- e\n- Cooper Tomlinson\n- Megan Lawless\n- Andy Richter\n- Haley Fitzgerald
- \n- Darin Toonder\n- Anthony Pavone\n- Justice\n- Anthony Casabianca\n- Ch
- loe Breen\n- Malcolm Kelner\n\n\nEt si vous pouviez réaliser votre rêve 
- le plus fou ? Un jeune introverti met la main sur un objet magique capable
-  d’exaucer n’importe quel souhait. Son crush de toujours tombe alors r
- aide dingue de lui… jusqu’à l’obsession la plus totale. Faites atte
- ntion à ce que vous souhaitez !\n\n\nFiche TMDB : https://www.themoviedb.
- org/movie/1339713\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg" width="220" alt="Affi
- che de Obsession (VF)"><br><small>(Obsession)</small><br><small>1h48</smal
- l></td><td width="16"></td><td valign="top"><i>Horreur\, Thriller</i><br>U
- nited States of America\, United Kingdom<br><br><b>Réalisateur :</b> Curr
- y Barker<br><b>Scénario :</b> Curry Barker<br><b>Photographie :</b> Taylo
- r Clemons<br><b>Production :</b> Tea Shop Productions\, Under the Shell\, 
- Capstone Pictures<br><br><b>Acteurs :</b><ul><li>Michael Johnston</li><li>
- Inde Navarrette</li><li>Cooper Tomlinson</li><li>Megan Lawless</li><li>And
- y Richter</li><li>Haley Fitzgerald</li><li>Darin Toonder</li><li>Anthony P
- avone</li><li>Justice</li><li>Anthony Casabianca</li><li>Chloe Breen</li><
- li>Malcolm Kelner</li></ul></td></tr></table><p>Et si vous pouviez réalis
- er votre rêve le plus fou ? Un jeune introverti met la main sur un objet 
- magique capable d’exaucer n’importe quel souhait. Son crush de toujour
- s tombe alors raide dingue de lui… jusqu’à l’obsession la plus tota
- le. Faites attention à ce que vous souhaitez !</p><p><small><a href="http
- s://www.themoviedb.org/movie/1339713">Fiche TMDB</a><br>Données fournies 
- par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1339713
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksu
- M440VLb7X9.jpg
-CATEGORIES:Horreur,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770798@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T203000Z
-DTEND:20260815T221800Z
-SUMMARY:undertone (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg
- \n(undertone)\n1h33\n\nHorreur\, Mystère\nCanada\, United States of Ameri
- ca\n\nRéalisateur : Ian Tuason\nScénario : Ian Tuason\nPhotographie : Gr
- aham Beasley\nProduction : Black Fawn Films\, Slaterverse Pictures\, KINO 
- Studios\n\nActeurs :\n- Nina Kiri\n- Adam DiMarco\n- Keana Bastidas\n- Jef
- f Yung\n- Michèle Duquet\n- Ryan Turner\n- Ari Millen\n- Marisol D’Andr
- ea\n- Austin Tuason\n- Seled Calderon\n- Bianca Nugara\n- Jayda Woods\n\n\
- nAnimatrice d’un podcast consacré aux phénomènes paranormaux\, Evy re
- tourne dans la maison de son enfance pour veiller sa mère mourante. Un jo
- ur\, elle reçoit d’étranges enregistrements. En les diffusant dans son
-  émission\, Evy réalise que les événements décrits semblent déteindr
- e sur la réalité. Les sons deviennent de plus en plus troublants\, comme
-  si quelque chose cherchait à lui parler. Et plus elle écoute\, plus la 
- menace se rapproche.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/14
- 80387\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg" width="220" alt="Affi
- che de undertone (VF)"><br><small>(undertone)</small><br><small>1h33</smal
- l></td><td width="16"></td><td valign="top"><i>Horreur\, Mystère</i><br>C
- anada\, United States of America<br><br><b>Réalisateur :</b> Ian Tuason<b
- r><b>Scénario :</b> Ian Tuason<br><b>Photographie :</b> Graham Beasley<br
- ><b>Production :</b> Black Fawn Films\, Slaterverse Pictures\, KINO Studio
- s<br><br><b>Acteurs :</b><ul><li>Nina Kiri</li><li>Adam DiMarco</li><li>Ke
- ana Bastidas</li><li>Jeff Yung</li><li>Michèle Duquet</li><li>Ryan Turner
- </li><li>Ari Millen</li><li>Marisol D’Andrea</li><li>Austin Tuason</li><
- li>Seled Calderon</li><li>Bianca Nugara</li><li>Jayda Woods</li></ul></td>
- </tr></table><p>Animatrice d’un podcast consacré aux phénomènes paran
- ormaux\, Evy retourne dans la maison de son enfance pour veiller sa mère 
- mourante. Un jour\, elle reçoit d’étranges enregistrements. En les dif
- fusant dans son émission\, Evy réalise que les événements décrits sem
- blent déteindre sur la réalité. Les sons deviennent de plus en plus tro
- ublants\, comme si quelque chose cherchait à lui parler. Et plus elle éc
- oute\, plus la menace se rapproche.</p><p><small><a href="https://www.them
- oviedb.org/movie/1480387">Fiche TMDB</a><br>Données fournies par The Movi
- e Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1480387
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yEuZLk7pJF2H17Yaw
- E2ILOg9HB3.jpg
-CATEGORIES:Horreur,Mystère
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770783@calendrier-cine-fr
-DTSTAMP:20260815T000000Z
-DTSTART:20260815T203000Z
-DTEND:20260815T223500Z
-SUMMARY:Evil Dead Burn (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg
- \n(Evil Dead Burn)\n1h50\n\nHorreur\nUnited States of America\n\nRéalisat
- eur : Sébastien Vaniček\nScénario : Sébastien Vaniček\, Florent Berna
- rd\nPhotographie : Philip Lozano\nProduction : New Line Cinema\, Screen Ge
- ms\, Ghost House Pictures\n\nActeurs :\n- Souheila Yacoub\n- Tandi Wright\
- n- Hunter Doohan\n- Luciane Buchanan\n- Erroll Shand\n- Maude Davey\n- Geo
- rge Pullar\n- Greta van den Brink\n- Keanu Karim\n- Victory Ndukwe\n- Alai
- n Chabat\n- Michael Hurst\n\n\nAprès l’enterrement de son mari\, Alice 
- se rend dans la maison isolée de sa belle-famille pour partager un dernie
- r repas à sa mémoire. Mais la réunion familiale bascule dans l’horreu
- r lorsque ses proches se transforment\, l’un après l’autre\, en créa
- tures démoniaques. Confrontée à cet enfer\, Alice découvre que les vœ
- ux prononcés autrefois continuent de la lier à son mari… bien au-delà
-  de la mort.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1212763\n\
- nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg" width="220" alt="Affi
- che de Evil Dead Burn (VF)"><br><small>(Evil Dead Burn)</small><br><small>
- 1h50</small></td><td width="16"></td><td valign="top"><i>Horreur</i><br>Un
- ited States of America<br><br><b>Réalisateur :</b> Sébastien Vaniček<br
- ><b>Scénario :</b> Sébastien Vaniček\, Florent Bernard<br><b>Photograph
- ie :</b> Philip Lozano<br><b>Production :</b> New Line Cinema\, Screen Gem
- s\, Ghost House Pictures<br><br><b>Acteurs :</b><ul><li>Souheila Yacoub</l
- i><li>Tandi Wright</li><li>Hunter Doohan</li><li>Luciane Buchanan</li><li>
- Erroll Shand</li><li>Maude Davey</li><li>George Pullar</li><li>Greta van d
- en Brink</li><li>Keanu Karim</li><li>Victory Ndukwe</li><li>Alain Chabat</
- li><li>Michael Hurst</li></ul></td></tr></table><p>Après l’enterrement 
- de son mari\, Alice se rend dans la maison isolée de sa belle-famille pou
- r partager un dernier repas à sa mémoire. Mais la réunion familiale bas
- cule dans l’horreur lorsque ses proches se transforment\, l’un après 
- l’autre\, en créatures démoniaques. Confrontée à cet enfer\, Alice d
- écouvre que les vœux prononcés autrefois continuent de la lier à son m
- ari… bien au-delà de la mort.</p><p><small><a href="https://www.themovi
- edb.org/movie/1212763">Fiche TMDB</a><br>Données fournies par The Movie D
- atabase (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1212763
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/2gusfeWILgIfRWQTA9nbXAEyQ0S.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2gusfeWILgIfRWQTA
- 9nbXAEyQ0S.jpg
-CATEGORIES:Horreur
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770961@calendrier-cine-fr
 DTSTAMP:20260816T000000Z
 DTSTART:20260816T074500Z
@@ -1073,7 +567,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -1098,7 +592,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -1320,52 +814,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zivl8VZfE8rNthfAs
 CATEGORIES:Fantastique,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770928@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T110000Z
-DTEND:20260816T130300Z
-SUMMARY:Obsession (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
- \n(Obsession)\n1h48\n\nHorreur\, Thriller\nUnited States of America\, Unit
- ed Kingdom\n\nRéalisateur : Curry Barker\nScénario : Curry Barker\nPhoto
- graphie : Taylor Clemons\nProduction : Tea Shop Productions\, Under the Sh
- ell\, Capstone Pictures\n\nActeurs :\n- Michael Johnston\n- Inde Navarrett
- e\n- Cooper Tomlinson\n- Megan Lawless\n- Andy Richter\n- Haley Fitzgerald
- \n- Darin Toonder\n- Anthony Pavone\n- Justice\n- Anthony Casabianca\n- Ch
- loe Breen\n- Malcolm Kelner\n\n\nEt si vous pouviez réaliser votre rêve 
- le plus fou ? Un jeune introverti met la main sur un objet magique capable
-  d’exaucer n’importe quel souhait. Son crush de toujours tombe alors r
- aide dingue de lui… jusqu’à l’obsession la plus totale. Faites atte
- ntion à ce que vous souhaitez !\n\n\nFiche TMDB : https://www.themoviedb.
- org/movie/1339713\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg" width="220" alt="Affi
- che de Obsession (VF)"><br><small>(Obsession)</small><br><small>1h48</smal
- l></td><td width="16"></td><td valign="top"><i>Horreur\, Thriller</i><br>U
- nited States of America\, United Kingdom<br><br><b>Réalisateur :</b> Curr
- y Barker<br><b>Scénario :</b> Curry Barker<br><b>Photographie :</b> Taylo
- r Clemons<br><b>Production :</b> Tea Shop Productions\, Under the Shell\, 
- Capstone Pictures<br><br><b>Acteurs :</b><ul><li>Michael Johnston</li><li>
- Inde Navarrette</li><li>Cooper Tomlinson</li><li>Megan Lawless</li><li>And
- y Richter</li><li>Haley Fitzgerald</li><li>Darin Toonder</li><li>Anthony P
- avone</li><li>Justice</li><li>Anthony Casabianca</li><li>Chloe Breen</li><
- li>Malcolm Kelner</li></ul></td></tr></table><p>Et si vous pouviez réalis
- er votre rêve le plus fou ? Un jeune introverti met la main sur un objet 
- magique capable d’exaucer n’importe quel souhait. Son crush de toujour
- s tombe alors raide dingue de lui… jusqu’à l’obsession la plus tota
- le. Faites attention à ce que vous souhaitez !</p><p><small><a href="http
- s://www.themoviedb.org/movie/1339713">Fiche TMDB</a><br>Données fournies 
- par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1339713
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksu
- M440VLb7X9.jpg
-CATEGORIES:Horreur,Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244771053@calendrier-cine-fr
 DTSTAMP:20260816T000000Z
 DTSTART:20260816T110000Z
@@ -1412,6 +860,52 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA
  68j1M8ZDJj.jpg
 CATEGORIES:Comédie
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770928@calendrier-cine-fr
+DTSTAMP:20260816T000000Z
+DTSTART:20260816T110000Z
+DTEND:20260816T130300Z
+SUMMARY:Obsession (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
+ \n(Obsession)\n1h48\n\nHorreur\, Thriller\nUnited States of America\, Unit
+ ed Kingdom\n\nRéalisateur : Curry Barker\nScénario : Curry Barker\nPhoto
+ graphie : Taylor Clemons\nProduction : Tea Shop Productions\, Under the Sh
+ ell\, Capstone Pictures\n\nActeurs :\n- Michael Johnston\n- Inde Navarrett
+ e\n- Cooper Tomlinson\n- Megan Lawless\n- Andy Richter\n- Haley Fitzgerald
+ \n- Darin Toonder\n- Anthony Pavone\n- Justice\n- Anthony Casabianca\n- Ch
+ loe Breen\n- Malcolm Kelner\n\n\nEt si vous pouviez réaliser votre rêve 
+ le plus fou ? Un jeune introverti met la main sur un objet magique capable
+  d’exaucer n’importe quel souhait. Son crush de toujours tombe alors r
+ aide dingue de lui… jusqu’à l’obsession la plus totale. Faites atte
+ ntion à ce que vous souhaitez !\n\n\nFiche TMDB : https://www.themoviedb.
+ org/movie/1339713\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg" width="220" alt="Affi
+ che de Obsession (VF)"><br><small>(Obsession)</small><br><small>1h48</smal
+ l></td><td width="16"></td><td valign="top"><i>Horreur\, Thriller</i><br>U
+ nited States of America\, United Kingdom<br><br><b>Réalisateur :</b> Curr
+ y Barker<br><b>Scénario :</b> Curry Barker<br><b>Photographie :</b> Taylo
+ r Clemons<br><b>Production :</b> Tea Shop Productions\, Under the Shell\, 
+ Capstone Pictures<br><br><b>Acteurs :</b><ul><li>Michael Johnston</li><li>
+ Inde Navarrette</li><li>Cooper Tomlinson</li><li>Megan Lawless</li><li>And
+ y Richter</li><li>Haley Fitzgerald</li><li>Darin Toonder</li><li>Anthony P
+ avone</li><li>Justice</li><li>Anthony Casabianca</li><li>Chloe Breen</li><
+ li>Malcolm Kelner</li></ul></td></tr></table><p>Et si vous pouviez réalis
+ er votre rêve le plus fou ? Un jeune introverti met la main sur un objet 
+ magique capable d’exaucer n’importe quel souhait. Son crush de toujour
+ s tombe alors raide dingue de lui… jusqu’à l’obsession la plus tota
+ le. Faites attention à ce que vous souhaitez !</p><p><small><a href="http
+ s://www.themoviedb.org/movie/1339713">Fiche TMDB</a><br>Données fournies 
+ par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1339713
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksu
+ M440VLb7X9.jpg
+CATEGORIES:Horreur,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80324703114@calendrier-cine-fr
@@ -1514,7 +1008,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -1539,7 +1033,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -2335,7 +1829,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -2360,7 +1854,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -2895,7 +2389,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -2920,7 +2414,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -3518,7 +3012,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -3543,7 +3037,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -3862,48 +3356,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770848@calendrier-cine-fr
-DTSTAMP:20260816T000000Z
-DTSTART:20260816T184500Z
-DTEND:20260816T215300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)\n2h53\n\nAventure\, Action\, Fantastique\nUnited Kingdom\,
-  United States of America\n\nRéalisateur : Christopher Nolan\nScénario :
-  Christopher Nolan\nPhotographie : Hoyte van Hoytema\nProduction : Univers
- al Pictures\, Syncopy\n\nActeurs :\n- Matt Damon\n- Tom Holland\n- Anne Ha
- thaway\n- Robert Pattinson\n- Himesh Patel\n- Charlize Theron\n- John Legu
- izamo\n- Travis Scott\n- Corey Hawkins\n- Jarreth J. Merz\n- Niko Nicotera
- \n- Elliot Page\n\n\nVingt ans après son départ pour la guerre de Troie\
- , le roi Ulysse rentre enfin à Ithaque\, mais son voyage est parsemé d'a
- ventures et d'épreuves.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
- e/1368337\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)</small><br><sma
- ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
- ion\, Fantastique</i><br>United Kingdom\, United States of America<br><br>
- <b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Christopher 
- Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Production :</b> Un
- iversal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt Damon</li><
- li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</li><li>Hime
- sh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>Travis Sco
- tt</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Nicotera</li
- ><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après son dépar
- t pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais s
- on voyage est parsemé d'aventures et d'épreuves.</p><p><small><a href="h
- ttps://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br>Données fourni
- es par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770497@calendrier-cine-fr
 DTSTAMP:20260816T000000Z
 DTSTART:20260816T184500Z
@@ -3964,6 +3416,48 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
  s60FrtJmiz.jpg
 CATEGORIES:Histoire,Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770848@calendrier-cine-fr
+DTSTAMP:20260816T000000Z
+DTSTART:20260816T184500Z
+DTEND:20260816T215300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)\n2h53\n\nAventure\, Action\, Fantastique\nUnited Kingdom\,
+  United States of America\n\nRéalisateur : Christopher Nolan\nScénario :
+  Christopher Nolan\nPhotographie : Hoyte van Hoytema\nProduction : Univers
+ al Pictures\, Syncopy\n\nActeurs :\n- Matt Damon\n- Tom Holland\n- Anne Ha
+ thaway\n- Robert Pattinson\n- Himesh Patel\n- Charlize Theron\n- John Legu
+ izamo\n- Travis Scott\n- Corey Hawkins\n- Jarreth J. Merz\n- Niko Nicotera
+ \n- Elliot Page\n\n\nVingt ans après son départ pour la guerre de Troie\
+ , le roi Ulysse rentre enfin à Ithaque\, mais son voyage est parsemé d'a
+ ventures et d'épreuves.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
+ e/1368337\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)</small><br><sma
+ ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
+ ion\, Fantastique</i><br>United Kingdom\, United States of America<br><br>
+ <b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Christopher 
+ Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Production :</b> Un
+ iversal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt Damon</li><
+ li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</li><li>Hime
+ sh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>Travis Sco
+ tt</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Nicotera</li
+ ><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après son dépar
+ t pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais s
+ on voyage est parsemé d'aventures et d'épreuves.</p><p><small><a href="h
+ ttps://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br>Données fourni
+ es par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244771036@calendrier-cine-fr
@@ -4816,6 +4310,53 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/fN4YJFr6d1Zx2fNBl
 CATEGORIES:Familial,Fantastique,Comédie,Aventure
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770654@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T083000Z
+DTEND:20260817T102400Z
+SUMMARY:La Fin d'Oak Street (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
+ United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
+ o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
+ ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
+  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
+ Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
+ Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
+ qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
+  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
+ rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
+  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
+ b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VOST English)"><br><small>(The End of Oak Stre
+ et)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
+ "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
+ <br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> 
+ David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Produc
+ tion :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br
+ ><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Chris
+ tian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. 
+ Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler
+ </li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore
+ </li></ul></td></tr></table><p>Lorsqu’un mystérieux événement cosmiqu
+ e arrache Oak Street à sa paisible banlieue et la transporte vers un lieu
+  inconnu\, la famille Platt\, désorientée dans ce nouvel environnement h
+ ostile\, comprend vite qu’il leur faudra rester unis pour survivre.</p><
+ p><small><a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a>
+ <br>Données fournies par The Movie Database (TMDB)</small></p></body></ht
+ ml>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80244770684@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T083000Z
@@ -4866,53 +4407,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770654@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T083000Z
-DTEND:20260817T102400Z
-SUMMARY:La Fin d'Oak Street (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
- United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
- o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
- ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
-  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
- Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
- Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
- qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
-  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
- rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
-  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
- b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VOST English)"><br><small>(The End of Oak Stre
- et)</small><br><small>1h39</small></td><td width="16"></td><td valign="top
- "><i>Science-Fiction\, Mystère\, Thriller</i><br>United States of America
- <br><br><b>Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> 
- David Robert Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Produc
- tion :</b> Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br
- ><b>Acteurs :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Chris
- tian Convery</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. 
- Byrne</li><li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler
- </li><li>Hudson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore
- </li></ul></td></tr></table><p>Lorsqu’un mystérieux événement cosmiqu
- e arrache Oak Street à sa paisible banlieue et la transporte vers un lieu
-  inconnu\, la famille Platt\, désorientée dans ce nouvel environnement h
- ostile\, comprend vite qu’il leur faudra rester unis pour survivre.</p><
- p><small><a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a>
- <br>Données fournies par The Movie Database (TMDB)</small></p></body></ht
- ml>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770605@calendrier-cine-fr
@@ -5221,7 +4715,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -5246,7 +4740,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -5416,52 +4910,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
 CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80323979908@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T110000Z
-DTEND:20260817T130300Z
-SUMMARY:Obsession (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
- \n(Obsession)\n1h48\n\nHorreur\, Thriller\nUnited States of America\, Unit
- ed Kingdom\n\nRéalisateur : Curry Barker\nScénario : Curry Barker\nPhoto
- graphie : Taylor Clemons\nProduction : Tea Shop Productions\, Under the Sh
- ell\, Capstone Pictures\n\nActeurs :\n- Michael Johnston\n- Inde Navarrett
- e\n- Cooper Tomlinson\n- Megan Lawless\n- Andy Richter\n- Haley Fitzgerald
- \n- Darin Toonder\n- Anthony Pavone\n- Justice\n- Anthony Casabianca\n- Ch
- loe Breen\n- Malcolm Kelner\n\n\nEt si vous pouviez réaliser votre rêve 
- le plus fou ? Un jeune introverti met la main sur un objet magique capable
-  d’exaucer n’importe quel souhait. Son crush de toujours tombe alors r
- aide dingue de lui… jusqu’à l’obsession la plus totale. Faites atte
- ntion à ce que vous souhaitez !\n\n\nFiche TMDB : https://www.themoviedb.
- org/movie/1339713\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg" width="220" alt="Affi
- che de Obsession (VF)"><br><small>(Obsession)</small><br><small>1h48</smal
- l></td><td width="16"></td><td valign="top"><i>Horreur\, Thriller</i><br>U
- nited States of America\, United Kingdom<br><br><b>Réalisateur :</b> Curr
- y Barker<br><b>Scénario :</b> Curry Barker<br><b>Photographie :</b> Taylo
- r Clemons<br><b>Production :</b> Tea Shop Productions\, Under the Shell\, 
- Capstone Pictures<br><br><b>Acteurs :</b><ul><li>Michael Johnston</li><li>
- Inde Navarrette</li><li>Cooper Tomlinson</li><li>Megan Lawless</li><li>And
- y Richter</li><li>Haley Fitzgerald</li><li>Darin Toonder</li><li>Anthony P
- avone</li><li>Justice</li><li>Anthony Casabianca</li><li>Chloe Breen</li><
- li>Malcolm Kelner</li></ul></td></tr></table><p>Et si vous pouviez réalis
- er votre rêve le plus fou ? Un jeune introverti met la main sur un objet 
- magique capable d’exaucer n’importe quel souhait. Son crush de toujour
- s tombe alors raide dingue de lui… jusqu’à l’obsession la plus tota
- le. Faites attention à ce que vous souhaitez !</p><p><small><a href="http
- s://www.themoviedb.org/movie/1339713">Fiche TMDB</a><br>Données fournies 
- par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1339713
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksu
- M440VLb7X9.jpg
-CATEGORIES:Horreur,Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770735@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T110000Z
@@ -5508,6 +4956,52 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uKT4GBfWmEm1SQYHA
  68j1M8ZDJj.jpg
 CATEGORIES:Comédie
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80323979908@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T110000Z
+DTEND:20260817T130300Z
+SUMMARY:Obsession (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
+ \n(Obsession)\n1h48\n\nHorreur\, Thriller\nUnited States of America\, Unit
+ ed Kingdom\n\nRéalisateur : Curry Barker\nScénario : Curry Barker\nPhoto
+ graphie : Taylor Clemons\nProduction : Tea Shop Productions\, Under the Sh
+ ell\, Capstone Pictures\n\nActeurs :\n- Michael Johnston\n- Inde Navarrett
+ e\n- Cooper Tomlinson\n- Megan Lawless\n- Andy Richter\n- Haley Fitzgerald
+ \n- Darin Toonder\n- Anthony Pavone\n- Justice\n- Anthony Casabianca\n- Ch
+ loe Breen\n- Malcolm Kelner\n\n\nEt si vous pouviez réaliser votre rêve 
+ le plus fou ? Un jeune introverti met la main sur un objet magique capable
+  d’exaucer n’importe quel souhait. Son crush de toujours tombe alors r
+ aide dingue de lui… jusqu’à l’obsession la plus totale. Faites atte
+ ntion à ce que vous souhaitez !\n\n\nFiche TMDB : https://www.themoviedb.
+ org/movie/1339713\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg" width="220" alt="Affi
+ che de Obsession (VF)"><br><small>(Obsession)</small><br><small>1h48</smal
+ l></td><td width="16"></td><td valign="top"><i>Horreur\, Thriller</i><br>U
+ nited States of America\, United Kingdom<br><br><b>Réalisateur :</b> Curr
+ y Barker<br><b>Scénario :</b> Curry Barker<br><b>Photographie :</b> Taylo
+ r Clemons<br><b>Production :</b> Tea Shop Productions\, Under the Shell\, 
+ Capstone Pictures<br><br><b>Acteurs :</b><ul><li>Michael Johnston</li><li>
+ Inde Navarrette</li><li>Cooper Tomlinson</li><li>Megan Lawless</li><li>And
+ y Richter</li><li>Haley Fitzgerald</li><li>Darin Toonder</li><li>Anthony P
+ avone</li><li>Justice</li><li>Anthony Casabianca</li><li>Chloe Breen</li><
+ li>Malcolm Kelner</li></ul></td></tr></table><p>Et si vous pouviez réalis
+ er votre rêve le plus fou ? Un jeune introverti met la main sur un objet 
+ magique capable d’exaucer n’importe quel souhait. Son crush de toujour
+ s tombe alors raide dingue de lui… jusqu’à l’obsession la plus tota
+ le. Faites attention à ce que vous souhaitez !</p><p><small><a href="http
+ s://www.themoviedb.org/movie/1339713">Fiche TMDB</a><br>Données fournies 
+ par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1339713
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/mDCR1frpUvGfIKksuM440VLb7X9.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/mDCR1frpUvGfIKksu
+ M440VLb7X9.jpg
+CATEGORIES:Horreur,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80323979893@calendrier-cine-fr
@@ -5808,7 +5302,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -5833,7 +5327,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -6281,7 +5775,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -6306,7 +5800,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -6375,6 +5869,52 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vuxZITXEqsBHBUhc1
 CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770968@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T133000Z
+DTEND:20260817T152400Z
+SUMMARY:La Fin d'Oak Street (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
+ United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
+ o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
+ ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
+  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
+ Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
+ Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
+ qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
+  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
+ rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
+  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
+ b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)</small
+ ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Scien
+ ce-Fiction\, Mystère\, Thriller</i><br>United States of America<br><br><b
+ >Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> David Robe
+ rt Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Production :</b>
+  Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br><b>Acteur
+ s :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Christian Conve
+ ry</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. Byrne</li>
+ <li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler</li><li>H
+ udson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore</li></ul>
+ </td></tr></table><p>Lorsqu’un mystérieux événement cosmique arrache 
+ Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu\,
+  la famille Platt\, désorientée dans ce nouvel environnement hostile\, c
+ omprend vite qu’il leur faudra rester unis pour survivre.</p><p><small><
+ a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a><br>Donné
+ es fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80325543921@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T133000Z
@@ -6425,52 +5965,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770968@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T133000Z
-DTEND:20260817T152400Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
- United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
- o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
- ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
-  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
- Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
- Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
- qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
-  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
- rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
-  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
- b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)</small
- ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Scien
- ce-Fiction\, Mystère\, Thriller</i><br>United States of America<br><br><b
- >Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> David Robe
- rt Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Production :</b>
-  Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br><b>Acteur
- s :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Christian Conve
- ry</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. Byrne</li>
- <li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler</li><li>H
- udson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore</li></ul>
- </td></tr></table><p>Lorsqu’un mystérieux événement cosmique arrache 
- Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu\,
-  la famille Platt\, désorientée dans ce nouvel environnement hostile\, c
- omprend vite qu’il leur faudra rester unis pour survivre.</p><p><small><
- a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a><br>Donné
- es fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770698@calendrier-cine-fr
@@ -7058,7 +6552,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -7083,7 +6577,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -7559,7 +7053,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -7584,7 +7078,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -7662,6 +7156,52 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/bfjG4eH78KOnpVNlE
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80244770895@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T180000Z
+DTEND:20260817T195400Z
+SUMMARY:La Fin d'Oak Street (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
+ United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
+ o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
+ ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
+  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
+ Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
+ Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
+ qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
+  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
+ rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
+  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
+ b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)</small
+ ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Scien
+ ce-Fiction\, Mystère\, Thriller</i><br>United States of America<br><br><b
+ >Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> David Robe
+ rt Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Production :</b>
+  Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br><b>Acteur
+ s :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Christian Conve
+ ry</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. Byrne</li>
+ <li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler</li><li>H
+ udson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore</li></ul>
+ </td></tr></table><p>Lorsqu’un mystérieux événement cosmique arrache 
+ Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu\,
+  la famille Platt\, désorientée dans ce nouvel environnement hostile\, c
+ omprend vite qu’il leur faudra rester unis pour survivre.</p><p><small><
+ a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a><br>Donné
+ es fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80322795273@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T180000Z
@@ -7712,52 +7252,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80244770895@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T180000Z
-DTEND:20260817T195400Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
- United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
- o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
- ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
-  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
- Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
- Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
- qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
-  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
- rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
-  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
- b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)</small
- ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Scien
- ce-Fiction\, Mystère\, Thriller</i><br>United States of America<br><br><b
- >Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> David Robe
- rt Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Production :</b>
-  Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br><b>Acteur
- s :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Christian Conve
- ry</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. Byrne</li>
- <li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler</li><li>H
- udson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore</li></ul>
- </td></tr></table><p>Lorsqu’un mystérieux événement cosmique arrache 
- Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu\,
-  la famille Platt\, désorientée dans ce nouvel environnement hostile\, c
- omprend vite qu’il leur faudra rester unis pour survivre.</p><p><small><
- a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a><br>Donné
- es fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770982@calendrier-cine-fr
@@ -7950,48 +7444,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770627@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T184500Z
-DTEND:20260817T215300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)\n2h53\n\nAventure\, Action\, Fantastique\nUnited Kingdom\,
-  United States of America\n\nRéalisateur : Christopher Nolan\nScénario :
-  Christopher Nolan\nPhotographie : Hoyte van Hoytema\nProduction : Univers
- al Pictures\, Syncopy\n\nActeurs :\n- Matt Damon\n- Tom Holland\n- Anne Ha
- thaway\n- Robert Pattinson\n- Himesh Patel\n- Charlize Theron\n- John Legu
- izamo\n- Travis Scott\n- Corey Hawkins\n- Jarreth J. Merz\n- Niko Nicotera
- \n- Elliot Page\n\n\nVingt ans après son départ pour la guerre de Troie\
- , le roi Ulysse rentre enfin à Ithaque\, mais son voyage est parsemé d'a
- ventures et d'épreuves.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
- e/1368337\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)</small><br><sma
- ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
- ion\, Fantastique</i><br>United Kingdom\, United States of America<br><br>
- <b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Christopher 
- Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Production :</b> Un
- iversal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt Damon</li><
- li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</li><li>Hime
- sh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>Travis Sco
- tt</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Nicotera</li
- ><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après son dépar
- t pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais s
- on voyage est parsemé d'aventures et d'épreuves.</p><p><small><a href="h
- ttps://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br>Données fourni
- es par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770568@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T184500Z
@@ -8052,6 +7504,48 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
  s60FrtJmiz.jpg
 CATEGORIES:Histoire,Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770627@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T184500Z
+DTEND:20260817T215300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)\n2h53\n\nAventure\, Action\, Fantastique\nUnited Kingdom\,
+  United States of America\n\nRéalisateur : Christopher Nolan\nScénario :
+  Christopher Nolan\nPhotographie : Hoyte van Hoytema\nProduction : Univers
+ al Pictures\, Syncopy\n\nActeurs :\n- Matt Damon\n- Tom Holland\n- Anne Ha
+ thaway\n- Robert Pattinson\n- Himesh Patel\n- Charlize Theron\n- John Legu
+ izamo\n- Travis Scott\n- Corey Hawkins\n- Jarreth J. Merz\n- Niko Nicotera
+ \n- Elliot Page\n\n\nVingt ans après son départ pour la guerre de Troie\
+ , le roi Ulysse rentre enfin à Ithaque\, mais son voyage est parsemé d'a
+ ventures et d'épreuves.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
+ e/1368337\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)</small><br><sma
+ ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
+ ion\, Fantastique</i><br>United Kingdom\, United States of America<br><br>
+ <b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Christopher 
+ Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Production :</b> Un
+ iversal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt Damon</li><
+ li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</li><li>Hime
+ sh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>Travis Sco
+ tt</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Nicotera</li
+ ><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après son dépar
+ t pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais s
+ on voyage est parsemé d'aventures et d'épreuves.</p><p><small><a href="h
+ ttps://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br>Données fourni
+ es par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244771011@calendrier-cine-fr
@@ -8464,6 +7958,52 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80410514201@calendrier-cine-fr
+DTSTAMP:20260817T000000Z
+DTSTART:20260817T201500Z
+DTEND:20260817T220900Z
+SUMMARY:La Fin d'Oak Street (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
+ United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
+ o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
+ ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
+  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
+ Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
+ Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
+ qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
+  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
+ rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
+  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
+ b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)</small
+ ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Scien
+ ce-Fiction\, Mystère\, Thriller</i><br>United States of America<br><br><b
+ >Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> David Robe
+ rt Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Production :</b>
+  Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br><b>Acteur
+ s :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Christian Conve
+ ry</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. Byrne</li>
+ <li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler</li><li>H
+ udson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore</li></ul>
+ </td></tr></table><p>Lorsqu’un mystérieux événement cosmique arrache 
+ Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu\,
+  la famille Platt\, désorientée dans ce nouvel environnement hostile\, c
+ omprend vite qu’il leur faudra rester unis pour survivre.</p><p><small><
+ a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a><br>Donné
+ es fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80410514143@calendrier-cine-fr
 DTSTAMP:20260817T000000Z
 DTSTART:20260817T201500Z
@@ -8514,52 +8054,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80410514201@calendrier-cine-fr
-DTSTAMP:20260817T000000Z
-DTSTART:20260817T201500Z
-DTEND:20260817T220900Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
- United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
- o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
- ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
-  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
- Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
- Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
- qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
-  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
- rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
-  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
- b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)</small
- ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Scien
- ce-Fiction\, Mystère\, Thriller</i><br>United States of America<br><br><b
- >Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> David Robe
- rt Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Production :</b>
-  Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br><b>Acteur
- s :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Christian Conve
- ry</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. Byrne</li>
- <li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler</li><li>H
- udson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore</li></ul>
- </td></tr></table><p>Lorsqu’un mystérieux événement cosmique arrache 
- Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu\,
-  la famille Platt\, désorientée dans ce nouvel environnement hostile\, c
- omprend vite qu’il leur faudra rester unis pour survivre.</p><p><small><
- a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a><br>Donné
- es fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770917@calendrier-cine-fr
@@ -9220,7 +8714,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -9245,7 +8739,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -9853,7 +9347,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -9878,7 +9372,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -10424,7 +9918,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -10449,7 +9943,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -11055,7 +10549,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -11080,7 +10574,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -11659,7 +11153,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg
  Fantastique\, Comédie\nCanada\n\nRéalisateur : Cal Brunker\nScénario : 
  Cal Brunker\, Bob Barlen\nProduction : Spin Master\, Nickelodeon Movies\, 
  Paramount Animation\n\nActeurs :\n- Carter Young\n- Mckenna Grace\n- Terry
-  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Cham
+  Crews\n- Meredith MacNeill\n- Ron Pardo\n- Jennifer Hudson\n- Hayden Chem
  berlen\n- Fortune Feimster\n- Jameela Jamil\n- Rain Janjua\n- Bill Nye\n- 
  Paris Hilton\n\n\nLorsqu’une mystérieuse tempête surprend leur navire\
  , la Pat’ Patrouille s’échoue sur une île tropicale encore inexplor
@@ -11684,7 +11178,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  rio :</b> Cal Brunker\, Bob Barlen<br><b>Production :</b> Spin Master\, Ni
  ckelodeon Movies\, Paramount Animation<br><br><b>Acteurs :</b><ul><li>Cart
  er Young</li><li>Mckenna Grace</li><li>Terry Crews</li><li>Meredith MacNei
- ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chamberlen</li
+ ll</li><li>Ron Pardo</li><li>Jennifer Hudson</li><li>Hayden Chemberlen</li
  ><li>Fortune Feimster</li><li>Jameela Jamil</li><li>Rain Janjua</li><li>Bi
  ll Nye</li><li>Paris Hilton</li></ul></td></tr></table><p>Lorsqu’une mys
  térieuse tempête surprend leur navire\, la Pat’ Patrouille s’échoue
@@ -11998,48 +11492,6 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/bfjG4eH78KOnpVNlE
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:seance-80244770687@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T184500Z
-DTEND:20260818T215300Z
-SUMMARY:L'Odyssée (VOST English)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
- \n(The Odyssey)\n2h53\n\nAventure\, Action\, Fantastique\nUnited Kingdom\,
-  United States of America\n\nRéalisateur : Christopher Nolan\nScénario :
-  Christopher Nolan\nPhotographie : Hoyte van Hoytema\nProduction : Univers
- al Pictures\, Syncopy\n\nActeurs :\n- Matt Damon\n- Tom Holland\n- Anne Ha
- thaway\n- Robert Pattinson\n- Himesh Patel\n- Charlize Theron\n- John Legu
- izamo\n- Travis Scott\n- Corey Hawkins\n- Jarreth J. Merz\n- Niko Nicotera
- \n- Elliot Page\n\n\nVingt ans après son départ pour la guerre de Troie\
- , le roi Ulysse rentre enfin à Ithaque\, mais son voyage est parsemé d'a
- ventures et d'épreuves.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
- e/1368337\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
- che de L'Odyssée (VOST English)"><br><small>(The Odyssey)</small><br><sma
- ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
- ion\, Fantastique</i><br>United Kingdom\, United States of America<br><br>
- <b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Christopher 
- Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Production :</b> Un
- iversal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt Damon</li><
- li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</li><li>Hime
- sh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>Travis Sco
- tt</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Nicotera</li
- ><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après son dépar
- t pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais s
- on voyage est parsemé d'aventures et d'épreuves.</p><p><small><a href="h
- ttps://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br>Données fourni
- es par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1368337
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
- 9c5zU0dvcn.jpg
-CATEGORIES:Aventure,Action,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:seance-80244770954@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T184500Z
@@ -12100,6 +11552,48 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sfnKVuXQq2wHuAlOq
  s60FrtJmiz.jpg
 CATEGORIES:Histoire,Drame
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-80244770687@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T184500Z
+DTEND:20260818T215300Z
+SUMMARY:L'Odyssée (VOST English)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)\n2h53\n\nAventure\, Action\, Fantastique\nUnited Kingdom\,
+  United States of America\n\nRéalisateur : Christopher Nolan\nScénario :
+  Christopher Nolan\nPhotographie : Hoyte van Hoytema\nProduction : Univers
+ al Pictures\, Syncopy\n\nActeurs :\n- Matt Damon\n- Tom Holland\n- Anne Ha
+ thaway\n- Robert Pattinson\n- Himesh Patel\n- Charlize Theron\n- John Legu
+ izamo\n- Travis Scott\n- Corey Hawkins\n- Jarreth J. Merz\n- Niko Nicotera
+ \n- Elliot Page\n\n\nVingt ans après son départ pour la guerre de Troie\
+ , le roi Ulysse rentre enfin à Ithaque\, mais son voyage est parsemé d'a
+ ventures et d'épreuves.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
+ e/1368337\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VOST English)"><br><small>(The Odyssey)</small><br><sma
+ ll>2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Act
+ ion\, Fantastique</i><br>United Kingdom\, United States of America<br><br>
+ <b>Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Christopher 
+ Nolan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Production :</b> Un
+ iversal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt Damon</li><
+ li>Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</li><li>Hime
+ sh Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>Travis Sco
+ tt</li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Nicotera</li
+ ><li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après son dépar
+ t pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais s
+ on voyage est parsemé d'aventures et d'épreuves.</p><p><small><a href="h
+ ttps://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br>Données fourni
+ es par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770564@calendrier-cine-fr
@@ -12466,6 +11960,52 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jjCCZcCtggGjKik2g
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
+UID:seance-80410514202@calendrier-cine-fr
+DTSTAMP:20260818T000000Z
+DTSTART:20260818T201500Z
+DTEND:20260818T220900Z
+SUMMARY:La Fin d'Oak Street (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
+ United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
+ o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
+ ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
+  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
+ Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
+ Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
+ qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
+  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
+ rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
+  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
+ b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
+ che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)</small
+ ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Scien
+ ce-Fiction\, Mystère\, Thriller</i><br>United States of America<br><br><b
+ >Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> David Robe
+ rt Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Production :</b>
+  Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br><b>Acteur
+ s :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Christian Conve
+ ry</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. Byrne</li>
+ <li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler</li><li>H
+ udson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore</li></ul>
+ </td></tr></table><p>Lorsqu’un mystérieux événement cosmique arrache 
+ Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu\,
+  la famille Platt\, désorientée dans ce nouvel environnement hostile\, c
+ omprend vite qu’il leur faudra rester unis pour survivre.</p><p><small><
+ a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a><br>Donné
+ es fournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1101383
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
+ BZ1Wm1zcpM.jpg
+CATEGORIES:Science-Fiction,Mystère,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:seance-80410514156@calendrier-cine-fr
 DTSTAMP:20260818T000000Z
 DTSTART:20260818T201500Z
@@ -12516,52 +12056,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gOnDCEcVrLGXZQPmJ
  GZvCPDHPc0.jpg
 CATEGORIES:Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:seance-80410514202@calendrier-cine-fr
-DTSTAMP:20260818T000000Z
-DTSTART:20260818T201500Z
-DTEND:20260818T220900Z
-SUMMARY:La Fin d'Oak Street (VF)
-DESCRIPTION:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
- \n(The End of Oak Street)\n1h39\n\nScience-Fiction\, Mystère\, Thriller\n
- United States of America\n\nRéalisateur : David Robert Mitchell\nScénari
- o : David Robert Mitchell\nPhotographie : Mike Gioulakis\nProduction : War
- ner Bros. Pictures\, Domain Entertainment\, Bad Robot\n\nActeurs :\n- Anne
-  Hathaway\n- Ewan McGregor\n- Christian Convery\n- Maisy Stella\n- Jordan 
- Alexa Davis\n- P.J. Byrne\n- Bethany Anne Lind\n- Emily Kuroda\n- Denitra 
- Isler\n- Hudson Meek\n- Anne Gee Byrd\n- Michael-Christian Moore\n\n\nLors
- qu’un mystérieux événement cosmique arrache Oak Street à sa paisible
-  banlieue et la transporte vers un lieu inconnu\, la famille Platt\, déso
- rientée dans ce nouvel environnement hostile\, comprend vite qu’il leur
-  faudra rester unis pour survivre.\n\n\nFiche TMDB : https://www.themovied
- b.org/movie/1101383\n\nDonnées fournies par The Movie Database (TMDB)
-X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
- "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
- e.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg" width="220" alt="Affi
- che de La Fin d'Oak Street (VF)"><br><small>(The End of Oak Street)</small
- ><br><small>1h39</small></td><td width="16"></td><td valign="top"><i>Scien
- ce-Fiction\, Mystère\, Thriller</i><br>United States of America<br><br><b
- >Réalisateur :</b> David Robert Mitchell<br><b>Scénario :</b> David Robe
- rt Mitchell<br><b>Photographie :</b> Mike Gioulakis<br><b>Production :</b>
-  Warner Bros. Pictures\, Domain Entertainment\, Bad Robot<br><br><b>Acteur
- s :</b><ul><li>Anne Hathaway</li><li>Ewan McGregor</li><li>Christian Conve
- ry</li><li>Maisy Stella</li><li>Jordan Alexa Davis</li><li>P.J. Byrne</li>
- <li>Bethany Anne Lind</li><li>Emily Kuroda</li><li>Denitra Isler</li><li>H
- udson Meek</li><li>Anne Gee Byrd</li><li>Michael-Christian Moore</li></ul>
- </td></tr></table><p>Lorsqu’un mystérieux événement cosmique arrache 
- Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu\,
-  la famille Platt\, désorientée dans ce nouvel environnement hostile\, c
- omprend vite qu’il leur faudra rester unis pour survivre.</p><p><small><
- a href="https://www.themoviedb.org/movie/1101383">Fiche TMDB</a><br>Donné
- es fournies par The Movie Database (TMDB)</small></p></body></html>
-URL:https://www.themoviedb.org/movie/1101383
-TRANSP:OPAQUE
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1flRy4qysdwjhlqw2
- BZ1Wm1zcpM.jpg
-CATEGORIES:Science-Fiction,Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:seance-80244770541@calendrier-cine-fr
@@ -13279,7 +12773,7 @@ DESCRIPTION:https://image.tmdb.org/t/p/w780/A0zUWBtPIt7ppzmYzdaPNed2B6X.jpg
  \n(劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸 —
   Gekijô ban Bleach: The DiamondDust Rebellion - Mô hitotsu no hyôrinmar
  u)\n1h35\n\nAction\, Animation\, Thriller\nJapan\n\nRéalisateur : 阿部
- 記之\nScénario : 横手美智子\, 大久保昌弘\nPhotographie : 福
+ 記之\nScénario : 大久保昌弘\, 横手美智子\nPhotographie : 福
  島敏行\nProduction : Pierrot\n\nActeurs :\n- Masakazu Morita\n- Romi Pa
  rk\n- Akira Ishida\n- Fumiko Orikasa\n- 伊藤健太郎\n- 松谷彼哉\n-
   塚田正昭\n- Aya Hisakawa\n- ゆかな\n- Noriaki Sugiyama\n- Hiroki Y
@@ -13303,7 +12797,7 @@ X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
  ach: The DiamondDust Rebellion - Mô hitotsu no hyôrinmaru)</small><br><s
  mall>1h35</small></td><td width="16"></td><td valign="top"><i>Action\, Ani
  mation\, Thriller</i><br>Japan<br><br><b>Réalisateur :</b> 阿部記之<b
- r><b>Scénario :</b> 横手美智子\, 大久保昌弘<br><b>Photographie 
+ r><b>Scénario :</b> 大久保昌弘\, 横手美智子<br><b>Photographie 
  :</b> 福島敏行<br><b>Production :</b> Pierrot<br><br><b>Acteurs :</b><
  ul><li>Masakazu Morita</li><li>Romi Park</li><li>Akira Ishida</li><li>Fumi
  ko Orikasa</li><li>伊藤健太郎</li><li>松谷彼哉</li><li>塚田正
@@ -13475,5 +12969,152 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://fr.web.img4.acs
 ATTACH;FMTTYPE=image/jpeg:https://fr.web.img4.acsta.net/img/03/24/0324d97da
  29c70065c1a72a7c66ef006.png
 CATEGORIES:Animation,Action
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-79676034662@calendrier-cine-fr
+DTSTAMP:20260829T000000Z
+DTSTART:20260829T071500Z
+DTEND:20260829T102300Z
+SUMMARY:L'Odyssée (VF · IMAX)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ \n(The Odyssey)\n2h53\n\nAventure\, Action\, Fantastique\nUnited Kingdom\,
+  United States of America\n\nRéalisateur : Christopher Nolan\nScénario :
+  Christopher Nolan\nPhotographie : Hoyte van Hoytema\nProduction : Univers
+ al Pictures\, Syncopy\n\nActeurs :\n- Matt Damon\n- Tom Holland\n- Anne Ha
+ thaway\n- Robert Pattinson\n- Himesh Patel\n- Charlize Theron\n- John Legu
+ izamo\n- Travis Scott\n- Corey Hawkins\n- Jarreth J. Merz\n- Niko Nicotera
+ \n- Elliot Page\n\n\nVingt ans après son départ pour la guerre de Troie\
+ , le roi Ulysse rentre enfin à Ithaque\, mais son voyage est parsemé d'a
+ ventures et d'épreuves.\n\n\nFiche TMDB : https://www.themoviedb.org/movi
+ e/1368337\n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg" width="220" alt="Affi
+ che de L'Odyssée (VF · IMAX)"><br><small>(The Odyssey)</small><br><small
+ >2h53</small></td><td width="16"></td><td valign="top"><i>Aventure\, Actio
+ n\, Fantastique</i><br>United Kingdom\, United States of America<br><br><b
+ >Réalisateur :</b> Christopher Nolan<br><b>Scénario :</b> Christopher No
+ lan<br><b>Photographie :</b> Hoyte van Hoytema<br><b>Production :</b> Univ
+ ersal Pictures\, Syncopy<br><br><b>Acteurs :</b><ul><li>Matt Damon</li><li
+ >Tom Holland</li><li>Anne Hathaway</li><li>Robert Pattinson</li><li>Himesh
+  Patel</li><li>Charlize Theron</li><li>John Leguizamo</li><li>Travis Scott
+ </li><li>Corey Hawkins</li><li>Jarreth J. Merz</li><li>Niko Nicotera</li><
+ li>Elliot Page</li></ul></td></tr></table><p>Vingt ans après son départ 
+ pour la guerre de Troie\, le roi Ulysse rentre enfin à Ithaque\, mais son
+  voyage est parsemé d'aventures et d'épreuves.</p><p><small><a href="htt
+ ps://www.themoviedb.org/movie/1368337">Fiche TMDB</a><br>Données fournies
+  par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/1368337
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kP8jJIkmX0vWEYiqQ
+ 9c5zU0dvcn.jpg
+CATEGORIES:Aventure,Action,Fantastique
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-79800570317@calendrier-cine-fr
+DTSTAMP:20260829T000000Z
+DTSTART:20260829T110000Z
+DTEND:20260829T135200Z
+SUMMARY:Harry Potter et la Coupe de feu (VF · 4DX · Salle premium)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg
+ \n(Harry Potter and the Goblet of Fire)\n2h37\n\nAventure\, Fantastique\nU
+ nited Kingdom\, United States of America\n\nRéalisateur : Mike Newell\nSc
+ énario : Steve Kloves\nPhotographie : Roger Pratt\nProduction : Warner Br
+ os. Pictures\, Heyday Films\, Patalex IV Productions\n\nActeurs :\n- Danie
+ l Radcliffe\n- Rupert Grint\n- Emma Watson\n- Brendan Gleeson\n- Michael G
+ ambon\n- Robert Pattinson\n- Ralph Fiennes\n- Robbie Coltrane\n- Alan Rick
+ man\n- David Tennant\n- Predrag Bjelac\n- Clémence Poésy\n\n\nLa quatri
+ ème année à l’école de Poudlard est marquée par le « Tournoi des 
+ trois sorciers ». Les participants sont choisis par la fameuse « Coupe
+  de feu » qui est à l’origine d’un scandale. Elle sélectionne Harr
+ y Potter alors qu’il n’a pas l’âge requis. Accusé de tricherie et 
+ mis à mal par une série d’épreuves physiques de plus en plus difficil
+ es\, ce dernier sera enfin confronté à Celui dont on ne doit pas prononc
+ er le nom\, Lord V.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/674
+ \n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg" width="220" alt="Affi
+ che de Harry Potter et la Coupe de feu (VF · 4DX · Salle premium)"><br><
+ small>(Harry Potter and the Goblet of Fire)</small><br><small>2h37</small>
+ </td><td width="16"></td><td valign="top"><i>Aventure\, Fantastique</i><br
+ >United Kingdom\, United States of America<br><br><b>Réalisateur :</b> Mi
+ ke Newell<br><b>Scénario :</b> Steve Kloves<br><b>Photographie :</b> Roge
+ r Pratt<br><b>Production :</b> Warner Bros. Pictures\, Heyday Films\, Pata
+ lex IV Productions<br><br><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li
+ >Rupert Grint</li><li>Emma Watson</li><li>Brendan Gleeson</li><li>Michael 
+ Gambon</li><li>Robert Pattinson</li><li>Ralph Fiennes</li><li>Robbie Coltr
+ ane</li><li>Alan Rickman</li><li>David Tennant</li><li>Predrag Bjelac</li>
+ <li>Clémence Poésy</li></ul></td></tr></table><p>La quatrième année à
+  l’école de Poudlard est marquée par le « Tournoi des trois sorciers
+  ». Les participants sont choisis par la fameuse « Coupe de feu » qu
+ i est à l’origine d’un scandale. Elle sélectionne Harry Potter alors
+  qu’il n’a pas l’âge requis. Accusé de tricherie et mis à mal par
+  une série d’épreuves physiques de plus en plus difficiles\, ce dernie
+ r sera enfin confronté à Celui dont on ne doit pas prononcer le nom\, Lo
+ rd V.</p><p><small><a href="https://www.themoviedb.org/movie/674">Fiche TM
+ DB</a><br>Données fournies par The Movie Database (TMDB)</small></p></bod
+ y></html>
+URL:https://www.themoviedb.org/movie/674
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hBak1pn5pbI4ycAbr
+ gMMn1YI7P1.jpg
+CATEGORIES:Aventure,Fantastique
+END:VEVENT
+BEGIN:VEVENT
+UID:seance-79800570313@calendrier-cine-fr
+DTSTAMP:20260829T000000Z
+DTSTART:20260829T170000Z
+DTEND:20260829T195200Z
+SUMMARY:Harry Potter et la Coupe de feu (VF)
+DESCRIPTION:https://image.tmdb.org/t/p/w780/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg
+ \n(Harry Potter and the Goblet of Fire)\n2h37\n\nAventure\, Fantastique\nU
+ nited Kingdom\, United States of America\n\nRéalisateur : Mike Newell\nSc
+ énario : Steve Kloves\nPhotographie : Roger Pratt\nProduction : Warner Br
+ os. Pictures\, Heyday Films\, Patalex IV Productions\n\nActeurs :\n- Danie
+ l Radcliffe\n- Rupert Grint\n- Emma Watson\n- Brendan Gleeson\n- Michael G
+ ambon\n- Robert Pattinson\n- Ralph Fiennes\n- Robbie Coltrane\n- Alan Rick
+ man\n- David Tennant\n- Predrag Bjelac\n- Clémence Poésy\n\n\nLa quatri
+ ème année à l’école de Poudlard est marquée par le « Tournoi des 
+ trois sorciers ». Les participants sont choisis par la fameuse « Coupe
+  de feu » qui est à l’origine d’un scandale. Elle sélectionne Harr
+ y Potter alors qu’il n’a pas l’âge requis. Accusé de tricherie et 
+ mis à mal par une série d’épreuves physiques de plus en plus difficil
+ es\, ce dernier sera enfin confronté à Celui dont on ne doit pas prononc
+ er le nom\, Lord V.\n\n\nFiche TMDB : https://www.themoviedb.org/movie/674
+ \n\nDonnées fournies par The Movie Database (TMDB)
+X-ALT-DESC;FMTTYPE=text/html:<!doctype html><html><body><table cellpadding=
+ "0" cellspacing="0" border="0"><tr><td valign="top"><img src="https://imag
+ e.tmdb.org/t/p/w780/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg" width="220" alt="Affi
+ che de Harry Potter et la Coupe de feu (VF)"><br><small>(Harry Potter and 
+ the Goblet of Fire)</small><br><small>2h37</small></td><td width="16"></td
+ ><td valign="top"><i>Aventure\, Fantastique</i><br>United Kingdom\, United
+  States of America<br><br><b>Réalisateur :</b> Mike Newell<br><b>Scénari
+ o :</b> Steve Kloves<br><b>Photographie :</b> Roger Pratt<br><b>Production
+  :</b> Warner Bros. Pictures\, Heyday Films\, Patalex IV Productions<br><b
+ r><b>Acteurs :</b><ul><li>Daniel Radcliffe</li><li>Rupert Grint</li><li>Em
+ ma Watson</li><li>Brendan Gleeson</li><li>Michael Gambon</li><li>Robert Pa
+ ttinson</li><li>Ralph Fiennes</li><li>Robbie Coltrane</li><li>Alan Rickman
+ </li><li>David Tennant</li><li>Predrag Bjelac</li><li>Clémence Poésy</li
+ ></ul></td></tr></table><p>La quatrième année à l’école de Poudlard 
+ est marquée par le « Tournoi des trois sorciers ». Les participants s
+ ont choisis par la fameuse « Coupe de feu » qui est à l’origine d
+ ’un scandale. Elle sélectionne Harry Potter alors qu’il n’a pas l
+ ’âge requis. Accusé de tricherie et mis à mal par une série d’épr
+ euves physiques de plus en plus difficiles\, ce dernier sera enfin confron
+ té à Celui dont on ne doit pas prononcer le nom\, Lord V.</p><p><small><
+ a href="https://www.themoviedb.org/movie/674">Fiche TMDB</a><br>Données f
+ ournies par The Movie Database (TMDB)</small></p></body></html>
+URL:https://www.themoviedb.org/movie/674
+TRANSP:OPAQUE
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hBak1pn5pbI4ycAbr
+ gMMn1YI7P1.jpg
+CATEGORIES:Aventure,Fantastique
 END:VEVENT
 END:VCALENDAR
