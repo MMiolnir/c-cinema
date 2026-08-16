@@ -356,7 +356,7 @@ def afficher_repartition(scores):
         print(f"\n  Les {min(20, len(exclus))} films {libelle} les plus populaires"
               f" que vous excluez (seuil {seuil}) :")
         for valeur, titre in exclus[:20]:
-            print(f"    {valeur:6.1f}  {titre}")
+            print(f"    {valeur:6.2f}  {titre}")
         if len(exclus) > 20:
             print(f"    ... et {len(exclus) - 20} autres, moins populaires encore")
 
@@ -920,7 +920,7 @@ def couverture_du_cinema(scores, seances):
         print(f"\n  Films projetes chez vous mais ABSENTS de votre calendrier"
               f" (seuil {POPULARITE_MINIMALE}) :")
         for valeur, titre in reversed(perdus):
-            print(f"    {valeur:6.1f}  {titre}")
+            print(f"    {valeur:6.2f}  {titre}")
     else:
         print(f"\n  Aucun film de votre cinema n'est perdu au seuil {POPULARITE_MINIMALE}.")
 
