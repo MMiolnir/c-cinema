@@ -8,12 +8,12 @@ acteurs principaux, genres et synopsis.
 Toutes les donnees proviennent exclusivement de The Movie Database (TMDB).
 Ce produit utilise l'API TMDB mais n'est ni approuve ni certifie par TMDB.
 
-Version 1.1
+Version 1.0
 
 Aucune dependance externe : uniquement la bibliotheque standard de Python.
 """
 
-VERSION = "1.1"
+VERSION = "1.0"
 
 import difflib
 import json
@@ -121,8 +121,8 @@ JOURS_APRES = 240      # et on anticipe sur environ 8 mois
 # reflete l'attention d'un public surtout anglophone. Un petit film francais y
 # est mal note alors qu'il passe pres de chez vous ; un petit film international
 # confidentiel ne passera jamais. On filtre donc plus severement l'etranger.
-POPULARITE_MINIMALE = 3.5          # films en langue etrangere
-POPULARITE_MINIMALE_FR = 1.2       # films en langue francaise
+POPULARITE_MINIMALE = 3.0          # films en langue etrangere
+POPULARITE_MINIMALE_FR = 1.0       # films en langue francaise
 LANGUES_FRANCAISES = ("fr",)       # langues beneficiant du seuil francais
 
 # TMDB classe la distribution par ordre de generique, tete d'affiche en premier.
@@ -154,6 +154,12 @@ PREFIXE_TITRE = ""                 # texte place devant le titre, ex. "🎬 "
 # Le repli anglais le ferait remonter alors qu'on ne le veut pas.
 REPLI_TITRE_ANGLAIS = False
 FICHIER_DE_SORTIE = "docs/c-cinema.ics"
+
+# Mise en valeur par caracteres Unicode "gras". Ce ne sont pas des styles mais
+# de vrais caracteres, seule facon d'obtenir un rendu appuye dans un champ texte.
+# Ils n'existent pas avec accents : le texte est donc desaccentue avant conversion.
+LIBELLES_EN_GRAS = True
+LANGUES_MAX = 3                    # langues parlees affichees a cote du pays
 
 ESPACEMENT_SCORE = "   "           # entre le titre original et le score de popularite
 SEPARATEUR_ROMANISATION = " — "    # entre le titre original et sa version en alphabet latin
@@ -607,6 +613,7 @@ def details_du_film(film):
         "duree": duree_en_minutes(fiche.get("runtime")),
         "popularite": float(fiche.get("popularity") or 0) or None,
         "langue_origine": langue_originale(fiche),
+        "langues": langues_du_film(fiche),
     }
 
 
@@ -1285,6 +1292,45 @@ def duree_en_minutes(valeur):
     return 0
 
 
+def gras(texte):
+    """Texte en caracteres Unicode gras, accents retires au prealable.
+
+    L'alphabet gras d'Unicode ne couvre ni les accents ni les cedilles :
+    'Realisateur' passe entierement en gras, 'Réalisateur' laisserait le 'é'
+    en taille normale au milieu du mot. On desaccentue donc d'abord.
+    """
+    if not LIBELLES_EN_GRAS or not texte:
+        return texte
+    depouille = unicodedata.normalize("NFKD", str(texte))
+    depouille = "".join(c for c in depouille if not unicodedata.combining(c))
+    sortie = []
+    for c in depouille:
+        if "a" <= c <= "z":
+            sortie.append(chr(0x1D5EE + ord(c) - ord("a")))
+        elif "A" <= c <= "Z":
+            sortie.append(chr(0x1D5D4 + ord(c) - ord("A")))
+        elif "0" <= c <= "9":
+            sortie.append(chr(0x1D7EC + ord(c) - ord("0")))
+        else:
+            sortie.append(c)
+    return "".join(sortie)
+
+
+def langues_du_film(fiche):
+    """Langues parlees du film, celle d'origine en tete, telles que TMDB les nomme."""
+    origine = (fiche.get("original_language") or "").lower()
+    langues = []
+    for bloc in fiche.get("spoken_languages") or []:
+        nom = (bloc.get("english_name") or bloc.get("name") or "").strip()
+        if not nom or nom in langues:
+            continue
+        if (bloc.get("iso_639_1") or "").lower() == origine:
+            langues.insert(0, nom)
+        else:
+            langues.append(nom)
+    return langues[:LANGUES_MAX]
+
+
 def duree_lisible(minutes):
     """90 -> '1h30', 48 -> '48min', 0 ou None -> None."""
     try:
@@ -1362,16 +1408,19 @@ def description_texte(film):
         entete.append(score)
     duree = duree_lisible(film.get("duree"))
     if duree:
-        entete.append(duree)
+        entete.append(gras(duree))
     if entete:
         blocs.append("\n".join(entete))
 
     # le genre sans libelle, et juste dessous le pays d'origine
     identite = []
     if film["genres"]:
-        identite.append(", ".join(film["genres"]))
+        identite.append(", ".join(gras(genre) for genre in film["genres"]))
     if film.get("pays"):
-        identite.append(", ".join(film["pays"]))
+        ligne = ", ".join(film["pays"])
+        if film.get("langues"):
+            ligne += f" ({', '.join(film['langues'])})"
+        identite.append(ligne)
     if film.get("avant_premiere"):
         texte = "Avant-première"
         if film.get("sortie_nationale"):
@@ -1385,12 +1434,12 @@ def description_texte(film):
     # l'equipe technique
     equipe = bloc_equipe_technique(film)
     if equipe:
-        blocs.append("\n".join(f"{libelle} : {noms}" for libelle, noms in equipe))
+        blocs.append("\n".join(f"{gras(libelle)} : {noms}" for libelle, noms in equipe))
 
     # les acteurs, en liste a puces
     if film["acteurs"]:
         libelle = accorder("Acteur", "Acteurs", film["acteurs"])
-        blocs.append(f"{libelle} :\n" + "\n".join(f"- {nom}" for nom in film["acteurs"]))
+        blocs.append(f"{gras(libelle)} :\n" + "\n".join(f"- {nom}" for nom in film["acteurs"]))
 
     # le synopsis, en entier, un peu detache du reste
     if film["synopsis"]:
@@ -1438,7 +1487,10 @@ def description_html(film):
     if film["genres"]:
         identite.append(f"<i>{echapper_html(', '.join(film['genres']))}</i>")
     if film.get("pays"):
-        identite.append(echapper_html(", ".join(film["pays"])))
+        ligne = ", ".join(film["pays"])
+        if film.get("langues"):
+            ligne += f" ({', '.join(film['langues'])})"
+        identite.append(echapper_html(ligne))
     if film.get("avant_premiere"):
         texte = "Avant-première"
         if film.get("sortie_nationale"):
@@ -1642,7 +1694,7 @@ def film_depuis_allocine(fiche):
         "affiche": (fiche.get("poster") or {}).get("url"),
         "duree": duree,
         "popularite": None,
-        "langue_origine": None, "sortie_initiale": None,
+        "langue_origine": None, "langues": [], "sortie_initiale": None,
     }
 
 
