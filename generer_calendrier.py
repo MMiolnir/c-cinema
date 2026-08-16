@@ -159,7 +159,7 @@ FICHIER_DE_SORTIE = "docs/c-cinema.ics"
 # de vrais caracteres, seule facon d'obtenir un rendu appuye dans un champ texte.
 # Ils n'existent pas avec accents : le texte est donc desaccentue avant conversion.
 LIBELLES_EN_GRAS = True
-LANGUES_MAX = 3                    # langues parlees affichees a cote du pays
+LANGUES_MAX = 3                    # langues parlees affichees sous le pays
 
 ESPACEMENT_SCORE = "   "           # entre le titre original et le score de popularite
 SEPARATEUR_ROMANISATION = " — "    # entre le titre original et sa version en alphabet latin
@@ -1415,12 +1415,11 @@ def description_texte(film):
     # le genre sans libelle, et juste dessous le pays d'origine
     identite = []
     if film["genres"]:
-        identite.append(", ".join(gras(genre) for genre in film["genres"]))
+        identite.append(", ".join(film["genres"]))
     if film.get("pays"):
-        ligne = ", ".join(film["pays"])
-        if film.get("langues"):
-            ligne += f" ({', '.join(film['langues'])})"
-        identite.append(ligne)
+        identite.append(", ".join(film["pays"]))
+    if film.get("langues"):
+        identite.append(f"({', '.join(film['langues'])})")
     if film.get("avant_premiere"):
         texte = "Avant-première"
         if film.get("sortie_nationale"):
@@ -1487,10 +1486,9 @@ def description_html(film):
     if film["genres"]:
         identite.append(f"<i>{echapper_html(', '.join(film['genres']))}</i>")
     if film.get("pays"):
-        ligne = ", ".join(film["pays"])
-        if film.get("langues"):
-            ligne += f" ({', '.join(film['langues'])})"
-        identite.append(echapper_html(ligne))
+        identite.append(echapper_html(", ".join(film["pays"])))
+    if film.get("langues"):
+        identite.append(echapper_html(f"({', '.join(film['langues'])})"))
     if film.get("avant_premiere"):
         texte = "Avant-première"
         if film.get("sortie_nationale"):
