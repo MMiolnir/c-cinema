@@ -186,6 +186,26 @@ SOURCE_PRODUCTION = "societes"
 NOMBRE_PRODUCTION = 3              # nombre d'entrees affichees au maximum
 JOBS_PRODUCTION = ("Producer",)    # utilise seulement si SOURCE_PRODUCTION = "producteurs"
 INCLURE_VERSION_HTML = True        # False sur Apple Calendrier : divise le fichier par deux
+
+# --- Notes AlloCine, dans le calendrier des seances uniquement -------------
+NOTES_ALLOCINE = True              # affiche les notes presse et public
+LIBELLE_PRESSE = "Presse"          # meme longueur que le suivant : les : s'alignent
+LIBELLE_PUBLIC = "Public"
+
+# --- Tendance de popularite ------------------------------------------------
+# La popularite de la veille est conservee dans un petit fichier du depot, que
+# le workflow enregistre deja puisqu'il publie tout le dossier docs/.
+# La reference n'est remplacee que si elle a plus de TENDANCE_HEURES : vous
+# pouvez donc relancer le workflow dix fois par jour sans fausser la comparaison.
+TENDANCE_ACTIVE = True
+FICHIER_POPULARITES = "docs/popularites.json"
+TENDANCE_HEURES = 20               # age minimal de la reference avant remplacement
+TENDANCE_ECART_MINI = 0.1          # ecart absolu minimal
+TENDANCE_POURCENT_MINI = 5.0       # ET variation relative minimale, en pourcent
+FLECHE_HAUSSE = "↑"
+FLECHE_BAISSE = "↓"
+
+REFERENCE_POPULARITE = {}          # rempli au demarrage depuis le fichier
 FILS_PARALLELES = 8                # requetes simultanees vers TMDB
 
 # ---------------------------------------------------------------------------
@@ -1075,6 +1095,48 @@ def formats_de_seance(seance):
     return trouves
 
 
+CLES_FILM_VUES = set()   # diagnostic : champs presents dans une fiche AlloCine
+
+
+def note_allocine(fiche, *chemins):
+    """Cherche une note dans la fiche AlloCine, sans connaitre sa cle exacte.
+
+    On essaie plusieurs chemins plausibles : la structure n'est pas documentee
+    et la bibliotheque de reference n'extrait aucune note. Le diagnostic du
+    journal montrera les champs reellement disponibles.
+    """
+    for chemin in chemins:
+        valeur = fiche
+        for cle in chemin:
+            if not isinstance(valeur, dict):
+                valeur = None
+                break
+            valeur = valeur.get(cle)
+        if isinstance(valeur, dict):
+            valeur = valeur.get("score", valeur.get("rating", valeur.get("value")))
+        if isinstance(valeur, (int, float)) and 0 < float(valeur) <= 5:
+            return round(float(valeur), 1)
+    return None
+
+
+def notes_du_film(fiche):
+    """(note presse, note public) telles qu'AlloCine les donne, sur 5."""
+    CLES_FILM_VUES.update(k for k in fiche.keys() if isinstance(k, str))
+    presse = note_allocine(
+        fiche,
+        ("stats", "pressReview", "score"), ("stats", "pressReview"),
+        ("pressReview", "score"), ("pressReview",), ("stats", "pressRating"),
+        ("ratings", "press"), ("pressRating",),
+    )
+    public = note_allocine(
+        fiche,
+        ("stats", "userRating", "score"), ("stats", "userRating"),
+        ("userRating", "score"), ("userRating",), ("stats", "userReview", "score"),
+        ("ratings", "user"), ("userNote",),
+    )
+    return presse, public
+
+
 def horaires_du_cinema():
     """Toutes les seances du cinema sur SEANCES_JOURS jours.
 
@@ -1318,6 +1380,75 @@ def duree_en_minutes(valeur):
     return 0
 
 
+def charger_popularites():
+    """Lit la reference de popularite conservee dans le depot."""
+    global REFERENCE_POPULARITE
+    if not TENDANCE_ACTIVE:
+        return {}
+    try:
+        with open(FICHIER_POPULARITES, encoding="utf-8") as fichier:
+            memoire = json.load(fichier)
+    except Exception:  # noqa: BLE001
+        print("  aucune reference de popularite : pas de fleches ce coup-ci")
+        return {}
+    REFERENCE_POPULARITE = {str(k): float(v) for k, v in (memoire.get("films") or {}).items()}
+    horodatage = memoire.get("horodatage") or "?"
+    print(f"  reference de popularite du {horodatage} ({len(REFERENCE_POPULARITE)} films)")
+    return memoire
+
+
+def fleche_tendance(film):
+    """'↑', '↓' ou '' selon l'evolution depuis la reference.
+
+    Deux conditions cumulees : un ecart absolu ET une variation relative. Le
+    seuil absolu protege les petites valeurs du bruit d'arrondi, le seuil
+    relatif empeche un blockbuster a 200 de clignoter pour 0.3 point.
+    """
+    if not TENDANCE_ACTIVE:
+        return ""
+    valeur = film.get("popularite")
+    avant = REFERENCE_POPULARITE.get(str(film.get("id")))
+    if not valeur or not avant or avant <= 0:
+        return ""
+    ecart = valeur - avant
+    if abs(ecart) < TENDANCE_ECART_MINI:
+        return ""
+    if abs(ecart) / avant * 100 < TENDANCE_POURCENT_MINI:
+        return ""
+    return FLECHE_HAUSSE if ecart > 0 else FLECHE_BAISSE
+
+
+def enregistrer_popularites(memoire, films):
+    """Remplace la reference seulement si elle a plus de TENDANCE_HEURES.
+
+    Sans cette garde, chaque relance manuelle ecraserait la reference et les
+    fleches compareraient la valeur d'il y a dix minutes.
+    """
+    if not TENDANCE_ACTIVE:
+        return
+    ancien = memoire.get("horodatage")
+    if ancien:
+        try:
+            age = datetime.now(timezone.utc) - datetime.fromisoformat(ancien)
+            if age < timedelta(hours=TENDANCE_HEURES):
+                heures = age.total_seconds() / 3600
+                print(f"  reference conservee : elle n'a que {heures:.1f} h"
+                      f" (remplacee au-dela de {TENDANCE_HEURES} h)")
+                return
+        except ValueError:
+            pass
+
+    valeurs = {str(f["id"]): round(f["popularite"], 3)
+               for f in films if f.get("popularite") and not f.get("uid")}
+    dossier = os.path.dirname(FICHIER_POPULARITES)
+    if dossier:
+        os.makedirs(dossier, exist_ok=True)
+    with open(FICHIER_POPULARITES, "w", encoding="utf-8") as fichier:
+        json.dump({"horodatage": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                   "films": valeurs}, fichier, ensure_ascii=False, indent=1)
+    print(f"  nouvelle reference de popularite enregistree ({len(valeurs)} films)")
+
+
 def gras(texte):
     """Texte en caracteres Unicode gras, accents retires au prealable.
 
@@ -1427,7 +1558,11 @@ def description_texte(film):
     if affiche:
         entete.append(affiche)
     original = titre_original_a_afficher(film)
-    score = f"({film['popularite']:.1f})" if film.get("popularite") else ""
+    if film.get("popularite"):
+        fleche = fleche_tendance(film)
+        score = f"({film['popularite']:.1f}{' ' + fleche if fleche else ''})"
+    else:
+        score = ""
     if original:
         entete.append(f"({original}){ESPACEMENT_SCORE}{score}".rstrip())
     elif score:
@@ -1473,6 +1608,16 @@ def description_texte(film):
         if film["synopsis_en_anglais"]:
             texte = "(synopsis non encore traduit sur TMDB)\n" + texte
         blocs.append(respiration + texte)
+
+    # les notes AlloCine, collees sous le synopsis, une ligne vide au-dessus.
+    # Les deux libelles ont la meme longueur : les deux-points s'alignent.
+    if NOTES_ALLOCINE and (film.get("note_presse") or film.get("note_public")):
+        notes = []
+        if film.get("note_presse"):
+            notes.append(f"{gras(LIBELLE_PRESSE)} : {film['note_presse']:.1f}")
+        if film.get("note_public"):
+            notes.append(f"{gras(LIBELLE_PUBLIC)} : {film['note_public']:.1f}")
+        blocs.append("\n".join(notes))
 
     # la mention legale, un peu detachee du synopsis
     respiration = "\n" * max(0, LIGNES_AVANT_MENTION - 1)
@@ -1548,7 +1693,11 @@ def description_html(film):
             f'alt="Affiche de {echapper_html(film["titre"])}">'
         )
         original = titre_original_a_afficher(film)
-        score = f"({film['popularite']:.1f})" if film.get("popularite") else ""
+        if film.get("popularite"):
+            fleche = fleche_tendance(film)
+            score = f"({film['popularite']:.1f}{' ' + fleche if fleche else ''})"
+        else:
+            score = ""
         if original:
             gauche += f"<br><small>{echapper_html(f'({original}){ESPACEMENT_SCORE}{score}'.rstrip())}</small>"
         elif score:
@@ -1760,6 +1909,7 @@ def calendrier_des_seances():
             if not detail["titre"]:
                 continue
 
+        presse, public = notes_du_film(fiche)
         duree = duree_en_minutes(detail.get("duree")) or 120
         for seance in sorted(seances, key=lambda x: x["debut"]):
             debut = horodatage_utc(seance["debut"])
@@ -1787,6 +1937,8 @@ def calendrier_des_seances():
                 debut_utc=debut,
                 fin_utc=fin,
                 seance_details=suffixe,
+                note_presse=presse,
+                note_public=public,
                 titre=f"{detail['titre']} ({suffixe})" if suffixe else detail["titre"],
             ))
 
@@ -1806,6 +1958,14 @@ def calendrier_des_seances():
         if inconnus:
             print(f"    INCONNUS  : {', '.join(inconnus)}")
             print("    (affiches tels quels - signalez-les moi pour les nommer correctement)")
+
+    if CLES_FILM_VUES:
+        notes_trouvees = sum(1 for e in evenements if e.get("note_presse") or e.get("note_public"))
+        print(f"\n  Notes AlloCine : {notes_trouvees} seances sur {len(evenements)} en ont une")
+        if not notes_trouvees:
+            print("    Champs presents dans une fiche film AlloCine :")
+            print("      " + ", ".join(sorted(CLES_FILM_VUES)))
+            print("    (aucune note trouvee - envoyez-moi cette liste)")
 
     print(f"  {len(evenements)} seances retenues"
           + (f", dont les seances de {introuvables} films decrits par AlloCine" if introuvables else ""))
@@ -1832,6 +1992,7 @@ def main():
     if MODE_RAPIDE:
         print("*** MODE RAPIDE : resultat volontairement incomplet ***\n")
     charger_base_images()
+    memoire = charger_popularites()
 
     # --- calendrier principal : les sorties nationales ---
     sorties = lister_sorties()
@@ -1844,6 +2005,7 @@ def main():
 
     ecartes = [f for f in films if not titre_pour_agenda(f)]
     print("\n=== Calendrier principal ===")
+    enregistrer_popularites(memoire, films)
     ecrire_calendrier(films, FICHIER_DE_SORTIE, NOM_DU_CALENDRIER)
 
     sans_affiche = sum(1 for f in films if not f["affiche"])
