@@ -186,7 +186,7 @@ LIGNES_AVANT_MENTION = 2           # aeration avant la mention legale TMDB
 SOURCE_PRODUCTION = "societes"
 NOMBRE_PRODUCTION = 3              # nombre d'entrees affichees au maximum
 JOBS_PRODUCTION = ("Producer",)    # utilise seulement si SOURCE_PRODUCTION = "producteurs"
-INCLURE_VERSION_HTML = False        # False sur Apple Calendrier : divise le fichier par deux
+INCLURE_VERSION_HTML = False       # inutile sur Apple Calendrier : divise le fichier par deux
 
 # --- Notes AlloCine, dans le calendrier des seances uniquement -------------
 NOTES_ALLOCINE = True              # affiche les notes presse et public
@@ -224,7 +224,7 @@ FLECHE_FORTE_BAISSE = "\u2193" + TEXTE_PAS_EMOJI      # forte baisse
 
 # Le gras fait PERDRE LES ACCENTS : l'alphabet gras d'Unicode n'en a pas.
 # "L'Ete dernier" au lieu de "L'Été dernier". False pour retrouver les accents.
-TITRE_ORIGINAL_EN_GRAS = True
+TITRE_ORIGINAL_EN_GRAS = False
 
 HISTORIQUE_POPULARITE = {}         # {identifiant: [valeurs, du plus ancien au plus recent]}
 
@@ -1610,7 +1610,7 @@ def description_texte(film):
     entete = []
     original = titre_original_a_afficher(film)
     if original:
-        entete.append(f"({gras(original) if TITRE_ORIGINAL_EN_GRAS else original})")
+        entete.append(gras(original) if TITRE_ORIGINAL_EN_GRAS else original)
     if film.get("popularite"):
         fleche = fleche_tendance(film)
         entete.append(f"({film['popularite']:.1f}{' ' + fleche if fleche else ''})")
@@ -1624,6 +1624,8 @@ def description_texte(film):
     duree = duree_lisible(film.get("duree"))
     if duree:
         identite.append(gras(duree))
+    if film.get("pays") or film.get("langues"):
+        identite.append("")          # respiration entre la duree et le pays
     if film.get("pays"):
         identite.append(", ".join(film["pays"]))
     if film.get("langues"):
@@ -1713,7 +1715,7 @@ def description_html(film):
         identite.append(f"<i>{echapper_html(', '.join(film['genres']))}</i>")
     duree = duree_lisible(film.get("duree"))
     if duree:
-        identite.append(f"<b>{echapper_html(duree)}</b>")
+        identite.append(f"<b>{echapper_html(duree)}</b><br>")
     if film.get("pays"):
         identite.append(echapper_html(", ".join(film["pays"])))
     if film.get("langues"):
@@ -1754,7 +1756,7 @@ def description_html(film):
         )
         original = titre_original_a_afficher(film)
         if original:
-            gauche += f"<br><small>{echapper_html(f'({original})')}</small>"
+            gauche += f"<br><small>{echapper_html(original)}</small>"
         if film.get("popularite"):
             fleche = fleche_tendance(film)
             gauche += ("<br><small>"
