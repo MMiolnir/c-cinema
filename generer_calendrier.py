@@ -186,7 +186,7 @@ LIGNES_AVANT_MENTION = 2           # aeration avant la mention legale TMDB
 SOURCE_PRODUCTION = "societes"
 NOMBRE_PRODUCTION = 3              # nombre d'entrees affichees au maximum
 JOBS_PRODUCTION = ("Producer",)    # utilise seulement si SOURCE_PRODUCTION = "producteurs"
-INCLURE_VERSION_HTML = True        # False sur Apple Calendrier : divise le fichier par deux
+INCLURE_VERSION_HTML = False        # False sur Apple Calendrier : divise le fichier par deux
 
 # --- Notes AlloCine, dans le calendrier des seances uniquement -------------
 NOTES_ALLOCINE = True              # affiche les notes presse et public
