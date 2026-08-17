@@ -19,6 +19,7 @@ import difflib
 import json
 import re
 import os
+import statistics
 import sys
 import time
 import unicodedata
@@ -199,13 +200,34 @@ LIBELLE_PUBLIC = "Public"
 # pouvez donc relancer le workflow dix fois par jour sans fausser la comparaison.
 TENDANCE_ACTIVE = True
 FICHIER_POPULARITES = "docs/popularites.json"
-TENDANCE_HEURES = 20               # age minimal de la reference avant remplacement
-TENDANCE_ECART_MINI = 0.1          # ecart absolu minimal
-TENDANCE_POURCENT_MINI = 5.0       # ET variation relative minimale, en pourcent
-FLECHE_HAUSSE = "↑"
-FLECHE_BAISSE = "↓"
+TENDANCE_HEURES = 20               # age minimal du dernier releve avant d'en ajouter un
+TENDANCE_FENETRE = 14              # nombre de releves conserves
+TENDANCE_RELEVES_MINI = 8          # en dessous, aucune fleche : la mesure ne veut rien dire
+TENDANCE_ECHANTILLON = 3           # releves compares a chaque bout de la fenetre
 
-REFERENCE_POPULARITE = {}          # rempli au demarrage depuis le fichier
+# On compare la MEDIANE des 3 releves les plus recents a celle des 3 plus
+# anciens. La mediane ignore une secousse isolee : un pic x1.8 fausse une
+# moyenne de +27%, une mediane de +3.6% seulement.
+TENDANCE_FORTE = 25.0              # variation, en %, pour une fleche verticale
+TENDANCE_LEGERE = 8.0              # variation, en %, pour une fleche a 45 degres
+TENDANCE_ECART_MINI = 0.05         # plancher absolu, contre le bruit d'arrondi
+
+# Fleches fines. Le suffixe U+FE0E (selecteur de variante 15) demande le rendu
+# TEXTE : sans lui, l'agenda peut remplacer certaines par une image en couleur.
+# Elles ne passent pas par gras() : Unicode n'a pas d'alphabet gras pour les symboles.
+TEXTE_PAS_EMOJI = "\uFE0E"
+FLECHE_FORTE_HAUSSE = "\u2191" + TEXTE_PAS_EMOJI      # forte hausse
+FLECHE_HAUSSE = "\u2197" + TEXTE_PAS_EMOJI            # hausse
+FLECHE_STABLE = "\u2192" + TEXTE_PAS_EMOJI            # stable
+FLECHE_BAISSE = "\u2198" + TEXTE_PAS_EMOJI            # baisse
+FLECHE_FORTE_BAISSE = "\u2193" + TEXTE_PAS_EMOJI      # forte baisse
+
+# Le gras fait PERDRE LES ACCENTS : l'alphabet gras d'Unicode n'en a pas.
+# "L'Ete dernier" au lieu de "L'Été dernier". False pour retrouver les accents.
+TITRE_ORIGINAL_EN_GRAS = True
+
+HISTORIQUE_POPULARITE = {}         # {identifiant: [valeurs, du plus ancien au plus recent]}
+
 FILS_PARALLELES = 8                # requetes simultanees vers TMDB
 
 # ---------------------------------------------------------------------------
@@ -610,6 +632,11 @@ def details_du_film(film):
     titre_anglais = (anglais.get("title") or "").strip()
     pays = noms_des_pays(fiche)
 
+    sortie_fr = None
+    toutes_fr = sorties_salle_francaises(fiche)
+    if toutes_fr:
+        sortie_fr = toutes_fr[0].strftime("%d/%m/%Y")
+
     sortie_initiale = None
     if film.get("impose"):
         jour_retenu = film["date"]          # seance evenement : la date du cinema prime
@@ -639,6 +666,7 @@ def details_du_film(film):
         "titre_original": titre_original,
         "titre_romanise": titre_romanise,
         "sortie_initiale": sortie_initiale,
+        "sortie_fr": sortie_fr,
         "titre_anglais": titre_anglais,
         "realisateurs": realisateurs,
         "scenaristes": scenaristes,
@@ -1381,72 +1409,99 @@ def duree_en_minutes(valeur):
 
 
 def charger_popularites():
-    """Lit la reference de popularite conservee dans le depot."""
-    global REFERENCE_POPULARITE
+    """Lit l'historique de popularite conserve dans le depot."""
+    global HISTORIQUE_POPULARITE
     if not TENDANCE_ACTIVE:
-        return {}
+        return {"releves": []}
     try:
         with open(FICHIER_POPULARITES, encoding="utf-8") as fichier:
             memoire = json.load(fichier)
     except Exception:  # noqa: BLE001
-        print("  aucune reference de popularite : pas de fleches ce coup-ci")
-        return {}
-    REFERENCE_POPULARITE = {str(k): float(v) for k, v in (memoire.get("films") or {}).items()}
-    horodatage = memoire.get("horodatage") or "?"
-    print(f"  reference de popularite du {horodatage} ({len(REFERENCE_POPULARITE)} films)")
-    return memoire
+        print("  aucun historique de popularite : les fleches viendront plus tard")
+        return {"releves": []}
+
+    releves = memoire.get("releves")
+    if releves is None:                      # ancien format a un seul releve
+        releves = [{"horodatage": memoire.get("horodatage"),
+                    "films": memoire.get("films") or {}}]
+
+    HISTORIQUE_POPULARITE = {}
+    for releve in releves:
+        for identifiant, valeur in (releve.get("films") or {}).items():
+            HISTORIQUE_POPULARITE.setdefault(str(identifiant), []).append(float(valeur))
+
+    print(f"  historique de popularite : {len(releves)} releves,"
+          f" {len(HISTORIQUE_POPULARITE)} films"
+          f" (il en faut {TENDANCE_RELEVES_MINI} pour afficher une fleche)")
+    return {"releves": releves}
+
+
+def variation_popularite(identifiant, valeur):
+    """Variation en %, mediane des plus recents contre mediane des plus anciens.
+
+    Renvoie None tant qu'il n'y a pas assez de releves.
+    """
+    serie = list(HISTORIQUE_POPULARITE.get(str(identifiant)) or [])
+    if valeur:
+        serie.append(float(valeur))
+    if len(serie) < TENDANCE_RELEVES_MINI:
+        return None
+    n = TENDANCE_ECHANTILLON
+    recent = statistics.median(serie[-n:])
+    ancien = statistics.median(serie[:n])
+    if ancien <= 0 or abs(recent - ancien) < TENDANCE_ECART_MINI:
+        return 0.0
+    return (recent - ancien) / ancien * 100
 
 
 def fleche_tendance(film):
-    """'↑', '↓' ou '' selon l'evolution depuis la reference.
-
-    Deux conditions cumulees : un ecart absolu ET une variation relative. Le
-    seuil absolu protege les petites valeurs du bruit d'arrondi, le seuil
-    relatif empeche un blockbuster a 200 de clignoter pour 0.3 point.
-    """
+    """Flèche d'evolution, ou '' tant que l'historique est trop court."""
     if not TENDANCE_ACTIVE:
         return ""
-    valeur = film.get("popularite")
-    avant = REFERENCE_POPULARITE.get(str(film.get("id")))
-    if not valeur or not avant or avant <= 0:
+    variation = variation_popularite(film.get("id"), film.get("popularite"))
+    if variation is None:
         return ""
-    ecart = valeur - avant
-    if abs(ecart) < TENDANCE_ECART_MINI:
-        return ""
-    if abs(ecart) / avant * 100 < TENDANCE_POURCENT_MINI:
-        return ""
-    return FLECHE_HAUSSE if ecart > 0 else FLECHE_BAISSE
+    if variation >= TENDANCE_FORTE:
+        return FLECHE_FORTE_HAUSSE
+    if variation >= TENDANCE_LEGERE:
+        return FLECHE_HAUSSE
+    if variation <= -TENDANCE_FORTE:
+        return FLECHE_FORTE_BAISSE
+    if variation <= -TENDANCE_LEGERE:
+        return FLECHE_BAISSE
+    return FLECHE_STABLE
 
 
 def enregistrer_popularites(memoire, films):
-    """Remplace la reference seulement si elle a plus de TENDANCE_HEURES.
+    """Ajoute le releve du jour, si le dernier a plus de TENDANCE_HEURES.
 
-    Sans cette garde, chaque relance manuelle ecraserait la reference et les
-    fleches compareraient la valeur d'il y a dix minutes.
+    Sans cette garde, chaque relance manuelle ajouterait un releve et la
+    fenetre de 14 jours se remplirait en une matinee.
     """
     if not TENDANCE_ACTIVE:
         return
-    ancien = memoire.get("horodatage")
-    if ancien:
+    releves = list(memoire.get("releves") or [])
+    if releves and releves[-1].get("horodatage"):
         try:
-            age = datetime.now(timezone.utc) - datetime.fromisoformat(ancien)
+            age = datetime.now(timezone.utc) - datetime.fromisoformat(releves[-1]["horodatage"])
             if age < timedelta(hours=TENDANCE_HEURES):
-                heures = age.total_seconds() / 3600
-                print(f"  reference conservee : elle n'a que {heures:.1f} h"
-                      f" (remplacee au-dela de {TENDANCE_HEURES} h)")
+                print(f"  releve du jour deja pris il y a {age.total_seconds()/3600:.1f} h")
                 return
         except ValueError:
             pass
 
     valeurs = {str(f["id"]): round(f["popularite"], 3)
                for f in films if f.get("popularite") and not f.get("uid")}
+    releves.append({"horodatage": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                    "films": valeurs})
+    releves = releves[-TENDANCE_FENETRE:]
+
     dossier = os.path.dirname(FICHIER_POPULARITES)
     if dossier:
         os.makedirs(dossier, exist_ok=True)
     with open(FICHIER_POPULARITES, "w", encoding="utf-8") as fichier:
-        json.dump({"horodatage": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-                   "films": valeurs}, fichier, ensure_ascii=False, indent=1)
-    print(f"  nouvelle reference de popularite enregistree ({len(valeurs)} films)")
+        json.dump({"releves": releves}, fichier, ensure_ascii=False)
+    print(f"  releve ajoute : {len(releves)}/{TENDANCE_FENETRE} jours d'historique")
 
 
 def gras(texte):
@@ -1503,29 +1558,28 @@ def duree_lisible(minutes):
 
 
 def titre_original_a_afficher(film):
-    """Titre original entre parentheses dans la note, avec sa romanisation.
+    """Le titre montre dans la note, sous celui de l'evenement.
 
-    On le compare a ce qui est reellement affiche dans l'agenda, pas au titre
-    francais : quand le titre francais manque, c'est la romanisation qui sert
-    de titre d'evenement, et l'ecriture d'origine merite d'apparaitre dans la
-    note. On evite en revanche de repeter deux fois la meme chaine.
+    Il y a toujours quelque chose a cet endroit. Ordre de repli :
+      1. le titre original, avec sa romanisation quand elle existe
+      2. le titre international (anglais), si l'original manque ou fait doublon
+      3. le titre francais, en dernier recours
     """
-    original = (film.get("titre_original") or "").strip()
-    if not original:
-        return None
-
     affiche = (titre_pour_agenda(film) or film.get("titre") or "").strip()
-    if original.casefold() == affiche.casefold():
-        return None
-
+    original = (film.get("titre_original") or "").strip()
     romanise = (film.get("titre_romanise") or "").strip()
-    if (
-        romanise
-        and romanise.casefold() != original.casefold()
-        and romanise.casefold() != affiche.casefold()
-    ):
-        return f"{original}{SEPARATEUR_ROMANISATION}{romanise}"
-    return original
+
+    if original and original.casefold() != affiche.casefold():
+        if (romanise and romanise.casefold() != original.casefold()
+                and romanise.casefold() != affiche.casefold()):
+            return f"{original}{SEPARATEUR_ROMANISATION}{romanise}"
+        return original
+
+    international = (film.get("titre_anglais") or "").strip()
+    if international and international.casefold() != affiche.casefold():
+        return international
+
+    return affiche or None
 
 
 def bloc_equipe_technique(film):
@@ -1552,24 +1606,14 @@ def description_texte(film):
     """
     blocs = []
 
-    # affiche, puis le titre original entre parentheses juste en dessous
+    # le titre original, puis l'indicateur de popularite juste en dessous
     entete = []
-    affiche = url_affiche(film["affiche"])
-    if affiche:
-        entete.append(affiche)
     original = titre_original_a_afficher(film)
+    if original:
+        entete.append(f"({gras(original) if TITRE_ORIGINAL_EN_GRAS else original})")
     if film.get("popularite"):
         fleche = fleche_tendance(film)
-        score = f"({film['popularite']:.1f}{' ' + fleche if fleche else ''})"
-    else:
-        score = ""
-    if original:
-        entete.append(f"({original}){ESPACEMENT_SCORE}{score}".rstrip())
-    elif score:
-        entete.append(score)
-    duree = duree_lisible(film.get("duree"))
-    if duree:
-        entete.append(gras(duree))
+        entete.append(f"({film['popularite']:.1f}{' ' + fleche if fleche else ''})")
     if entete:
         blocs.append("\n".join(entete))
 
@@ -1577,6 +1621,9 @@ def description_texte(film):
     identite = []
     if film["genres"]:
         identite.append(", ".join(film["genres"]))
+    duree = duree_lisible(film.get("duree"))
+    if duree:
+        identite.append(gras(duree))
     if film.get("pays"):
         identite.append(", ".join(film["pays"]))
     if film.get("langues"):
@@ -1588,6 +1635,10 @@ def description_texte(film):
         identite.append(texte)
     elif film.get("sortie_initiale"):
         identite.append(f"(sortie initiale : {film['sortie_initiale']})")
+    elif film.get("uid") and film.get("sortie_fr"):
+        # calendrier des seances : la date de sortie reste visible meme quand
+        # le film a quitte le calendrier des sorties nationales
+        identite.append(f"(sortie initiale : {film['sortie_fr']})")
     if identite:
         blocs.append("\n".join(identite))
 
@@ -1621,6 +1672,10 @@ def description_texte(film):
 
     # la mention legale, un peu detachee du synopsis
     respiration = "\n" * max(0, LIGNES_AVANT_MENTION - 1)
+    affiche = url_affiche(film["affiche"])
+    if affiche:
+        blocs.append(respiration + f"Affiche : {affiche}")
+        respiration = ""          # la respiration a deja servi
     if film.get("source") == "allocine":
         pied = "Séance et informations relevées sur AlloCiné"
     else:
@@ -1656,6 +1711,9 @@ def description_html(film):
     identite = []
     if film["genres"]:
         identite.append(f"<i>{echapper_html(', '.join(film['genres']))}</i>")
+    duree = duree_lisible(film.get("duree"))
+    if duree:
+        identite.append(f"<b>{echapper_html(duree)}</b>")
     if film.get("pays"):
         identite.append(echapper_html(", ".join(film["pays"])))
     if film.get("langues"):
@@ -1667,6 +1725,8 @@ def description_html(film):
         identite.append(f"<b>{echapper_html(texte)}</b>")
     elif film.get("sortie_initiale"):
         identite.append(echapper_html(f"(sortie initiale : {film['sortie_initiale']})"))
+    elif film.get("uid") and film.get("sortie_fr"):
+        identite.append(echapper_html(f"(sortie initiale : {film['sortie_fr']})"))
     if identite:
         droite.append("<br>".join(identite))
 
@@ -1693,18 +1753,14 @@ def description_html(film):
             f'alt="Affiche de {echapper_html(film["titre"])}">'
         )
         original = titre_original_a_afficher(film)
+        if original:
+            gauche += f"<br><small>{echapper_html(f'({original})')}</small>"
         if film.get("popularite"):
             fleche = fleche_tendance(film)
-            score = f"({film['popularite']:.1f}{' ' + fleche if fleche else ''})"
-        else:
-            score = ""
-        if original:
-            gauche += f"<br><small>{echapper_html(f'({original}){ESPACEMENT_SCORE}{score}'.rstrip())}</small>"
-        elif score:
-            gauche += f"<br><small>{echapper_html(score)}</small>"
-        duree = duree_lisible(film.get("duree"))
-        if duree:
-            gauche += f"<br><small>{echapper_html(duree)}</small>"
+            gauche += ("<br><small>"
+                       + echapper_html(f"({film['popularite']:.1f}"
+                                       f"{' ' + fleche if fleche else ''})")
+                       + "</small>")
 
     bouts = ["<!doctype html><html><body>"]
     if gauche:
@@ -1867,7 +1923,7 @@ def film_depuis_allocine(fiche):
         "affiche": (fiche.get("poster") or {}).get("url"),
         "duree": duree,
         "popularite": None,
-        "langue_origine": None, "langues": [], "sortie_initiale": None,
+        "langue_origine": None, "langues": [], "sortie_initiale": None, "sortie_fr": None,
     }
 
 
