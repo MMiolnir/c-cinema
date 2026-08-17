@@ -681,6 +681,7 @@ def details_du_film(film):
         "duree": duree_film,
         "popularite": float(fiche.get("popularity") or 0) or None,
         "langue_origine": langue_originale(fiche),
+        "langue_code": (fiche.get("original_language") or "").lower(),
         "langues": langues_du_film(fiche),
     }
 
@@ -1575,8 +1576,12 @@ def titre_original_a_afficher(film):
             return f"{original}{SEPARATEUR_ROMANISATION}{romanise}"
         return original
 
+    # Un film francais garde son titre francais : "Justin le Juste", jamais
+    # "Justin the Just". Le repli international ne vaut que pour les autres.
     international = (film.get("titre_anglais") or "").strip()
-    if international and international.casefold() != affiche.casefold():
+    if (international
+            and international.casefold() != affiche.casefold()
+            and (film.get("langue_code") or "") not in LANGUES_FRANCAISES):
         return international
 
     return affiche or None
@@ -1925,7 +1930,8 @@ def film_depuis_allocine(fiche):
         "affiche": (fiche.get("poster") or {}).get("url"),
         "duree": duree,
         "popularite": None,
-        "langue_origine": None, "langues": [], "sortie_initiale": None, "sortie_fr": None,
+        "langue_origine": None, "langue_code": "", "langues": [],
+        "sortie_initiale": None, "sortie_fr": None,
     }
 
 
