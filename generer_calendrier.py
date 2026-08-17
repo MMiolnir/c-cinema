@@ -190,6 +190,15 @@ INCLURE_VERSION_HTML = False       # inutile sur Apple Calendrier : divise le fi
 
 # --- Notes AlloCine, dans le calendrier des seances uniquement -------------
 NOTES_ALLOCINE = True              # affiche les notes presse et public
+# Format des dates dans les notes.
+#   "lettres"  -> 19 aout 2026   : iOS n'y voit plus un numero de telephone
+#   "chiffres" -> 19/08/2026     : huit chiffres separes, pris pour un numero
+# La detection automatique d'iOS colore et rend tappable ce qu'elle croit
+# reconnaitre. "19/08/2026" declenchait une proposition d'appel absurde.
+FORMAT_DATE_NOTE = "lettres"
+MOIS_EN_LETTRES = ("janvier", "fevrier", "mars", "avril", "mai", "juin",
+                   "juillet", "aout", "septembre", "octobre", "novembre", "decembre")
+
 LIBELLE_PRESSE = "Presse"          # meme longueur que le suivant : les : s'alignent
 LIBELLE_PUBLIC = "Public"
 
@@ -1544,6 +1553,24 @@ def langues_du_film(fiche):
     return langues[:LANGUES_MAX]
 
 
+def date_pour_note(jour_mois_annee):
+    """'19/08/2026' -> '19 aout 2026', pour echapper a la detection d'iOS.
+
+    Une suite de huit chiffres separes ressemble a un numero de telephone :
+    iOS la colore en rouge et propose de l'appeler. Le mois en lettres coupe
+    court a cette confusion.
+    """
+    if not jour_mois_annee or FORMAT_DATE_NOTE != "lettres":
+        return jour_mois_annee
+    morceaux = str(jour_mois_annee).split("/")
+    if len(morceaux) != 3 or not all(m.isdigit() for m in morceaux):
+        return jour_mois_annee
+    jour, mois, annee = (int(m) for m in morceaux)
+    if not 1 <= mois <= 12:
+        return jour_mois_annee
+    return f"{jour} {MOIS_EN_LETTRES[mois - 1]} {annee}"
+
+
 def duree_lisible(minutes):
     """90 -> '1h30', 48 -> '48min', 0 ou None -> None."""
     try:
@@ -1635,18 +1662,22 @@ def description_texte(film):
         identite.append(", ".join(film["pays"]))
     if film.get("langues"):
         identite.append(f"({', '.join(film['langues'])})")
+    # Le libelle est en gras, la date reste en caracteres normaux : elle garde
+    # ainsi ses accents ("aout" ne peut pas prendre d'accent en gras Unicode).
     if film.get("avant_premiere"):
-        texte = "Avant-première"
         if film.get("sortie_nationale"):
-            texte += f" · sortie nationale le {film['sortie_nationale']}"
-        identite.append(texte)
+            identite.append(gras("AVP - sortie nationale :")
+                            + f" {date_pour_note(film['sortie_nationale'])}")
+        else:
+            identite.append(gras("AVP"))
     elif film.get("sortie_initiale"):
         # une reprise : la date affichee est celle de la sortie d'origine
-        identite.append(f"Sortie historique : {gras(film['sortie_initiale'])}")
+        identite.append(gras("Sortie historique :")
+                        + f" {date_pour_note(film['sortie_initiale'])}")
     elif film.get("uid") and film.get("sortie_fr"):
         # calendrier des seances : la date de sortie reste visible meme quand
         # le film a quitte le calendrier des sorties nationales
-        identite.append(f"Date de sortie : {gras(film['sortie_fr'])}")
+        identite.append(gras("Date de sortie :") + f" {date_pour_note(film['sortie_fr'])}")
     if identite:
         blocs.append("\n".join(identite))
 
@@ -1727,16 +1758,17 @@ def description_html(film):
     if film.get("langues"):
         identite.append(echapper_html(f"({', '.join(film['langues'])})"))
     if film.get("avant_premiere"):
-        texte = "Avant-première"
         if film.get("sortie_nationale"):
-            texte += f" · sortie nationale le {film['sortie_nationale']}"
-        identite.append(f"<b>{echapper_html(texte)}</b>")
+            identite.append("<b>AVP - sortie nationale :</b> "
+                            + echapper_html(date_pour_note(film["sortie_nationale"])))
+        else:
+            identite.append("<b>AVP</b>")
     elif film.get("sortie_initiale"):
-        identite.append("Sortie historique : <b>"
-                        + echapper_html(film["sortie_initiale"]) + "</b>")
+        identite.append("<b>Sortie historique :</b> "
+                        + echapper_html(date_pour_note(film["sortie_initiale"])))
     elif film.get("uid") and film.get("sortie_fr"):
-        identite.append("Date de sortie : <b>"
-                        + echapper_html(film["sortie_fr"]) + "</b>")
+        identite.append("<b>Date de sortie :</b> "
+                        + echapper_html(date_pour_note(film["sortie_fr"])))
     if identite:
         droite.append("<br>".join(identite))
 
