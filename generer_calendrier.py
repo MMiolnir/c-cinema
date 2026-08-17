@@ -1877,7 +1877,6 @@ def construire_ics(films, nom_calendrier=NOM_DU_CALENDRIER):
         if INCLURE_VERSION_HTML:
             lignes.append(f"X-ALT-DESC;FMTTYPE=text/html:{echapper(description_html(film))}")
         lignes += [
-            *([] if film.get("source") == "allocine" else [f"URL:{LIEN_TMDB}{film['id']}"]),
             "TRANSP:OPAQUE" if film.get("debut_utc") else "TRANSP:TRANSPARENT",
         ]
 
