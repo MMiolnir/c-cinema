@@ -1641,11 +1641,12 @@ def description_texte(film):
             texte += f" · sortie nationale le {film['sortie_nationale']}"
         identite.append(texte)
     elif film.get("sortie_initiale"):
-        identite.append(f"(sortie initiale : {film['sortie_initiale']})")
+        # une reprise : la date affichee est celle de la sortie d'origine
+        identite.append(f"Sortie historique : {gras(film['sortie_initiale'])}")
     elif film.get("uid") and film.get("sortie_fr"):
         # calendrier des seances : la date de sortie reste visible meme quand
         # le film a quitte le calendrier des sorties nationales
-        identite.append(f"(sortie initiale : {film['sortie_fr']})")
+        identite.append(f"Date de sortie : {gras(film['sortie_fr'])}")
     if identite:
         blocs.append("\n".join(identite))
 
@@ -1731,9 +1732,11 @@ def description_html(film):
             texte += f" · sortie nationale le {film['sortie_nationale']}"
         identite.append(f"<b>{echapper_html(texte)}</b>")
     elif film.get("sortie_initiale"):
-        identite.append(echapper_html(f"(sortie initiale : {film['sortie_initiale']})"))
+        identite.append("Sortie historique : <b>"
+                        + echapper_html(film["sortie_initiale"]) + "</b>")
     elif film.get("uid") and film.get("sortie_fr"):
-        identite.append(echapper_html(f"(sortie initiale : {film['sortie_fr']})"))
+        identite.append("Date de sortie : <b>"
+                        + echapper_html(film["sortie_fr"]) + "</b>")
     if identite:
         droite.append("<br>".join(identite))
 
