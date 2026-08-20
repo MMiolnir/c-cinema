@@ -12,9 +12,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:event-912802@calendrier-cine-fr
-DTSTAMP:20260819T000000Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
 SUMMARY:Superasticot
 DESCRIPTION:Superworm\n(1.2)\n\nAnimation\, Familial\, Comédie\, Téléfil
  m\n𝟰𝟬𝗺𝗶𝗻\n\nUnited Kingdom\n(English)\n𝗦𝗼𝗿𝘁𝗶
@@ -76,7 +76,7 @@ DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Harry Potter et la Chambre des secrets
-DESCRIPTION:Harry Potter and the Chamber of Secrets\n(33.3)\n\nAventure\, F
+DESCRIPTION:Harry Potter and the Chamber of Secrets\n(34.7)\n\nAventure\, F
  antastique\n𝟮𝗵𝟰𝟭\n\nUnited Kingdom\, United States of America\
  , Germany\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 4 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
@@ -109,7 +109,7 @@ DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Memories of Nobody
-DESCRIPTION:劇場版 BLEACH MEMORIES OF NOBODY\n(2.5)\n\nFantastique\, Ani
+DESCRIPTION:劇場版 BLEACH MEMORIES OF NOBODY\n(2.6)\n\nFantastique\, Ani
  mation\, Science-Fiction\n𝟭𝗵𝟮𝟳\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 24 mars 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 阿部記之\n𝗦𝗰
@@ -143,8 +143,8 @@ DESCRIPTION:劇場版 BLEACH The DiamondDust Rebellion もう一つの氷
  hyôrinmaru\n(5.3)\n\nAction\, Animation\, Thriller\n𝟭𝗵𝟯𝟱\n\nJ
  apan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 24 aout 2011\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : 阿部記之\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 大久保昌弘\, 
- 横手美智子\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 福島
+ 𝗿 : 阿部記之\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 横手美智子\, 
+ 大久保昌弘\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 福島
  敏行\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pierrot\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Masakazu Morita\n- Romi Park\n- Akira Ishida\n- Fumi
  ko Orikasa\n- 伊藤健太郎\n- 松谷彼哉\n- 塚田正昭\n- Aya Hisak
@@ -176,7 +176,7 @@ DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Fade to Black
 DESCRIPTION:劇場版 BLEACH Fade to Black 君の名を呼ぶ — Gekijouba
- n Bleach: Fade to Black - Kimi no Na o Yobu\n(4.0)\n\nAction\, Animation\,
+ n Bleach: Fade to Black - Kimi no Na o Yobu\n(4.3)\n\nAction\, Animation\,
   Fantastique\, Drame\n𝟭𝗵𝟯𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 avril 2015\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 阿部記之\n𝗦𝗰𝗲
@@ -209,7 +209,7 @@ DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Harry Potter et le Prisonnier d'Azkaban
-DESCRIPTION:Harry Potter and the Prisoner of Azkaban\n(35.5)\n\nAventure\, 
+DESCRIPTION:Harry Potter and the Prisoner of Azkaban\n(32.5)\n\nAventure\, 
  Fantastique\n𝟮𝗵𝟮𝟮\n\nUnited Kingdom\, United States of America
  \n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 2 juin 2004\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alfon
@@ -241,7 +241,7 @@ DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Harry Potter et la Coupe de feu
-DESCRIPTION:Harry Potter and the Goblet of Fire\n(35.7)\n\nAventure\, Fanta
+DESCRIPTION:Harry Potter and the Goblet of Fire\n(34.4)\n\nAventure\, Fanta
  stique\n𝟮𝗵𝟯𝟳\n\nUnited Kingdom\, United States of America\n(En
  glish\, French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 30 novembre 2005\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -302,7 +302,7 @@ DTSTAMP:20260830T000000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Harry Potter et l'Ordre du Phénix
-DESCRIPTION:Harry Potter and the Order of the Phoenix\n(30.6)\n\nAventure\,
+DESCRIPTION:Harry Potter and the Order of the Phoenix\n(30.1)\n\nAventure\,
   Fantastique\n𝟮𝗵𝟭𝟴\n\nUnited Kingdom\, United States of Americ
  a\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 11 juillet 2007\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
@@ -341,7 +341,7 @@ DTSTAMP:20260830T000000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Harry Potter et le Prince de sang-mêlé
-DESCRIPTION:Harry Potter and the Half-Blood Prince\n(29.8)\n\nAventure\, Fa
+DESCRIPTION:Harry Potter and the Half-Blood Prince\n(30.0)\n\nAventure\, Fa
  ntastique\n𝟮𝗵𝟯𝟯\n\nUnited Kingdom\, United States of America\n
  (English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 15 juillet 2009\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : D
@@ -413,7 +413,7 @@ DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Harry Potter et les Reliques de la Mort - 2ème partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(33.0)\n\nAventur
+DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(32.4)\n\nAventur
  e\, Fantastique\n𝟮𝗵𝟭𝟬\n\nUnited Kingdom\, United States of Ame
  rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 13 juillet 2011\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
@@ -479,7 +479,7 @@ DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Akira
-DESCRIPTION:Akira\n(12.0)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(12.9)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
  : Izō Hashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
@@ -511,7 +511,7 @@ DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Justin le Juste
-DESCRIPTION:Justin le Juste\n(1.2)\n\nComédie\, Histoire\, Guerre\n\nFranc
+DESCRIPTION:Justin le Juste\n(1.0)\n\nComédie\, Histoire\, Guerre\n\nFranc
  e\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Eric Barbier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
@@ -537,7 +537,7 @@ DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Karma
-DESCRIPTION:Karma\n(2.4)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(French)\
+DESCRIPTION:Karma\n(2.5)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(French)\
  n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹
  𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : G
  uillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet\, Simon
@@ -570,7 +570,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(1.4)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nFrance\n
+DESCRIPTION:Le Roi du Game\n(1.3)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nFrance\n
  (French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fourlon\, C
