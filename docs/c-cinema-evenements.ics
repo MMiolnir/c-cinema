@@ -12,11 +12,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:event-912802@calendrier-cine-fr
-DTSTAMP:20260821T000000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
+DTSTAMP:20260822T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
 SUMMARY:Superasticot
-DESCRIPTION:Superworm\n(1.2)\n\nAnimation\, Familial\, Comédie\, Téléfil
+DESCRIPTION:Superworm\n(1.8)\n\nAnimation\, Familial\, Comédie\, Téléfil
  m\n𝟰𝟬𝗺𝗶𝗻\n\nUnited Kingdom\n(English)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 septembre 2022\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jac Hamman\, Sarah Scrimgeo
@@ -45,7 +45,7 @@ DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Harry Potter à l'école des sorciers
-DESCRIPTION:Harry Potter and the Philosopher's Stone\n(44.2)\n\nAventure\, 
+DESCRIPTION:Harry Potter and the Philosopher's Stone\n(44.0)\n\nAventure\, 
  Fantastique\n𝟮𝗵𝟯𝟯\n\nUnited Kingdom\, United States of America
  \n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 5 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : C
@@ -76,7 +76,7 @@ DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Harry Potter et la Chambre des secrets
-DESCRIPTION:Harry Potter and the Chamber of Secrets\n(34.4)\n\nAventure\, F
+DESCRIPTION:Harry Potter and the Chamber of Secrets\n(36.5)\n\nAventure\, F
  antastique\n𝟮𝗵𝟰𝟭\n\nUnited Kingdom\, United States of America\
  , Germany\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 4 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
@@ -109,7 +109,7 @@ DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Memories of Nobody
-DESCRIPTION:劇場版 BLEACH MEMORIES OF NOBODY\n(3.1)\n\nFantastique\, Ani
+DESCRIPTION:劇場版 BLEACH MEMORIES OF NOBODY\n(3.8)\n\nFantastique\, Ani
  mation\, Science-Fiction\n𝟭𝗵𝟮𝟳\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 24 mars 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 阿部記之\n𝗦𝗰
@@ -176,7 +176,7 @@ DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Fade to Black
 DESCRIPTION:劇場版 BLEACH Fade to Black 君の名を呼ぶ — Gekijouba
- n Bleach: Fade to Black - Kimi no Na o Yobu\n(4.3)\n\nAction\, Animation\,
+ n Bleach: Fade to Black - Kimi no Na o Yobu\n(5.4)\n\nAction\, Animation\,
   Fantastique\, Drame\n𝟭𝗵𝟯𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 avril 2015\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 阿部記之\n𝗦𝗰𝗲
@@ -241,7 +241,7 @@ DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Harry Potter et la Coupe de feu
-DESCRIPTION:Harry Potter and the Goblet of Fire\n(34.1)\n\nAventure\, Fanta
+DESCRIPTION:Harry Potter and the Goblet of Fire\n(35.0)\n\nAventure\, Fanta
  stique\n𝟮𝗵𝟯𝟳\n\nUnited Kingdom\, United States of America\n(En
  glish\, French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 30 novembre 2005\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -303,7 +303,7 @@ DTSTAMP:20260830T000000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Harry Potter et l'Ordre du Phénix
-DESCRIPTION:Harry Potter and the Order of the Phoenix\n(30.1)\n\nAventure\,
+DESCRIPTION:Harry Potter and the Order of the Phoenix\n(30.4)\n\nAventure\,
   Fantastique\n𝟮𝗵𝟭𝟴\n\nUnited Kingdom\, United States of Americ
  a\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 11 juillet 2007\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
@@ -342,7 +342,7 @@ DTSTAMP:20260830T000000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Harry Potter et le Prince de sang-mêlé
-DESCRIPTION:Harry Potter and the Half-Blood Prince\n(29.0)\n\nAventure\, Fa
+DESCRIPTION:Harry Potter and the Half-Blood Prince\n(29.5)\n\nAventure\, Fa
  ntastique\n𝟮𝗵𝟯𝟯\n\nUnited Kingdom\, United States of America\n
  (English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 15 juillet 2009\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : D
@@ -376,7 +376,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Harry Potter et les Reliques de la Mort - 1ère partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 1\n(33.7)\n\nAventur
+DESCRIPTION:Harry Potter and the Deathly Hallows: Part 1\n(35.6)\n\nAventur
  e\, Fantastique\n𝟮𝗵𝟮𝟲\n\nUnited Kingdom\, United States of Ame
  rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 novembre 2010\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -414,7 +414,7 @@ DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Harry Potter et les Reliques de la Mort - 2ème partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(32.9)\n\nAventur
+DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(33.9)\n\nAventur
  e\, Fantastique\n𝟮𝗵𝟭𝟬\n\nUnited Kingdom\, United States of Ame
  rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 13 juillet 2011\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
@@ -446,12 +446,12 @@ DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Terminator 2 : Le Jugement dernier
-DESCRIPTION:Terminator 2: Judgment Day\n(29.3)\n\nAction\, Thriller\, Scien
+DESCRIPTION:Terminator 2: Judgment Day\n(31.1)\n\nAction\, Thriller\, Scien
  ce-Fiction\n𝟮𝗵𝟭𝟳\n\nFrance\, United States of America\n(Englis
  h\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 3 juillet 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
- : James Cameron\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : William Wisher\, James
-  Cameron\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adam Greenber
+ : James Cameron\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : James Cameron\, Willia
+ m Wisher\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adam Greenber
  g\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Carolco Pictures\, Pacific W
  estern\, Lightstorm Entertainment\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Arn
  old Schwarzenegger\n- Linda Hamilton\n- Edward Furlong\n- Robert Patrick\n
@@ -480,7 +480,7 @@ DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Akira
-DESCRIPTION:Akira\n(13.4)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(15.0)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
  : Izō Hashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
@@ -512,7 +512,7 @@ DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Justin le Juste
-DESCRIPTION:Justin le Juste\n(0.9)\n\nComédie\, Histoire\, Guerre\n\nFranc
+DESCRIPTION:Justin le Juste\n(1.1)\n\nComédie\, Histoire\, Guerre\n\nFranc
  e\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Eric Barbier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
@@ -538,7 +538,7 @@ DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Karma
-DESCRIPTION:Karma\n(2.3)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(French)\
+DESCRIPTION:Karma\n(2.6)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(French)\
  n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹
  𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : G
  uillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet\, Simon
@@ -571,7 +571,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(1.4)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nFrance\n
+DESCRIPTION:Le Roi du Game\n(1.6)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nFrance\n
  (French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fourlon\, C
@@ -594,12 +594,333 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/eW9DzQYFL0Sxd3WBH
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:event-584@calendrier-cine-fr
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:2 Fast 2 Furious
+DESCRIPTION:2 Fast 2 Furious\n(2.6)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+ 𝟰𝟳\n\nGermany\, United States of America\n(English\, Spanish)\n𝗦
+ 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 18 juin 20
+ 03\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Singleton\n𝗦
+ 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Brandt\, Derek Haas\n𝗣𝗵𝗼
+ 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Matthew F. Leonetti\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Ardustry Entertainment\, Mikona Productions
+ \, Original Film\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Paul Walker\n- Tyres
+ e Gibson\n- Eva Mendes\n- Cole Hauser\n- Ludacris\n- James Remar\n- Thom B
+ arry\n- Michael Ealy\n- Mark Boone Junior\n- Devon Aoki\n- Roberto Sanchez
+ \n- Mo Gallini\n\n\nBrian O'Conner a signé sa plus belle action\, mais au
+ ssi sa faute la plus grave\, en laissant filer le chef du gang de voleurs 
+ de voitures qu'il avait mission d'infiltrer. Radié de la police de Los An
+ geles\, ce jeune flic rebelle\, fan de vitesse et de rodéos\, a gardé in
+ tact son honneur mais a gâché une belle carrière. Après 2 ans de galè
+ re\, Brian O'Conner se retrouve à Miami et se voit offrir une ultime chan
+ ce de se racheter. Le FBI et les douanes locales surveillent depuis plusie
+ urs mois le puissant homme d'affaires Carter Verone\, qu'ils soupçonnent 
+ de se livrer à des opérations de blanchiment d'argent. Mais leurs effort
+ s sont restés vains\, le seul indice dont ils disposent pour appâter et 
+ démasquer l'énigmatique criminel étant sa passion pour les rodéos. Le 
+ temps presse\, Brian semble être le seul espoir…\n\n\nAffiche : https:/
+ /image.tmdb.org/t/p/w780/riIa9UIxyhhOBIXI8vhpWmcesGB.jpg\n\nFiche TMDB : h
+ ttps://www.themoviedb.org/movie/584\n\nSéance relevée sur AlloCiné.\nDo
+ nnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/riIa9UIxyhhOBIXI8vhpWmcesGB.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/riIa9UIxyhhOBIXI8
+ vhpWmcesGB.jpg
+CATEGORIES:Action,Crime,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-9615@calendrier-cine-fr
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Fast & Furious : Tokyo drift
+DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.5)\n\nAction\, Crime\
+ , Drame\, Thriller\n𝟭𝗵𝟰𝟰\n\nGermany\, Japan\, United States of
+  America\n(English\, Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
+ 𝗼𝗿𝗶𝗾𝘂𝗲 : 19 juillet 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
+ 𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Chris Mo
+ rgan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Stephen F. Windon
+ \n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MP Munich Pape Filmproduction
+ s\, Original Film\, Relativity Media\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 
+ Lucas Black\n- Nathalie Kelley\n- Sung Kang\n- Shad Moss\n- Brian Tee\n- L
+ eonardo Nam\n- Brian Goodman\n- Zachery Ty Bryan\n- Nikki Griffin\n- Jason
+  Tobin\n- 北川景子\n- Lynda Boyd\n\n\nPour éviter la prison\, Sean Bo
+ swell est envoyé pour vivre avec son père militaire à Tokyo. Lors de pr
+ emière course de drift\, l'adolescent qui se prend pour une tête brûlé
+ e des courses de rues ne sait pas qu'il affronte « le roi du drift »\, u
+ n champion local de mèche avec la machine criminelle japonaise Yakuza.\n\
+ n\nAffiche : https://image.tmdb.org/t/p/w780/7t9FcL0wKVWCi6vq8Mv8R4tSLzj.j
+ pg\n\nFiche TMDB : https://www.themoviedb.org/movie/9615\n\nSéance relev
+ ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/7t9FcL0wKVWCi6vq8Mv8R4tSLzj.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7t9FcL0wKVWCi6vq8
+ Mv8R4tSLzj.jpg
+CATEGORIES:Action,Crime,Drame,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-13804@calendrier-cine-fr
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Fast & Furious 4
+DESCRIPTION:Fast & Furious\n(1.6)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+ 𝟰𝟳\n\nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿
+ 𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 avril 2009\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
+ 𝗻𝗮𝗿𝗶𝗼 : Chris Morgan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Amir Mokri\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Univ
+ ersal Pictures\, Relativity Media\, Original Film\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Vin Diesel\n- Paul Walker\n- Michelle Rodriguez\n- Jordana B
+ rewster\n- John Ortiz\n- Laz Alonso\n- Gal Gadot\n- Jack Conley\n- Shea Wh
+ igham\n- Liza Lapira\n- Sung Kang\n- Tego Calderon\n\n\nUn meurtre oblige 
+ Dom Toretto\, un ancien taulard en cavale\, et l'agent Brian O'Conner à r
+ evenir à L.A. où leur querelle se rallume. Mais confrontés à un ennemi
+  commun\, ils sont contraints à former une alliance incertaine s'ils esp
+ èrent parvenir à déjouer ses plans. De l'attaque de convoi aux glissade
+ s de précision qui les mèneront hors de leurs propres frontières\, les 
+ deux hommes trouveront le meilleur moyen de prendre leur revanche : en pou
+ ssant les limites de ce qui est faisable au volant d'un bolide.\n\n\nAffic
+ he : https://image.tmdb.org/t/p/w780/gfeS7erDlmSUmymmf4RVFVc4iiu.jpg\n\nFi
+ che TMDB : https://www.themoviedb.org/movie/13804\n\nSéance relevée sur 
+ AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/gfeS7erDlmSUmymmf4RVFVc4iiu.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gfeS7erDlmSUmymmf
+ 4RVFVc4iiu.jpg
+CATEGORIES:Action,Crime,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-51497@calendrier-cine-fr
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Fast & Furious 5
+DESCRIPTION:Fast Five\n(1.6)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
+ \n\nUnited States of America\n(English\, Spanish\, Portuguese)\n𝗦𝗼
+ 𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 4 mai 2011\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
+ 𝗻𝗮𝗿𝗶𝗼 : Chris Morgan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Stephen F. Windon\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+  : Original Film\, Universal Pictures\, One Race\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Vin Diesel\n- Paul Walker\n- Jordana Brewster\n- Tyrese Gibs
+ on\n- Ludacris\n- Matt Schulze\n- Sung Kang\n- Gal Gadot\n- Tego Calderon\
+ n- Don Omar\n- Joaquim de Almeida\n- Dwayne Johnson\n\n\nDepuis que Brian 
+ et Mia Toretto ont extirpé Dom des mains de la justice\, ils ont dû fran
+ chir de nombreuses frontières pour échapper aux autorités. Retirés à 
+ Rio\, ils sont contraints de monter un dernier coup pour se faire blanchir
+  et recouvrer leur liberté. Ils se constituent une équipe d'élite\, ré
+ unissant les pilotes les plus avertis\, conscients que leur seule chance d
+ 'être acquittés pour bonne conduite nécessite une confrontation avec l'
+ homme d'affaires véreux qui souhaite les voir morts. Mais il n'est pas le
+  seul à leurs trousses. L'impitoyable agent fédéral Luke Hobbs n'a jama
+ is loupé sa cible. Affecté à la traque des fugitifs\, lui et son équip
+ e de choc élaborent un implacable dispositif d'assaut destiné à les cap
+ turer. Passant le Brésil au crible\, Hobbs réalise combien la frontière
+  qui sépare les bons des méchants est ténue. Il doit alors s'en remettr
+ e à son instinct pour acculer ses proies et éviter qu'un autre ne les d
+ ébusque avant lui.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/7STjb7R
+ LFODxHc9ZcskgQTOGdG5.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/
+ 51497\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie 
+ Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/7STjb7RLFODxHc9ZcskgQTOGdG5.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7STjb7RLFODxHc9Zc
+ skgQTOGdG5.jpg
+CATEGORIES:Action,Thriller,Crime
+END:VEVENT
+BEGIN:VEVENT
+UID:event-82992@calendrier-cine-fr
+DTSTAMP:20260913T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Fast & Furious 6
+DESCRIPTION:Fast & Furious 6\n(1.5)\n\nAction\, Thriller\, Crime\n𝟮𝗵
+ 𝟭𝟬\n\nUnited States of America\n(English\, Cantonese\, Dutch)\n𝗦
+ 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 22 mai 201
+ 3\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Chris Morgan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
+ 𝗽𝗵𝗶𝗲 : Stephen F. Windon\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : Relativity Media\, Original Film\, One Race\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Vin Diesel\n- Paul Walker\n- Dwayne Johnson\n- Jordana Brews
+ ter\n- Michelle Rodriguez\n- Tyrese Gibson\n- Sung Kang\n- Gal Gadot\n- Lu
+ dacris\n- Luke Evans\n- Elsa Pataky\n- Gina Carano\n\n\nDom\, Brian et tou
+ te leur équipe\, après le casse de Rio\, ayant fait tomber un empire en 
+ empochant 100 millions de dollars\, se sont dispersés aux quatre coins du
+  globe. Mais l’incapacité de rentrer chez eux\, et l’obligation de vi
+ vre en cavale permanente\, laissent à leur vie le goût amer de l’inacc
+ omplissement. Pendant ce temps Hobbs traque aux 4 coins du monde un groupe
+  de chauffeurs mercenaires aux talents redoutables\, dont le meneur\, Shaw
+  est secondé d’une de main de fer par l’amour que Dom croyait avoir p
+ erdu pour toujours : Letty. La seule façon d’arrêter leurs agissements
+  est de les détrôner en surpassant leur réputation. Hobbs demande donc 
+ à Dom de rassembler son équipe de choc à Londres. En retour ? Ils seron
+ t tous graciés et pourront retourner auprès des leurs\, afin de vivre un
+ e vie normale.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/yXwsRF2T0Vug
+ GiBkXO29M1qraAI.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/82992
+ \n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Datab
+ ase (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/yXwsRF2T0VugGiBkXO29M1qraAI.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yXwsRF2T0VugGiBkX
+ O29M1qraAI.jpg
+CATEGORIES:Action,Thriller,Crime
+END:VEVENT
+BEGIN:VEVENT
+UID:event-168259@calendrier-cine-fr
+DTSTAMP:20260913T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Fast & Furious 7
+DESCRIPTION:Furious 7\n(14.4)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
+ 𝟳\n\nUnited States of America\n(English\, Arabic\, Spanish)\n𝗦𝗼
+ 𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 avril 2015\n
+ \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲
+ 𝗻𝗮𝗿𝗶𝗼 : Chris Morgan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Stephen F. Windon\, Marc Spicer\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Original Film\, One Race\, Universal Pictures\n\n𝗔
+ 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Vin Diesel\n- Paul Walker\n- Dwayne Johnson\
+ n- Michelle Rodriguez\n- Tyrese Gibson\n- Ludacris\n- Jordana Brewster\n- 
+ Jason Statham\n- Kurt Russell\n- Nathalie Emmanuel\n- Djimon Hounsou\n- To
+ ny Jaa\n\n\nLaissé à moitié mort par Dominic Toretto et son clan de vol
+ eur de voitures as du volant\, le criminel Owen Shaw gît sur un lit d'hô
+ pital à Londres. Déterminé à le venger\, son frère Deckard Shaw comme
+ t des attaques vicieuses contre les membres de la famille de Toretto\, not
+ amment contre sa sœur\, son beau-frère et leur petit garçon. Une aide i
+ nespérée leur parvient en la personne de Frank Petty\, agent des service
+ s secrets américains aux ressources impressionnantes. Il promet assistanc
+ e à Dominic\, en échange de quoi ce dernier devra libérer une talentueu
+ se informaticienne\, nommée Ramsey\, qui a mis au point un logiciel de su
+ rveillance ultraperfectionné baptisé « God's Eye ». La jeune femme est
+  en effet retenue prisonnière par Jakande\, un dangereux terroriste\, au 
+ milieu des inaccessibles montagnes de l'Azerbaïdjan. Le clan de Dominic s
+ e reforme donc pour cette dangereuse mission.\n\n\nAffiche : https://image
+ .tmdb.org/t/p/w780/wjVn1Qng8B3ySvfJr4ovuehI141.jpg\n\nFiche TMDB : https:/
+ /www.themoviedb.org/movie/168259\n\nSéance relevée sur AlloCiné.\nDonn
+ ées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/wjVn1Qng8B3ySvfJr4ovuehI141.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wjVn1Qng8B3ySvfJr
+ 4ovuehI141.jpg
+CATEGORIES:Action,Crime,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-337339@calendrier-cine-fr
+DTSTAMP:20260913T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Fast & Furious 8
+DESCRIPTION:The Fate of the Furious\n(12.8)\n\nAction\, Crime\, Thriller\n
+ 𝟮𝗵𝟭𝟲\n\nUnited States of America\n(English\, Spanish)\n𝗦
+ 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 12 avril 2
+ 017\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : F. Gary Gray\n𝗦
+ 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Chris Morgan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
+ 𝗮𝗽𝗵𝗶𝗲 : Stephen F. Windon\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
+ 𝗼𝗻 : Original Film\, One Race\, Universal Pictures\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Vin Diesel\n- Jason Statham\n- Dwayne Johnson\n- Mic
+ helle Rodriguez\n- Tyrese Gibson\n- Ludacris\n- Charlize Theron\n- Kurt Ru
+ ssell\n- Nathalie Emmanuel\n- Luke Evans\n- Elsa Pataky\n- Kristofer Hivju
+ \n\n\nMaintenant que Dom et Letty sont en lune de miel\, que Brian et Mia 
+ se sont rangés et que le reste de l’équipe a été disculpé\, la band
+ e de globe-trotteurs retrouve un semblant de vie normale. Mais quand une m
+ ystérieuse femme entraîne Dom dans le monde de la criminalité\, ce dern
+ ier ne pourra éviter de trahir ses proches qui vont faire face à des ép
+ reuves qu’ils n’avaient jamais rencontrées jusqu’alors.  Des rivage
+ s de Cuba aux rues de New York en passant par les plaines gelées de la me
+ r arctique de Barrents\, notre équipe va sillonner le globe pour tenter d
+ 'empêcher une anarchiste de déchaîner un chaos mondial et de ramener à
+  la maison l’homme qui a fait d’eux une famille.\n\n\nAffiche : https:
+ //image.tmdb.org/t/p/w780/o0CtijH1wmupWYje2mfsiZ47yDK.jpg\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/337339\n\nSéance relevée sur AlloCiné.
+ \nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/o0CtijH1wmupWYje2mfsiZ47yDK.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/o0CtijH1wmupWYje2
+ mfsiZ47yDK.jpg
+CATEGORIES:Action,Crime,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-385128@calendrier-cine-fr
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Fast & Furious 9
+DESCRIPTION:F9\n(8.3)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
+ ted States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
+ 𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 juillet 2021\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Justin Lin\, Daniel Casey\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
+ 𝗮𝗽𝗵𝗶𝗲 : Stephen F. Windon\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
+ 𝗼𝗻 : Original Film\, One Race\, Perfect Storm Entertainment\n\n𝗔
+ 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Vin Diesel\n- Michelle Rodriguez\n- Tyrese G
+ ibson\n- Ludacris\n- John Cena\n- Nathalie Emmanuel\n- Jordana Brewster\n-
+  Sung Kang\n- Michael Rooker\n- Helen Mirren\n- Kurt Russell\n- Charlize T
+ heron\n\n\nDominic Toretto mène une vie tranquille avec Letty et son fils
+ \, le petit Brian\, mais ils savent que le danger se cache toujours derri
+ ère l'horizon paisible. Cette fois\, cette menace obligera Dom à affront
+ er les péchés de son passé s’il veut sauver ceux qu’il aime le plus
+ . Son équipe se réunit pour arrêter un complot mené par l'assassin le 
+ plus talentueux et le meilleur pilote qu'ils aient jamais rencontré : un 
+ homme qui se trouve être également le frère abandonné de Dom\, Jakob.\
+ n\n\nAffiche : https://image.tmdb.org/t/p/w780/4Ph5gQn3PYJk98P31ln5hnsG04z
+ .jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/385128\n\nSéance re
+ levée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/4Ph5gQn3PYJk98P31ln5hnsG04z.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4Ph5gQn3PYJk98P31
+ ln5hnsG04z.jpg
+CATEGORIES:Action,Aventure,Crime
+END:VEVENT
+BEGIN:VEVENT
+UID:event-385687@calendrier-cine-fr
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Fast & Furious X
+DESCRIPTION:Fast X\n(31.5)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
+ \nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 
+ 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 17 mai 2023\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Louis Leterrier\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : Dan Mazeau\, Justin Lin\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Stephen F. Windon\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+  : Universal Pictures\, Original Film\, One Race\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Vin Diesel\n- Michelle Rodriguez\n- Tyrese Gibson\n- Ludacri
+ s\n- John Cena\n- Nathalie Emmanuel\n- Jordana Brewster\n- Sung Kang\n- Ja
+ son Momoa\n- Scott Eastwood\n- Daniela Melchior\n- Alan Ritchson\n\n\nApr
+ ès bien des missions et contre toute attente\, Dom Toretto et sa famille 
+ ont su déjouer\, devancer\, surpasser et distancer tous les adversaires q
+ ui ont croisé leur route. Ils sont aujourd’hui face à leur ennemi le p
+ lus terrifiant et le plus intime : émergeant des brumes du passé\, ce re
+ venant assoiffé de vengeance est bien déterminé à décimer la famille 
+ en réduisant à néant tout ce à quoi\, et surtout à qui Dom ait jamais
+  tenu.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/v1467wvoQIXlVY5MtAqt
+ 3PUtOdH.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/385687\n\nSé
+ ance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TM
+ DB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/v1467wvoQIXlVY5MtAqt3PUtOdH.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/v1467wvoQIXlVY5Mt
+ Aqt3PUtOdH.jpg
+CATEGORIES:Action,Crime,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1507877@calendrier-cine-fr
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Garance
-DESCRIPTION:Garance\n(1.6)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Belgium\n
+DESCRIPTION:Garance\n(1.7)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Belgium\n
  (French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Jeanne Herry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne Herry\n
