@@ -12,11 +12,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:event-912802@calendrier-cine-fr
-DTSTAMP:20260823T000000Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
 SUMMARY:Superasticot
-DESCRIPTION:Superworm\n(1.8)\n\nAnimation\, Familial\, Comédie\, Téléfil
+DESCRIPTION:Superworm\n(1.9)\n\nAnimation\, Familial\, Comédie\, Téléfil
  m\n𝟰𝟬𝗺𝗶𝗻\n\nUnited Kingdom\n(English)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 septembre 2022\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jac Hamman\, Sarah Scrimgeo
@@ -45,7 +45,7 @@ DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Harry Potter à l'école des sorciers
-DESCRIPTION:Harry Potter and the Philosopher's Stone\n(45.0)\n\nAventure\, 
+DESCRIPTION:Harry Potter and the Philosopher's Stone\n(46.7)\n\nAventure\, 
  Fantastique\n𝟮𝗵𝟯𝟯\n\nUnited Kingdom\, United States of America
  \n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 5 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : C
@@ -76,7 +76,7 @@ DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Harry Potter et la Chambre des secrets
-DESCRIPTION:Harry Potter and the Chamber of Secrets\n(35.3)\n\nAventure\, F
+DESCRIPTION:Harry Potter and the Chamber of Secrets\n(35.6)\n\nAventure\, F
  antastique\n𝟮𝗵𝟰𝟭\n\nUnited Kingdom\, United States of America\
  , Germany\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 4 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
@@ -109,7 +109,7 @@ DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Memories of Nobody
-DESCRIPTION:劇場版 BLEACH MEMORIES OF NOBODY\n(4.0)\n\nFantastique\, Ani
+DESCRIPTION:劇場版 BLEACH MEMORIES OF NOBODY\n(5.1)\n\nFantastique\, Ani
  mation\, Science-Fiction\n𝟭𝗵𝟮𝟳\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 24 mars 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 阿部記之\n𝗦𝗰
@@ -140,7 +140,7 @@ DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : The Diamond Dust Rebellion
 DESCRIPTION:劇場版 BLEACH The DiamondDust Rebellion もう一つの氷
  輪丸 — Gekijô ban Bleach: The DiamondDust Rebellion - Mô hitotsu no 
- hyôrinmaru\n(4.7)\n\nAction\, Animation\, Thriller\n𝟭𝗵𝟯𝟱\n\nJ
+ hyôrinmaru\n(6.0)\n\nAction\, Animation\, Thriller\n𝟭𝗵𝟯𝟱\n\nJ
  apan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 24 aout 2011\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : 阿部記之\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 横手美智子\, 
@@ -176,7 +176,7 @@ DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Fade to Black
 DESCRIPTION:劇場版 BLEACH Fade to Black 君の名を呼ぶ — Gekijouba
- n Bleach: Fade to Black - Kimi no Na o Yobu\n(5.3)\n\nAction\, Animation\,
+ n Bleach: Fade to Black - Kimi no Na o Yobu\n(6.4)\n\nAction\, Animation\,
   Fantastique\, Drame\n𝟭𝗵𝟯𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 avril 2015\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 阿部記之\n𝗦𝗰𝗲
@@ -209,7 +209,7 @@ DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Harry Potter et le Prisonnier d'Azkaban
-DESCRIPTION:Harry Potter and the Prisoner of Azkaban\n(33.6)\n\nAventure\, 
+DESCRIPTION:Harry Potter and the Prisoner of Azkaban\n(33.3)\n\nAventure\, 
  Fantastique\n𝟮𝗵𝟮𝟮\n\nUnited Kingdom\, United States of America
  \n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 2 juin 2004\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alfon
@@ -241,7 +241,7 @@ DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Harry Potter et la Coupe de feu
-DESCRIPTION:Harry Potter and the Goblet of Fire\n(35.0)\n\nAventure\, Fanta
+DESCRIPTION:Harry Potter and the Goblet of Fire\n(35.6)\n\nAventure\, Fanta
  stique\n𝟮𝗵𝟯𝟳\n\nUnited Kingdom\, United States of America\n(En
  glish\, French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 30 novembre 2005\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -274,22 +274,22 @@ DTSTAMP:20260830T000000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:L'Île des Souvenirs
-DESCRIPTION:Forgotten Island\n(12.7)\n\nAventure\, Animation\, Comédie\, F
- amilial\, Fantastique\n𝟭𝗵𝟯𝟵\n\nUnited States of America\n(Engl
- ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
- 𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
- 𝘀 : Januel Mercado\, Joel Crawford\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 
- Joel Crawford\, Januel Mercado\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 :
-  DreamWorks Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- H.E.R.\n- Liza 
- Soberano\n- Dave Franco\n- Lea Salonga\n- Manny Jacinto\n- Jenny Slate\n- 
- Dolly de Leon\n- Jo Koy\n- Ronny Chieng\n- Amielynn Abellera\n- Kevin McCa
- nn\n\n\nJo et Raissa se retrouvent échouées sur le monde fantastique de 
- l'île oubliée de Nakali. Elles découvrent que le seul moyen de rentrer 
- chez elles pourrait bien leur coûter toute une vie de souvenirs et d'émo
- tions.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/A12dkvb10IgoQxHxU5TX
- Oc6WR4k.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1465063\n\nS
- éance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (
- TMDB)
+DESCRIPTION:Forgotten Island\n(15.0 ↑︎)\n\nAventure\, Animation\, Comé
+ die\, Familial\, Fantastique\n𝟭𝗵𝟰𝟵\n\nUnited States of America
+ \n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
+ 𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
+ 𝘂𝗿𝘀 : Januel Mercado\, Joel Crawford\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : Joel Crawford\, Januel Mercado\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : DreamWorks Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- H
+ .E.R.\n- Liza Soberano\n- Dave Franco\n- Lea Salonga\n- Manny Jacinto\n- J
+ enny Slate\n- Dolly de Leon\n- Jo Koy\n- Ronny Chieng\n- Amielynn Abellera
+ \n- Kevin McCann\n\n\nJo et Raissa se retrouvent échouées sur le monde f
+ antastique de l'île oubliée de Nakali. Elles découvrent que le seul moy
+ en de rentrer chez elles pourrait bien leur coûter toute une vie de souve
+ nirs et d'émotions.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/A12dkv
+ b10IgoQxHxU5TXOc6WR4k.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie
+ /1465063\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Mov
+ ie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/A12dkvb10IgoQxHxU5TXOc6WR4k.jpg
@@ -342,7 +342,7 @@ DTSTAMP:20260830T000000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Harry Potter et le Prince de sang-mêlé
-DESCRIPTION:Harry Potter and the Half-Blood Prince\n(30.3)\n\nAventure\, Fa
+DESCRIPTION:Harry Potter and the Half-Blood Prince\n(29.7)\n\nAventure\, Fa
  ntastique\n𝟮𝗵𝟯𝟯\n\nUnited Kingdom\, United States of America\n
  (English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 15 juillet 2009\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : D
@@ -376,7 +376,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Harry Potter et les Reliques de la Mort - 1ère partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 1\n(37.3)\n\nAventur
+DESCRIPTION:Harry Potter and the Deathly Hallows: Part 1\n(37.4)\n\nAventur
  e\, Fantastique\n𝟮𝗵𝟮𝟲\n\nUnited Kingdom\, United States of Ame
  rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 novembre 2010\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -414,7 +414,7 @@ DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Harry Potter et les Reliques de la Mort - 2ème partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(33.9)\n\nAventur
+DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(36.8)\n\nAventur
  e\, Fantastique\n𝟮𝗵𝟭𝟬\n\nUnited Kingdom\, United States of Ame
  rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 13 juillet 2011\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
@@ -446,12 +446,12 @@ DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Terminator 2 : Le Jugement dernier
-DESCRIPTION:Terminator 2: Judgment Day\n(32.3)\n\nAction\, Thriller\, Scien
+DESCRIPTION:Terminator 2: Judgment Day\n(35.5)\n\nAction\, Thriller\, Scien
  ce-Fiction\n𝟮𝗵𝟭𝟳\n\nFrance\, United States of America\n(Englis
  h\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 3 juillet 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
- : James Cameron\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : James Cameron\, Willia
- m Wisher\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adam Greenber
+ : James Cameron\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : William Wisher\, James
+  Cameron\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adam Greenber
  g\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Carolco Pictures\, Pacific W
  estern\, Lightstorm Entertainment\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Arn
  old Schwarzenegger\n- Linda Hamilton\n- Edward Furlong\n- Robert Patrick\n
@@ -480,25 +480,25 @@ DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Akira
-DESCRIPTION:Akira\n(14.8)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(15.5)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
  : Izō Hashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : 三沢勝治\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MB
  S\, Sumitomo Corporation\, TOHO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mitsu
  o Iwata\n- Nozomu Sasaki\n- Mami Koyama\n- 石田太郎\n- Mizuho Suzuki\n
- - Tesshô Genda\n- Koichi Kitamura\n- 渕崎ゆり子\n- Masaaki Okura\n- 
- Takeshi Kusao\n- Kazuhiro Kamifuji\n- Tatsuhiko Nakamura\n\n\nTetsuo\, un 
- adolescent ayant vécu une enfance difficile\, est la victime d'expérienc
- es visant à développer les capacités psychiques qui dorment en chacun d
- e nous. Ainsi doté d'une puissance que lui-même ne peut imaginer\, Tetsu
- o décide de partir en guerre contre le monde qui l'a opprimé. Dès lors\
- , il se retrouve au cœur d'une légende populaire qui annonce le retour p
- rochain d'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer 
- Tokyo du chaos ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8fCn7TwT
- e0Z4fTugIiLssX6UcHe.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1
- 49\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Dat
- abase (TMDB)
+ - Tessyo Genda\n- Koichi Kitamura\n- 渕崎ゆり子\n- Masaaki Okura\n- T
+ akeshi Kusao\n- Kazuhiro Kamifuji\n- Tatsuhiko Nakamura\n\n\nTetsuo\, un a
+ dolescent ayant vécu une enfance difficile\, est la victime d'expérience
+ s visant à développer les capacités psychiques qui dorment en chacun de
+  nous. Ainsi doté d'une puissance que lui-même ne peut imaginer\, Tetsuo
+  décide de partir en guerre contre le monde qui l'a opprimé. Dès lors\,
+  il se retrouve au cœur d'une légende populaire qui annonce le retour pr
+ ochain d'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer T
+ okyo du chaos ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8fCn7TwTe
+ 0Z4fTugIiLssX6UcHe.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/14
+ 9\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Data
+ base (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg
@@ -512,7 +512,7 @@ DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Justin le Juste
-DESCRIPTION:Justin le Juste\n(1.5)\n\nComédie\, Histoire\, Guerre\n\nFranc
+DESCRIPTION:Justin le Juste\n(1.1)\n\nComédie\, Histoire\, Guerre\n\nFranc
  e\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Eric Barbier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
@@ -538,26 +538,26 @@ DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Karma
-DESCRIPTION:Karma\n(2.4)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(French)\
- n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹
- 𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : G
- uillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet\, Simon
-  Jacquet\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Benoît Debie
- \n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Iconoclast\, Caneo Films\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Marion Cotillard\n- Denis Ménochet\n- L
- eonardo Sbaraglia\n- Luis Zahera\n- Anne Le Forestier\n- Alain Blazquez\n-
-  Ferran Font Benito\n- Stivell Perot\n- Vincent Treguier\n- Hugo Trophardy
- \n\n\nDans un village au nord de l’Espagne\, Jeanne tente de reconstruir
- e sa vie avec Daniel\, qui ne connaît rien de son passé trouble. Un jour
- \, Mateo\, le filleul de Jeanne âgé de six ans\, disparaît mystérieuse
- ment… Afin d’échapper à la police qui la soupçonne rapidement\, Jea
- nne se réfugie en France dans une communauté religieuse dans laquelle el
- le est née et qu’elle a fuie quelques années auparavant. Daniel ne cro
- it pas à la culpabilité de la femme qu’il aime et va tout faire pour l
- a retrouver avant la police.\n\n\nAffiche : https://image.tmdb.org/t/p/w78
- 0/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg\n\nFiche TMDB : https://www.themoviedb.o
- rg/movie/1418998\n\nSéance relevée sur AlloCiné.\nDonnées fournies par
-  The Movie Database (TMDB)
+DESCRIPTION:Karma\n(2.5 →︎)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(F
+ rench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
+ 𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Guillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet
+ \, Simon Jacquet\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Beno
+ ît Debie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Iconoclast\, Caneo F
+ ilms\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Marion Cotillard\n- Denis Ménoc
+ het\n- Leonardo Sbaraglia\n- Luis Zahera\n- Anne Le Forestier\n- Alain Bla
+ zquez\n- Ferran Font Benito\n- Stivell Perot\n- Vincent Treguier\n- Hugo T
+ rophardy\n\n\nDans un village au nord de l’Espagne\, Jeanne tente de rec
+ onstruire sa vie avec Daniel\, qui ne connaît rien de son passé trouble.
+  Un jour\, Mateo\, le filleul de Jeanne âgé de six ans\, disparaît myst
+ érieusement… Afin d’échapper à la police qui la soupçonne rapideme
+ nt\, Jeanne se réfugie en France dans une communauté religieuse dans laq
+ uelle elle est née et qu’elle a fuie quelques années auparavant. Danie
+ l ne croit pas à la culpabilité de la femme qu’il aime et va tout fair
+ e pour la retrouver avant la police.\n\n\nAffiche : https://image.tmdb.org
+ /t/p/w780/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg\n\nFiche TMDB : https://www.them
+ oviedb.org/movie/1418998\n\nSéance relevée sur AlloCiné.\nDonnées four
+ nies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg
@@ -571,7 +571,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(1.7)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nFrance\n
+DESCRIPTION:Le Roi du Game\n(1.6)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nFrance\n
  (French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fourlon\, C
@@ -637,7 +637,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious : Tokyo drift
-DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.5)\n\nAction\, Crime\
+DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.6)\n\nAction\, Crime\
  , Drame\, Thriller\n𝟭𝗵𝟰𝟰\n\nGermany\, Japan\, United States of
   America\n(English\, Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
  𝗼𝗿𝗶𝗾𝘂𝗲 : 19 juillet 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
@@ -652,14 +652,14 @@ DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.5)\n\nAction\, Crime\
  emière course de drift\, l'adolescent qui se prend pour une tête brûlé
  e des courses de rues ne sait pas qu'il affronte « le roi du drift »\, u
  n champion local de mèche avec la machine criminelle japonaise Yakuza.\n\
- n\nAffiche : https://image.tmdb.org/t/p/w780/7t9FcL0wKVWCi6vq8Mv8R4tSLzj.j
+ n\nAffiche : https://image.tmdb.org/t/p/w780/7ZASadT7t5lOMfEnFcNhjStCc7a.j
  pg\n\nFiche TMDB : https://www.themoviedb.org/movie/9615\n\nSéance relev
  ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/7t9FcL0wKVWCi6vq8Mv8R4tSLzj.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7t9FcL0wKVWCi6vq8
- Mv8R4tSLzj.jpg
+ t/p/w780/7ZASadT7t5lOMfEnFcNhjStCc7a.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7ZASadT7t5lOMfEnF
+ cNhjStCc7a.jpg
 CATEGORIES:Action,Crime,Drame,Thriller
 END:VEVENT
 BEGIN:VEVENT
@@ -668,7 +668,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 4
-DESCRIPTION:Fast & Furious\n(1.5)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:Fast & Furious\n(1.7)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 avril 2009\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -701,7 +701,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 5
-DESCRIPTION:Fast Five\n(1.8)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
+DESCRIPTION:Fast Five\n(1.7)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
  \n\nUnited States of America\n(English\, Spanish\, Portuguese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 4 mai 2011\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -779,7 +779,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 7
-DESCRIPTION:Furious 7\n(15.9)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
+DESCRIPTION:Furious 7\n(18.0)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
  𝟳\n\nUnited States of America\n(English\, Arabic\, Spanish)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 avril 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲
@@ -818,7 +818,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 8
-DESCRIPTION:The Fate of the Furious\n(12.8)\n\nAction\, Crime\, Thriller\n
+DESCRIPTION:The Fate of the Furious\n(14.1)\n\nAction\, Crime\, Thriller\n
  𝟮𝗵𝟭𝟲\n\nUnited States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 12 avril 2
  017\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : F. Gary Gray\n𝗦
@@ -854,7 +854,7 @@ DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Fast & Furious 9
-DESCRIPTION:F9\n(8.2)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
+DESCRIPTION:F9\n(9.2)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
  ted States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 juillet 2021\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲𝗻
@@ -887,7 +887,7 @@ DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Fast & Furious X
-DESCRIPTION:Fast X\n(31.7)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
+DESCRIPTION:Fast X\n(32.2)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
  \nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 17 mai 2023\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Louis Leterrier\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -920,25 +920,25 @@ DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Garance
-DESCRIPTION:Garance\n(2.3)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Belgium\n
- (French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
- 𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
- 𝘂𝗿 : Jeanne Herry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne Herry\n
- 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Antoine Cormier\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Chi-Fou-Mi Productions\, Trésor Fi
- lms\, Artémis Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Adèle Exa
- rchopoulos\n- Sara Giraudeau\n- Anne Suarez\n- Sara-Jeanne Drillaud\n- Rud
- gy Pajany\n- Raya Martigny\n- Mathilde Roehrich\n- Jehnny Beth\n- Yuming H
- ey\n\n\nGarance est une jeune actrice sans être une vedette. Elle gère e
- t assure tout de son mieux\, vaillante\, joyeuse\, soldate\, et elle trouv
- e dans l’alcool un carburant\, un réconfort\, inconditionnel. Garance c
- hange de vie et commence alors un parcours de huit ans de déménagements\
- , de travail\, de rencontres\, de fêtes et d’angoisses\, de joies et de
-  coups durs… Une révolution intime\, amicale et sexuelle\, Mais elle co
- nsomme\, toujours plus. Jusqu'à la potentialité de la mort..\n\n\nAffich
- e : https://image.tmdb.org/t/p/w780/opOcBqvFchGd8PWdLGyY2435k1v.jpg\n\nFic
- he TMDB : https://www.themoviedb.org/movie/1507877\n\nSéance relevée sur
-  AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Garance\n(2.2 ↗︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
+ lgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
+ 𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
+ 𝘁𝗲𝘂𝗿 : Jeanne Herry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne
+  Herry\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Antoine Cormier
+ \n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Chi-Fou-Mi Productions\, Tré
+ sor Films\, Artémis Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Adè
+ le Exarchopoulos\n- Sara Giraudeau\n- Anne Suarez\n- Sara-Jeanne Drillaud\
+ n- Rudgy Pajany\n- Raya Martigny\n- Mathilde Roehrich\n- Jehnny Beth\n- Yu
+ ming Hey\n\n\nGarance est une jeune actrice sans être une vedette. Elle g
+ ère et assure tout de son mieux\, vaillante\, joyeuse\, soldate\, et elle
+  trouve dans l’alcool un carburant\, un réconfort\, inconditionnel. Gar
+ ance change de vie et commence alors un parcours de huit ans de déménage
+ ments\, de travail\, de rencontres\, de fêtes et d’angoisses\, de joies
+  et de coups durs… Une révolution intime\, amicale et sexuelle\, Mais e
+ lle consomme\, toujours plus. Jusqu'à la potentialité de la mort..\n\n\n
+ Affiche : https://image.tmdb.org/t/p/w780/opOcBqvFchGd8PWdLGyY2435k1v.jpg\
+ n\nFiche TMDB : https://www.themoviedb.org/movie/1507877\n\nSéance relev
+ ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/opOcBqvFchGd8PWdLGyY2435k1v.jpg
