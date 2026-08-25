@@ -12,11 +12,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:event-912802@calendrier-cine-fr
-DTSTAMP:20260824T000000Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
+DTSTAMP:20260825T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
 SUMMARY:Superasticot
-DESCRIPTION:Superworm\n(1.9)\n\nAnimation\, Familial\, Comédie\, Téléfil
+DESCRIPTION:Superworm\n(1.7)\n\nAnimation\, Familial\, Comédie\, Téléfil
  m\n𝟰𝟬𝗺𝗶𝗻\n\nUnited Kingdom\n(English)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 septembre 2022\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jac Hamman\, Sarah Scrimgeo
@@ -45,7 +45,7 @@ DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Harry Potter à l'école des sorciers
-DESCRIPTION:Harry Potter and the Philosopher's Stone\n(46.7)\n\nAventure\, 
+DESCRIPTION:Harry Potter and the Philosopher's Stone\n(40.3)\n\nAventure\, 
  Fantastique\n𝟮𝗵𝟯𝟯\n\nUnited Kingdom\, United States of America
  \n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 5 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : C
@@ -76,7 +76,7 @@ DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Harry Potter et la Chambre des secrets
-DESCRIPTION:Harry Potter and the Chamber of Secrets\n(35.6)\n\nAventure\, F
+DESCRIPTION:Harry Potter and the Chamber of Secrets\n(34.7)\n\nAventure\, F
  antastique\n𝟮𝗵𝟰𝟭\n\nUnited Kingdom\, United States of America\
  , Germany\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 4 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
@@ -109,7 +109,7 @@ DTSTAMP:20260828T000000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Memories of Nobody
-DESCRIPTION:劇場版 BLEACH MEMORIES OF NOBODY\n(5.1)\n\nFantastique\, Ani
+DESCRIPTION:劇場版 BLEACH MEMORIES OF NOBODY\n(4.7)\n\nFantastique\, Ani
  mation\, Science-Fiction\n𝟭𝗵𝟮𝟳\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 24 mars 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 阿部記之\n𝗦𝗰
@@ -140,7 +140,7 @@ DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : The Diamond Dust Rebellion
 DESCRIPTION:劇場版 BLEACH The DiamondDust Rebellion もう一つの氷
  輪丸 — Gekijô ban Bleach: The DiamondDust Rebellion - Mô hitotsu no 
- hyôrinmaru\n(6.0)\n\nAction\, Animation\, Thriller\n𝟭𝗵𝟯𝟱\n\nJ
+ hyôrinmaru\n(5.2)\n\nAction\, Animation\, Thriller\n𝟭𝗵𝟯𝟱\n\nJ
  apan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 24 aout 2011\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : 阿部記之\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 横手美智子\, 
@@ -176,7 +176,7 @@ DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bleach : Fade to Black
 DESCRIPTION:劇場版 BLEACH Fade to Black 君の名を呼ぶ — Gekijouba
- n Bleach: Fade to Black - Kimi no Na o Yobu\n(6.4)\n\nAction\, Animation\,
+ n Bleach: Fade to Black - Kimi no Na o Yobu\n(6.0)\n\nAction\, Animation\,
   Fantastique\, Drame\n𝟭𝗵𝟯𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 avril 2015\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 阿部記之\n𝗦𝗰𝗲
@@ -241,7 +241,7 @@ DTSTAMP:20260829T000000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Harry Potter et la Coupe de feu
-DESCRIPTION:Harry Potter and the Goblet of Fire\n(35.6)\n\nAventure\, Fanta
+DESCRIPTION:Harry Potter and the Goblet of Fire\n(30.7)\n\nAventure\, Fanta
  stique\n𝟮𝗵𝟯𝟳\n\nUnited Kingdom\, United States of America\n(En
  glish\, French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 30 novembre 2005\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -274,7 +274,7 @@ DTSTAMP:20260830T000000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:L'Île des Souvenirs
-DESCRIPTION:Forgotten Island\n(15.0 ↑︎)\n\nAventure\, Animation\, Comé
+DESCRIPTION:Forgotten Island\n(13.1 ↑︎)\n\nAventure\, Animation\, Comé
  die\, Familial\, Fantastique\n𝟭𝗵𝟰𝟵\n\nUnited States of America
  \n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
  𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
@@ -303,7 +303,7 @@ DTSTAMP:20260830T000000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Harry Potter et l'Ordre du Phénix
-DESCRIPTION:Harry Potter and the Order of the Phoenix\n(30.7)\n\nAventure\,
+DESCRIPTION:Harry Potter and the Order of the Phoenix\n(26.4)\n\nAventure\,
   Fantastique\n𝟮𝗵𝟭𝟴\n\nUnited Kingdom\, United States of Americ
  a\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 11 juillet 2007\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
@@ -376,7 +376,7 @@ DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Harry Potter et les Reliques de la Mort - 1ère partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 1\n(37.4)\n\nAventur
+DESCRIPTION:Harry Potter and the Deathly Hallows: Part 1\n(32.3)\n\nAventur
  e\, Fantastique\n𝟮𝗵𝟮𝟲\n\nUnited Kingdom\, United States of Ame
  rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 novembre 2010\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -414,7 +414,7 @@ DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Harry Potter et les Reliques de la Mort - 2ème partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(36.8)\n\nAventur
+DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(35.2)\n\nAventur
  e\, Fantastique\n𝟮𝗵𝟭𝟬\n\nUnited Kingdom\, United States of Ame
  rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 13 juillet 2011\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
@@ -480,7 +480,7 @@ DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Akira
-DESCRIPTION:Akira\n(15.5)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(13.6)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
  : Izō Hashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
@@ -512,7 +512,7 @@ DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Justin le Juste
-DESCRIPTION:Justin le Juste\n(1.1)\n\nComédie\, Histoire\, Guerre\n\nFranc
+DESCRIPTION:Justin le Juste\n(1.0)\n\nComédie\, Histoire\, Guerre\n\nFranc
  e\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Eric Barbier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
@@ -571,21 +571,21 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(1.6)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nFrance\n
- (French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
- 𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fourlon\, C
- édric Prévost\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 4 Mecs en Bask
- ets\, Polaris Film Productions\, Gaumont\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
- \n- Éric Judor\n- Dominique Frot\n- Wesley Weigel\n- Eddy Leduc\n- Hafid 
- F. Benamar\n- Marc Labrèche\n- Alexandra Lamy\n- Liona Bordonaro\n- Pierr
- e Gommé\n- Maxime Biaggi\n\n\nAlexandre est prêt à tout pour renouer av
- ec sa fille. Quitte à infiltrer une équipe de bras cassés dans un unive
- rs de jeu médiéval-fantastique. Cette quête improbable pourrait bien le
-  ramener à ses propres rêves oubliés...\n\n\nAffiche : https://image.tm
- db.org/t/p/w780/eW9DzQYFL0Sxd3WBHgfouGqvFtX.jpg\n\nFiche TMDB : https://ww
- w.themoviedb.org/movie/1505487\n\nSéance relevée sur AlloCiné.\nDonnée
- s fournies par The Movie Database (TMDB)
+DESCRIPTION:Le Roi du Game\n(1.6 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
+ rance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
+ 𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
+ 𝗲𝘂𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fou
+ rlon\, Cédric Prévost\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 4 Mecs
+  en Baskets\, Polaris Film Productions\, Gaumont\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Éric Judor\n- Dominique Frot\n- Wesley Weigel\n- Eddy Leduc
+ \n- Hafid F. Benamar\n- Marc Labrèche\n- Alexandra Lamy\n- Liona Bordonar
+ o\n- Pierre Gommé\n- Maxime Biaggi\n\n\nAlexandre est prêt à tout pour 
+ renouer avec sa fille. Quitte à infiltrer une équipe de bras cassés dan
+ s un univers de jeu médiéval-fantastique. Cette quête improbable pourra
+ it bien le ramener à ses propres rêves oubliés...\n\n\nAffiche : https:
+ //image.tmdb.org/t/p/w780/eW9DzQYFL0Sxd3WBHgfouGqvFtX.jpg\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1505487\n\nSéance relevée sur AlloCiné
+ .\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/eW9DzQYFL0Sxd3WBHgfouGqvFtX.jpg
@@ -599,7 +599,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:2 Fast 2 Furious
-DESCRIPTION:2 Fast 2 Furious\n(2.6)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:2 Fast 2 Furious\n(2.3)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nGermany\, United States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 18 juin 20
  03\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Singleton\n𝗦
@@ -668,7 +668,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 4
-DESCRIPTION:Fast & Furious\n(1.7)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:Fast & Furious\n(1.5)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 avril 2009\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -701,7 +701,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 5
-DESCRIPTION:Fast Five\n(1.7)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
+DESCRIPTION:Fast Five\n(1.5)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
  \n\nUnited States of America\n(English\, Spanish\, Portuguese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 4 mai 2011\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -779,7 +779,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 7
-DESCRIPTION:Furious 7\n(18.0)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
+DESCRIPTION:Furious 7\n(15.9)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
  𝟳\n\nUnited States of America\n(English\, Arabic\, Spanish)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 avril 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲
@@ -818,7 +818,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 8
-DESCRIPTION:The Fate of the Furious\n(14.1)\n\nAction\, Crime\, Thriller\n
+DESCRIPTION:The Fate of the Furious\n(12.5)\n\nAction\, Crime\, Thriller\n
  𝟮𝗵𝟭𝟲\n\nUnited States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 12 avril 2
  017\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : F. Gary Gray\n𝗦
@@ -854,7 +854,7 @@ DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Fast & Furious 9
-DESCRIPTION:F9\n(9.2)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
+DESCRIPTION:F9\n(9.1)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
  ted States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 juillet 2021\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲𝗻
@@ -891,7 +891,7 @@ DESCRIPTION:Fast X\n(32.2)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
  \nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 17 mai 2023\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Louis Leterrier\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Justin Lin\, Dan Mazeau\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗶𝗼 : Dan Mazeau\, Justin Lin\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : Stephen F. Windon\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
   : Universal Pictures\, Original Film\, One Race\n\n𝗔𝗰𝘁𝗲𝘂
  𝗿𝘀 :\n- Vin Diesel\n- Michelle Rodriguez\n- Tyrese Gibson\n- Ludacri
@@ -920,7 +920,7 @@ DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Garance
-DESCRIPTION:Garance\n(2.2 ↗︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
+DESCRIPTION:Garance\n(2.3 ↑︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
  lgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Jeanne Herry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne
