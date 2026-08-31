@@ -11,174 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-1465063@calendrier-cine-fr
-DTSTAMP:20260830T000000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:L'Île des Souvenirs
-DESCRIPTION:Forgotten Island\n(14.0 ↑︎)\n\nAventure\, Animation\, Comé
- die\, Familial\, Fantastique\n𝟭𝗵𝟰𝟵\n\nUnited States of America
- \n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
- 𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
- 𝘂𝗿𝘀 : Januel Mercado\, Joel Crawford\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Joel Crawford\, Januel Mercado\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : DreamWorks Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- H
- .E.R.\n- Liza Soberano\n- Dave Franco\n- Lea Salonga\n- Manny Jacinto\n- J
- enny Slate\n- Dolly de Leon\n- Jo Koy\n- Ronny Chieng\n- Amielynn Abellera
- \n- Kevin McCann\n- Kristin Villanueva\n\n\nJo et Raissa se retrouvent éc
- houées sur le monde fantastique de l'île oubliée de Nakali. Elles déco
- uvrent que le seul moyen de rentrer chez elles pourrait bien leur coûter 
- toute une vie de souvenirs et d'émotions.\n\n\nAffiche : https://image.tm
- db.org/t/p/w780/A12dkvb10IgoQxHxU5TXOc6WR4k.jpg\n\nFiche TMDB : https://ww
- w.themoviedb.org/movie/1465063\n\nSéance relevée sur AlloCiné.\nDonnée
- s fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/A12dkvb10IgoQxHxU5TXOc6WR4k.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/A12dkvb10IgoQxHxU
- 5TXOc6WR4k.jpg
-CATEGORIES:Aventure,Animation,Comédie,Familial,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:event-671@calendrier-cine-fr
-DTSTAMP:20260830T000000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Harry Potter à l'école des sorciers
-DESCRIPTION:Harry Potter and the Philosopher's Stone\n(49.1)\n\nAventure\, 
- Fantastique\n𝟮𝗵𝟯𝟯\n\nUnited Kingdom\, United States of America
- \n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
- 𝗲 : 5 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : C
- hris Columbus\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Steve Kloves\n𝗣𝗵
- 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : John Seale\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Heyday Films\, 1492 Pic
- tures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Daniel Radcliffe\n- Rupert Grin
- t\n- Emma Watson\n- Richard Harris\n- Tom Felton\n- Alan Rickman\n- Robbie
-  Coltrane\n- Maggie Smith\n- Richard Griffiths\n- Ian Hart\n- Fiona Shaw\n
- - John Hurt\n\n\nOrphelin\, le jeune Harry Potter peut enfin quitter ses t
- yranniques oncle et tante Dursley lorsqu'un curieux messager lui révèle 
- qu'il est un sorcier. À 11 ans\, Harry va enfin pouvoir intégrer la lég
- endaire école de sorcellerie de Poudlard\, y trouver une famille digne de
-  ce nom et des amis\, développer ses dons\, et préparer son glorieux ave
- nir.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/fbxQ44VRdM2PVzHSNajUse
- Uteem.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/671\n\nSéance 
- relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/fbxQ44VRdM2PVzHSNajUseUteem.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/fbxQ44VRdM2PVzHSN
- ajUseUteem.jpg
-CATEGORIES:Aventure,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:event-675@calendrier-cine-fr
-DTSTAMP:20260830T000000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Harry Potter et l'Ordre du Phénix
-DESCRIPTION:Harry Potter and the Order of the Phoenix\n(26.4)\n\nAventure\,
-  Fantastique\n𝟮𝗵𝟭𝟴\n\nUnited Kingdom\, United States of Americ
- a\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
- 𝘂𝗲 : 11 juillet 2007\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
-  : David Yates\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Goldenberg\n
- 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Sławomir Idziak\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Heyday Film
- s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Daniel Radcliffe\n- Rupert Grint\n-
-  Emma Watson\n- Imelda Staunton\n- Helena Bonham Carter\n- Robbie Coltrane
- \n- Gary Oldman\n- Ralph Fiennes\n- Michael Gambon\n- Alan Rickman\n- Rich
- ard Griffiths\n- Brendan Gleeson\n\n\nAlors qu’il entame sa cinquième a
- nnée d’étude à Poudlard\, Harry Potter découvre qu’une bonne parti
- e de la communauté des sorciers feint d’ignorer sa récente confrontati
- on avec Lord Voldemort\, et préfèrent nier cette aveuglante évidence :
-  le Seigneur des Ténèbres est bel et bien vivant. De plus\, la communaut
- é magique lit les mensonges de Rita Skeeter dans la Gazette du Sorcier so
- us contrôle du Ministère de la Magie. Craignant que le puissant Albus Du
- mbledore ne mente à propos du retour de Voldemort dans le but de saper so
- n autorité et de lui ravir son poste\, le Ministre de la Magie Cornélius
-  Fudge nomme un nouveau Professeur de Défense contre les Forces du Mal\, 
- qu’il charge de surveiller le vieux doyen et ses étudiants. Mais celle
- ‐ci\, Dolores Ombrage\, se révèle incapable de préparer les collégie
- ns à affronter les nouvelles menaces qui planent sur Poudlard…\n\n\nAff
- iche : https://image.tmdb.org/t/p/w780/9ZfpCVNx0y8jpColnnfdA1HI4Zb.jpg\n\n
- Fiche TMDB : https://www.themoviedb.org/movie/675\n\nSéance relevée sur 
- AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/9ZfpCVNx0y8jpColnnfdA1HI4Zb.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9ZfpCVNx0y8jpColn
- nfdA1HI4Zb.jpg
-CATEGORIES:Aventure,Fantastique
-END:VEVENT
-BEGIN:VEVENT
-UID:event-912802@calendrier-cine-fr
-DTSTAMP:20260830T000000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Superasticot
-DESCRIPTION:Superworm\n(1.8)\n\nAnimation\, Familial\, Comédie\, Téléfil
- m\n𝟰𝟬𝗺𝗶𝗻\n\nUnited Kingdom\n(English)\n𝗦𝗼𝗿𝘁𝗶
- 𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 septembre 2022\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Sarah Scrimgeour\, Jac Hamm
- an\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Magic Light Pictures\, Blue
- -Zoo Animation Studio\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Matt Smith\n- O
- livia Colman\n- Patricia Allison\n- Rob Brydon\n- Kobna Holdbrook-Smith\n-
-  Paul Thornley\n- Cariad Lloyd\n- Felix Tandon\n- Samara Sutariya\n- Lizzi
- e Waterworth\n\n\nSuperasticot\, le plus ondulant et le plus tortillant de
-  tous les superhéros ! Superasticot est superélancé\, Superasticot est 
- supermusclé ! Héros au grand cœur\, il passe ses journées à sauver le
- s animaux du jardin. Quand le maléfique Saurien Magicien le capture\, qui
-  pourra lui venir en aide ?\n\n\nAffiche : https://image.tmdb.org/t/p/w780
- /qdp68qRgaFo6trxdNo7NJZWzR3f.jpg\n\nFiche TMDB : https://www.themoviedb.or
- g/movie/912802\n\nSéance relevée sur AlloCiné.\nDonnées fournies par T
- he Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/qdp68qRgaFo6trxdNo7NJZWzR3f.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qdp68qRgaFo6trxdN
- o7NJZWzR3f.jpg
-CATEGORIES:Animation,Familial,Comédie,Téléfilm
-END:VEVENT
-BEGIN:VEVENT
-UID:event-767@calendrier-cine-fr
-DTSTAMP:20260830T000000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Harry Potter et le Prince de sang-mêlé
-DESCRIPTION:Harry Potter and the Half-Blood Prince\n(29.7)\n\nAventure\, Fa
- ntastique\n𝟮𝗵𝟯𝟯\n\nUnited Kingdom\, United States of America\n
- (English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
- 𝗲 : 15 juillet 2009\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : D
- avid Yates\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Steve Kloves\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Bruno Delbonnel\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Heyday Films\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Daniel Radcliffe\n- Rupert Grint\n- Emma Wat
- son\n- Jim Broadbent\n- Michael Gambon\n- Tom Felton\n- Alan Rickman\n- Bo
- nnie Wright\n- Jessie Cave\n- Evanna Lynch\n- Freddie Stroma\n- Robbie Col
- trane\n\n\nVoldemort a renforcé son emprise sur le monde des sorciers aus
- si bien que sur celui des Moldus\, et Poudlard n’est plus un endroit sû
- r. Harry est d’ailleurs persuadé que le danger rôde à l’intérieur 
- même de l’école mais Dumbledore est plus soucieux de le préparer pour
-  la bataille finale qu’il sent approcher à grands pas. Ensemble\, ils t
- entent de trouver le talon d’Achille de Voldemort et\, à cette fin\, Du
- mbledore fait appel au Professeur Horace Slughorn\, qui détient des infor
- mations cruciales.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/A4WWOzWU
- ASfUeESXxduQxVmoD7t.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/7
- 67\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Dat
- abase (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/A4WWOzWUASfUeESXxduQxVmoD7t.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/A4WWOzWUASfUeESXx
- duQxVmoD7t.jpg
-CATEGORIES:Aventure,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:event-12444@calendrier-cine-fr
 DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Harry Potter et les Reliques de la Mort - 1ère partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 1\n(34.6)\n\nAventur
+DESCRIPTION:Harry Potter and the Deathly Hallows: Part 1\n(35.6)\n\nAventur
  e\, Fantastique\n𝟮𝗵𝟮𝟲\n\nUnited Kingdom\, United States of Ame
  rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 novembre 2010\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -216,7 +54,7 @@ DTSTAMP:20260901T000000Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Harry Potter et les Reliques de la Mort - 2ème partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(34.4)\n\nAventur
+DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(36.1)\n\nAventur
  e\, Fantastique\n𝟮𝗵𝟭𝟬\n\nUnited Kingdom\, United States of Ame
  rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 13 juillet 2011\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
@@ -248,12 +86,12 @@ DTSTAMP:20260903T000000Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Terminator 2 : Le Jugement dernier
-DESCRIPTION:Terminator 2: Judgment Day\n(36.3)\n\nAction\, Thriller\, Scien
+DESCRIPTION:Terminator 2: Judgment Day\n(38.6)\n\nAction\, Thriller\, Scien
  ce-Fiction\n𝟮𝗵𝟭𝟳\n\nFrance\, United States of America\n(Englis
  h\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 3 juillet 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
- : James Cameron\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : James Cameron\, Willia
- m Wisher\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adam Greenber
+ : James Cameron\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : William Wisher\, James
+  Cameron\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adam Greenber
  g\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Carolco Pictures\, Pacific W
  estern\, Lightstorm Entertainment\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Arn
  old Schwarzenegger\n- Linda Hamilton\n- Edward Furlong\n- Robert Patrick\n
@@ -282,7 +120,7 @@ DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Akira
-DESCRIPTION:Akira\n(14.7)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(15.3)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
  : Izō Hashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
@@ -340,7 +178,7 @@ DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Karma
-DESCRIPTION:Karma\n(3.0 →︎)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(F
+DESCRIPTION:Karma\n(3.1 ↗︎)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(F
  rench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Guillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet
@@ -373,7 +211,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(1.5 ↗︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
+DESCRIPTION:Le Roi du Game\n(1.6 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
  rance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fou
@@ -401,7 +239,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:2 Fast 2 Furious
-DESCRIPTION:2 Fast 2 Furious\n(2.4)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:2 Fast 2 Furious\n(2.7)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nGermany\, United States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 18 juin 20
  03\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Singleton\n𝗦
@@ -439,7 +277,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious : Tokyo drift
-DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.2)\n\nAction\, Crime\
+DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.3)\n\nAction\, Crime\
  , Thriller\n𝟭𝗵𝟰𝟰\n\nGermany\, Japan\, United States of America
  \n(English\, Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 19 juillet 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
@@ -470,7 +308,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 4
-DESCRIPTION:Fast & Furious\n(1.4)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:Fast & Furious\n(1.7)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 avril 2009\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -503,7 +341,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 5
-DESCRIPTION:Fast Five\n(1.8)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
+DESCRIPTION:Fast Five\n(1.5)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
  \n\nUnited States of America\n(English\, Spanish\, Portuguese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 4 mai 2011\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -581,7 +419,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 7
-DESCRIPTION:Furious 7\n(17.0)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
+DESCRIPTION:Furious 7\n(17.7)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
  𝟳\n\nUnited States of America\n(English\, Arabic\, Spanish)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 avril 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲
@@ -656,7 +494,7 @@ DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Fast & Furious 9
-DESCRIPTION:F9\n(8.5)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
+DESCRIPTION:F9\n(9.7)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
  ted States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 juillet 2021\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲𝗻
@@ -689,7 +527,7 @@ DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Fast & Furious X
-DESCRIPTION:Fast X\n(31.6)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
+DESCRIPTION:Fast X\n(33.0)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
  \nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 17 mai 2023\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Louis Leterrier\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -722,7 +560,7 @@ DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Garance
-DESCRIPTION:Garance\n(2.7 ↑︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
+DESCRIPTION:Garance\n(2.3 ↑︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
  lgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Jeanne Herry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne
@@ -754,11 +592,11 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(65.0 →︎)\n\nAventure\, Science-Fiction\
+DESCRIPTION:Avengers: Endgame\n(68.0 →︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 24 avril 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 :
-  Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McF
+  Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McF
  eely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
  𝗲 : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel St
  udios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evan
