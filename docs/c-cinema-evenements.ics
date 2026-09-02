@@ -11,44 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-12445@calendrier-cine-fr
-DTSTAMP:20260901T000000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:Harry Potter et les Reliques de la Mort - 2ème partie
-DESCRIPTION:Harry Potter and the Deathly Hallows: Part 2\n(41.8)\n\nAventur
- e\, Fantastique\n𝟮𝗵𝟭𝟬\n\nUnited Kingdom\, United States of Ame
- rica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
- 𝘂𝗲 : 13 juillet 2011\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
-  : David Yates\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Steve Kloves\n𝗣𝗵
- 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Eduardo Serra\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Heyday Films\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Daniel Radcliffe\n- Emma Watson\n- Rupert Gr
- int\n- Ralph Fiennes\n- Alan Rickman\n- Michael Gambon\n- Warwick Davis\n-
-  Helena Bonham Carter\n- Ciarán Hinds\n- Matthew Lewis\n- John Hurt\n- Ev
- anna Lynch\n\n\nLe combat entre les puissances du bien et du mal de l’un
- ivers des sorciers se transforme en guerre sans merci. L’école Poudlard
-  est désormais sous la coupe du professeur Rogue et des force des ténèb
- res. Les enjeux sont devenus considérables et personne n’est plus en s
- écurité alors que se rapproche l’ultime épreuve de force avec Voldemo
- rt…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/alQOPmKEPHkH4BLMEla1v
- TNYrUr.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/12445\n\nSéan
- ce relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB
- )
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/alQOPmKEPHkH4BLMEla1vTNYrUr.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/alQOPmKEPHkH4BLME
- la1vTNYrUr.jpg
-CATEGORIES:Aventure,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:event-280@calendrier-cine-fr
 DTSTAMP:20260902T000000Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Terminator 2 : Le Jugement dernier
-DESCRIPTION:Terminator 2: Judgment Day\n(37.8)\n\nAction\, Thriller\, Scien
+DESCRIPTION:Terminator 2: Judgment Day\n(41.5)\n\nAction\, Thriller\, Scien
  ce-Fiction\n𝟮𝗵𝟭𝟳\n\nFrance\, United States of America\n(Englis
  h\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 3 juillet 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
@@ -82,19 +50,21 @@ DTSTAMP:20260902T000000Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Wallace & Gromit : Cœurs à Modeler
-DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.6)\n\nFamilial\n𝟱𝟵
+DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.7)\n\nFamilial\n𝟱𝟵
  𝗺𝗶𝗻\n\nFrance\, United Kingdom\n(French)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 novembre 2017\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Nick Park\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : Folimage\, Aardman\n\n\nVous les connaissiez invent
- eurs? Les voici entrepreneurs! Nettoyeurs de vitres ou boulangers\, Wallac
- e et Gromit mettent du coeur à l’ouvrage. Un peu trop peut-être… Dan
- s Rasé de près (première apparition de Shaun le mouton) comme dans Un s
- acré pétrin (inédit au cinéma)\, l’amour aveugle de Wallace va préc
- ipiter le duo dans de folles aventures aux allures de polar!\n\n\nAffiche 
- : https://image.tmdb.org/t/p/w780/7vTItvAb12729l3kKU55VQr31l1.jpg\n\nFiche
-  TMDB : https://www.themoviedb.org/movie/847819\n\nSéance relevée sur Al
- loCiné.\nDonnées fournies par The Movie Database (TMDB)
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Nick Park\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Nick Park\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Folim
+ age\, Aardman\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Peter Sallis\n- Wendole
+ ne Ramsbottom\n- Piella Bakewell\n- Ben Whitehead\n\n\nVous les connaissie
+ z inventeurs? Les voici entrepreneurs! Nettoyeurs de vitres ou boulangers\
+ , Wallace et Gromit mettent du coeur à l’ouvrage. Un peu trop peut-êtr
+ e… Dans Rasé de près (première apparition de Shaun le mouton) comme d
+ ans Un sacré pétrin (inédit au cinéma)\, l’amour aveugle de Wallace 
+ va précipiter le duo dans de folles aventures aux allures de polar!\n\n\n
+ Affiche : https://image.tmdb.org/t/p/w780/7vTItvAb12729l3kKU55VQr31l1.jpg\
+ n\nFiche TMDB : https://www.themoviedb.org/movie/847819\n\nSéance relevé
+ e sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/7vTItvAb12729l3kKU55VQr31l1.jpg
@@ -140,7 +110,7 @@ DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Justin le Juste
-DESCRIPTION:Justin le Juste\n(2.2 ↘︎)\n\nComédie\, Histoire\, Guerre\n
+DESCRIPTION:Justin le Juste\n(2.8 ↑︎)\n\nComédie\, Histoire\, Guerre\n
  \nFrance\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Eric Barbier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -166,7 +136,7 @@ DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Karma
-DESCRIPTION:Karma\n(3.1 ↗︎)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(F
+DESCRIPTION:Karma\n(3.5 ↗︎)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(F
  rench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Guillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet
@@ -199,7 +169,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(1.6 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
+DESCRIPTION:Le Roi du Game\n(4.1 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
  rance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fou
@@ -296,7 +266,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 4
-DESCRIPTION:Fast & Furious\n(1.6)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:Fast & Furious\n(1.7)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 avril 2009\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -329,7 +299,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 5
-DESCRIPTION:Fast Five\n(1.7)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
+DESCRIPTION:Fast Five\n(1.8)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
  \n\nUnited States of America\n(English\, Spanish\, Portuguese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 4 mai 2011\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -446,7 +416,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 8
-DESCRIPTION:The Fate of the Furious\n(15.1)\n\nAction\, Crime\, Thriller\n
+DESCRIPTION:The Fate of the Furious\n(14.9)\n\nAction\, Crime\, Thriller\n
  𝟮𝗵𝟭𝟲\n\nUnited States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 12 avril 2
  017\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : F. Gary Gray\n𝗦
@@ -482,7 +452,7 @@ DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Fast & Furious 9
-DESCRIPTION:F9\n(9.7)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
+DESCRIPTION:F9\n(9.1)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
  ted States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 juillet 2021\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲𝗻
@@ -515,11 +485,11 @@ DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Fast & Furious X
-DESCRIPTION:Fast X\n(33.0)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
+DESCRIPTION:Fast X\n(31.6)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
  \nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 17 mai 2023\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Louis Leterrier\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Dan Mazeau\, Justin Lin\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗶𝗼 : Justin Lin\, Dan Mazeau\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : Stephen F. Windon\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
   : Universal Pictures\, Original Film\, One Race\n\n𝗔𝗰𝘁𝗲𝘂
  𝗿𝘀 :\n- Vin Diesel\n- Michelle Rodriguez\n- Tyrese Gibson\n- Ludacri
@@ -548,7 +518,7 @@ DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Garance
-DESCRIPTION:Garance\n(2.2 ↑︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
+DESCRIPTION:Garance\n(1.8 ↑︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
  lgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Jeanne Herry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne
@@ -584,8 +554,8 @@ DESCRIPTION:Avengers: Endgame\n(65.9 →︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 24 avril 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 :
-  Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher
-  Markus\, Stephen McFeely\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
+  Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McF
+ eely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
  𝗲 : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel St
  udios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evan
  s\n- Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renne
