@@ -11,10 +11,42 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:event-149@calendrier-cine-fr
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Akira
+DESCRIPTION:Akira\n(21.4)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+ 𝟬𝟰\n\nJapan\n(Japanese)\n𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
+ : Izō Hashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : 三沢勝治\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MB
+ S\, Sumitomo Corporation\, TOHO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mitsu
+ o Iwata\n- Nozomu Sasaki\n- Mami Koyama\n- 石田太郎\n- Mizuho Suzuki\n
+ - Tessyo Genda\n- Koichi Kitamura\n- 渕崎ゆり子\n- Masaaki Okura\n- T
+ akeshi Kusao\n- Kazuhiro Kamifuji\n- Tatsuhiko Nakamura\n\n\nTetsuo\, un a
+ dolescent ayant vécu une enfance difficile\, est la victime d'expérience
+ s visant à développer les capacités psychiques qui dorment en chacun de
+  nous. Ainsi doté d'une puissance que lui-même ne peut imaginer\, Tetsuo
+  décide de partir en guerre contre le monde qui l'a opprimé. Dès lors\,
+  il se retrouve au cœur d'une légende populaire qui annonce le retour pr
+ ochain d'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer T
+ okyo du chaos ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8fCn7TwTe
+ 0Z4fTugIiLssX6UcHe.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/14
+ 9\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Data
+ base (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
+ iLssX6UcHe.jpg
+CATEGORIES:Animation,Science-Fiction,Action
+END:VEVENT
+BEGIN:VEVENT
 UID:event-280@calendrier-cine-fr
-DTSTAMP:20260903T000000Z
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
 SUMMARY:Terminator 2 : Le Jugement dernier
 DESCRIPTION:Terminator 2: Judgment Day\n(37.0)\n\nAction\, Thriller\, Scien
  ce-Fiction\n𝟮𝗵𝟭𝟳\n\nFrance\, United States of America\n(Englis
@@ -45,44 +77,12 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/mRtFOHF93zW4kTp4J
 CATEGORIES:Action,Thriller,Science-Fiction
 END:VEVENT
 BEGIN:VEVENT
-UID:event-149@calendrier-cine-fr
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:Akira
-DESCRIPTION:Akira\n(17.0)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
- 𝟬𝟰\n\nJapan\n(Japanese)\n𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
- : Izō Hashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : 三沢勝治\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MB
- S\, Sumitomo Corporation\, TOHO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mitsu
- o Iwata\n- Nozomu Sasaki\n- Mami Koyama\n- 石田太郎\n- Mizuho Suzuki\n
- - Tessyo Genda\n- Koichi Kitamura\n- 渕崎ゆり子\n- Masaaki Okura\n- T
- akeshi Kusao\n- Kazuhiro Kamifuji\n- Tatsuhiko Nakamura\n\n\nTetsuo\, un a
- dolescent ayant vécu une enfance difficile\, est la victime d'expérience
- s visant à développer les capacités psychiques qui dorment en chacun de
-  nous. Ainsi doté d'une puissance que lui-même ne peut imaginer\, Tetsuo
-  décide de partir en guerre contre le monde qui l'a opprimé. Dès lors\,
-  il se retrouve au cœur d'une légende populaire qui annonce le retour pr
- ochain d'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer T
- okyo du chaos ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8fCn7TwTe
- 0Z4fTugIiLssX6UcHe.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/14
- 9\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Data
- base (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
- iLssX6UcHe.jpg
-CATEGORIES:Animation,Science-Fiction,Action
-END:VEVENT
-BEGIN:VEVENT
 UID:event-847819@calendrier-cine-fr
 DTSTAMP:20260905T000000Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Wallace & Gromit : Cœurs à Modeler
-DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.6)\n\nFamilial\n𝟱𝟵
+DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.7)\n\nFamilial\n𝟱𝟵
  𝗺𝗶𝗻\n\nFrance\, United Kingdom\n(French)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 novembre 2017\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Nick Park\n𝗦𝗰𝗲𝗻𝗮
@@ -110,7 +110,7 @@ DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Justin le Juste
-DESCRIPTION:Justin le Juste\n(2.8 ↑︎)\n\nComédie\, Histoire\, Guerre\n
+DESCRIPTION:Justin le Juste\n(2.2 ↑︎)\n\nComédie\, Histoire\, Guerre\n
  \nFrance\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Eric Barbier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -136,7 +136,7 @@ DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Karma
-DESCRIPTION:Karma\n(3.1 ↑︎)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(F
+DESCRIPTION:Karma\n(3.6 ↑︎)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(F
  rench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Guillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet
@@ -169,7 +169,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(3.8 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
+DESCRIPTION:Le Roi du Game\n(2.6 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
  rance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fou
@@ -197,7 +197,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:2 Fast 2 Furious
-DESCRIPTION:2 Fast 2 Furious\n(2.4)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:2 Fast 2 Furious\n(2.6)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nGermany\, United States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 18 juin 20
  03\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Singleton\n𝗦
@@ -339,7 +339,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 6
-DESCRIPTION:Fast & Furious 6\n(1.5)\n\nAction\, Thriller\, Crime\n𝟮𝗵
+DESCRIPTION:Fast & Furious 6\n(1.6)\n\nAction\, Thriller\, Crime\n𝟮𝗵
  𝟭𝟬\n\nUnited States of America\n(English\, Cantonese\, Dutch)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 22 mai 201
  3\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰
@@ -377,7 +377,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 7
-DESCRIPTION:Furious 7\n(17.7)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
+DESCRIPTION:Furious 7\n(20.5)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
  𝟳\n\nUnited States of America\n(English\, Arabic\, Spanish)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 avril 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲
@@ -416,7 +416,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 8
-DESCRIPTION:The Fate of the Furious\n(14.2)\n\nAction\, Crime\, Thriller\n
+DESCRIPTION:The Fate of the Furious\n(15.6)\n\nAction\, Crime\, Thriller\n
  𝟮𝗵𝟭𝟲\n\nUnited States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 12 avril 2
  017\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : F. Gary Gray\n𝗦
@@ -485,11 +485,11 @@ DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Fast & Furious X
-DESCRIPTION:Fast X\n(28.6)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
+DESCRIPTION:Fast X\n(30.2)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
  \nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 17 mai 2023\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Louis Leterrier\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Dan Mazeau\, Justin Lin\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗶𝗼 : Justin Lin\, Dan Mazeau\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : Stephen F. Windon\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
   : Universal Pictures\, Original Film\, One Race\n\n𝗔𝗰𝘁𝗲𝘂
  𝗿𝘀 :\n- Vin Diesel\n- Michelle Rodriguez\n- Tyrese Gibson\n- Ludacri
@@ -518,7 +518,7 @@ DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Garance
-DESCRIPTION:Garance\n(1.9 →︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
+DESCRIPTION:Garance\n(2.1 →︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
  lgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Jeanne Herry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne
@@ -550,10 +550,10 @@ DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Bound
-DESCRIPTION:Bound\n(8.7)\n\nDrame\, Thriller\, Crime\n𝟭𝗵𝟰𝟱\n\nU
- nited States of America\n(English\, Italian)\n𝗦𝗼𝗿𝘁𝗶𝗲 
+DESCRIPTION:Bound\n(13.6)\n\nDrame\, Thriller\, Crime\n𝟭𝗵𝟰𝟱\n\n
+ United States of America\n(English\, Italian)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 6 novembre 1996\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Lilly Wachowski\, Lana Wachowski\n
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Lana Wachowski\, Lilly Wachowski\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Lana Wachowski\, Lilly Wachowski\n𝗣
  𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Bill Pope\n𝗣𝗿𝗼𝗱
  𝘂𝗰𝘁𝗶𝗼𝗻 : The De Laurentiis Company\, Summit Entertainmen
@@ -582,7 +582,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(65.6 →︎)\n\nAventure\, Science-Fiction\
+DESCRIPTION:Avengers: Endgame\n(61.0 →︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 24 avril 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 :
@@ -612,12 +612,43 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
 CATEGORIES:Aventure,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
+UID:event-1110034@calendrier-cine-fr
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Kraken
+DESCRIPTION:Kraken\n(51.8)\n\nHorreur\, Action\, Thriller\n𝟭𝗵𝟯𝟰
+ \n\nNorway\n(Norwegian\, Spanish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲
+  𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pål Øie\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
+ 𝗼 : Vilde Eide\, Kjersti Helen Rasmussen\, Natasha Arthur\n𝗣𝗵𝗼
+ 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Sjur Aarthun\n𝗣𝗿𝗼𝗱𝘂
+ 𝗰𝘁𝗶𝗼𝗻 : Handmade films in Norwegian Woods\, Nordisk Film No
+ rway\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Sara Khorami\n- Mikkel Bratt Sil
+ set\n- Ingvild Holthe Bygdnes\n- Øyvind Brandtzæg\n- Jenny Evensen\n- St
+ einar Klouman Hallert\n- Filip Bargee Ramberg\n- Jon Erik Myre\n- Hans Mor
+ ten Hansen\n- Magnús Blöndal Jóhannsson\n- Jon Kennedy Dushime Niyokind
+ i\n- Silje Breivik\n\n\nJohanne\, biologiste marine\, mène des recherches
+  dans une ferme piscicole à Vangsnes\, un petit village situé au bord de
+  l'un des fjords les plus profonds de Norvège\, suite à une série de mo
+ rts mystérieuses.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/30MlKsvn
+ IuZ3Zcu9KvsxhyHF7S9.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1
+ 110034\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie
+  Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/30MlKsvnIuZ3Zcu9KvsxhyHF7S9.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9K
+ vsxhyHF7S9.jpg
+CATEGORIES:Horreur,Action,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:event-920@calendrier-cine-fr
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(28.3)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(32.3)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
@@ -641,5 +672,104 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
  OtwYXrovdo.jpg
 CATEGORIES:Animation,Aventure,Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
+UID:event-101299@calendrier-cine-fr
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Hunger Games : L'Embrasement
+DESCRIPTION:The Hunger Games: Catching Fire\n(20.1)\n\nAventure\, Action\, 
+ Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
+ 𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
+ embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
+ 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
+ th\n- Woody Harrelson\n- Elizabeth Banks\n- Donald Sutherland\n- Lenny Kra
+ vitz\n- Philip Seymour Hoffman\n- Jeffrey Wright\n- Stanley Tucci\n- Toby 
+ Jones\n- Willow Shields\n\n\nAprès les premiers Hunger Games\, Katniss es
+ t devenue le symbole de la rébellion. Le peuple de Panem est impatient de
+  la retrouver pour la grande Tournée de la victoire. Mais Katniss va devo
+ ir prouver au Capitole et au Président Snow que ses sentiments envers Pee
+ ta étaient sincères afin de sauver ceux qu’elle aime…\n\n\nAffiche :
+  https://image.tmdb.org/t/p/w780/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg\n\nFiche 
+ TMDB : https://www.themoviedb.org/movie/101299\n\nSéance relevée sur All
+ oCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/32mRJXEjmpcVYcQFvzvXCLPsUgS.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/32mRJXEjmpcVYcQFv
+ zvXCLPsUgS.jpg
+CATEGORIES:Aventure,Action,Science-Fiction
+END:VEVENT
+BEGIN:VEVENT
+UID:event-131631@calendrier-cine-fr
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Hunger Games : La Révolte - Partie 1
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(20.3)\n\nScience-Fictio
+ n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
+ glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
+ : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
+ is Lawrence\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Danny Strong\, Peter Craig
+ \n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
+ th\n- Woody Harrelson\n- Elizabeth Banks\n- Julianne Moore\n- Philip Seymo
+ ur Hoffman\n- Jeffrey Wright\n- Stanley Tucci\n- Donald Sutherland\n- Will
+ ow Shields\n- Sam Claflin\n\n\nKatniss Everdeen s’est réfugiée dans le
+  District 13 après avoir détruit à jamais l’arène et les Jeux. Sous 
+ le commandement de la Présidente Coin\, chef du district\, et suivant les
+  conseils de ses amis en qui elle a toute confiance\, Katniss déploie ses
+  ailes pour devenir le symbole de la rébellion. Elle va se battre pour sa
+ uver Peeta et libérer le pays tout entier\, à qui son courage a redonné
+  espoir.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/4LzjVMUit99buiiuhq
+ W4pe0OhmA.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/131631\n\nS
+ éance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (
+ TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/4LzjVMUit99buiiuhqW4pe0OhmA.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4LzjVMUit99buiiuh
+ qW4pe0OhmA.jpg
+CATEGORIES:Science-Fiction,Aventure,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-131634@calendrier-cine-fr
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Hunger Games : La Révolte - Partie 2
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(14.1)\n\nAction\, Avent
+ ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
+ ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
+ 𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Francis Lawrence\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Danny Strong\,
+  Peter Craig\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willem
+ s\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\, St
+ udio Babelsberg\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- 
+ Josh Hutcherson\n- Liam Hemsworth\n- Woody Harrelson\n- Elizabeth Banks\n-
+  Julianne Moore\n- Philip Seymour Hoffman\n- Jeffrey Wright\n- Stanley Tuc
+ ci\n- Donald Sutherland\n- Willow Shields\n- Sam Claflin\n\n\nAlors que Pa
+ nem est ravagé par une guerre désormais totale\, Katniss et le Présiden
+ t Snow vont s’affronter pour la dernière fois. Katniss et ses plus proc
+ hes amis – Gale\, Finnick\, et Peeta – sont envoyés en mission pour l
+ e District 13 : ils vont risquer leur vie pour tenter d’assassiner le P
+ résident Snow\, qui s’est juré de détruire Katniss. Les pièges morte
+ ls\, les ennemis et les choix déchirants qui attendent Katniss seront des
+  épreuves bien pires que tout ce qu’elle a déjà pu affronter dans l
+ ’arène…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/ojFCU0K7Err8n8
+ 7VOONrnrCcQxj.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/131634\
+ n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Databa
+ se (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/ojFCU0K7Err8n87VOONrnrCcQxj.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ojFCU0K7Err8n87VO
+ ONrnrCcQxj.jpg
+CATEGORIES:Action,Aventure,Science-Fiction
 END:VEVENT
 END:VCALENDAR
