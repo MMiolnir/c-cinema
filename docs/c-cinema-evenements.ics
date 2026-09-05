@@ -11,44 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-149@calendrier-cine-fr
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:Akira
-DESCRIPTION:Akira\n(21.4)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
- 𝟬𝟰\n\nJapan\n(Japanese)\n𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
- : Izō Hashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : 三沢勝治\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MB
- S\, Sumitomo Corporation\, TOHO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mitsu
- o Iwata\n- Nozomu Sasaki\n- Mami Koyama\n- 石田太郎\n- Mizuho Suzuki\n
- - Tessyo Genda\n- Koichi Kitamura\n- 渕崎ゆり子\n- Masaaki Okura\n- T
- akeshi Kusao\n- Kazuhiro Kamifuji\n- Tatsuhiko Nakamura\n\n\nTetsuo\, un a
- dolescent ayant vécu une enfance difficile\, est la victime d'expérience
- s visant à développer les capacités psychiques qui dorment en chacun de
-  nous. Ainsi doté d'une puissance que lui-même ne peut imaginer\, Tetsuo
-  décide de partir en guerre contre le monde qui l'a opprimé. Dès lors\,
-  il se retrouve au cœur d'une légende populaire qui annonce le retour pr
- ochain d'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer T
- okyo du chaos ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8fCn7TwTe
- 0Z4fTugIiLssX6UcHe.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/14
- 9\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Data
- base (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
- iLssX6UcHe.jpg
-CATEGORIES:Animation,Science-Fiction,Action
-END:VEVENT
-BEGIN:VEVENT
 UID:event-280@calendrier-cine-fr
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
+DTSTAMP:20260905T000000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
 SUMMARY:Terminator 2 : Le Jugement dernier
-DESCRIPTION:Terminator 2: Judgment Day\n(37.0)\n\nAction\, Thriller\, Scien
+DESCRIPTION:Terminator 2: Judgment Day\n(36.1)\n\nAction\, Thriller\, Scien
  ce-Fiction\n𝟮𝗵𝟭𝟳\n\nFrance\, United States of America\n(Englis
  h\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 3 juillet 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
@@ -82,7 +50,7 @@ DTSTAMP:20260905T000000Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Wallace & Gromit : Cœurs à Modeler
-DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.7)\n\nFamilial\n𝟱𝟵
+DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.6)\n\nFamilial\n𝟱𝟵
  𝗺𝗶𝗻\n\nFrance\, United Kingdom\n(French)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 novembre 2017\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Nick Park\n𝗦𝗰𝗲𝗻𝗮
@@ -110,7 +78,7 @@ DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Justin le Juste
-DESCRIPTION:Justin le Juste\n(2.2 ↑︎)\n\nComédie\, Histoire\, Guerre\n
+DESCRIPTION:Justin le Juste\n(2.6 ↑︎)\n\nComédie\, Histoire\, Guerre\n
  \nFrance\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Eric Barbier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -136,7 +104,7 @@ DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Karma
-DESCRIPTION:Karma\n(3.6 ↑︎)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(F
+DESCRIPTION:Karma\n(3.2 ↑︎)\n\nThriller\n𝟮𝗵𝟮𝟵\n\nFrance\n(F
  rench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Guillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet
@@ -169,7 +137,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(2.6 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
+DESCRIPTION:Le Roi du Game\n(2.9 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
  rance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fou
@@ -235,7 +203,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious : Tokyo drift
-DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.2)\n\nAction\, Crime\
+DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.3)\n\nAction\, Crime\
  , Thriller\n𝟭𝗵𝟰𝟰\n\nGermany\, Japan\, United States of America
  \n(English\, Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 19 juillet 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
@@ -266,7 +234,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 4
-DESCRIPTION:Fast & Furious\n(1.7)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:Fast & Furious\n(2.0)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 avril 2009\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -299,7 +267,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 5
-DESCRIPTION:Fast Five\n(1.8)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
+DESCRIPTION:Fast Five\n(1.9)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
  \n\nUnited States of America\n(English\, Spanish\, Portuguese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 4 mai 2011\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -452,8 +420,8 @@ DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Fast & Furious 9
-DESCRIPTION:F9\n(9.6)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
- ted States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
+DESCRIPTION:F9\n(11.7)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUn
+ ited States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 juillet 2021\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲𝗻
  𝗮𝗿𝗶𝗼 : Justin Lin\, Daniel Casey\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
@@ -485,7 +453,7 @@ DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Fast & Furious X
-DESCRIPTION:Fast X\n(30.2)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
+DESCRIPTION:Fast X\n(30.3)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
  \nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 17 mai 2023\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Louis Leterrier\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -518,7 +486,7 @@ DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Garance
-DESCRIPTION:Garance\n(2.1 →︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
+DESCRIPTION:Garance\n(2.1 ↗︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
  lgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Jeanne Herry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne
@@ -550,10 +518,10 @@ DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Bound
-DESCRIPTION:Bound\n(13.6)\n\nDrame\, Thriller\, Crime\n𝟭𝗵𝟰𝟱\n\n
+DESCRIPTION:Bound\n(11.5)\n\nDrame\, Thriller\, Crime\n𝟭𝗵𝟰𝟱\n\n
  United States of America\n(English\, Italian)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 6 novembre 1996\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Lana Wachowski\, Lilly Wachowski\n
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Lilly Wachowski\, Lana Wachowski\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Lana Wachowski\, Lilly Wachowski\n𝗣
  𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Bill Pope\n𝗣𝗿𝗼𝗱
  𝘂𝗰𝘁𝗶𝗼𝗻 : The De Laurentiis Company\, Summit Entertainmen
@@ -582,7 +550,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(61.0 →︎)\n\nAventure\, Science-Fiction\
+DESCRIPTION:Avengers: Endgame\n(57.6 →︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 24 avril 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 :
@@ -652,20 +620,20 @@ DESCRIPTION:Cars\n(32.3)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Lasseter\, Jørgen Klubien\, Dan
-  Fogelman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky
- \, Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n
- \n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie H
- unt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaro
- ni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- K
- atherine Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à
-  l'heure jusqu’à ce qu’un détour le mène à Radiator Springs\, une 
- petite ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc
-  Hudson et un tas de personnages amusants qui l’aident à découvrir que
-  la vie vaut plus que les trophées et la célébrité.\n\n\nAffiche : htt
- ps://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB
-  : https://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.
- \nDonnées fournies par The Movie Database (TMDB)
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
+ ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
+ ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie Hun
+ t\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaroni
+ \n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- Kat
+ herine Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à l
+ 'heure jusqu’à ce qu’un détour le mène à Radiator Springs\, une pe
+ tite ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc H
+ udson et un tas de personnages amusants qui l’aident à découvrir que l
+ a vie vaut plus que les trophées et la célébrité.\n\n\nAffiche : https
+ ://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB :
+  https://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.\n
+ Données fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
@@ -679,7 +647,7 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(20.1)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(22.0)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
@@ -710,7 +678,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte - Partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(20.3)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(24.5)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -743,7 +711,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte - Partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(14.1)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(17.3)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
