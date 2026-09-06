@@ -12,11 +12,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:event-280@calendrier-cine-fr
-DTSTAMP:20260905T000000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
+DTSTAMP:20260906T000000Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
 SUMMARY:Terminator 2 : Le Jugement dernier
-DESCRIPTION:Terminator 2: Judgment Day\n(36.1)\n\nAction\, Thriller\, Scien
+DESCRIPTION:Terminator 2: Judgment Day\n(38.0)\n\nAction\, Thriller\, Scien
  ce-Fiction\n𝟮𝗵𝟭𝟳\n\nFrance\, United States of America\n(Englis
  h\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 3 juillet 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
@@ -46,11 +46,11 @@ CATEGORIES:Action,Thriller,Science-Fiction
 END:VEVENT
 BEGIN:VEVENT
 UID:event-847819@calendrier-cine-fr
-DTSTAMP:20260905T000000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
+DTSTAMP:20260906T000000Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
 SUMMARY:Wallace & Gromit : Cœurs à Modeler
-DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.6)\n\nFamilial\n𝟱𝟵
+DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.8)\n\nFamilial\n𝟱𝟵
  𝗺𝗶𝗻\n\nFrance\, United Kingdom\n(French)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 novembre 2017\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Nick Park\n𝗦𝗰𝗲𝗻𝗮
@@ -78,7 +78,7 @@ DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Justin le Juste
-DESCRIPTION:Justin le Juste\n(2.6 ↑︎)\n\nComédie\, Histoire\, Guerre\n
+DESCRIPTION:Justin le Juste\n(2.2 ↑︎)\n\nComédie\, Histoire\, Guerre\n
  \nFrance\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Eric Barbier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -137,7 +137,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(2.9 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
+DESCRIPTION:Le Roi du Game\n(2.5 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
  rance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fou
@@ -234,7 +234,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 4
-DESCRIPTION:Fast & Furious\n(2.0)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:Fast & Furious\n(1.8)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 avril 2009\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -345,7 +345,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 7
-DESCRIPTION:Furious 7\n(20.5)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
+DESCRIPTION:Furious 7\n(19.7)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
  𝟳\n\nUnited States of America\n(English\, Arabic\, Spanish)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 avril 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲
@@ -384,7 +384,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 8
-DESCRIPTION:The Fate of the Furious\n(15.6)\n\nAction\, Crime\, Thriller\n
+DESCRIPTION:The Fate of the Furious\n(13.9)\n\nAction\, Crime\, Thriller\n
  𝟮𝗵𝟭𝟲\n\nUnited States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 12 avril 2
  017\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : F. Gary Gray\n𝗦
@@ -420,7 +420,7 @@ DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Fast & Furious 9
-DESCRIPTION:F9\n(11.7)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUn
+DESCRIPTION:F9\n(10.0)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUn
  ited States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 juillet 2021\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲𝗻
@@ -453,7 +453,7 @@ DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Fast & Furious X
-DESCRIPTION:Fast X\n(30.3)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
+DESCRIPTION:Fast X\n(27.9)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
  \nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 17 mai 2023\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Louis Leterrier\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -550,28 +550,28 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(57.6 →︎)\n\nAventure\, Science-Fiction\
+DESCRIPTION:Avengers: Endgame\n(58.9 ↘︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
- 𝗲 : 24 avril 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 :
-  Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McF
- eely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
- 𝗲 : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel St
- udios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evan
- s\n- Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renne
- r\n- Josh Brolin\n- Don Cheadle\n- Paul Rudd\n- Benedict Cumberbatch\n- Ch
- adwick Boseman\n- Brie Larson\n\n\nAprès leur défaite face au Titan Than
- os qui dans le film précédent s'est approprié toutes les pierres du Gan
- t de l'infini\, les Avengers et les Gardiens de la Galaxie ayant survécu 
- à son claquement de doigts qui a pulvérisé « la moitié de toute forme
-  de vie dans l'Univers »\, Captain America\, Thor\, Bruce Banner\, Natash
- a Romanoff\, War Machine\, Tony Stark\, Nébula et Rocket\, vont essayer d
- e trouver une solution pour ramener leurs coéquipiers disparus et vaincre
-  Thanos en se faisant aider par Ronin alias Clint Barton\, Captain Marvel 
- et Ant-Man.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7
- t5KHePuRjXc8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/299534\n
- \nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Databas
- e (TMDB)
+ 𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
+ Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher 
+ Markus\, Stephen McFeely\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
+  : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
+ s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
+  Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renner\n-
+  Josh Brolin\n- Don Cheadle\n- Paul Rudd\n- Benedict Cumberbatch\n- Chadwi
+ ck Boseman\n- Brie Larson\n\n\nAprès leur défaite face au Titan Thanos q
+ ui dans le film précédent s'est approprié toutes les pierres du Gant de
+  l'infini\, les Avengers et les Gardiens de la Galaxie ayant survécu à s
+ on claquement de doigts qui a pulvérisé « la moitié de toute forme de 
+ vie dans l'Univers »\, Captain America\, Thor\, Bruce Banner\, Natasha Ro
+ manoff\, War Machine\, Tony Stark\, Nébula et Rocket\, vont essayer de tr
+ ouver une solution pour ramener leurs coéquipiers disparus et vaincre Tha
+ nos en se faisant aider par Ronin alias Clint Barton\, Captain Marvel et A
+ nt-Man.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KH
+ ePuRjXc8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/299534\n\nS
+ éance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (
+ TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg
@@ -585,7 +585,7 @@ DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Kraken
-DESCRIPTION:Kraken\n(51.8)\n\nHorreur\, Action\, Thriller\n𝟭𝗵𝟯𝟰
+DESCRIPTION:Kraken\n(40.0)\n\nHorreur\, Action\, Thriller\n𝟭𝗵𝟯𝟰
  \n\nNorway\n(Norwegian\, Spanish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲
   𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pål Øie\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -616,24 +616,24 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(32.3)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(31.1)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
- ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
- ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie Hun
- t\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaroni
- \n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- Kat
- herine Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à l
- 'heure jusqu’à ce qu’un détour le mène à Radiator Springs\, une pe
- tite ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc H
- udson et un tas de personnages amusants qui l’aident à découvrir que l
- a vie vaut plus que les trophées et la célébrité.\n\n\nAffiche : https
- ://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB :
-  https://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.\n
- Données fournies par The Movie Database (TMDB)
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Lasseter\, Jørgen Klubien\, Dan
+  Fogelman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky
+ \, Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n
+ \n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie H
+ unt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaro
+ ni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- K
+ atherine Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à
+  l'heure jusqu’à ce qu’un détour le mène à Radiator Springs\, une 
+ petite ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc
+  Hudson et un tas de personnages amusants qui l’aident à découvrir que
+  la vie vaut plus que les trophées et la célébrité.\n\n\nAffiche : htt
+ ps://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB
+  : https://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.
+ \nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
@@ -647,11 +647,11 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(22.0)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(20.9)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
- nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Beaufoy\, Michael Arndt\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
@@ -678,7 +678,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte - Partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(24.5)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(21.8)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -711,7 +711,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte - Partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(17.3)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(15.2)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
