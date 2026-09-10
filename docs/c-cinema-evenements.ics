@@ -11,12 +11,45 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:event-1418998@calendrier-cine-fr
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Karma
+DESCRIPTION:Karma\n(2.8 ↑︎)\n\nThriller\n𝟮𝗵𝟮𝟬\n\nFrance\n(F
+ rench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
+ 𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Guillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet
+ \, Simon Jacquet\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Beno
+ ît Debie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Iconoclast\, Caneo F
+ ilms\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Marion Cotillard\n- Denis Ménoc
+ het\n- Leonardo Sbaraglia\n- Luis Zahera\n- Anne Le Forestier\n- Alain Bla
+ zquez\n- Ferran Font Benito\n- Stivell Perot\n- Vincent Treguier\n- Hugo T
+ rophardy\n\n\nDans un village au nord de l’Espagne\, Jeanne tente de rec
+ onstruire sa vie avec Daniel\, qui ne connaît rien de son passé trouble.
+  Un jour\, Mateo\, le filleul de Jeanne âgé de six ans\, disparaît myst
+ érieusement… Afin d’échapper à la police qui la soupçonne rapideme
+ nt\, Jeanne se réfugie en France dans une communauté religieuse dans laq
+ uelle elle est née et qu’elle a fuie quelques années auparavant. Danie
+ l ne croit pas à la culpabilité de la femme qu’il aime et va tout fair
+ e pour la retrouver avant la police.\n\n\nAffiche : https://image.tmdb.org
+ /t/p/w780/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg\n\nFiche TMDB : https://www.them
+ oviedb.org/movie/1418998\n\nSéance relevée sur AlloCiné.\nDonnées four
+ nies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hwEZ6fOtXX9mIZHSZ
+ PoOJW7AvmP.jpg
+CATEGORIES:Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:event-149@calendrier-cine-fr
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
 SUMMARY:Akira
-DESCRIPTION:Akira\n(21.7)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(20.6)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
  𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
@@ -44,38 +77,10 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
 CATEGORIES:Animation,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
-UID:event-847819@calendrier-cine-fr
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:Wallace & Gromit : Cœurs à Modeler
-DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.8)\n\nFamilial\n𝟱𝟵
- 𝗺𝗶𝗻\n\nFrance\, United Kingdom\n(French)\n𝗦𝗼𝗿𝘁𝗶
- 𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 novembre 2017\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Nick Park\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Nick Park\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Folim
- age\, Aardman\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Peter Sallis\n- Wendole
- ne Ramsbottom\n- Piella Bakewell\n- Ben Whitehead\n\n\nVous les connaissie
- z inventeurs? Les voici entrepreneurs! Nettoyeurs de vitres ou boulangers\
- , Wallace et Gromit mettent du coeur à l’ouvrage. Un peu trop peut-êtr
- e… Dans Rasé de près (première apparition de Shaun le mouton) comme d
- ans Un sacré pétrin (inédit au cinéma)\, l’amour aveugle de Wallace 
- va précipiter le duo dans de folles aventures aux allures de polar!\n\n\n
- Affiche : https://image.tmdb.org/t/p/w780/7vTItvAb12729l3kKU55VQr31l1.jpg\
- n\nFiche TMDB : https://www.themoviedb.org/movie/847819\n\nSéance relevé
- e sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/7vTItvAb12729l3kKU55VQr31l1.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7vTItvAb12729l3kK
- U55VQr31l1.jpg
-CATEGORIES:Familial
-END:VEVENT
-BEGIN:VEVENT
 UID:event-280@calendrier-cine-fr
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
 SUMMARY:Terminator 2 : Le Jugement dernier
 DESCRIPTION:Terminator 2: Judgment Day\n(36.4)\n\nAction\, Thriller\, Scien
  ce-Fiction\n𝟮𝗵𝟭𝟳\n\nFrance\, United States of America\n(Englis
@@ -106,45 +111,12 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/mRtFOHF93zW4kTp4J
 CATEGORIES:Action,Thriller,Science-Fiction
 END:VEVENT
 BEGIN:VEVENT
-UID:event-1418998@calendrier-cine-fr
-DTSTAMP:20260910T000000Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:Karma
-DESCRIPTION:Karma\n(3.2 ↑︎)\n\nThriller\n𝟮𝗵𝟮𝟬\n\nFrance\n(F
- rench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
- 𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Guillaume Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet
- \, Simon Jacquet\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Beno
- ît Debie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Iconoclast\, Caneo F
- ilms\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Marion Cotillard\n- Denis Ménoc
- het\n- Leonardo Sbaraglia\n- Luis Zahera\n- Anne Le Forestier\n- Alain Bla
- zquez\n- Ferran Font Benito\n- Stivell Perot\n- Vincent Treguier\n- Hugo T
- rophardy\n\n\nDans un village au nord de l’Espagne\, Jeanne tente de rec
- onstruire sa vie avec Daniel\, qui ne connaît rien de son passé trouble.
-  Un jour\, Mateo\, le filleul de Jeanne âgé de six ans\, disparaît myst
- érieusement… Afin d’échapper à la police qui la soupçonne rapideme
- nt\, Jeanne se réfugie en France dans une communauté religieuse dans laq
- uelle elle est née et qu’elle a fuie quelques années auparavant. Danie
- l ne croit pas à la culpabilité de la femme qu’il aime et va tout fair
- e pour la retrouver avant la police.\n\n\nAffiche : https://image.tmdb.org
- /t/p/w780/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg\n\nFiche TMDB : https://www.them
- oviedb.org/movie/1418998\n\nSéance relevée sur AlloCiné.\nDonnées four
- nies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hwEZ6fOtXX9mIZHSZ
- PoOJW7AvmP.jpg
-CATEGORIES:Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:event-1505487@calendrier-cine-fr
 DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(1.6 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
+DESCRIPTION:Le Roi du Game\n(1.8 ↗︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
  rance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Éric Judor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fou
@@ -167,12 +139,40 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/eW9DzQYFL0Sxd3WBH
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:event-847819@calendrier-cine-fr
+DTSTAMP:20260912T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Wallace & Gromit : Cœurs à Modeler
+DESCRIPTION:Wallace & Gromit - Hearts of Clay\n(0.7)\n\nFamilial\n𝟱𝟵
+ 𝗺𝗶𝗻\n\nFrance\, United Kingdom\n(French)\n𝗦𝗼𝗿𝘁𝗶
+ 𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 8 novembre 2017\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Nick Park\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Nick Park\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Folim
+ age\, Aardman\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Peter Sallis\n- Wendole
+ ne Ramsbottom\n- Piella Bakewell\n- Ben Whitehead\n\n\nVous les connaissie
+ z inventeurs? Les voici entrepreneurs! Nettoyeurs de vitres ou boulangers\
+ , Wallace et Gromit mettent du coeur à l’ouvrage. Un peu trop peut-êtr
+ e… Dans Rasé de près (première apparition de Shaun le mouton) comme d
+ ans Un sacré pétrin (inédit au cinéma)\, l’amour aveugle de Wallace 
+ va précipiter le duo dans de folles aventures aux allures de polar!\n\n\n
+ Affiche : https://image.tmdb.org/t/p/w780/7vTItvAb12729l3kKU55VQr31l1.jpg\
+ n\nFiche TMDB : https://www.themoviedb.org/movie/847819\n\nSéance relevé
+ e sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/7vTItvAb12729l3kKU55VQr31l1.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7vTItvAb12729l3kK
+ U55VQr31l1.jpg
+CATEGORIES:Familial
+END:VEVENT
+BEGIN:VEVENT
 UID:event-584@calendrier-cine-fr
 DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:2 Fast 2 Furious
-DESCRIPTION:2 Fast 2 Furious\n(2.8)\n\nAction\, Crime\, Thriller\n𝟭𝗵
+DESCRIPTION:2 Fast 2 Furious\n(2.9)\n\nAction\, Crime\, Thriller\n𝟭𝗵
  𝟰𝟳\n\nGermany\, United States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 18 juin 20
  03\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Singleton\n𝗦
@@ -210,7 +210,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious : Tokyo drift
-DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.3)\n\nAction\, Crime\
+DESCRIPTION:The Fast and the Furious: Tokyo Drift\n(3.4)\n\nAction\, Crime\
  , Thriller\n𝟭𝗵𝟰𝟰\n\nGermany\, Japan\, United States of America
  \n(English\, Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 19 juillet 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
@@ -274,7 +274,7 @@ DTSTAMP:20260912T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Fast & Furious 5
-DESCRIPTION:Fast Five\n(2.1)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
+DESCRIPTION:Fast Five\n(1.9)\n\nAction\, Thriller\, Crime\n𝟮𝗵𝟭𝟬
  \n\nUnited States of America\n(English\, Spanish\, Portuguese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 4 mai 2011\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲
@@ -352,7 +352,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 7
-DESCRIPTION:Furious 7\n(20.0)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
+DESCRIPTION:Furious 7\n(19.3)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟭
  𝟳\n\nUnited States of America\n(English\, Arabic\, Spanish)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 avril 2015\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲
@@ -391,7 +391,7 @@ DTSTAMP:20260913T000000Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Fast & Furious 8
-DESCRIPTION:The Fate of the Furious\n(12.8)\n\nAction\, Crime\, Thriller\n
+DESCRIPTION:The Fate of the Furious\n(12.0)\n\nAction\, Crime\, Thriller\n
  𝟮𝗵𝟭𝟲\n\nUnited States of America\n(English\, Spanish)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 12 avril 2
  017\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : F. Gary Gray\n𝗦
@@ -427,8 +427,8 @@ DTSTAMP:20260914T000000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Fast & Furious 9
-DESCRIPTION:F9\n(11.0)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUn
- ited States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
+DESCRIPTION:F9\n(9.7)\n\nAction\, Aventure\, Crime\n𝟮𝗵𝟮𝟱\n\nUni
+ ted States of America\n(English\, French\, German)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 juillet 2021\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Justin Lin\n𝗦𝗰𝗲𝗻
  𝗮𝗿𝗶𝗼 : Justin Lin\, Daniel Casey\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
@@ -460,7 +460,7 @@ DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Fast & Furious X
-DESCRIPTION:Fast X\n(29.7)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
+DESCRIPTION:Fast X\n(28.5)\n\nAction\, Crime\, Thriller\n𝟮𝗵𝟮𝟭\n
  \nUnited States of America\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 17 mai 2023\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Louis Leterrier\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -493,7 +493,7 @@ DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Garance
-DESCRIPTION:Garance\n(2.3 ↘︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
+DESCRIPTION:Garance\n(2.5 →︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
  lgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Jeanne Herry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne
@@ -525,10 +525,10 @@ DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Bound
-DESCRIPTION:Bound\n(9.0)\n\nDrame\, Thriller\, Crime\n𝟭𝗵𝟰𝟱\n\nU
+DESCRIPTION:Bound\n(9.1)\n\nDrame\, Thriller\, Crime\n𝟭𝗵𝟰𝟱\n\nU
  nited States of America\n(English\, Italian)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 6 novembre 1996\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Lana Wachowski\, Lilly Wachowski\n
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Lilly Wachowski\, Lana Wachowski\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Lana Wachowski\, Lilly Wachowski\n𝗣
  𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Bill Pope\n𝗣𝗿𝗼𝗱
  𝘂𝗰𝘁𝗶𝗼𝗻 : The De Laurentiis Company\, Summit Entertainmen
@@ -557,7 +557,7 @@ DTSTAMP:20260920T000000Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Heart of the Beast
-DESCRIPTION:Heart of the Beast\n(19.1 ↑︎)\n\nAventure\, Thriller\n𝟭
+DESCRIPTION:Heart of the Beast\n(16.8 ↑︎)\n\nAventure\, Thriller\n𝟭
  𝗵𝟰𝟭\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀
  𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2
  026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Ayer\n𝗦𝗰
@@ -565,14 +565,14 @@ DESCRIPTION:Heart of the Beast\n(19.1 ↑︎)\n\nAventure\, Thriller\n𝟭
  𝗮𝗽𝗵𝗶𝗲 : Mauro Fiore\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
  𝗻 : Paramount Pictures\, Wild Chickens Productions\, Temple Hill Entert
  ainment\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Brad Pitt\n- J.K. Simmons\n- 
- Anna Lambe\n\n\nAprès un terrible crash d’avion\, James Belmont (Brad P
- itt)\, ancien des forces spéciales\, se retrouve perdu au cœur de l’Al
- aska avec son chien Odin\, depuis toujours à ses côtés. Livrés à eux-
- mêmes dans une nature aussi magnifique qu’impitoyable\, ils devront pui
- ser dans leurs dernières forces pour survivre ensemble.\n\n\nAffiche : ht
- tps://image.tmdb.org/t/p/w780/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg\n\nFiche TMD
- B : https://www.themoviedb.org/movie/1263337\n\nSéance relevée sur AlloC
- iné.\nDonnées fournies par The Movie Database (TMDB)
+ Anna Lambe\n- Uber\n\n\nAprès un terrible crash d’avion\, James Belmont
+  (Brad Pitt)\, ancien des forces spéciales\, se retrouve perdu au cœur d
+ e l’Alaska avec son chien Odin\, depuis toujours à ses côtés. Livrés
+  à eux-mêmes dans une nature aussi magnifique qu’impitoyable\, ils dev
+ ront puiser dans leurs dernières forces pour survivre ensemble.\n\n\nAffi
+ che : https://image.tmdb.org/t/p/w780/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg\n\nF
+ iche TMDB : https://www.themoviedb.org/movie/1263337\n\nSéance relevée s
+ ur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg
@@ -586,12 +586,12 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(58.1 →︎)\n\nAventure\, Science-Fiction\
+DESCRIPTION:Avengers: Endgame\n(57.1 ↘︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
- Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher 
- Markus\, Stephen McFeely\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
+ Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
+ ely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
   : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
  s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
   Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renner\n-
@@ -647,29 +647,62 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/30MlKsvnIuZ3Zcu9K
 CATEGORIES:Horreur,Action,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:event-1283515@calendrier-cine-fr
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Verity
+DESCRIPTION:Verity\n(10.2 →︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
+ n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁
+ 𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Michael Showalter\n𝗦𝗰𝗲
+ 𝗻𝗮𝗿𝗶𝗼 : Nick Antosca\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Jim Frohna\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Eat 
+ the Cat\, Semi-Formal Productions\, Somewhere Pictures\n\n𝗔𝗰𝘁𝗲
+ 𝘂𝗿𝘀 :\n- Dakota Johnson\n- Anne Hathaway\n- Josh Hartnett\n- Isma
+ el Cruz Cordova\n- Brady Wagner\n- Irina Dvorovenko\n- K.K. Moggie\n- Mich
+ ael Abbott Jr.\n- Alex Cooper\n\n\nLowen Ashleigh est une écrivaine solit
+ aire. Peinant à vivre de son métier\, elle accepte de devenir le prête-
+ plume de l'autrice à succès\, Verity Crawford\, et s'installe dans sa pr
+ opriété isolée des regards. En découvrant ce qui semble être les note
+ s personnelles de Verity\, la jeune Lowen se retrouve confrontée à des r
+ évélations troublantes et inquiétantes concernant Jeremy\, le mari de V
+ erity. Elle peine alors à distinguer la fiction de la réalité\, la mani
+ pulation de l'attirance\, le trouble de l'obsession.\n\n\nAffiche : https:
+ //image.tmdb.org/t/p/w780/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1283515\n\nSéance relevée sur AlloCiné
+ .\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zLCjFOyjvKqYdkQYY
+ AyTtfJ5mpk.jpg
+CATEGORIES:Mystère,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:event-920@calendrier-cine-fr
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(28.6)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(27.4)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
- ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
- n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie Hunt\n-
-  Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaroni\n- 
- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- Katheri
- ne Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à l'heu
- re jusqu’à ce qu’un détour le mène à Radiator Springs\, une petite
-  ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc Hudso
- n et un tas de personnages amusants qui l’aident à découvrir que la vi
- e vaut plus que les trophées et la célébrité.\n\n\nAffiche : https://i
- mage.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB : htt
- ps://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.\nDonn
- ées fournies par The Movie Database (TMDB)
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
+ ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
+ ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie Hun
+ t\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaroni
+ \n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- Kat
+ herine Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à l
+ 'heure jusqu’à ce qu’un détour le mène à Radiator Springs\, une pe
+ tite ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc H
+ udson et un tas de personnages amusants qui l’aident à découvrir que l
+ a vie vaut plus que les trophées et la célébrité.\n\n\nAffiche : https
+ ://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB :
+  https://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.\n
+ Données fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
@@ -678,12 +711,45 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
 CATEGORIES:Animation,Aventure,Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
+UID:event-70160@calendrier-cine-fr
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Hunger Games
+DESCRIPTION:The Hunger Games\n(12.7)\n\nScience-Fiction\, Aventure\, Action
+ \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
+ 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
+ 12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Gary Ross\, Billy Ray\, Suzanne Collins\n𝗣
+ 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Tom Stern\n𝗣𝗿𝗼𝗱
+ 𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemsworth\n- Wo
+ ody Harrelson\n- Elizabeth Banks\n- Lenny Kravitz\n- Stanley Tucci\n- Dona
+ ld Sutherland\n- Wes Bentley\n- Toby Jones\n- Alexander Ludwig\n- Isabelle
+  Fuhrman\n\n\nDans un proche futur\, les États‐Unis sont devenus un gou
+ vernement fédéral dystopique dans lequel chacun des 12 districts doit en
+ voyer un garçon et une fille combattre lors d’un événement annuel té
+ lévisé\, « Les Hunger Games ». La seule issue à ces jeux pour les 
+ « Tributs » est de tuer ou d’être tué. Lorsque la petite sœur de 
+ Katniss est tirée au sort pour y participer\, celle‐ci décide de prend
+ re sa place.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku
+ 9yEUNZYFwUF87.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/70160\n
+ \nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Databas
+ e (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/wSvsjqyRWk5xku9yEUNZYFwUF87.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yE
+ UNZYFwUF87.jpg
+CATEGORIES:Science-Fiction,Aventure,Action,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:event-101299@calendrier-cine-fr
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(18.1)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(19.7)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
@@ -714,7 +780,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte - Partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(25.2)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(25.0)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -747,7 +813,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte - Partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(15.2)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(14.9)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -775,5 +841,33 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ojFCU0K7Err8n87VO
  ONrnrCcQxj.jpg
 CATEGORIES:Action,Aventure,Science-Fiction
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1170608@calendrier-cine-fr
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Dune : Troisième partie
+DESCRIPTION:Dune: Part Three\n(16.1 →︎)\n\nScience-Fiction\, Aventure\n
+ 𝟮𝗵𝟮𝟬\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 
+ 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembr
+ e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\
+ n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Denis Villeneuve\, Brian K. Vaughan\n
+ 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Linus Sandgren\n𝗣
+ 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Timothée Chalamet\n- Zendaya\n- Jason Momoa\n- Flor
+ ence Pugh\n- Rebecca Ferguson\n- Isaach de Bankolé\n- Charlotte Rampling\
+ n- Anya Taylor-Joy\n- Robert Pattinson\n- Javier Bardem\n- Nakoa-Wolf Momo
+ a\n- Ida Brooke\n\n\nTroisième et dernier volet de la trilogie Dune de Vi
+ lleneuve. Adapté du roman Le Messie de Dune de Frank Herbert.\n\n\nAffich
+ e : https://image.tmdb.org/t/p/w780/s6r04BVmT2T2Xr6PbZQYHCI7H2r.jpg\n\nFic
+ he TMDB : https://www.themoviedb.org/movie/1170608\n\nSéance relevée sur
+  AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/s6r04BVmT2T2Xr6PbZQYHCI7H2r.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/s6r04BVmT2T2Xr6Pb
+ ZQYHCI7H2r.jpg
+CATEGORIES:Science-Fiction,Aventure
 END:VEVENT
 END:VCALENDAR
