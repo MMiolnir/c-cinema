@@ -12,11 +12,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:event-149@calendrier-cine-fr
-DTSTAMP:20260918T000000Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
+DTSTAMP:20260919T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
 SUMMARY:Akira
-DESCRIPTION:Akira\n(19.3)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(20.7)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
  𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
@@ -42,38 +42,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
  iLssX6UcHe.jpg
 CATEGORIES:Animation,Science-Fiction,Action
-END:VEVENT
-BEGIN:VEVENT
-UID:event-9303@calendrier-cine-fr
-DTSTAMP:20260918T000000Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:Bound
-DESCRIPTION:Bound\n(7.7)\n\nDrame\, Thriller\, Crime\n𝟭𝗵𝟰𝟱\n\nU
- nited States of America\n(English\, Italian)\n𝗦𝗼𝗿𝘁𝗶𝗲 
- 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 6 novembre 1996\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Lilly Wachowski\, Lana Wachowski\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Lana Wachowski\, Lilly Wachowski\n𝗣
- 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Bill Pope\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : The De Laurentiis Company\, Summit Entertainmen
- t\, Newmarket Capital Group\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Gina Gers
- hon\n- Jennifer Tilly\n- Joe Pantoliano\n- John P. Ryan\n- Christopher Mel
- oni\n- Richard C. Sarafian\n- Barry Kivel\n- Mary Mara\n- Susie Bright\n- 
- Margaret Smith\n- Peter Spellos\n- Ivan Kane\n\n\nViolet\, maîtresse d'un
-  truand spécialisé dans le blanchiment d'argent pour la mafia\, se prend
-  d'une passion violente pour Corky\, voleuse\, en liberté provisoire apr
- ès cinq ans de prison et qui repeint l'appartement de ses voisins. Violet
-  décide de séduire Corky. Elle ne manque pas d'arguments car son compagn
- on cache dans leur appartement deux millions de dollars.\n\n\nAffiche : ht
- tps://image.tmdb.org/t/p/w780/6fyw0aXQDUwsuN8tZQrQttkCqlW.jpg\n\nFiche TMD
- B : https://www.themoviedb.org/movie/9303\n\nSéance relevée sur AlloCin
- é.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/6fyw0aXQDUwsuN8tZQrQttkCqlW.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6fyw0aXQDUwsuN8tZ
- QrQttkCqlW.jpg
-CATEGORIES:Drame,Thriller,Crime
 END:VEVENT
 BEGIN:VEVENT
 UID:event-847819@calendrier-cine-fr
@@ -109,7 +77,7 @@ DTSTAMP:20260920T000000Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Heart of the Beast
-DESCRIPTION:Heart of the Beast\n(23.5 →︎)\n\nAventure\, Thriller\n𝟭
+DESCRIPTION:Heart of the Beast\n(26.1 ↗︎)\n\nAventure\, Thriller\n𝟭
  𝗵𝟰𝟭\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀
  𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 septembre 2
  026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Ayer\n𝗦𝗰
@@ -138,7 +106,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(97.8 ↑︎)\n\nAventure\, Science-Fiction\
+DESCRIPTION:Avengers: Endgame\n(84.9 ↑︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
@@ -173,7 +141,7 @@ DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Kraken
-DESCRIPTION:Kraken\n(47.7)\n\nHorreur\, Action\, Thriller\n𝟭𝗵𝟯𝟰
+DESCRIPTION:Kraken\n(45.6)\n\nHorreur\, Action\, Thriller\n𝟭𝗵𝟯𝟰
  \n\nNorway\n(Norwegian)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Pål Øie\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : V
@@ -204,7 +172,7 @@ DTSTAMP:20260927T000000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Ducobu et le fantôme de Saint-Potache
-DESCRIPTION:Ducobu et le fantôme de Saint-Potache\n(1.2)\n\nComédie\, Fam
+DESCRIPTION:Ducobu et le fantôme de Saint-Potache\n(1.4)\n\nComédie\, Fam
  ilial\n\nFrance\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 7 octobre 2026\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Élie Semoun\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -268,7 +236,7 @@ DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Le Comte de Monte-Cristo
-DESCRIPTION:Le Comte de Monte-Cristo\n(12.6)\n\nAventure\, Action\, Drame\n
+DESCRIPTION:Le Comte de Monte-Cristo\n(12.8)\n\nAventure\, Action\, Drame\n
  𝟮𝗵𝟱𝟴\n\nFrance\, Belgium\n(French\, English\, Italian)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 juin 20
  24\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Alexandre de La P
@@ -300,7 +268,7 @@ DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Verity
-DESCRIPTION:Verity\n(14.8 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
+DESCRIPTION:Verity\n(16.5 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
  n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁
  𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Michael Showalter\n𝗦𝗰𝗲
@@ -333,7 +301,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Jupiter
-DESCRIPTION:Jupiter\n(1.2 ↘︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
+DESCRIPTION:Jupiter\n(1.4 ↘︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
  France\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 18 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Alexandre Smia\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alex
@@ -365,7 +333,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(32.3)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(33.1)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
@@ -396,33 +364,33 @@ DTSTAMP:20261004T000000Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Les Misérables
-DESCRIPTION:Les Misérables\n(2.7 ↓︎)\n\nHistoire\, Romance\, Drame\n\n
- France\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
- 𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿 : Fred Cavayé\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Fred Cavay
- é\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Denis Rouden\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Curiosa Films\, Eskwad\, StudioCana
- l\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Vincent Lindon\n- Tahar Rahim\n- Ca
- mille Cottin\n- Noémie Merlant\n- Benjamin Lavernhe\n- Vassili Schneider\
- n- Megan Northam\n- Marie Colomb\n- Léonard Signoret\n- Ryan Fartout\n- M
- aryne Bertieaux\n- Giorgia Sinicorni\n\n\nJean Valjean\, un ancien forçat
-  évadé du bagne où il a passé 16 ans pour avoir volé du pain\, secons
- acre désormais à faire le bien autour de lui. Il se crée une nouvelle i
- dentité\, celle d'un notable respecté\, et vient en aide à Fantine\, un
- e ouvrière mourante en lui promettant de sauver sa fille\, la petite Cose
- tte\, des griffes des Thénardier\, des aubergistes qui l'exploitent et la
-  maltraitent. Alors que Valjean prend soin de l'enfant et l'élève comme 
- sa propre fille\, son passé finit par le rattraper en la personne de l’
- inspecteur Javert qui n'a eu de cesse de le pourchasser durant toutes ces 
- années. En dépit de l'agitation sociale qui secoue la France\, les desti
- ns de Valjean\, de Cosette\, de son amant Marius et de Javert s'entremêle
- nt dans un Paris bouillonnant et révolutionnaire. À travers des luttes\,
-  des sacrifices et un profond désir de justice\, Valjean s'efforce d'ache
- ver son parcours de rédemption et d'offrir à Cosette un avenir d'amour e
- t de liberté.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/tY3CoBNTCpvJ
- ayVRLqIIGDa4Ep8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/12418
- 03\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Dat
- abase (TMDB)
+DESCRIPTION:Les Misérables\n(2.6 ↓︎)\n\nHistoire\, Romance\, Drame\n
+ 𝟮𝗵𝟱𝟴\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
+ 𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Fred Cavayé\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Fred Cavayé\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
+ 𝗲 : Denis Rouden\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Curiosa Fi
+ lms\, Eskwad\, StudioCanal\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Vincent Li
+ ndon\n- Tahar Rahim\n- Camille Cottin\n- Noémie Merlant\n- Benjamin Laver
+ nhe\n- Vassili Schneider\n- Megan Northam\n- Marie Colomb\n- Léonard Sign
+ oret\n- Ryan Fartout\n- Maryne Bertieaux\n- Giorgia Sinicorni\n\n\nJean Va
+ ljean\, un ancien forçat évadé du bagne où il a passé 16 ans pour avo
+ ir volé du pain\, seconsacre désormais à faire le bien autour de lui. I
+ l se crée une nouvelle identité\, celle d'un notable respecté\, et vien
+ t en aide à Fantine\, une ouvrière mourante en lui promettant de sauver 
+ sa fille\, la petite Cosette\, des griffes des Thénardier\, des aubergist
+ es qui l'exploitent et la maltraitent. Alors que Valjean prend soin de l'e
+ nfant et l'élève comme sa propre fille\, son passé finit par le rattrap
+ er en la personne de l’inspecteur Javert qui n'a eu de cesse de le pourc
+ hasser durant toutes ces années. En dépit de l'agitation sociale qui sec
+ oue la France\, les destins de Valjean\, de Cosette\, de son amant Marius 
+ et de Javert s'entremêlent dans un Paris bouillonnant et révolutionnaire
+ . À travers des luttes\, des sacrifices et un profond désir de justice\,
+  Valjean s'efforce d'achever son parcours de rédemption et d'offrir à Co
+ sette un avenir d'amour et de liberté.\n\n\nAffiche : https://image.tmdb.
+ org/t/p/w780/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg\n\nFiche TMDB : https://www.t
+ hemoviedb.org/movie/1241803\n\nSéance relevée sur AlloCiné.\nDonnées f
+ ournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg
@@ -436,7 +404,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Hunger Games
-DESCRIPTION:The Hunger Games\n(15.4)\n\nScience-Fiction\, Aventure\, Action
+DESCRIPTION:The Hunger Games\n(16.7)\n\nScience-Fiction\, Aventure\, Action
  \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
  12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
@@ -469,11 +437,11 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(23.8)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(25.6)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
- nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Beaufoy\, Michael Arndt\n
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
@@ -500,7 +468,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte - Partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(30.0)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(35.4)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -533,7 +501,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte - Partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(19.7)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(21.1)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
