@@ -12,11 +12,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:event-149@calendrier-cine-fr
-DTSTAMP:20260921T000000Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
+DTSTAMP:20260922T000000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
 SUMMARY:Akira
-DESCRIPTION:Akira\n(23.9)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(25.3)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
  𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
@@ -49,12 +49,12 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(90.2 ↑︎)\n\nAventure\, Science-Fiction\
+DESCRIPTION:Avengers: Endgame\n(86.1 ↑︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
- Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
- ely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
+ Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher 
+ Markus\, Stephen McFeely\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
   : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
  s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
   Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renner\n-
@@ -79,12 +79,40 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
 CATEGORIES:Aventure,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
+UID:event-655424@calendrier-cine-fr
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:La Baleine et l'escargote
+DESCRIPTION:The Snail and the Whale\n(4.6)\n\nAnimation\, Familial\, Télé
+ film\n𝟮𝟳𝗺𝗶𝗻\n\nUnited Kingdom\n(English)\n𝗦𝗼𝗿𝘁
+ 𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 octobre 2020\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Max Lang\, Daniel Snadd
+ on\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Suzanne Lang\, Max Lang\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Magic Light Pictures\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Rob Brydon\n- Sally Hawkins\n- Diana Rigg\n- Cariad 
+ Lloyd\n- Max Lang\n\n\nUne petite escargote de mer s’ennuie sur le roche
+ r d’un vieux port et rêve de parcourir le monde. Un jour\, une grande b
+ aleine à bosse lui propose de l’emmener en voyage à travers les océan
+ s du globe. Cette amitié insolite nous plonge dans une odyssée fabuleuse
+  au cœur de la nature\, de l’infiniment petit à l’infiniment grand.\
+ n\n\nAffiche : https://image.tmdb.org/t/p/w780/ysDh4yvgG3Kdrc19urwsVXAiWkB
+ .jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/655424\n\nSéance re
+ levée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/ysDh4yvgG3Kdrc19urwsVXAiWkB.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ysDh4yvgG3Kdrc19u
+ rwsVXAiWkB.jpg
+CATEGORIES:Animation,Familial,Téléfilm
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1110034@calendrier-cine-fr
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Kraken
-DESCRIPTION:Kraken\n(54.2)\n\nHorreur\, Action\, Thriller\n𝟭𝗵𝟯𝟰
+DESCRIPTION:Kraken\n(49.9)\n\nHorreur\, Action\, Thriller\n𝟭𝗵𝟯𝟰
  \n\nNorway\n(Norwegian)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Pål Øie\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : V
@@ -115,26 +143,26 @@ DTSTAMP:20260927T000000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Ducobu et le fantôme de Saint-Potache
-DESCRIPTION:Ducobu et le fantôme de Saint-Potache\n(1.7)\n\nComédie\, Fam
- ilial\n\nFrance\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
- 𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 7 octobre 2026\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Élie Semoun\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Élie Semoun\, Marc de Chauveron\, Guy Laurent\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Christian Abomnes\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : Les Films du 24\, Les films du Bélier\, TF1 Fi
- lms Production\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Élie Semoun\n- Fréd
- érique Bel\n- Émilie Caen\n- Loïc Legendre\n- Gérard Jugnot\n- Charlie
-  Garnier Naslin\n- Antoinette Rougier\n- Sum\n- François Levantal\n\n\nC
- ’est Halloween\, et Ducobu revient pour une aventure pleine de rires et 
- de mystères ! Le professeur Latouche et Mademoiselle Rateau emménagent d
- ans une maison… hantée par le ​ fantôme d'Anatole\, le plus grand ca
- ncre de l’histoire de l’école Saint-Potache. Ce fantôme farceur va e
- ntraîner Ducobu\, Léonie\, leurs parents et Kitrish dans une série de p
- éripéties ​ aussi drôles qu’inattendues. Mais attention : à Hallow
- een\, tout peut arriver…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/
- cajEgiVkKPuayykvcLlXeaSRdyp.jpg\n\nFiche TMDB : https://www.themoviedb.org
- /movie/1429581\n\nSéance relevée sur AlloCiné.\nDonnées fournies par T
- he Movie Database (TMDB)
+DESCRIPTION:Ducobu et le fantôme de Saint-Potache\n(2.0 ↑︎)\n\nComédi
+ e\, Familial\n\nFrance\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
+ 𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 7 octobre 2026\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Élie Semoun\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Élie Semoun\, Marc de Chauveron\, Guy Laurent\n𝗣
+ 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Christian Abomnes\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Les Films du 24\, Les films du Bélier\
+ , TF1 Films Production\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Élie Semoun\n
+ - Frédérique Bel\n- Émilie Caen\n- Loïc Legendre\n- Gérard Jugnot\n- 
+ Charlie Garnier Naslin\n- Antoinette Rougier\n- Sum\n- François Levantal\
+ n\n\nC’est Halloween\, et Ducobu revient pour une aventure pleine de rir
+ es et de mystères ! Le professeur Latouche et Mademoiselle Rateau emména
+ gent dans une maison… hantée par le ​ fantôme d'Anatole\, le plus gr
+ and cancre de l’histoire de l’école Saint-Potache. Ce fantôme farceu
+ r va entraîner Ducobu\, Léonie\, leurs parents et Kitrish dans une séri
+ e de péripéties ​ aussi drôles qu’inattendues. Mais attention : à 
+ Halloween\, tout peut arriver…\n\n\nAffiche : https://image.tmdb.org/t/p
+ /w780/cajEgiVkKPuayykvcLlXeaSRdyp.jpg\n\nFiche TMDB : https://www.themovie
+ db.org/movie/1429581\n\nSéance relevée sur AlloCiné.\nDonnées fournies
+  par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/cajEgiVkKPuayykvcLlXeaSRdyp.jpg
@@ -148,7 +176,7 @@ DTSTAMP:20260927T000000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:La Maison de nos rêves
-DESCRIPTION:La Maison de nos rêves\n(2.6 →︎)\n\nComédie\n𝟭𝗵𝟯
+DESCRIPTION:La Maison de nos rêves\n(2.7 ↗︎)\n\nComédie\n𝟭𝗵𝟯
  𝟴\n\nFrance\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 7 octobre 2026\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Claude Zidi Jr.\n𝗦𝗰𝗲𝗻𝗮
@@ -179,12 +207,12 @@ DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Le Comte de Monte-Cristo
-DESCRIPTION:Le Comte de Monte-Cristo\n(12.9)\n\nAventure\, Action\, Drame\n
+DESCRIPTION:Le Comte de Monte-Cristo\n(15.3)\n\nAventure\, Action\, Drame\n
  𝟮𝗵𝟱𝟴\n\nFrance\, Belgium\n(French\, English\, Italian)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 juin 20
  24\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Alexandre de La P
- atellière\, Matthieu Delaporte\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alexan
- dre de La Patellière\, Matthieu Delaporte\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
+ atellière\, Matthieu Delaporte\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Matthi
+ eu Delaporte\, Alexandre de La Patellière\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
  𝗮𝗽𝗵𝗶𝗲 : Nicolas Bolduc\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
  𝗼𝗻 : Chapter 2\, Pathé\, M6 Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
  \n- Pierre Niney\n- Bastien Bouillon\n- Anaïs Demoustier\n- Laurent Lafit
@@ -211,7 +239,7 @@ DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Verity
-DESCRIPTION:Verity\n(17.4 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
+DESCRIPTION:Verity\n(19.1 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
  n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁
  𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Michael Showalter\n𝗦𝗰𝗲
@@ -244,7 +272,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Jupiter
-DESCRIPTION:Jupiter\n(1.3 ↘︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
+DESCRIPTION:Jupiter\n(1.5 ↘︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
  France\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 18 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Alexandre Smia\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alex
@@ -276,24 +304,24 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(38.1)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(35.6)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Lasseter\, Jørgen Klubien\, Dan
-  Fogelman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky
- \, Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n
- \n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie H
- unt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaro
- ni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- K
- atherine Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à
-  l'heure jusqu’à ce qu’un détour le mène à Radiator Springs\, une 
- petite ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc
-  Hudson et un tas de personnages amusants qui l’aident à découvrir que
-  la vie vaut plus que les trophées et la célébrité.\n\n\nAffiche : htt
- ps://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB
-  : https://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.
- \nDonnées fournies par The Movie Database (TMDB)
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
+ ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
+ ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie Hun
+ t\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaroni
+ \n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- Kat
+ herine Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à l
+ 'heure jusqu’à ce qu’un détour le mène à Radiator Springs\, une pe
+ tite ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc H
+ udson et un tas de personnages amusants qui l’aident à découvrir que l
+ a vie vaut plus que les trophées et la célébrité.\n\n\nAffiche : https
+ ://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB :
+  https://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.\n
+ Données fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
@@ -307,7 +335,7 @@ DTSTAMP:20261004T000000Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Les Misérables
-DESCRIPTION:Les Misérables\n(2.6 ↓︎)\n\nHistoire\, Romance\, Drame\n
+DESCRIPTION:Les Misérables\n(2.9 ↘︎)\n\nHistoire\, Romance\, Drame\n
  𝟮𝗵𝟱𝟴\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Fred Cavayé\n𝗦𝗰𝗲𝗻𝗮
@@ -347,7 +375,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Hunger Games
-DESCRIPTION:The Hunger Games\n(19.6)\n\nScience-Fiction\, Aventure\, Action
+DESCRIPTION:The Hunger Games\n(20.1)\n\nScience-Fiction\, Aventure\, Action
  \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
  12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
@@ -380,11 +408,11 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(31.3)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(31.1)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
- nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Beaufoy\, Michael Arndt\n
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
@@ -411,7 +439,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte - Partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(39.6)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(40.7)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -444,7 +472,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte - Partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(26.1)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(26.9)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -479,7 +507,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(17.3 ↗︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(17.5 ↗︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\
