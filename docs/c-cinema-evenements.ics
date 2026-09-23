@@ -11,47 +11,14 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-149@calendrier-cine-fr
-DTSTAMP:20260922T000000Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Akira
-DESCRIPTION:Akira\n(25.3)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
- 𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
- 𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
- ashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
- 𝗲 : 三沢勝治\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MBS\, Sumi
- tomo Corporation\, TOHO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mitsuo Iwata\
- n- Nozomu Sasaki\n- Mami Koyama\n- 石田太郎\n- Mizuho Suzuki\n- Tessyo
-  Genda\n- Koichi Kitamura\n- 渕崎ゆり子\n- Masaaki Okura\n- Takeshi K
- usao\n- Kazuhiro Kamifuji\n- Tatsuhiko Nakamura\n\n\nTetsuo\, un adolescen
- t ayant vécu une enfance difficile\, est la victime d'expériences visant
-  à développer les capacités psychiques qui dorment en chacun de nous. A
- insi doté d'une puissance que lui-même ne peut imaginer\, Tetsuo décide
-  de partir en guerre contre le monde qui l'a opprimé. Dès lors\, il se r
- etrouve au cœur d'une légende populaire qui annonce le retour prochain d
- 'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer Tokyo du 
- chaos ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
- iLssX6UcHe.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/149\n\nSé
- ance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TM
- DB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
- iLssX6UcHe.jpg
-CATEGORIES:Animation,Science-Fiction,Action
-END:VEVENT
-BEGIN:VEVENT
 UID:event-299534@calendrier-cine-fr
 DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(86.1 ↑︎)\n\nAventure\, Science-Fiction\
- , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
- e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
+DESCRIPTION:Avengers: Endgame\n(112.4 ↑︎)\n\nAventure\, Science-Fiction
+ \, Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japane
+ se\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
  Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher 
  Markus\, Stephen McFeely\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
@@ -77,6 +44,39 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
  KHePuRjXc8.jpg
 CATEGORIES:Aventure,Science-Fiction,Action
+END:VEVENT
+BEGIN:VEVENT
+UID:event-149@calendrier-cine-fr
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Akira
+DESCRIPTION:Akira\n(21.7)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+ 𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
+ 𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
+ 𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
+ ashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
+ 𝗲 : 三沢勝治\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MBS\, Sumi
+ tomo Corporation\, TOHO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mitsuo Iwata\
+ n- Nozomu Sasaki\n- Mami Koyama\n- 石田太郎\n- Mizuho Suzuki\n- Tessyo
+  Genda\n- Koichi Kitamura\n- 渕崎ゆり子\n- Masaaki Okura\n- Takeshi K
+ usao\n- Kazuhiro Kamifuji\n- Tatsuhiko Nakamura\n\n\nTetsuo\, un adolescen
+ t ayant vécu une enfance difficile\, est la victime d'expériences visant
+  à développer les capacités psychiques qui dorment en chacun de nous. A
+ insi doté d'une puissance que lui-même ne peut imaginer\, Tetsuo décide
+  de partir en guerre contre le monde qui l'a opprimé. Dès lors\, il se r
+ etrouve au cœur d'une légende populaire qui annonce le retour prochain d
+ 'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer Tokyo du 
+ chaos ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
+ iLssX6UcHe.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/149\n\nSé
+ ance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TM
+ DB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
+ iLssX6UcHe.jpg
+CATEGORIES:Animation,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
 UID:event-655424@calendrier-cine-fr
@@ -112,7 +112,7 @@ DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Kraken
-DESCRIPTION:Kraken\n(49.9)\n\nHorreur\, Action\, Thriller\n𝟭𝗵𝟯𝟰
+DESCRIPTION:Kraken\n(48.1)\n\nHorreur\, Action\, Thriller\n𝟭𝗵𝟯𝟰
  \n\nNorway\n(Norwegian)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Pål Øie\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : V
@@ -143,7 +143,7 @@ DTSTAMP:20260927T000000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Ducobu et le fantôme de Saint-Potache
-DESCRIPTION:Ducobu et le fantôme de Saint-Potache\n(2.0 ↑︎)\n\nComédi
+DESCRIPTION:Ducobu et le fantôme de Saint-Potache\n(2.1 ↑︎)\n\nComédi
  e\, Familial\n\nFrance\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 7 octobre 2026\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Élie Semoun\n𝗦𝗰𝗲𝗻
@@ -202,17 +202,47 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/f6qgo7R1teVQAPn8l
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:event-1248832@calendrier-cine-fr
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Digger
+DESCRIPTION:Digger\n(33.9 ↑︎)\n\nComédie\n𝟮𝗵𝟬𝟵\n\nUnited S
+ tates of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
+ 𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alejandro G. Iñárritu\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Alejandro G. Iñárritu\, Alexander Dinelaris\, Nicolá
+ s Giacobone\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Emmanuel L
+ ubezki\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\,
+  Legendary Pictures\, TC Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 
+ Tom Cruise\n- Riz Ahmed\n- John Goodman\n- Sandra Hüller\n- Michael Stuhl
+ barg\n- Jesse Plemons\n- Robert John Burke\n- Emma D'Arcy\n- Burn Gorman\n
+ - Sophie Wilde\n- Pip Torrens\n- Mercedes Hernández\n\n\nL’homme le plu
+ s puissant du monde se lance dans une mission frénétique pour prouver qu
+ ’il est le sauveur de l’humanité avant que le désastre qu’il a dé
+ clenché ne détruise tout.\n\n\nAffiche : https://image.tmdb.org/t/p/w780
+ /9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg\n\nFiche TMDB : https://www.themoviedb.or
+ g/movie/1248832\n\nSéance relevée sur AlloCiné.\nDonnées fournies par 
+ The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9BzF32t0U7mOnpzmQ
+ 0dyFKv4uZT.jpg
+CATEGORIES:Comédie
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1084736@calendrier-cine-fr
 DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Le Comte de Monte-Cristo
-DESCRIPTION:Le Comte de Monte-Cristo\n(15.3)\n\nAventure\, Action\, Drame\n
+DESCRIPTION:Le Comte de Monte-Cristo\n(14.5)\n\nAventure\, Action\, Drame\n
  𝟮𝗵𝟱𝟴\n\nFrance\, Belgium\n(French\, English\, Italian)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 juin 20
  24\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Alexandre de La P
- atellière\, Matthieu Delaporte\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Matthi
- eu Delaporte\, Alexandre de La Patellière\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
+ atellière\, Matthieu Delaporte\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alexan
+ dre de La Patellière\, Matthieu Delaporte\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
  𝗮𝗽𝗵𝗶𝗲 : Nicolas Bolduc\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
  𝗼𝗻 : Chapter 2\, Pathé\, M6 Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
  \n- Pierre Niney\n- Bastien Bouillon\n- Anaïs Demoustier\n- Laurent Lafit
@@ -239,7 +269,7 @@ DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Verity
-DESCRIPTION:Verity\n(19.1 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
+DESCRIPTION:Verity\n(19.9 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
  n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁
  𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Michael Showalter\n𝗦𝗰𝗲
@@ -272,7 +302,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Jupiter
-DESCRIPTION:Jupiter\n(1.5 ↘︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
+DESCRIPTION:Jupiter\n(1.3 ↘︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
  France\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 18 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Alexandre Smia\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alex
@@ -304,24 +334,24 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(35.6)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(32.4)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
- ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
- ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie Hun
- t\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaroni
- \n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- Kat
- herine Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à l
- 'heure jusqu’à ce qu’un détour le mène à Radiator Springs\, une pe
- tite ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc H
- udson et un tas de personnages amusants qui l’aident à découvrir que l
- a vie vaut plus que les trophées et la célébrité.\n\n\nAffiche : https
- ://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB :
-  https://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.\n
- Données fournies par The Movie Database (TMDB)
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Lasseter\, Jørgen Klubien\, Dan
+  Fogelman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky
+ \, Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n
+ \n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul Newman\n- Bonnie H
+ unt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalhoub\n- Guido Quaro
+ ni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- George Carlin\n- K
+ atherine Helmond\n\n\nUn champion de course\, Flash McQueen vit à cent à
+  l'heure jusqu’à ce qu’un détour le mène à Radiator Springs\, une 
+ petite ville oubliée sur la Route 66. Il y rencontre Sally\, Martin\, Doc
+  Hudson et un tas de personnages amusants qui l’aident à découvrir que
+  la vie vaut plus que les trophées et la célébrité.\n\n\nAffiche : htt
+ ps://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg\n\nFiche TMDB
+  : https://www.themoviedb.org/movie/920\n\nSéance relevée sur AlloCiné.
+ \nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
@@ -335,7 +365,7 @@ DTSTAMP:20261004T000000Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Les Misérables
-DESCRIPTION:Les Misérables\n(2.9 ↘︎)\n\nHistoire\, Romance\, Drame\n
+DESCRIPTION:Les Misérables\n(2.8 ↘︎)\n\nHistoire\, Romance\, Drame\n
  𝟮𝗵𝟱𝟴\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Fred Cavayé\n𝗦𝗰𝗲𝗻𝗮
@@ -375,7 +405,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Hunger Games
-DESCRIPTION:The Hunger Games\n(20.1)\n\nScience-Fiction\, Aventure\, Action
+DESCRIPTION:The Hunger Games\n(18.4)\n\nScience-Fiction\, Aventure\, Action
  \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
  12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
@@ -408,11 +438,11 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(31.1)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(29.5)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
- nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Beaufoy\, Michael Arndt\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
@@ -439,7 +469,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte - Partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(40.7)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(40.0)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -472,7 +502,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte - Partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(26.9)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(24.7)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -507,7 +537,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(17.5 ↗︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(16.8 →︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\
