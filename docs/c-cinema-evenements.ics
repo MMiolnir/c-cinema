@@ -11,46 +11,49 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-1248832@calendrier-cine-fr
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Digger
-DESCRIPTION:Digger\n(63.2 ↑︎)\n\nComédie\n𝟮𝗵𝟬𝟵\n\nUnited S
- tates of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
- 𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alejandro G. Iñárritu\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Alejandro G. Iñárritu\, Alexander Dinelaris\, Nicolá
- s Giacobone\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Emmanuel L
- ubezki\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\,
-  Legendary Pictures\, TC Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 
- Tom Cruise\n- Riz Ahmed\n- John Goodman\n- Sandra Hüller\n- Michael Stuhl
- barg\n- Jesse Plemons\n- Robert John Burke\n- Emma D'Arcy\n- Burn Gorman\n
- - Sophie Wilde\n- Pip Torrens\n- Mercedes Hernández\n\n\nL’homme le plu
- s puissant du monde se lance dans une mission frénétique pour prouver qu
- ’il est le sauveur de l’humanité avant que le désastre qu’il a dé
- clenché ne détruise tout.\n\n\nAffiche : https://image.tmdb.org/t/p/w780
- /9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg\n\nFiche TMDB : https://www.themoviedb.or
- g/movie/1248832\n\nSéance relevée sur AlloCiné.\nDonnées fournies par 
- The Movie Database (TMDB)
+UID:event-1283515@calendrier-cine-fr
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Verity
+DESCRIPTION:Verity\n(34.6 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
+ n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁
+ 𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Michael Showalter\n𝗦𝗰𝗲
+ 𝗻𝗮𝗿𝗶𝗼 : Nick Antosca\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Jim Frohna\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Eat 
+ the Cat\, Semi-Formal Productions\, Somewhere Pictures\n\n𝗔𝗰𝘁𝗲
+ 𝘂𝗿𝘀 :\n- Anne Hathaway\n- Dakota Johnson\n- Josh Hartnett\n- Brad
+ y Wagner\n- Ismael Cruz Cordova\n- Irina Dvorovenko\n- Sienna Kulovitz\n- 
+ K.K. Moggie\n- Tom Galantich\n- Lou Martini Jr.\n- Michael Abbott Jr.\n- C
+ lark Carmichael\n\n\nLorsqu’un accident affecte les capacités de l’au
+ trice de bestsellers\, Verity Crawford\, à achever son œuvre\, une écri
+ vaine solitaire\, Lowen Ashleigh\, qui peine à joindre les deux bouts est
+  engagée pour lui prêter sa plume. En résidence dans la propriété rec
+ ulée de la romancière\, elle fait la découverte d’un manuscrit autobi
+ ographique glaçant et peine à démêler ce qui relève de la fiction ou 
+ de la réalité…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/zLCjFOyj
+ vKqYdkQYYAyTtfJ5mpk.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1
+ 283515\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie
+  Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9BzF32t0U7mOnpzmQ
- 0dyFKv4uZT.jpg
-CATEGORIES:Comédie
+ t/p/w780/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zLCjFOyjvKqYdkQYY
+ AyTtfJ5mpk.jpg
+CATEGORIES:Mystère,Thriller
 END:VEVENT
 BEGIN:VEVENT
 UID:event-299534@calendrier-cine-fr
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(133.9 ↑︎)\n\nAventure\, Science-Fiction
+DESCRIPTION:Avengers: Endgame\n(136.8 ↑︎)\n\nAventure\, Science-Fiction
  \, Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japane
  se\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
- Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
+ Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
  ely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
   : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
  s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
@@ -76,78 +79,12 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
 CATEGORIES:Aventure,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
-UID:event-1084736@calendrier-cine-fr
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:Le Comte de Monte-Cristo
-DESCRIPTION:Le Comte de Monte-Cristo\n(15.5)\n\nAventure\, Action\, Drame\n
- 𝟮𝗵𝟱𝟴\n\nFrance\, Belgium\n(French\, English\, Italian)\n𝗦
- 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 juin 20
- 24\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Alexandre de La P
- atellière\, Matthieu Delaporte\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alexan
- dre de La Patellière\, Matthieu Delaporte\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Nicolas Bolduc\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : Chapter 2\, Pathé\, M6 Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
- \n- Pierre Niney\n- Bastien Bouillon\n- Anaïs Demoustier\n- Laurent Lafit
- te\n- Pierfrancesco Favino\n- Patrick Mille\n- Vassili Schneider\n- Julien
-  de Saint Jean\n- Anamaria Vartolomei\n- Julie de Bona\n- Adèle Simphal\n
- - Stéphane Varupenne\n\n\nVictime d’un complot\, le jeune Edmond Dantè
- s est arrêté le jour de son mariage pour un crime qu’il n’a pas comm
- is. Après quatorze ans de détention au château d’If\, il parvient à 
- s’évader. Devenu immensément riche\, il revient sous l’identité du 
- comte de Monte-Cristo pour se venger des trois hommes qui l’ont trahi.\n
- \n\nAffiche : https://image.tmdb.org/t/p/w780/g7kiprYdXxaYCZABWQwTWAgRYjl.
- jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1084736\n\nSéance re
- levée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/g7kiprYdXxaYCZABWQwTWAgRYjl.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/g7kiprYdXxaYCZABW
- QwTWAgRYjl.jpg
-CATEGORIES:Aventure,Action,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:event-1283515@calendrier-cine-fr
-DTSTAMP:20260929T000000Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:Verity
-DESCRIPTION:Verity\n(23.3 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
- n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁
- 𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 30 septembre 2026\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Michael Showalter\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Nick Antosca\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Jim Frohna\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Eat 
- the Cat\, Semi-Formal Productions\, Somewhere Pictures\n\n𝗔𝗰𝘁𝗲
- 𝘂𝗿𝘀 :\n- Anne Hathaway\n- Dakota Johnson\n- Josh Hartnett\n- Brad
- y Wagner\n- Ismael Cruz Cordova\n- Irina Dvorovenko\n- Sienna Kulovitz\n- 
- K.K. Moggie\n- Tom Galantich\n- Lou Martini Jr.\n- Michael Abbott Jr.\n- C
- lark Carmichael\n\n\nLowen Ashleigh est une écrivaine solitaire. Peinant 
- à vivre de son métier\, elle accepte de devenir le prête-plume de l'aut
- rice à succès\, Verity Crawford\, et s'installe dans sa propriété isol
- ée des regards. En découvrant ce qui semble être les notes personnelles
-  de Verity\, la jeune Lowen se retrouve confrontée à des révélations t
- roublantes et inquiétantes concernant Jeremy\, le mari de Verity. Elle pe
- ine alors à distinguer la fiction de la réalité\, la manipulation de l'
- attirance\, le trouble de l'obsession.\n\n\nAffiche : https://image.tmdb.o
- rg/t/p/w780/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg\n\nFiche TMDB : https://www.th
- emoviedb.org/movie/1283515\n\nSéance relevée sur AlloCiné.\nDonnées fo
- urnies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zLCjFOyjvKqYdkQYY
- AyTtfJ5mpk.jpg
-CATEGORIES:Mystère,Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:event-149@calendrier-cine-fr
 DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Akira
-DESCRIPTION:Akira\n(19.2)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(18.1)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
  𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
@@ -180,7 +117,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Jupiter
-DESCRIPTION:Jupiter\n(1.3 →︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
+DESCRIPTION:Jupiter\n(1.1 →︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
  France\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶
  𝗼𝗻𝗮𝗹𝗲 : 18 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Alexandre Smia\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alex
@@ -212,7 +149,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(31.8)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(30.4)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
@@ -243,7 +180,7 @@ DTSTAMP:20261004T000000Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Les Misérables
-DESCRIPTION:Les Misérables\n(2.9 ↗︎)\n\nHistoire\, Romance\, Drame\n
+DESCRIPTION:Les Misérables\n(2.8 ↗︎)\n\nHistoire\, Romance\, Drame\n
  𝟮𝗵𝟱𝟴\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Fred Cavayé\n𝗦𝗰𝗲𝗻𝗮
@@ -283,7 +220,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Malfaisante
-DESCRIPTION:Other Mommy\n(22.3 ↑︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
+DESCRIPTION:Other Mommy\n(22.4 ↑︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
  ed States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 
  𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Rob Savage\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -311,7 +248,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Hunger Games
-DESCRIPTION:The Hunger Games\n(17.3)\n\nScience-Fiction\, Aventure\, Action
+DESCRIPTION:The Hunger Games\n(17.0)\n\nScience-Fiction\, Aventure\, Action
  \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
  12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
@@ -344,7 +281,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Street Fighter
-DESCRIPTION:Street Fighter\n(19.0 ↑︎)\n\nAction\, Fantastique\n\nJapan\
+DESCRIPTION:Street Fighter\n(18.9 ↑︎)\n\nAction\, Fantastique\n\nJapan\
  , United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰𝗲𝗻𝗮
@@ -377,11 +314,11 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(31.6)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(30.8)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
- nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Beaufoy\, Michael Arndt\n
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
@@ -408,7 +345,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte - Partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(41.2)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(40.7)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -441,7 +378,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte - Partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(26.0)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(26.3)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -476,7 +413,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(17.5 →︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(18.8 →︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\
