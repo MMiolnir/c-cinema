@@ -11,94 +11,28 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:tmdb-11075@calendrier-cine-fr
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Audition
-DESCRIPTION:オーディション — Oodishon\n(5.9 →︎)\n\nHorreur\, D
- rame\n𝟭𝗵𝟱𝟱\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
- 𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 6 mars 2002\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿 : Takashi Miike\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼
-  : 天願大介\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 山本
- 英夫\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Basara Pictures\, Creat
- ors Company Connection\, Omega Project\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n
- - Ryo Ishibashi\n- 椎名英姫\n- Jun Kunimura\n- 沢木哲\n- Renji Ishi
- bashi\n- 松田美由紀\n- Toshie Negishi\n- 広岡由里子\n- 斉木し
- げる\n- Ken Mitsuishi\n- Ren Ōsugi\n- Kanji Tsuda\n\n\nAoyama\, 42 ans\
- , est producteur de films. Sa femme est décédée il y a sept ans\, mais 
- il vit toujours sa disparition avec difficulté. Un jour\, suivant les con
- seils d'un vieil ami\, Yasuhisa Yoshikawa\, il décide de se remarier et o
- rganise une audition pour une série télévisée fictive afin de trouver 
- sa nouvelle compagne parmi les candidates. L'une des dernières à se pré
- senter\, Yamazaki Asami\, est une jeune femme d'une troublante beauté. Ao
- yama en tombe instantanément amoureux. Il la rappelle et dîne en tête 
- à tête avec elle. Quelques jours plus tard\, Aoyama lui téléphone à n
- ouveau. Yamazaki est chez elle\, prostrée dans l'obscurité. Elle est seu
- le ou presque. Commence alors pour Aoyama une plongée vertigineuse dans u
- n enfer sanglant\, dont les retombées seront excessivement douloureuses.\
- n\n\nAffiche : https://image.tmdb.org/t/p/w780/zsPmvIKtlrFsDT6ROAoHBkGB9Gy
- .jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/11075\n\nDonnées fo
- urnies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/zsPmvIKtlrFsDT6ROAoHBkGB9Gy.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zsPmvIKtlrFsDT6RO
- AoHBkGB9Gy.jpg
-CATEGORIES:Horreur,Drame
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1240889@calendrier-cine-fr
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DESCRIPTION:Teenage Sex and Death at Camp Miasma\n(86.2 ↑︎)\n\nComédie
- \, Horreur\, Romance\n𝟭𝗵𝟱𝟮\n\nUnited Kingdom\, United States o
- f America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jan
- e Schoenbrun\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jane Schoenbrun\n𝗣𝗵
- 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Eric K. Yue\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : MUBI\, Plan B Entertainment\n\n𝗔𝗰𝘁𝗲
- 𝘂𝗿𝘀 :\n- Hannah Einbinder\n- Gillian Anderson\n- Amanda Fix\n- Ar
- thur Conti\n- Eva Victor\n- Zach Cherry\n- Sarah Sherman\n- Patrick Fischl
- er\n- Dylan Baker\n- Jasmin Savoy Brown\n- Kevin McDonald\n- Quintessa Swi
- ndell\n\n\nUn cinéaste queer est embauché pour diriger un nouvel épisod
- e d'une franchise Slasher de longue date. Le réalisateur se fixe sur la p
- erspective de lancer la «dernière fille» du film original\, et les deux
-  femmes entrent dans une frénésie de manie psychosexuelle.\n\n\nAffiche 
- : https://image.tmdb.org/t/p/w780/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg\n\nFiche
-  TMDB : https://www.themoviedb.org/movie/1240889\n\nDonnées fournies par 
- The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/a5JvHUONtF8RyLL6M
- 5nTlqqMJVE.jpg
-CATEGORIES:Comédie,Horreur,Romance
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1774872@calendrier-cine-fr
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Dreamland
-DESCRIPTION:Dreamland\n(6.0)\n\nAnimation\, Comédie\, Action\, Aventure\, 
- Fantastique\n𝟭𝗵𝟭𝟬\n\nFR\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿𝘀 : Joanna Celse\, Juan Pablo Machado\n𝗣𝗿𝗼
- 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Ellipsanime Productions\, ADN\, La Chouette
-  Compagnie\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Luca Garzo\n- Grégory Lai
- sné\n- Valérie Bescht\n- Adrien Larmande\n- Émilie Marié\n\n\nTerrence
- \, un adolescent de 18 ans\, est élève en terminale STT au lycée du Mas
-  de Tesse (Jules Guesde). Sa mère est morte dans un incendie alors qu'il 
- n'était âgé que de 7 ans et depuis\, il a une peur panique du feu. Mais
-  un soir\, alors qu'il rêve de sa mère prisonnière des flammes\, il sur
- monte sa peur en contrôlant le feu. Il rencontre alors un homme mystérie
- ux qui lui annonce qu'il est devenu un Voyageur.  Et c'est à partir de ce
- t instant que tous les soirs\, lors de son sommeil\, il se retrouve transp
- orté à Dreamland\, le monde des rêves\, où il y mène de nombreuses av
- entures.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/zIMQd0dc0iEeT8hpNM
- hAkVRpAgU.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1774872\n\n
- Données fournies par The Movie Database (TMDB)
+DESCRIPTION:Dreamland\n(6.1 ↑︎)\n\nAnimation\, Comédie\, Action\, Aven
+ ture\, Fantastique\n𝟭𝗵𝟭𝟬\n\nFR\n(French)\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Joanna Celse\, Juan Pablo Machado\n𝗣
+ 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Ellipsanime Productions\, ADN\, La 
+ Chouette Compagnie\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Luca Garzo\n- Gré
+ gory Laisné\n- Valérie Bescht\n- Adrien Larmande\n- Émilie Marié\n\n\n
+ Terrence\, un adolescent de 18 ans\, est élève en terminale STT au lycé
+ e du Mas de Tesse (Jules Guesde). Sa mère est morte dans un incendie alor
+ s qu'il n'était âgé que de 7 ans et depuis\, il a une peur panique du f
+ eu. Mais un soir\, alors qu'il rêve de sa mère prisonnière des flammes\
+ , il surmonte sa peur en contrôlant le feu. Il rencontre alors un homme m
+ ystérieux qui lui annonce qu'il est devenu un Voyageur.  Et c'est à part
+ ir de cet instant que tous les soirs\, lors de son sommeil\, il se retrouv
+ e transporté à Dreamland\, le monde des rêves\, où il y mène de nombr
+ euses aventures.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/zIMQd0dc0i
+ EeT8hpNMhAkVRpAgU.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/177
+ 4872\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/zIMQd0dc0iEeT8hpNMhAkVRpAgU.jpg
@@ -112,7 +46,7 @@ DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Leviticus
-DESCRIPTION:Leviticus\n(25.3 ↓︎)\n\nHorreur\, Romance\n𝟭𝗵𝟮𝟴
+DESCRIPTION:Leviticus\n(24.2 ↓︎)\n\nHorreur\, Romance\n𝟭𝗵𝟮𝟴
  \n\nAustralia\, United States of America\n(English)\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Adrian Chiarella\n𝗦𝗰𝗲𝗻𝗮𝗿
  𝗶𝗼 : Adrian Chiarella\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
@@ -139,11 +73,11 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(128.3 ↑︎)\n\nAventure\, Science-Fiction
+DESCRIPTION:Avengers: Endgame\n(123.6 ↑︎)\n\nAventure\, Science-Fiction
  \, Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japane
  se\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 24 avril 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 :
-  Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McF
+  Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McF
  eely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
  𝗲 : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel St
  udios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evan
@@ -174,7 +108,7 @@ DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Détective Conan : L'Ange Déchu de l'Asphalte
 DESCRIPTION:名探偵コナン ハイウェイの堕天使 — Meitantei Co
- nan: Highway no Datenshi\n(17.7 ↗︎)\n\nAction\, Animation\, Mystère\,
+ nan: Highway no Datenshi\n(18.6 ↗︎)\n\nAction\, Animation\, Mystère\,
   Crime\n𝟭𝗵𝟰𝟵\n\nJapan\n(Japanese)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : 蓮井隆弘\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 
  大倉崇裕\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 西山仁
@@ -239,7 +173,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Garance
-DESCRIPTION:Garance\n(4.3 ↑︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
+DESCRIPTION:Garance\n(4.8 ↑︎)\n\nDrame\n𝟭𝗵𝟰𝟱\n\nFrance\, Be
  lgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jeanne H
  erry\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jeanne Herry\n𝗣𝗵𝗼𝘁
  𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Antoine Cormier\n𝗣𝗿𝗼𝗱𝘂
@@ -270,7 +204,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Heart of the Beast
-DESCRIPTION:Heart of the Beast\n(170.3 ↑︎)\n\nAventure\, Thriller\n𝟭
+DESCRIPTION:Heart of the Beast\n(161.7 ↑︎)\n\nAventure\, Thriller\n𝟭
  𝗵𝟰𝟭\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Ayer\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
  𝗼 : Cameron Alexander\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
@@ -298,7 +232,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Her Private Hell
-DESCRIPTION:Her Private Hell\n(13.1 ↗︎)\n\nScience-Fiction\, Horreur\, 
+DESCRIPTION:Her Private Hell\n(14.5 ↗︎)\n\nScience-Fiction\, Horreur\, 
  Thriller\n𝟭𝗵𝟱𝟬\n\nUnited States of America\, Denmark\, United 
  Kingdom\n(English\, Japanese)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Nicolas Winding Refn\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nicolas Wi
@@ -328,7 +262,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Justin le Juste
-DESCRIPTION:Justin le Juste\n(2.2 ↑︎)\n\nComédie\, Histoire\, Guerre\n
+DESCRIPTION:Justin le Juste\n(2.0 ↑︎)\n\nComédie\, Histoire\, Guerre\n
  \nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Eric Barbier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Eric Barbier\n𝗣
  𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Thierry Arbogast\n𝗣𝗿
@@ -352,7 +286,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Les Roches Rouges
-DESCRIPTION:Les Roches Rouges\n(2.0 ↗︎)\n\nDrame\, Romance\n𝟭𝗵
+DESCRIPTION:Les Roches Rouges\n(1.9 →︎)\n\nDrame\, Romance\n𝟭𝗵
  𝟯𝟭\n\nBelgium\, France\, Italy\, Portugal\, Spain\, Switzerland\n(Fr
  ench)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Bruno Dumont\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Bruno Dumont\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
@@ -380,7 +314,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Où vont les âmes?
-DESCRIPTION:Où vont les âmes?\n(2.0 ↗︎)\n\nDrame\n𝟮𝗵𝟬𝟭\n\
+DESCRIPTION:Où vont les âmes?\n(1.8 ↗︎)\n\nDrame\n𝟮𝗵𝟬𝟭\n\
  nCanada\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Brigit
  te Poupart\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Brigitte Poupart\n𝗣𝗵
  𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Gontran Chartré\n𝗣𝗿𝗼
@@ -409,7 +343,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Primetime
-DESCRIPTION:Primetime\n(95.5 ↑︎)\n\nThriller\, Drame\n𝟭𝗵𝟱𝟬\
+DESCRIPTION:Primetime\n(91.7 ↑︎)\n\nThriller\, Drame\n𝟭𝗵𝟱𝟬\
  n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Lance Oppenheim\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ajon Si
  ngh\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : David Bolen\n𝗣
@@ -438,7 +372,7 @@ DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Raison et Sentiments
-DESCRIPTION:Sense and Sensibility\n(14.1 ↑︎)\n\nDrame\, Romance\n𝟮
+DESCRIPTION:Sense and Sensibility\n(14.8 ↑︎)\n\nDrame\, Romance\n𝟮
  𝗵𝟭𝟮\n\nUnited Kingdom\, United States of America\n(English)\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Georgia Oakley\n𝗦𝗰
  𝗲𝗻𝗮𝗿𝗶𝗼 : Diana Reid\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
@@ -476,7 +410,7 @@ DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Artus – Le Show XXL au Cinéma
-DESCRIPTION:Artus – Le Show XXL au Cinéma\n(1.3)\n\nComédie\n𝟯𝗵
+DESCRIPTION:Artus – Le Show XXL au Cinéma\n(1.2)\n\nComédie\n𝟯𝗵
  𝟮𝟳\n\nFR\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
  𝘀 : Artus\, Julien Faustino\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 :
   Morgane Production\, Pathé Live\n\n𝗔𝗰𝘁𝗲𝘂𝗿 :\n- Artus\n
@@ -500,7 +434,7 @@ DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Le Placard
-DESCRIPTION:Le Placard\n(3.4 →︎)\n\nComédie\n𝟭𝗵𝟮𝟰\n\nFranc
+DESCRIPTION:Le Placard\n(3.7 ↘︎)\n\nComédie\n𝟭𝗵𝟮𝟰\n\nFranc
  e\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 17 janvier 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : F
  rancis Veber\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Francis Veber\n𝗣𝗵
@@ -539,7 +473,7 @@ DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Kraken
-DESCRIPTION:Kraken\n(3.3 ↑︎)\n\nHorreur\n𝟭𝗵𝟯𝟱\n\nFrance\n(F
+DESCRIPTION:Kraken\n(3.2 ↑︎)\n\nHorreur\n𝟭𝗵𝟯𝟱\n\nFrance\n(F
  rench)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Théo Jourdai
  n Rhodes\, Mohamed Chabane\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Théo Jourd
  ain Rhodes\, Mohamed Chabane\, Mohamed Chabane-Chaouche\n𝗣𝗵𝗼𝘁
@@ -568,7 +502,7 @@ DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Digger
-DESCRIPTION:Digger\n(183.2 ↑︎)\n\nComédie\, Drame\n𝟮𝗵𝟬𝟵\n\
+DESCRIPTION:Digger\n(173.7 ↑︎)\n\nComédie\, Drame\n𝟮𝗵𝟬𝟵\n\
  nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Alejandro G. Iñárritu\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 :
   Alejandro G. Iñárritu\, Alexander Dinelaris\, Nicolás Giacobone\n𝗣
@@ -596,7 +530,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Délivre-Nous du Mal
-DESCRIPTION:Libera nos: Il trionfo sul male\n(1.9 ↑︎)\n\nDocumentaire\n
+DESCRIPTION:Libera nos: Il trionfo sul male\n(1.7 ↑︎)\n\nDocumentaire\n
  𝟭𝗵𝟰𝟱\n\nItaly\, France\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿𝘀 : Valeria Baldan\, Giovanni Ziberna\n𝗣𝗿𝗼
  𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Sine Sole Cinema\, SAJE Distribution\n\n\nU
@@ -622,7 +556,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:L'idée Qu'on S'en Faisait
-DESCRIPTION:L'idée Qu'on S'en Faisait\n(1.4 →︎)\n\nComédie\, Drame\n
+DESCRIPTION:L'idée Qu'on S'en Faisait\n(1.5 ↘︎)\n\nComédie\, Drame\n
  𝟭𝗵𝟰𝟱\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Sabrina Nouchi\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sabrina 
  Nouchi\, Stessie Santoru\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : ATYPI
@@ -649,7 +583,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Le Monde à l'endroit
-DESCRIPTION:Le Monde à l'endroit\n(2.3 ↑︎)\n\nDocumentaire\, Drame\n
+DESCRIPTION:Le Monde à l'endroit\n(2.6 ↑︎)\n\nDocumentaire\, Drame\n
  𝟭𝗵𝟮𝟴\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Sylvie Meyer\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sylvie Mey
  er\, David Milhaud\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Nour Films\
@@ -679,7 +613,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Mémoire de fille
-DESCRIPTION:Mémoire de fille\n(2.4 ↑︎)\n\nDrame\n𝟭𝗵𝟱𝟳\n\nF
+DESCRIPTION:Mémoire de fille\n(2.0 ↑︎)\n\nDrame\n𝟭𝗵𝟱𝟳\n\nF
  rance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
  : Judith Godrèche\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Judith Godrèche\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Joachim Philippe\n𝗣
@@ -709,7 +643,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Notre salut
-DESCRIPTION:Notre salut\n(3.6 ↑︎)\n\nHistoire\, Comédie\, Drame\n𝟮
+DESCRIPTION:Notre salut\n(3.4 ↑︎)\n\nHistoire\, Comédie\, Drame\n𝟮
  𝗵𝟯𝟯\n\nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Emmanuel Marre\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Emma
  nuel Marre\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Olivier Boo
@@ -742,7 +676,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Peter Hujar's Day
-DESCRIPTION:Peter Hujar's Day\n(4.1 →︎)\n\nDrame\, Histoire\n𝟭𝗵
+DESCRIPTION:Peter Hujar's Day\n(3.5 →︎)\n\nDrame\, Histoire\n𝟭𝗵
  𝟭𝟲\n\nUnited States of America\, Germany\, United Kingdom\, Argentin
  a\, Spain\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ira
   Sachs\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ira Sachs\n𝗣𝗵𝗼𝘁𝗼
@@ -773,7 +707,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Un hiver russe
-DESCRIPTION:Un hiver russe\n(1.7 ↗︎)\n\nDocumentaire\n𝟭𝗵𝟮𝟲\
+DESCRIPTION:Un hiver russe\n(1.9 →︎)\n\nDocumentaire\n𝟭𝗵𝟮𝟲\
  n\nFrance\n(Russian)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pat
  ric Chiha\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Patric Chiha\n𝗣𝗵𝗼
  𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Céline Bozon\n𝗣𝗿𝗼𝗱𝘂
@@ -796,7 +730,7 @@ DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Verity
-DESCRIPTION:Verity\n(74.0 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟳\
+DESCRIPTION:Verity\n(93.6 ↑︎)\n\nMystère\, Thriller\n𝟭𝗵𝟱𝟰\
  n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Michael Showalter\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nick 
  Antosca\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jim Frohna\n
@@ -827,7 +761,7 @@ DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Linkin Park Unshatter
-DESCRIPTION:LINKIN PARK: UNSHATTER\n(7.9 ↑︎)\n\nMusique\, Documentaire\
+DESCRIPTION:LINKIN PARK: UNSHATTER\n(8.9 ↑︎)\n\nMusique\, Documentaire\
  n𝟭𝗵𝟰𝟳\n\nUnited States of America\, South Korea\n(English)\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Joe Hahn\n𝗦𝗰𝗲𝗻
  𝗮𝗿𝗶𝗼 : Igor Kovalik\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
@@ -862,7 +796,7 @@ DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:s-m-i-l-s
-DESCRIPTION:s-m-i-l-s\n(1.3 →︎)\n\n\nFR\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
+DESCRIPTION:s-m-i-l-s\n(1.4 ↘︎)\n\n\nFR\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Théophile Chauchat\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 :
   Théophile Chauchat\n\n\nÉmile cherche sa place dans la communauté Sour
  de. Au cœur de la nuit\, la fête prend toute sa dimension politique et c
@@ -903,7 +837,7 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Ardèche
-DESCRIPTION:Ardèche\n(1.5)\n\nDocumentaire\n𝟭𝗵𝟯𝟬\n\nFR\n\n𝗥
+DESCRIPTION:Ardèche\n(1.6)\n\nDocumentaire\n𝟭𝗵𝟯𝟬\n\nFR\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Gabriel Campina\, John Dauv
  in\n\n\nL'Ardèche se dévoile dans ses pierres\, ses vallées encaissées
  \, ses villages et ses gorges spectaculaires. Sur les routes de ce départ
@@ -927,11 +861,11 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Butterfly Jam
-DESCRIPTION:Butterfly Jam\n(1.8 →︎)\n\nDrame\n𝟭𝗵𝟰𝟮\n\nUnite
+DESCRIPTION:Butterfly Jam\n(1.7 ↘︎)\n\nDrame\n𝟭𝗵𝟰𝟮\n\nUnite
  d States of America\, France\, Germany\, Belgium\, United Kingdom\n(Englis
  h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Кантемир Ба
- лагов\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Кантемир Балаг
- ов\, Марина Степнова\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ лагов\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Марина Степнов
+ а\, Кантемир Балагов\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : Jomo Fray\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : AR Co
  ntent\, Why Not Productions\, ARTE France Cinéma\n\n𝗔𝗰𝘁𝗲𝘂
  𝗿𝘀 :\n- Talha Akdogan\n- Barry Keoghan\n- Riley Keough\n- Harry Mell
@@ -959,7 +893,7 @@ DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Doraemon et le château sous-marin
 DESCRIPTION:映画ドラえもん 新・のび太の海底鬼岩城 — Eig
- a Doaremon Shin Nobita no Kaitei Kiganjou\n(11.7 →︎)\n\nAnimation\, Av
+ a Doaremon Shin Nobita no Kaitei Kiganjou\n(12.9 →︎)\n\nAnimation\, Av
  enture\, Fantastique\, Familial\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 矢嶋哲生\n𝗦𝗰𝗲
  𝗻𝗮𝗿𝗶𝗼 : 村山功\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
@@ -991,7 +925,7 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Ducobu et le fantôme de Saint-Potache
-DESCRIPTION:Ducobu et le fantôme de Saint-Potache\n(2.2 ↑︎)\n\nComédi
+DESCRIPTION:Ducobu et le fantôme de Saint-Potache\n(2.1 ↑︎)\n\nComédi
  e\, Familial\n\nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Élie Semoun\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Élie 
  Semoun\, Marc de Chauveron\, Guy Laurent\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
@@ -1022,10 +956,10 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:L'Espèce explosive
-DESCRIPTION:L'Espèce explosive\n(1.5 →︎)\n\nCrime\, Comédie\, Mystèr
+DESCRIPTION:L'Espèce explosive\n(1.9 ↗︎)\n\nCrime\, Comédie\, Mystèr
  e\n𝟭𝗵𝟯𝟱\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
- 𝘁𝗲𝘂𝗿 : Sarah Arnold\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sarah 
- Arnold\, Olivier Séror\, Jérémie Dubois\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
+ 𝘁𝗲𝘂𝗿 : Sarah Arnold\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Olivie
+ r Séror\, Sarah Arnold\, Jérémie Dubois\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
  𝗮𝗽𝗵𝗶𝗲 : Noé Bach\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
   : France 3 Cinéma\, 5à7 Films\, Pan-Européenne\n\n𝗔𝗰𝘁𝗲𝘂
  𝗿𝘀 :\n- Alexis Manenti\n- Ella Rumpf\n- Vincent Dedienne\n- Jean-Lou
@@ -1059,7 +993,7 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:La Maison de nos rêves
-DESCRIPTION:La Maison de nos rêves\n(3.2 ↗︎)\n\nComédie\n𝟭𝗵𝟯
+DESCRIPTION:La Maison de nos rêves\n(3.1 ↗︎)\n\nComédie\n𝟭𝗵𝟯
  𝟴\n\nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Claude Zidi Jr.\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fou
  rlon\, Kev Adams\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Magal
@@ -1088,7 +1022,7 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Ni vue\, ni connue
-DESCRIPTION:Ni vue\, ni connue\n(3.0 ↑︎)\n\nComédie\n𝟭𝗵𝟱𝟱\
+DESCRIPTION:Ni vue\, ni connue\n(2.7 ↑︎)\n\nComédie\n𝟭𝗵𝟱𝟱\
  n\nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Marc Fitoussi\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Marc Fitoussi\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jérôme Alméras\n𝗣
@@ -1118,7 +1052,7 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:No Wifi
-DESCRIPTION:No Wifi\n(1.7 ↗︎)\n\nDrame\, Romance\n\nFrance\n(French)\n\
+DESCRIPTION:No Wifi\n(1.9 ↗︎)\n\nDrame\, Romance\n\nFrance\n(French)\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Natasha Mashkevich\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Natasha Mashkevich\n𝗣𝗿𝗼𝗱𝘂
  𝗰𝘁𝗶𝗼𝗻 : Sokol Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- M
@@ -1140,7 +1074,7 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:The Social Reckoning
-DESCRIPTION:The Social Reckoning\n(15.5 ↑︎)\n\nDrame\, Thriller\n𝟭
+DESCRIPTION:The Social Reckoning\n(17.0 ↑︎)\n\nDrame\, Thriller\n𝟭
  𝗵𝟱𝟮\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Aaron Sorkin\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
  𝗼 : Aaron Sorkin\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Je
@@ -1168,7 +1102,7 @@ DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:NAZA
-DESCRIPTION:NAZA\n(14.3)\n\nDocumentaire\n𝟭𝗵𝟭𝟳\n\nUnited States
+DESCRIPTION:NAZA\n(15.2)\n\nDocumentaire\n𝟭𝗵𝟭𝟳\n\nUnited States
   of America\, United Kingdom\n(English\, Hebrew)\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : يوفال إبراهيم\, רחל שור\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : רחל שור\n𝗣𝗿
@@ -1192,7 +1126,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Street Fighter
-DESCRIPTION:Street Fighter\n(20.3 ↑︎)\n\nAction\, Fantastique\n\nJapan\
+DESCRIPTION:Street Fighter\n(21.2 ↑︎)\n\nAction\, Fantastique\n\nJapan\
  , United States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : T.J. Fixm
  an\, Kitao Sakurai\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ken
@@ -1207,14 +1141,14 @@ DESCRIPTION:Street Fighter\n(20.3 ↑︎)\n\nAction\, Fantastique\n\nJapan\
  tin et fureur. Mais derrière cette battle royale se cache une conspiratio
  n mortelle qui les oblige à s’affronter\, tout en faisant face aux dém
  ons de leur passé… Et s’ils échouent\, c’est GAME OVER.\n\n\nAffic
- he : https://image.tmdb.org/t/p/w780/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg\n\nFi
+ he : https://image.tmdb.org/t/p/w780/k53HHxQ4rQG0dME6nsofii3QNS7.jpg\n\nFi
  che TMDB : https://www.themoviedb.org/movie/1153576\n\nDonnées fournies p
  ar The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/dJPT2Uf12X6aFg8i5
- N67NTpIZ9t.jpg
+ t/p/w780/k53HHxQ4rQG0dME6nsofii3QNS7.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/k53HHxQ4rQG0dME6n
+ sofii3QNS7.jpg
 CATEGORIES:Action,Fantastique
 END:VEVENT
 BEGIN:VEVENT
@@ -1223,7 +1157,7 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Englouti
-DESCRIPTION:Whalefall\n(13.3 ↑︎)\n\nThriller\n𝟭𝗵𝟯𝟴\n\nUnite
+DESCRIPTION:Whalefall\n(16.4 ↑︎)\n\nThriller\n𝟭𝗵𝟯𝟴\n\nUnite
  d States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Brian Duffield\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Brian Duffield\,
   Daniel Kraus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Aaron Mo
@@ -1276,7 +1210,7 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Le Corset
-DESCRIPTION:Le Corset\n(3.9 →︎)\n\nAnimation\n𝟭𝗵𝟯𝟬\n\nFranc
+DESCRIPTION:Le Corset\n(4.1 →︎)\n\nAnimation\n𝟭𝗵𝟯𝟬\n\nFranc
  e\, Belgium\n(French\, Mandarin)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Louis Clichy\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Louis Clichy\,
   Franck Salomé\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : eddy\, Beside 
@@ -1304,7 +1238,7 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Les Misérables
-DESCRIPTION:Les Misérables\n(3.0 ↗︎)\n\nHistoire\, Romance\, Drame\n
+DESCRIPTION:Les Misérables\n(3.3 ↗︎)\n\nHistoire\, Romance\, Drame\n
  𝟮𝗵𝟱𝟴\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Fred Cavayé\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Fred Cavay
  é\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Denis Rouden\n𝗣
@@ -1342,7 +1276,7 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Les Recommencements
-DESCRIPTION:Les Recommencements\n(1.8 ↘︎)\n\nDocumentaire\n𝟭𝗵𝟯
+DESCRIPTION:Les Recommencements\n(1.6 ↓︎)\n\nDocumentaire\n𝟭𝗵𝟯
  𝟭\n\nBelgium\, France\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿𝘀 : Vivianne Perelmuter\, Isabelle Ingold\n𝗦𝗰𝗲𝗻
  𝗮𝗿𝗶𝗼 : Al Moon\, Isabelle Ingold\, Vivianne Perelmuter\n𝗣
@@ -1371,7 +1305,7 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Malfaisante
-DESCRIPTION:Other Mommy\n(23.7 →︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
+DESCRIPTION:Other Mommy\n(27.1 →︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
  ed States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Rob Savage\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nathan Elston\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Lowell A. Meyer\n𝗣
@@ -1397,9 +1331,9 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Minotaure
-DESCRIPTION:Minotaure\n(6.1 →︎)\n\nDrame\, Crime\, Thriller\n𝟮𝗵
- 𝟮𝟭\n\nLatvia\, France\, Germany\, Switzerland\, United States of Ame
- rica\n(Russian)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Andreï 
+DESCRIPTION:Minotaure\n(7.7 ↘︎)\n\nDrame\, Crime\, Thriller\n𝟮𝗵
+ 𝟮𝟬\n\nFrance\, Latvia\, Germany\, United States of America\, Switzer
+ land\n(Russian)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Andreï 
  Zviaguintsev\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Liashenko\, Andreï
   Zviaguintsev\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Миха
  ил Кричман\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MK Product
@@ -1428,7 +1362,7 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Petite Casbah
-DESCRIPTION:Petite Casbah\n(1.3 →︎)\n\nAnimation\, Familial\n𝟭𝗵
+DESCRIPTION:Petite Casbah\n(1.2 ↘︎)\n\nAnimation\, Familial\n𝟭𝗵
  𝟮𝟰\n\nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Antoine Colomb\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alice Ca
  rré\, Alice Zeniter\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Darjeelin
@@ -1453,7 +1387,7 @@ DTSTAMP:20261017T000000Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Your Mother Your Mother Your Mother
-DESCRIPTION:Your Mother Your Mother Your Mother\n(9.0 ↑︎)\n\nAction\, C
+DESCRIPTION:Your Mother Your Mother Your Mother\n(9.6 ↑︎)\n\nAction\, C
  rime\, Drame\n𝟭𝗵𝟱𝟮\n\nUnited States of America\, United Kingdo
  m\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Bassam Tari
  q\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Bassam Tariq\n𝗣𝗵𝗼𝘁𝗼
@@ -1482,7 +1416,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Clayface
-DESCRIPTION:Clayface\n(22.0 ↑︎)\n\nHorreur\, Thriller\, Science-Fiction
+DESCRIPTION:Clayface\n(24.2 ↑︎)\n\nHorreur\, Thriller\, Science-Fiction
  \n𝟭𝗵𝟰𝟴\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : James Watkins\n𝗦𝗰𝗲𝗻𝗮𝗿
  𝗶𝗼 : Mike Flanagan\, Hossein Amini\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
@@ -1514,7 +1448,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Karma
-DESCRIPTION:Karma\n(3.7 ↗︎)\n\nThriller\n𝟮𝗵𝟮𝟬\n\nFrance\, C
+DESCRIPTION:Karma\n(3.2 ↗︎)\n\nThriller\n𝟮𝗵𝟮𝟬\n\nFrance\, C
  yprus\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Guillaum
  e Canet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillaume Canet\, Simon Jacque
  t\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Benoît Debie\n𝗣
@@ -1546,7 +1480,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Klara et le Soleil
-DESCRIPTION:Klara and the Sun\n(8.7 ↑︎)\n\nScience-Fiction\, Drame\, Co
+DESCRIPTION:Klara and the Sun\n(9.0 ↑︎)\n\nScience-Fiction\, Drame\, Co
  médie\n𝟭𝗵𝟱𝟲\n\nNew Zealand\, United Kingdom\, United States o
  f America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Tai
  ka Waititi\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dahvi Waller\, Taika Waitit
@@ -1576,7 +1510,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:L'Île des Souvenirs
-DESCRIPTION:Forgotten Island\n(85.2 ↑︎)\n\nAnimation\, Aventure\, Fanta
+DESCRIPTION:Forgotten Island\n(79.9 ↑︎)\n\nAnimation\, Aventure\, Fanta
  stique\, Comédie\, Familial\n𝟭𝗵𝟰𝟵\n\nUnited States of America
  \n(English\, Tagalog)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 
  : Januel Mercado\, Joel Crawford\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Joel 
@@ -1603,7 +1537,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:La Gradiva
-DESCRIPTION:La Gradiva\n(4.9 →︎)\n\nDrame\n𝟮𝗵𝟮𝟱\n\nFrance\,
+DESCRIPTION:La Gradiva\n(4.7 →︎)\n\nDrame\n𝟮𝗵𝟮𝟱\n\nFrance\,
   Italy\n(French\, Italian\, English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Marine Atlan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Marine Atl
  an\, Anne Brouillet\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ma
@@ -1633,7 +1567,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Le Roi du Game
-DESCRIPTION:Le Roi du Game\n(2.8 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
+DESCRIPTION:Le Roi du Game\n(3.1 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟴\n\nF
  rance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Éric Ju
  dor\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antonin Fourlon\, Cédric Prévost
  \n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Vincent Muller\n𝗣
@@ -1661,7 +1595,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Shaun le Mouton : La Bêêête d'Halloween
-DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(12.6 →︎)\n\nAn
+DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(12.5 ↘︎)\n\nAn
  imation\, Comédie\, Familial\, Aventure\, Horreur\n𝟭𝗵𝟮𝟭\n\nUn
  ited Kingdom\, France\n(No Language)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿𝘀 : Steve Cox\, Matthew Walker\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -1691,7 +1625,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:The Good Boy
-DESCRIPTION:Good Boy\n(17.2 →︎)\n\nThriller\, Drame\, Mystère\, Horreu
+DESCRIPTION:Good Boy\n(17.9 →︎)\n\nThriller\, Drame\, Mystère\, Horreu
  r\n𝟭𝗵𝟱𝟬\n\nUnited Kingdom\, Poland\n(English)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jan Komasa\n𝗦𝗰𝗲𝗻𝗮𝗿
  𝗶𝗼 : Bartek Bartosik\, Naqqash Khalid\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
@@ -1721,7 +1655,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Une femme aujourd’hui
-DESCRIPTION:Une femme aujourd’hui\n(1.7 ↑︎)\n\nComédie\, Drame\n𝟮
+DESCRIPTION:Une femme aujourd’hui\n(1.6 ↗︎)\n\nComédie\, Drame\n𝟮
  𝗵𝟬𝟯\n\nFrance\, Italy\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Robert Guédiguian\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 
  Robert Guédiguian\, Serge Valletti\, Laurette Polmanss\n𝗣𝗵𝗼𝘁
@@ -1751,7 +1685,7 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Wicker
-DESCRIPTION:Wicker\n(7.0 →︎)\n\nRomance\, Fantastique\, Comédie\n𝟭
+DESCRIPTION:Wicker\n(8.1 →︎)\n\nRomance\, Fantastique\, Comédie\n𝟭
  𝗵𝟰𝟱\n\nUnited Kingdom\, United States of America\n(English)\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Eleanor Wilson\, Alex H
  uston Fischer\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Eleanor Wilson\, Alex Hu
@@ -1784,7 +1718,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Des gens face à la mer
-DESCRIPTION:Des gens face à la mer\n(1.7)\n\nDocumentaire\, Comédie\n𝟭
+DESCRIPTION:Des gens face à la mer\n(1.4)\n\nDocumentaire\, Comédie\n𝟭
  𝗵𝟮𝟰\n\nFR\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Arthu
  r Cossement\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Emma Crépy\n- Santino Bl
  anc-Pacchioni\n- Théophile Cobigo\n- Noah Caron\n- Alexandre Morado\n- Ar
@@ -1806,7 +1740,7 @@ DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Mylène Farmer : Égrégore - L'Avant-Première
-DESCRIPTION:Mylène Farmer : Égrégore - L'Avant-Première\n(1.4 →︎)\n
+DESCRIPTION:Mylène Farmer : Égrégore - L'Avant-Première\n(1.6 ↗︎)\n
  \nMusique\n𝟭𝗵𝟬𝟱\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : François Hanss\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
  𝗮𝗽𝗵𝗶𝗲 : Jean-Baptiste Mondino\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
@@ -1829,7 +1763,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Hope
-DESCRIPTION:호프\n(46.0 ↓︎)\n\nScience-Fiction\, Mystère\, Action\n
+DESCRIPTION:호프\n(43.6 ↓︎)\n\nScience-Fiction\, Mystère\, Action\n
  𝟮𝗵𝟰𝟬\n\nSouth Korea\n(Korean)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Na Hong-jin\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Na Hong
  -jin\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 홍경표\n𝗣
@@ -1859,7 +1793,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Le Fantôme de l'Opéra
-DESCRIPTION:Le Fantôme de l'Opéra\n(2.4 ↑︎)\n\nThriller\, Romance\, M
+DESCRIPTION:Le Fantôme de l'Opéra\n(2.7 ↑︎)\n\nThriller\, Romance\, M
  ystère\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Alexandre Castagnetti\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alexandre
   Castagnetti\, Camille Fontaine\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
@@ -1890,7 +1824,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Le Mystère Lucy Lost
-DESCRIPTION:Lucy Lost\n(2.9 ↑︎)\n\nAventure\, Animation\, Familial\, Fa
+DESCRIPTION:Lucy Lost\n(3.5 ↑︎)\n\nAventure\, Animation\, Familial\, Fa
  ntastique\, Guerre\n𝟭𝗵𝟮𝟱\n\nFrance\n(French)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Olivier Clert\n𝗦𝗰𝗲𝗻𝗮𝗿
  𝗶𝗼 : Helen Blakeman\, Olivier Clert\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
@@ -1916,7 +1850,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Les Diables
-DESCRIPTION:The Devils\n(6.5 →︎)\n\nDrame\, Histoire\, Horreur\n𝟭
+DESCRIPTION:The Devils\n(5.9 →︎)\n\nDrame\, Histoire\, Horreur\n𝟭
  𝗵𝟱𝟭\n\nUnited Kingdom\n(English\, Latin)\n𝗦𝗼𝗿𝘁𝗶
  𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 29 octobre 1971\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ken Russell\n𝗦𝗰𝗲𝗻
@@ -1955,7 +1889,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Moulin
-DESCRIPTION:Moulin\n(4.2 ↗︎)\n\nHistoire\, Drame\, Guerre\n𝟮𝗵𝟭
+DESCRIPTION:Moulin\n(3.9 ↗︎)\n\nHistoire\, Drame\, Guerre\n𝟮𝗵𝟭
  𝟬\n\nFrance\, Belgium\, United States of America\n(French\, German)\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Lászlo Nemes\n𝗦𝗰𝗲
  𝗻𝗮𝗿𝗶𝗼 : Olivier Demangel\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
@@ -1987,7 +1921,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Papa où t'es ?
-DESCRIPTION:Papa où t'es ?\n(1.8 ↘︎)\n\nDocumentaire\n\nFrance\n\n𝗥
+DESCRIPTION:Papa où t'es ?\n(2.2 ↘︎)\n\nDocumentaire\n\nFrance\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Basile Monnot\, Samy Bouyss
  ié\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : ascend\n\n𝗔𝗰𝘁𝗲
  𝘂𝗿𝘀 :\n- Nicolas Trouvé\n- Bounama Touré\n- Mohamed Touré\n\n\
@@ -2014,7 +1948,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Quelques mots d'amour
-DESCRIPTION:Quelques mots d'amour\n(2.2 ↑︎)\n\nComédie\, Drame\n𝟭
+DESCRIPTION:Quelques mots d'amour\n(2.3 ↑︎)\n\nComédie\, Drame\n𝟭
  𝗵𝟯𝟳\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Rudi Rosenberg\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Rudi Rosenbe
  rg\, Bruno Tracq\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Éric
@@ -2045,7 +1979,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Sanguine
-DESCRIPTION:Sanguine\n(3.3 →︎)\n\nScience-Fiction\, Horreur\n𝟭𝗵
+DESCRIPTION:Sanguine\n(3.1 →︎)\n\nScience-Fiction\, Horreur\n𝟭𝗵
  𝟯𝟵\n\nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Marion Le Corroller\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mar
  ion Le Corroller\, Thomas Pujol\, Delphine de Vigan\n𝗣𝗵𝗼𝘁𝗼
@@ -2075,7 +2009,7 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Ghost in the Cell
-DESCRIPTION:Ghost in the Cell\n(44.4 ↓︎)\n\nHorreur\, Comédie\, Thrill
+DESCRIPTION:Ghost in the Cell\n(41.3 ↓︎)\n\nHorreur\, Comédie\, Thrill
  er\n𝟭𝗵𝟰𝟲\n\nIndonesia\, South Korea\n(Indonesian)\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Joko Anwar\n𝗦𝗰𝗲𝗻𝗮
  𝗿𝗶𝗼 : Joko Anwar\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
@@ -2104,7 +2038,7 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Woodstock express
-DESCRIPTION:Woodstock express\n(1.5 ↑︎)\n\nComédie\, Drame\, Musique\n
+DESCRIPTION:Woodstock express\n(1.4 ↘︎)\n\nComédie\, Drame\, Musique\n
  𝟭𝗵𝟮𝟱\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Coline Pagoda\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Coline Pa
  goda\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Florian De Magalh
@@ -2129,8 +2063,8 @@ DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Club Kid
-DESCRIPTION:Club Kid\n(8.9 ↑︎)\n\nComédie\, Drame\n𝟮𝗵𝟬𝟮\n\
- nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
+DESCRIPTION:Club Kid\n(12.3 ↑︎)\n\nComédie\, Drame\n𝟮𝗵𝟬𝟮\n
+ \nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Jordan Firstman\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jordan 
  Firstman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adam Newport-
  Berra\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Topic Studios\, Stay Gol
@@ -2155,7 +2089,7 @@ DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Folichonneries
-DESCRIPTION:Folichonneries\n(2.3 →︎)\n\nComédie\, Romance\n𝟭𝗵
+DESCRIPTION:Folichonneries\n(2.0 ↘︎)\n\nComédie\, Romance\n𝟭𝗵
  𝟰𝟯\n\nCanada\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Eric K. Boulianne\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Eric K. Bouli
  anne\, Alexandre Auger\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 :
@@ -2184,7 +2118,7 @@ DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Godzilla Minus Zero
-DESCRIPTION:ゴジラ-0.0 — G-0.0\n(13.8 ↑︎)\n\nScience-Fiction\, Hor
+DESCRIPTION:ゴジラ-0.0 — G-0.0\n(14.3 ↑︎)\n\nScience-Fiction\, Hor
  reur\, Action\n𝟮𝗵𝟭𝟱\n\nJapan\n(Japanese\, English)\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Takashi Yamazaki\n𝗦𝗰𝗲𝗻
  𝗮𝗿𝗶𝗼 : Takashi Yamazaki\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
@@ -2213,7 +2147,7 @@ DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:L'Arabe
-DESCRIPTION:العربي\n(5.6)\n\nDrame\n𝟭𝗵𝟰𝟲\n\nAlgeria\, Bel
+DESCRIPTION:العربي\n(5.7)\n\nDrame\n𝟭𝗵𝟰𝟲\n\nAlgeria\, Bel
  gium\, France\, Switzerland\, Saudi Arabia\n(Arabic\, Spanish\, French)\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Malek Bensmaïl\n𝗦𝗰
  𝗲𝗻𝗮𝗿𝗶𝗼 : Malek Bensmaïl\, Jacques Fieschi\n𝗣𝗵𝗼
@@ -2244,7 +2178,7 @@ DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:L’Affaire Marie-Claire
-DESCRIPTION:L’Affaire Marie-Claire\n(3.4 ↑︎)\n\nHistoire\, Drame\n
+DESCRIPTION:L’Affaire Marie-Claire\n(3.3 ↑︎)\n\nHistoire\, Drame\n
  𝟭𝗵𝟰𝟮\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿𝘀 : Lauriane Escaffre\, Yvo Muller\n𝗦𝗰𝗲𝗻𝗮
  𝗿𝗶𝗼 : Lauriane Escaffre\, Yvo Muller\, Marie Du Roy\n𝗣𝗵𝗼
@@ -2276,7 +2210,7 @@ DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Silences
-DESCRIPTION:Silences\n(2.8 ↘︎)\n\nDrame\n\nFrance\n(French)\n\n𝗥𝗲
+DESCRIPTION:Silences\n(3.2 ↗︎)\n\nDrame\n\nFrance\n(French)\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Thibaut Miche\, Patrick Attali\
  n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Thibaut Miche\, Patrick Attali\n𝗣
  𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Nema 777\n\n𝗔𝗰𝘁𝗲𝘂
@@ -2304,7 +2238,7 @@ DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Soldat fantôme
-DESCRIPTION:Ghost Soldier\n(10.1 ↘︎)\n\nAction\, Thriller\n\nUnited Sta
+DESCRIPTION:Ghost Soldier\n(10.5 ↘︎)\n\nAction\, Thriller\n\nUnited Sta
  tes of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
  : William Eubank\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Chris Papasadero\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Agustin Claramunt\n𝗣
@@ -2331,7 +2265,7 @@ DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Wild Horse Nine
-DESCRIPTION:Wild Horse Nine\n(8.3 ↗︎)\n\nComédie\, Crime\, Thriller\n
+DESCRIPTION:Wild Horse Nine\n(8.8 ↗︎)\n\nComédie\, Crime\, Thriller\n
  𝟭𝗵𝟱𝟴\n\nUnited Kingdom\, United States of America\n(English\, 
  Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Martin McDonagh
  \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Martin McDonagh\n𝗣𝗵𝗼𝘁𝗼
@@ -2396,7 +2330,7 @@ DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Ramayana
-DESCRIPTION:रामायण\n(9.7)\n\nFantastique\, Drame\, Action\n\nIn
+DESCRIPTION:रामायण\n(8.8)\n\nFantastique\, Drame\, Action\n\nIn
  dia\, United Kingdom\n(Hindi)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Nitesh Tiwari\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Shridhar Raghavan
  \, Nitesh Tiwari\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Panka
@@ -2425,7 +2359,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Ce qui nous mène à toi
-DESCRIPTION:Ce qui nous mène à toi\n(2.4 ↑︎)\n\nDrame\n\nFrance\n(Fre
+DESCRIPTION:Ce qui nous mène à toi\n(2.3 ↑︎)\n\nDrame\n\nFrance\n(Fre
  nch)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Khalil Cherti\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Khalil Cherti\, Simon Serna\n𝗣𝗵𝗼
  𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Frida Marzouk\n𝗣𝗿𝗼𝗱𝘂
@@ -2453,7 +2387,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Comment braquer une banque
-DESCRIPTION:How to Rob a Bank\n(6.7 ↘︎)\n\nCrime\, Thriller\n𝟮𝗵
+DESCRIPTION:How to Rob a Bank\n(7.6 ↘︎)\n\nCrime\, Thriller\n𝟮𝗵
  𝟬𝟭\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : David Leitch\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
  : Mark Bianculli\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jonat
@@ -2483,7 +2417,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Il faut brûler maman
-DESCRIPTION:Il faut brûler maman\n(2.6 ↑︎)\n\nComédie\n\nFrance\n(Fre
+DESCRIPTION:Il faut brûler maman\n(2.1 ↑︎)\n\nComédie\n\nFrance\n(Fre
  nch)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Albert Dupontel\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Albert Dupontel\n𝗣𝗵𝗼𝘁𝗼
  𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Alexis Kavyrchine\n𝗣𝗿𝗼𝗱𝘂𝗰
@@ -2539,15 +2473,15 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Scrooge
-DESCRIPTION:Ebenezer\n(9.3 ↑︎)\n\nFantastique\, Comédie\n\nUnited Stat
- es of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 :
-  Ti West\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nathaniel Halpern\n𝗣𝗵
+DESCRIPTION:Ebenezer\n(13.5 ↑︎)\n\nFantastique\, Comédie\n\nUnited Sta
+ tes of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
+ : Ti West\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nathaniel Halpern\n𝗣𝗵
  𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Checco Varese\n𝗣𝗿𝗼𝗱
  𝘂𝗰𝘁𝗶𝗼𝗻 : Paramount Pictures\, Domain Entertainment\, Wat
  tsco\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Johnny Depp\n- Rupert Grint\n- A
  ndrea Riseborough\n- Tramell Tillman\n- Ian McKellen\n- Daisy Ridley\n- Sa
- m Claflin\n- Charlie Murphy\n- Arthur Conti\n- Ellie Bamber\n- Robert Stra
- nge\n- Matt Brewer\n\n\nEbenezer Scrooge est un vieil homme avare\, pingre
+ m Claflin\n- Charlie Murphy\n- Arthur Conti\n- Ellie Bamber\n- Ian Midlane
+ \n- Robert Strange\n\n\nEbenezer Scrooge est un vieil homme avare\, pingre
   et solitaire. Bien évidemment\, il déteste et méprise Noël et tout ce
   qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme 
  d'un ancien associé ainsi que par les esprits de Noëls du passé\, du pr
@@ -2567,7 +2501,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:15/18
-DESCRIPTION:15/18\n(1.6 ↘︎)\n\nDrame\n𝟭𝗵𝟰𝟰\n\nFrance\n(Fren
+DESCRIPTION:15/18\n(1.8 →︎)\n\nDrame\n𝟭𝗵𝟰𝟰\n\nFrance\n(Fren
  ch)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Cédric Kahn\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Cédric Kahn\, Kahina Le Querrec\n𝗣𝗵
  𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Patrick Ghiringhelli\n𝗣𝗿
@@ -2600,7 +2534,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Camembert
-DESCRIPTION:Camembert\n(2.3 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
+DESCRIPTION:Camembert\n(2.6 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
  \n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Matthieu 
  Rumani\, Nicolas Slomka\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Matthieu Ruman
  i\, Nicolas Slomka\, Marina Rollman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
@@ -2631,7 +2565,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Gabin
-DESCRIPTION:Gabin\n(1.5 ↗︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟱\n\nFrance
+DESCRIPTION:Gabin\n(1.6 ↗︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟱\n\nFrance
  \, Germany\, Switzerland\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Maxence Voiseux\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Maxence Voi
  seux\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Alter Ego Productions\, R
@@ -2659,7 +2593,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Hunger Games: Lever de soleil sur la moisson
-DESCRIPTION:The Hunger Games: Sunrise on the Reaping\n(14.2 ↘︎)\n\nScie
+DESCRIPTION:The Hunger Games: Sunrise on the Reaping\n(14.6 ↘︎)\n\nScie
  nce-Fiction\, Action\, Aventure\n𝟮𝗵𝟯𝟬\n\nUnited States of Amer
  ica\, Germany\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 :
   Francis Lawrence\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Billy Ray\, Michael 
@@ -2691,12 +2625,42 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7w6v7FHdTbxuKqAPi
 CATEGORIES:Science-Fiction,Action,Aventure
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1502759@calendrier-cine-fr
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Jupiter
+DESCRIPTION:Jupiter\n(1.2 ↘︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
+ France\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alexand
+ re Smia\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alexandre Smia\, Thomas Finkie
+ lkraut\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Nicolas Loir\n
+ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Chi-Fou-Mi Productions\, France
+  2 Cinéma\, SND\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Denis Ménochet\n- E
+ lla Rumpf\n- Céline Sallette\n- Dominique Blanc\n- Reda Kateb\n- André D
+ ussollier\n- Frédéric Pierrot\n- Cédric Kahn\n- Jérémy Lopez\n- Cloti
+ lde Courau\n- Pascal Greggory\n- Valeriu Andriuță\n\n\nFraîchement élu
+ \, le président Paul Archambault doit affronter une crise sans précéden
+ t : son homologue russe\, cible d'un attentat\, brandit un ultimatum nucl
+ éaire menaçant un allié de la France. Face au risque d'escalade militai
+ re\, le président réunit son état-major dans le bunker de l'Elysée. Da
+ ns le secret du Poste de Commandement Jupiter\, Paul va devoir prendre une
+  décision vertigineuse.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8c
+ t7Pvh7Pw4jd8yvmEV282evmQ7.jpg\n\nFiche TMDB : https://www.themoviedb.org/m
+ ovie/1502759\n\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/8ct7Pvh7Pw4jd8yvmEV282evmQ7.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8ct7Pvh7Pw4jd8yvm
+ EV282evmQ7.jpg
+CATEGORIES:Drame,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1437981@calendrier-cine-fr
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Les Braves (Coward)
-DESCRIPTION:Coward\n(3.9 →︎)\n\nDrame\, Romance\, Guerre\n𝟮𝗵𝟬
+DESCRIPTION:Coward\n(4.0 →︎)\n\nDrame\, Romance\, Guerre\n𝟮𝗵𝟬
  𝟱\n\nBelgium\, France\, Netherlands\n(French\, Dutch)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Lukas Dhont\n𝗦𝗰𝗲𝗻𝗮𝗿
  𝗶𝗼 : Lukas Dhont\, Angelo Tijssens\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
@@ -2724,7 +2688,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Barça Zou
-DESCRIPTION:Barça Zou\n(1.5 ↓︎)\n\nComédie\, Drame\n𝟭𝗵𝟮𝟲\
+DESCRIPTION:Barça Zou\n(1.6 ↓︎)\n\nComédie\, Drame\n𝟭𝗵𝟮𝟲\
  n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Paul
   Nouhet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Paul Nouhet\n𝗣𝗵𝗼𝘁
  𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Pauline Doméjean\n𝗣𝗿𝗼𝗱𝘂
@@ -2750,7 +2714,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Demain\, je tombe amoureux
-DESCRIPTION:Demain\, je tombe amoureux\n(2.3 ↑︎)\n\nComédie\n𝟭𝗵
+DESCRIPTION:Demain\, je tombe amoureux\n(2.5 ↑︎)\n\nComédie\n𝟭𝗵
  𝟰𝟳\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Martin Provost\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Martin Provost\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Guillaume Schiffman\n
@@ -2781,7 +2745,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Forty Love
-DESCRIPTION:Forty Love\n(1.8 ↘︎)\n\nDrame\, Romance\, Thriller\n𝟭
+DESCRIPTION:Forty Love\n(2.1 ↘︎)\n\nDrame\, Romance\, Thriller\n𝟭
  𝗵𝟯𝟰\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Pierre-Ange Carlotti\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Pierre
  -Ange Carlotti\, Gaëlle Macé\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
@@ -2805,7 +2769,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Le Sabre des gardiens
-DESCRIPTION:镖人：风起大漠 — Biao ren: Feng qi da mo\n(19.4 ↘︎
+DESCRIPTION:镖人：风起大漠 — Biao ren: Feng qi da mo\n(17.9 ↘︎
  )\n\nAction\, Aventure\n𝟮𝗵𝟬𝟲\n\nChina\n(Mandarin)\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Yuen Woo-ping\n𝗦𝗰𝗲𝗻𝗮
  𝗿𝗶𝗼 : Su Chaobin\, 杨子\, 俞白眉\n𝗣𝗵𝗼𝘁𝗼𝗴
@@ -2833,7 +2797,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Merci d'être venu
-DESCRIPTION:Merci d'être venu\n(1.6 ↑︎)\n\nDocumentaire\n𝟭𝗵𝟮
+DESCRIPTION:Merci d'être venu\n(1.5 ↑︎)\n\nDocumentaire\n𝟭𝗵𝟮
  𝟱\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 :
   Alain Cavalier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alain Cavalier\n𝗣
  𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Camera One\n\n𝗔𝗰𝘁𝗲𝘂
@@ -2890,7 +2854,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Paper Tiger
-DESCRIPTION:Paper Tiger\n(5.5 ↗︎)\n\nCrime\, Drame\, Thriller\n𝟭𝗵
+DESCRIPTION:Paper Tiger\n(6.0 →︎)\n\nCrime\, Drame\, Thriller\n𝟭𝗵
  𝟱𝟱\n\nUnited States of America\, Brazil\, Italy\, France\, Cyprus\, 
  United Kingdom\, Qatar\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : James Gray\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : James Gray\n𝗣
@@ -2919,7 +2883,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Un bon petit soldat
-DESCRIPTION:Un bon petit soldat\n(1.7 ↗︎)\n\nDrame\n𝟭𝗵𝟰𝟮\n\
+DESCRIPTION:Un bon petit soldat\n(1.8 ↗︎)\n\nDrame\n𝟭𝗵𝟰𝟮\n\
  nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Stéph
  ane Brizé\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stéphane Brizé\, Coralie 
  Amédéo\, Olivier Gorce\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
@@ -2950,7 +2914,7 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(3.4 →︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.6 ↗︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alexandre Heboyan\
  n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alexandre de La Patellière\, Matthieu
@@ -2973,12 +2937,39 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/p6PFYB8TSFrVcF2eF
 CATEGORIES:Animation,Aventure,Comédie,Familial,Fantastique
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1452168@calendrier-cine-fr
+DTSTAMP:20261202T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Behemoth!
+DESCRIPTION:Behemoth!\n(3.6)\n\nMusique\, Drame\n𝟮𝗵𝟬𝟳\n\nUnited
+  States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Tony Gilroy\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Tony Gilroy\n𝗣
+ 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Damián García\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Searchlight Pictures\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Pedro Pascal\n- Olivia Wilde\n- Eva Victor\n- Will A
+ rnett\n- Hank Azaria\n- Alexa Swinton\n- Kaya Ralls\n- Erik Griffin\n- JoB
+ eth Williams\n- Margarita Levieva\n- Matthew Lillard\n- Alia Shawkat\n\n\n
+ Violoncelliste de talent\, Alex Serian (Pedro Pascal) rentre chez lui à L
+ os Angeles après vingt ans de tournée. La musique\, fil conducteur et pa
+ ssion dévorante de son existence\, entraîne alors Alex dans une aventure
+  qui le transformera à jamais.\n\n\nAffiche : https://image.tmdb.org/t/p/
+ w780/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg\n\nFiche TMDB : https://www.themovied
+ b.org/movie/1452168\n\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/bcyGYWfcXr0GnXewa
+ E5gkvYy1iQ.jpg
+CATEGORIES:Musique,Drame
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1568223@calendrier-cine-fr
 DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Claude
-DESCRIPTION:Claude\n(1.8 ↑︎)\n\nComédie\, Familial\n\nFrance\n(French)
+DESCRIPTION:Claude\n(2.1 ↑︎)\n\nComédie\, Familial\n\nFrance\n(French)
  \n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Clément Michel\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Clément Michel\n𝗣𝗵𝗼𝘁𝗼𝗴
  𝗿𝗮𝗽𝗵𝗶𝗲 : Fabrizio Fontemaggi\n𝗣𝗿𝗼𝗱𝘂𝗰
@@ -3001,7 +2992,7 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Du fioul dans les artères
-DESCRIPTION:Du fioul dans les artères\n(1.8 ↑︎)\n\nDrame\n𝟭𝗵𝟯
+DESCRIPTION:Du fioul dans les artères\n(2.1 ↗︎)\n\nDrame\n𝟭𝗵𝟯
  𝟭\n\nFrance\, Poland\n(French\, English\, Polish)\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre le Gall\n𝗦𝗰𝗲𝗻𝗮𝗿
  𝗶𝗼 : Pierre le Gall\, Camille Perton\, Martin Drouot\n𝗣𝗵𝗼
@@ -3031,7 +3022,7 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Ojczyzna
-DESCRIPTION:Fatherland\n(14.5 ↗︎)\n\nDrame\, Histoire\n𝟭𝗵𝟮𝟮
+DESCRIPTION:Fatherland\n(13.5 ↗︎)\n\nDrame\, Histoire\n𝟭𝗵𝟮𝟮
  \n\nPoland\, Germany\, France\, Italy\, United Kingdom\n(Polish\, German\,
   English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Paweł Pawliko
  wski\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Paweł Pawlikowski\, Hendrik Hand
@@ -3095,7 +3086,7 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Violent Night 2
-DESCRIPTION:Violent Night 2\n(5.4 ↑︎)\n\nAction\, Comédie\, Fantastiqu
+DESCRIPTION:Violent Night 2\n(5.4 ↗︎)\n\nAction\, Comédie\, Fantastiqu
  e\n\nUnited States of America\n(English\, German)\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Tommy Wirkola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼
   : Pat Casey\, Josh Miller\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 87N
@@ -3147,7 +3138,7 @@ DTSTAMP:20261205T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Rédemptions
-DESCRIPTION:Rédemptions\n(6.8 ↑︎)\n\nDrame\, Thriller\, Crime\n𝟭
+DESCRIPTION:Rédemptions\n(7.0 ↑︎)\n\nDrame\, Thriller\, Crime\n𝟭
  𝗵𝟱𝟰\n\nCanada\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Luc Picard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Luc Picard\n𝗣
  𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : François Dutil\n𝗣𝗿
@@ -3175,7 +3166,7 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(2.4 ↑︎)\n\nDrame\n\nFrance\, Ita
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.6 ↑︎)\n\nDrame\n\nFrance\, Ita
  ly\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : J
  ean-Pierre Jeunet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jean-Pierre Jeunet\,
   Guillaume Laurant\, Valérie Perrin\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
@@ -3211,7 +3202,7 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Mariage au goût d'orange
-DESCRIPTION:Mariage au goût d'orange\n(2.2 ↗︎)\n\nDrame\, Comédie\n
+DESCRIPTION:Mariage au goût d'orange\n(2.1 →︎)\n\nDrame\, Comédie\n
  𝟭𝗵𝟱𝟱\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Christophe Honoré\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Chri
  stophe Honoré\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeanne 
@@ -3242,7 +3233,7 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Nina Roza
-DESCRIPTION:Nina Roza\n(3.6 →︎)\n\nDrame\n𝟭𝗵𝟰𝟯\n\nCanada\, 
+DESCRIPTION:Nina Roza\n(3.5 ↘︎)\n\nDrame\n𝟭𝗵𝟰𝟯\n\nCanada\, 
  Bulgaria\, Italy\, Belgium\n(French\, Bulgarian\, English)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Geneviève Dulude-De Celles\n𝗦𝗰
  𝗲𝗻𝗮𝗿𝗶𝗼 : Geneviève Dulude-De Celles\n𝗣𝗵𝗼𝘁
@@ -3273,7 +3264,7 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Tanger blues
-DESCRIPTION:Tanger blues\n(3.1 →︎)\n\nDrame\, Comédie\n𝟭𝗵𝟰
+DESCRIPTION:Tanger blues\n(2.7 →︎)\n\nDrame\, Comédie\n𝟭𝗵𝟰
  𝟮\n\nFrance\, Morocco\n(French\, Arabic)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Ali Mesbahi\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ali
   Mesbahi\, François Schmitt\, Jean-François Halin\n𝗣𝗵𝗼𝘁𝗼
@@ -3303,7 +3294,7 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Wildwood : La prophétie de la forêt
-DESCRIPTION:Wildwood\n(12.5 ↘︎)\n\nAnimation\, Aventure\, Fantastique\n
+DESCRIPTION:Wildwood\n(13.9 →︎)\n\nAnimation\, Aventure\, Fantastique\n
  𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Travis Knight\n𝗦𝗰𝗲𝗻𝗮𝗿
  𝗶𝗼 : Chris Butler\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
@@ -3333,7 +3324,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(20.5 ↗︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(22.5 ↗︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮
  𝗿𝗶𝗼 : Denis Villeneuve\, Brian K. Vaughan\n𝗣𝗵𝗼𝘁𝗼
@@ -3360,7 +3351,7 @@ DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Avengers : Doomsday
-DESCRIPTION:Avengers: Doomsday\n(91.5 ↑︎)\n\nScience-Fiction\, Action\,
+DESCRIPTION:Avengers: Doomsday\n(93.9 ↑︎)\n\nScience-Fiction\, Action\,
   Aventure\n𝟮𝗵𝟰𝟱\n\nUnited States of America\n(English)\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Joe Russo\, Anthony Russo\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFeely\, Michael Waldron\, Chr
@@ -3390,7 +3381,7 @@ DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Carmen\, l’oiseau rebelle
-DESCRIPTION:Prends garde à toi !\n(2.5 ↑︎)\n\nAnimation\, Musique\, Dr
+DESCRIPTION:Prends garde à toi !\n(2.3 ↗︎)\n\nAnimation\, Musique\, Dr
  ame\, Aventure\n𝟭𝗵𝟯𝟬\n\nFinland\, France\, Spain\n(French)\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sébastien Laudenbach\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Santiago Otheguy\, Sébastien Laudenbach\n
@@ -3416,7 +3407,7 @@ DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:La bola negra
-DESCRIPTION:La bola negra\n(21.7 ↑︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
+DESCRIPTION:La bola negra\n(22.6 ↑︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
  𝟱\n\nSpain\, France\n(Spanish\, English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿𝘀 : Javier Ambrossi\, Javier Calvo\n𝗦𝗰𝗲
  𝗻𝗮𝗿𝗶𝗼 : Javier Ambrossi\, Javier Calvo\, Alberto Conejero\n
@@ -3428,14 +3419,14 @@ DESCRIPTION:La bola negra\n(21.7 ↑︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
  n- Lorenzo Zurzolo\n- Albert Pla\n\n\nEspagne 1932\, 1937\, 2017. Trois ho
  mmes. Trois époques. Un même fil invisible de désir\, de douleur et d'h
  éritage. LA BOLA NEGRA traverse le temps pour révéler ce qui les unit.\
- n\n\nAffiche : https://image.tmdb.org/t/p/w780/4omaYktw4VYkk5Tkq7rmUsWnQa5
+ n\n\nAffiche : https://image.tmdb.org/t/p/w780/ttsFxxHKwCHrtAGJt58rpNqHdFw
  .jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1422041\n\nDonnées 
  fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4omaYktw4VYkk5Tkq
- 7rmUsWnQa5.jpg
+ t/p/w780/ttsFxxHKwCHrtAGJt58rpNqHdFw.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ttsFxxHKwCHrtAGJt
+ 58rpNqHdFw.jpg
 CATEGORIES:Drame,Guerre
 END:VEVENT
 BEGIN:VEVENT
@@ -3444,7 +3435,7 @@ DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Le Facteur humain
-DESCRIPTION:Le Facteur humain\n(1.3 ↘︎)\n\nThriller\, Fantastique\n𝟭
+DESCRIPTION:Le Facteur humain\n(1.5 →︎)\n\nThriller\, Fantastique\n𝟭
  𝗵𝟬𝟮\n\nFrance\n(French\, English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Nicolas Saada\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nicol
  as Saada\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Stéphane Bak\n- Frederick W
@@ -3464,7 +3455,7 @@ DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Léo\, le chant des océans
-DESCRIPTION:The Last Whale Singer\n(4.8 →︎)\n\nAnimation\, Aventure\, F
+DESCRIPTION:The Last Whale Singer\n(5.2 →︎)\n\nAnimation\, Aventure\, F
  amilial\n𝟭𝗵𝟯𝟭\n\nGermany\, Czech Republic\, Canada\n(English)\
  n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Reza Memari\n𝗦𝗰
  𝗲𝗻𝗮𝗿𝗶𝗼 : Reza Memari\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
@@ -3478,14 +3469,14 @@ DESCRIPTION:The Last Whale Singer\n(4.8 →︎)\n\nAnimation\, Aventure\, F
  rte de ses parents\, Vincent doute de ses propres capacités. Lorsque le m
  onstrueux Léviathan s'échappe d'un iceberg en train de fondre\, menaçan
  t toute la vie marine\, Vincent doit trouver son propre chant pour arrête
- r la menace.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/xECgPGwSuXDBKB
- hzdLloaau5PXO.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/677558\
+ r la menace.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/84zJwdVV4fl3o9
+ ex7oTV9pFV5Ge.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/677558\
  n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/xECgPGwSuXDBKBhzdLloaau5PXO.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xECgPGwSuXDBKBhzd
- Lloaau5PXO.jpg
+ t/p/w780/84zJwdVV4fl3o9ex7oTV9pFV5Ge.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/84zJwdVV4fl3o9ex7
+ oTV9pFV5Ge.jpg
 CATEGORIES:Animation,Aventure,Familial
 END:VEVENT
 BEGIN:VEVENT
@@ -3521,7 +3512,7 @@ DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Avis de tempête
-DESCRIPTION:Avis de tempête\n(1.5 ↗︎)\n\nComédie\, Histoire\n\nFrance
+DESCRIPTION:Avis de tempête\n(1.6 ↗︎)\n\nComédie\, Histoire\n\nFrance
  \, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Lud
  ovic Bernard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ludovic Bernard\, Pierre 
  Coré\, Mazarine Pingeot\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
@@ -3547,7 +3538,7 @@ DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(5.6 ↗︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+DESCRIPTION:I Play Rocky\n(6.1 →︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\, Australia\n(English)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farrelly\n𝗦𝗰𝗲𝗻𝗮
  𝗿𝗶𝗼 : Peter Gamble\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
@@ -3572,12 +3563,35 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xE5tY3lppZUyG7WKK
 CATEGORIES:Drame,Histoire
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1719847@calendrier-cine-fr
+DTSTAMP:20261223T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Popi ou l'état sauvage
+DESCRIPTION:Popi ou l'état sauvage\n(1.2)\n\nDocumentaire\n𝟭𝗵𝟮
+ 𝟬\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 :
+  Audrey Bauduin\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Audrey Bauduin\, Laure
+  Bourdon Zarader\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Manon
+  Blanc\, Chloé Terren\, Audrey Bauduin\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
+ 𝗼𝗻 : Quartett Production\n\n\nAu cœur de la forêt tropicale de Bor
+ néo\, Popi\, une jeune orang-outan rescapée\, vit dans un centre de réh
+ abilitation où elle est élevée par des soigneurs. D'année en année\, 
+ je filme son apprentissage de la vie en forêt et les efforts des soigneur
+ s pour que\, doucement\, elle se détache d'eux. Mais autour du centre\, l
+ es plantations de palmeraies gagnent du terrain et ses chances de retrouve
+ r la liberté se délitent peu à peu...\n\n\nFiche TMDB : https://www.the
+ moviedb.org/movie/1719847\n\nDonnées fournies par The Movie Database (TMD
+ B)
+TRANSP:TRANSPARENT
+CATEGORIES:Documentaire
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1302994@calendrier-cine-fr
 DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Roma elastica
-DESCRIPTION:Roma elastica\n(2.1 →︎)\n\nDrame\, Comédie\, Horreur\, Thr
+DESCRIPTION:Roma elastica\n(2.2 →︎)\n\nDrame\, Comédie\, Horreur\, Thr
  iller\n𝟭𝗵𝟰𝟳\n\nFrance\, Italy\n(French\, English\, Italian)\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Bertrand Mandico\n𝗦𝗰
  𝗲𝗻𝗮𝗿𝗶𝗼 : Bertrand Mandico\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
@@ -3604,7 +3618,7 @@ DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Sheep In The Box
-DESCRIPTION:箱の中の羊 — Hako no Naka no Hitsuji\n(5.9 ↓︎)\n\nDr
+DESCRIPTION:箱の中の羊 — Hako no Naka no Hitsuji\n(6.0 ↘︎)\n\nDr
  ame\, Science-Fiction\n𝟮𝗵𝟬𝟲\n\nJapan\n(Japanese)\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hirokazu Kore-eda\n𝗦𝗰𝗲𝗻
  𝗮𝗿𝗶𝗼 : Hirokazu Kore-eda\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
@@ -3631,7 +3645,7 @@ DTSTAMP:20261230T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Hot Spot
-DESCRIPTION:Hot Spot\n(51.6 ↘︎)\n\nScience-Fiction\, Action\, Crime\, F
+DESCRIPTION:Hot Spot\n(46.9 ↘︎)\n\nScience-Fiction\, Action\, Crime\, F
  antastique\, Thriller\n𝟭𝗵𝟰𝟭\n\nPoland\, Greece\, Sweden\n(Engl
  ish\, French\, Polish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : A
  gnieszka Smoczyńska\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Robert Bolesto\n
@@ -3659,7 +3673,7 @@ DTSTAMP:20261230T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Les Filles d'Abraham
-DESCRIPTION:Les Filles d'Abraham\n(1.8 ↑︎)\n\nDrame\n𝟭𝗵𝟯𝟯\n
+DESCRIPTION:Les Filles d'Abraham\n(1.9 ↗︎)\n\nDrame\n𝟭𝗵𝟯𝟯\n
  \nFrance\, Morocco\, Germany\n(French\, Arabic)\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Hanaël El Yousfi\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
  𝗼 : Hanaël El Yousfi\, Raphaël Chevènement\, Mia Grace Brown\n𝗣
@@ -3690,7 +3704,7 @@ DTSTAMP:20261230T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:L’Homme qui s’envola
-DESCRIPTION:L’Homme qui s’envola\n(1.7 ↑︎)\n\nThriller\, Crime\n\nF
+DESCRIPTION:L’Homme qui s’envola\n(1.9 ↑︎)\n\nThriller\, Crime\n\nF
  rance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Olivier 
  Ducray\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Olivier Ducray\, Wilfried Méan
  ce\, Jean-Paul Bathany\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 :
@@ -3718,7 +3732,7 @@ DTSTAMP:20261230T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:The Last Pickpocket in New York
-DESCRIPTION:The Only Living Pickpocket in New York\n(4.2 ↗︎)\n\nCrime\,
+DESCRIPTION:The Only Living Pickpocket in New York\n(4.6 ↗︎)\n\nCrime\,
   Drame\n𝟭𝗵𝟮𝟴\n\nUnited States of America\n(English)\n\n𝗥
  𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Noah Segan\n𝗦𝗰𝗲𝗻
  𝗮𝗿𝗶𝗼 : Noah Segan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
@@ -3742,12 +3756,39 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/pNdB9va2AEPQe9Ufh
 CATEGORIES:Crime,Drame
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1496928@calendrier-cine-fr
+DTSTAMP:20261230T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Un Monde entre nous
+DESCRIPTION:我々は宇宙人 — Wareware wa Uchuujin\n(5.3)\n\nAnimation
+ \, Drame\n𝟭𝗵𝟱𝟳\n\nJapan\, France\n(Japanese)\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : 門脇康平\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : 門脇康平\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
+ : 立川憲一朗\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Miyu Product
+ ions\, NOTHING NEW\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 坂東龍汰\n- Am
+ ane Okayama\n- 山﨑天\n- 松井ケムリ\n- 佐野岳\n- Reika Oozeki\n
+ - 佐々木ありさ\n- エド・はるみ\n- Yûto Maki\n- Tasuku Nakagom
+ e\n\n\nTsubasa et Gyotaro se rencontrent durant l’été de leur troisiè
+ me année d’école primaire. Inséparables au début\, leur amitié est 
+ perturbée par un incident\, avant qu’ils ne se retrouvent environ 30 an
+ s plus tard.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/pDq9lDGluzgbvS
+ 3lYbyLKnKo0mu.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1496928
+ \n\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/pDq9lDGluzgbvS3lYbyLKnKo0mu.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/pDq9lDGluzgbvS3lY
+ byLKnKo0mu.jpg
+CATEGORIES:Animation,Drame
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1477299@calendrier-cine-fr
 DTSTAMP:20261231T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Marie-Rose et le Mystérieux Voyage
-DESCRIPTION:Marie-Rose et le Mystérieux Voyage\n(1.3 →︎)\n\nAnimation\
+DESCRIPTION:Marie-Rose et le Mystérieux Voyage\n(1.3 ↘︎)\n\nAnimation\
  , Musique\, Familial\n𝟭𝗵𝟭𝟬\n\nFrance\n(French)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Tanguy de Kermel\, Jérome Mouscade
  t\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Laure Doyonnax\, Sophie Decroisette\
@@ -3771,7 +3812,7 @@ DTSTAMP:20270101T000000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:C'est de quel côté la Seine ?
-DESCRIPTION:C'est de quel côté la Seine ?\n(1.9)\n\nDrame\, Mystère\, Hi
+DESCRIPTION:C'est de quel côté la Seine ?\n(2.1)\n\nDrame\, Mystère\, Hi
  stoire\, Romance\, Thriller\n𝟭𝗵\n\nFrance\n(French)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Bianca Marzouk\n𝗦𝗰𝗲𝗻𝗮
  𝗿𝗶𝗼 : Bianca Marzouk\, Ferdinand Jeampy\, Julia Jomain\n𝗣𝗵
@@ -3798,12 +3839,43 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/3AQ5uz2CwI7NDgZaG
 CATEGORIES:Drame,Mystère,Histoire,Romance,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1570864@calendrier-cine-fr
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Le Procès du Christ
+DESCRIPTION:Le Procès du Christ\n(1.2)\n\nDrame\, Histoire\n\nFrance\n(Fre
+ nch)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Steven Gunnell\
+ , Sabrina Gunnell\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Steven Gunnell\, Sab
+ rina Gunnell\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Krea Film Makers\
+ , SAJE Distribution\n\n\nLe Procès du Christ est un long-métrage dramati
+ que\, retraçant les derniers mois de Jésus de Nazareth : de la transfigu
+ ration jusqu’à la résurrection.  C'est un film choral\, une fresque hi
+ storique et spirituelle\, portée par une narration croisée entre plusieu
+ rs personnages clés. Replonger dans ce temps \, dans l’esprit de cette 
+ époque à travers différents regards ( Pilate / la foule / les pharisien
+ s/ les zélotes …)  Montrer comment l’étau se referme autour du Chris
+ t\, la façon dont les différents interrogatoires vont être menés et co
+ mment la ville se replie sur elle-même tandis que Jésus se donne au mond
+ e !  Et au cœur de cette tension : Jésus\, marchant librement vers son s
+ acrifice\, révélant sa divinité à travers des paroles de feu et des si
+ gnes surnaturels.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/2H8rhg9GP
+ IbZfFI6DZS2MjphuXC.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/15
+ 70864\n\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/2H8rhg9GPIbZfFI6DZS2MjphuXC.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2H8rhg9GPIbZfFI6D
+ ZS2MjphuXC.jpg
+CATEGORIES:Drame,Histoire
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1271661@calendrier-cine-fr
 DTSTAMP:20270101T000000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Makiko
-DESCRIPTION:Makiko\n(1.7 ↓︎)\n\nDocumentaire\n𝟭𝗵𝟭𝟬\n\nFranc
+DESCRIPTION:Makiko\n(1.4 ↓︎)\n\nDocumentaire\n𝟭𝗵𝟭𝟬\n\nFranc
  e\n(French\, Japanese)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : A
  ntoine Godet\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Antoine G
  odet\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Artwooks Media\n\n𝗔
@@ -3857,7 +3929,7 @@ DTSTAMP:20270106T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:If I Go Will They Miss Me
-DESCRIPTION:If I Go Will They Miss Me\n(21.1 ↑︎)\n\nDrame\n𝟭𝗵𝟮
+DESCRIPTION:If I Go Will They Miss Me\n(21.0 ↑︎)\n\nDrame\n𝟭𝗵𝟮
  𝟵\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Walter Thompson-Hernández\n𝗦𝗰𝗲𝗻𝗮
  𝗿𝗶𝗼 : Walter Thompson-Hernández\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
@@ -3906,12 +3978,44 @@ TRANSP:TRANSPARENT
 CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1556548@calendrier-cine-fr
+DTSTAMP:20270106T000000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Les jours d'après
+DESCRIPTION:Les jours d'après\n(1.2)\n\nDrame\, Comédie\n\nFrance\n(Frenc
+ h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Stéphanie Pillonca\n
+ 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stéphanie Pillonca\, Catherine Hoffman
+ n\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Hugues Poulain\n𝗣
+ 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Felicity Films\n\n𝗔𝗰𝘁𝗲
+ 𝘂𝗿𝘀 :\n- Valérie Donzelli\n- Jalil Lespert\n- Thierry Godard\n- 
+ François Berléand\n- Gabriel Donzelli\n- Victor Kervern\n- Benjamin "Wax
+ x" Hekimian\n- Christopher Thompson\n- Thelma Pourias\n- Stéphanie Batail
+ le\n\n\nDans un charmant village de campagne\, Louise\, la cinquantaine\, 
+ revient seule dans sa maison natale pour la vider. Entre les retrouvailles
+  avec ses amis d’enfance\, la beauté de la nature\, les passages de ses
+  enfants et de son mari\, et la complicité renaissante avec Marc\, son am
+ our de jeunesse\, elle se découvre portée vers un nouvel élan : se réi
+ nventer\, interroger ses désirs\, se réconcilier avec soi-même. Une ét
+ ape de vie charnière où toutes les femmes peuvent choisir d'avancer\, s'
+ autoriser à rebondir et ouvrir un nouveau chapitre vers l'avenir.\n\n\nAf
+ fiche : https://image.tmdb.org/t/p/w780/zUxZA7hTNaA52lTh4Kwqww2hV2l.jpg\n\
+ nFiche TMDB : https://www.themoviedb.org/movie/1556548\n\nDonnées fournie
+ s par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/zUxZA7hTNaA52lTh4Kwqww2hV2l.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zUxZA7hTNaA52lTh4
+ Kwqww2hV2l.jpg
+CATEGORIES:Drame,Comédie
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1532610@calendrier-cine-fr
 DTSTAMP:20270106T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Tabloïd
-DESCRIPTION:Ink\n(4.2 →︎)\n\nDrame\, Histoire\n𝟭𝗵𝟱𝟲\n\nUnit
+DESCRIPTION:Ink\n(3.9 →︎)\n\nDrame\, Histoire\n𝟭𝗵𝟱𝟲\n\nUnit
  ed Kingdom\, United States of America\, France\n(English)\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Danny Boyle\n𝗦𝗰𝗲𝗻𝗮𝗿
  𝗶𝗼 : James Graham\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
@@ -3936,7 +4040,7 @@ DTSTAMP:20270106T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:The Liberation of Rita Cooper
-DESCRIPTION:The Liberation\n(5.5 ↗︎)\n\nDrame\, Thriller\n𝟮𝗵𝟬
+DESCRIPTION:The Liberation\n(5.4 ↗︎)\n\nDrame\, Thriller\n𝟮𝗵𝟬
  𝟰\n\nUnited States of America\, United Arab Emirates\, Hong Kong\n(Engl
  ish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Guy Nattiv\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Noa Berman-Herzberg\, Guy Nattiv\n𝗣𝗵
@@ -3952,14 +4056,14 @@ DESCRIPTION:The Liberation\n(5.5 ↗︎)\n\nDrame\, Thriller\n𝟮𝗵𝟬
   the cult and bring their mother home. Yet\, once immersed in the commune\
  , they find themselves inexorably drawn into the Leader’s labyrinthine w
  eb of psycho-spiritual manipulation.\n\n\nAffiche : https://image.tmdb.org
- /t/p/w780/6MdPjTg6YytyB98kvBUiHfxRQyQ.jpg\n\nFiche TMDB : https://www.them
+ /t/p/w780/cjbHYvJz9j5H3BSBfoaOiGMEHeZ.jpg\n\nFiche TMDB : https://www.them
  oviedb.org/movie/1287365\n\nDonnées fournies par The Movie Database (TMDB
  )
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/6MdPjTg6YytyB98kvBUiHfxRQyQ.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6MdPjTg6YytyB98kv
- BUiHfxRQyQ.jpg
+ t/p/w780/cjbHYvJz9j5H3BSBfoaOiGMEHeZ.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cjbHYvJz9j5H3BSBf
+ oaOiGMEHeZ.jpg
 CATEGORIES:Drame,Thriller
 END:VEVENT
 BEGIN:VEVENT
@@ -3968,7 +4072,7 @@ DTSTAMP:20270106T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Werwulf
-DESCRIPTION:Werwulf\n(11.4 ↑︎)\n\nHorreur\n\nUnited Kingdom\, United St
+DESCRIPTION:Werwulf\n(10.7 ↑︎)\n\nHorreur\n\nUnited Kingdom\, United St
  ates of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
   : Robert Eggers\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Robert Eggers\, Sjón
  \n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jarin Blaschke\n𝗣
@@ -3994,7 +4098,7 @@ DTSTAMP:20270113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Gentle Monster
-DESCRIPTION:Gentle Monster\n(5.8 ↘︎)\n\nDrame\n𝟭𝗵𝟱𝟱\n\nAust
+DESCRIPTION:Gentle Monster\n(5.9 →︎)\n\nDrame\n𝟭𝗵𝟱𝟱\n\nAust
  ria\, Germany\, France\, Sweden\, Singapore\, Finland\n(German\, English\,
   French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Marie Kreutzer\
  n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Marie Kreutzer\n𝗣𝗵𝗼𝘁𝗼
@@ -4053,7 +4157,7 @@ DTSTAMP:20270113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:L’Adoption
-DESCRIPTION:L’Adoption\n(2.6 →︎)\n\nComédie\n\nFrance\, Belgium\n(Fr
+DESCRIPTION:L’Adoption\n(2.7 ↗︎)\n\nComédie\n\nFrance\, Belgium\n(Fr
  ench)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ivan Calbérac\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ivan Calbérac\n𝗣𝗵𝗼𝘁𝗼
  𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Philippe Guilbert\n𝗣𝗿𝗼𝗱𝘂𝗰
@@ -4077,7 +4181,7 @@ DTSTAMP:20270113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Secondes chances
-DESCRIPTION:Secondes chances\n(4.4 ↗︎)\n\nComédie\, Drame\n\nFrance\n(
+DESCRIPTION:Secondes chances\n(5.1 ↑︎)\n\nComédie\, Drame\n\nFrance\n(
  French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Thomas Lilti\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Thomas Lilti\n𝗣𝗿𝗼𝗱𝘂𝗰
  𝘁𝗶𝗼𝗻 : 31 Juin Films\, Auvergne-Rhône-Alpes Cinéma\, Les Fil
@@ -4133,7 +4237,7 @@ DTSTAMP:20270113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:The Debut
-DESCRIPTION:The Debut\n(9.0 ↑︎)\n\nMusique\, Comédie\, Drame\n𝟭𝗵
+DESCRIPTION:The Debut\n(9.5 ↑︎)\n\nMusique\, Comédie\, Drame\n𝟭𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Jesse Eisenberg\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
  𝗼 : Jesse Eisenberg\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 :
@@ -4162,7 +4266,7 @@ DTSTAMP:20270120T000000Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:7h40 ce matin-là
-DESCRIPTION:7h40 ce matin-là\n(4.4 ↑︎)\n\nDrame\, Comédie\n𝟭𝗵
+DESCRIPTION:7h40 ce matin-là\n(5.2 ↑︎)\n\nDrame\, Comédie\n𝟭𝗵
  𝟱𝟰\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Nicole Garcia\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nicole Garcia\, J
  acques Fieschi\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Trésor Films\n
@@ -4185,7 +4289,7 @@ DTSTAMP:20270120T000000Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:La Troisième nuit
-DESCRIPTION:La Troisième nuit\n(2.0 ↑︎)\n\nDrame\, Histoire\n𝟭𝗵
+DESCRIPTION:La Troisième nuit\n(2.1 ↗︎)\n\nDrame\, Histoire\n𝟭𝗵
  𝟰𝟬\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Daniel Auteuil\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Daniel Auteuil\,
   Camille Lugan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jean-Fr
@@ -4218,7 +4322,7 @@ DTSTAMP:20270120T000000Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Le Journal d'une femme de chambre
-DESCRIPTION:Le Journal d'une femme de chambre\n(3.0 ↑︎)\n\nDrame\, Com
+DESCRIPTION:Le Journal d'une femme de chambre\n(3.6 ↑︎)\n\nDrame\, Com
  édie\n𝟭𝗵𝟯𝟰\n\nFrance\, Romania\n(French\, English\, Romanian)
  \n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Radu Jude\n𝗦𝗰𝗲
  𝗻𝗮𝗿𝗶𝗼 : Radu Jude\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
@@ -4245,38 +4349,12 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gxH8nUhYEa3T0WK9Z
 CATEGORIES:Drame,Comédie
 END:VEVENT
 BEGIN:VEVENT
-UID:tmdb-676670@calendrier-cine-fr
-DTSTAMP:20270120T000000Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:Mu-Yi\, la légende du village des femmes
-DESCRIPTION:Mu-Yi\, la légende du village des femmes\n(2.0 ↗︎)\n\nActi
- on\, Aventure\, Animation\, Fantastique\n𝟭𝗵𝟯𝟬\n\nFrance\n(Fren
- ch)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Julien Chheng\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Julien Chheng\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Studio La Cachette\, Duetto\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀
-  :\n- Lucie Zhang\n- Guillaume Bouchède\n- Colette Venhard\n- Yumi Fujimo
- ri\n- Anatole Yun\n\n\nMuyi\, 14 ans\, vit en Chine dans un village interd
- it aux hommes. Le jour de la fête des morts\, elle invite une troupe ambu
- lante à jouer le célèbre spectacle du Beau Général. Mais la pièce r
- éveille d'anciens secrets\, et sème rapidement le chaos.\n\n\nAffiche : 
- https://image.tmdb.org/t/p/w780/7cUtH47XLE7Kpw3yd8yzfDPhSr8.jpg\n\nFiche T
- MDB : https://www.themoviedb.org/movie/676670\n\nDonnées fournies par The
-  Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/7cUtH47XLE7Kpw3yd8yzfDPhSr8.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7cUtH47XLE7Kpw3yd
- 8yzfDPhSr8.jpg
-CATEGORIES:Action,Aventure,Animation,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1003489@calendrier-cine-fr
 DTSTAMP:20270127T000000Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Blaise
-DESCRIPTION:Blaise\n(1.4 ↘︎)\n\nAnimation\, Comédie\n𝟭𝗵𝟮𝟮\
+DESCRIPTION:Blaise\n(1.5 →︎)\n\nAnimation\, Comédie\n𝟭𝗵𝟮𝟮\
  n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
  Dimitri Planchon\, Jean-Paul Guigue\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Di
  mitri Planchon\, Clémence Lebatteux\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
@@ -4295,6 +4373,36 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/u9SmhsOoAEZzGhCto
  9A618L1mRB.jpg
 CATEGORIES:Animation,Comédie
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1473784@calendrier-cine-fr
+DTSTAMP:20270127T000000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Bunker
+DESCRIPTION:Bunker\n(3.1)\n\nThriller\, Drame\n𝟮𝗵𝟬𝟲\n\nFrance\,
+  Spain\n(English\, Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Florian Zeller\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Florian Zeller\n
+ 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ben Smithard\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Blue Morning Pictures\, Mod Produccione
+ s\, Pathé\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Javier Bardem\n- Penélope
+  Cruz\n- Stephen Graham\n- Paul Dano\n- Patrick Schwarzenegger\n- Chloe Co
+ nh\n- Leah Conh\n- Mark Gatiss\n- Eileen Atkins\n- Karen Ascoe\n- Jamie Bi
+ sping\n- Joe Rawlinson-Hunt\n\n\nUn architecte de renom se voit proposer d
+ e concevoir\, dans le plus grand secret\, un bunker de survie pour un mill
+ iardaire convaincu que la fin du monde est proche. Tandis qu’il se laiss
+ e séduire par ce projet moralement ambigu\, son épouse commence à remet
+ tre en question leur mariage. Après 17 ans de vie commune\, ont-ils encor
+ e les mêmes valeurs ? Les mêmes aspirations ? Les mêmes rêves ?\n\n\nA
+ ffiche : https://image.tmdb.org/t/p/w780/fF2R0jc9h73cgd59KRWzWQnBN8J.jpg\n
+ \nFiche TMDB : https://www.themoviedb.org/movie/1473784\n\nDonnées fourni
+ es par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/fF2R0jc9h73cgd59KRWzWQnBN8J.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/fF2R0jc9h73cgd59K
+ RWzWQnBN8J.jpg
+CATEGORIES:Thriller,Drame
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1620313@calendrier-cine-fr
@@ -4335,7 +4443,7 @@ DTSTAMP:20270127T000000Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Le Faux Soir
-DESCRIPTION:Le Faux Soir\n(1.6 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟭
+DESCRIPTION:Le Faux Soir\n(1.7 ↗︎)\n\nDrame\, Histoire\n𝟮𝗵𝟭
  𝟮\n\nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Michaël R. Roskam\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michaël
   R. Roskam\, Bernard Falaise\, Domenico La Porta\n𝗣𝗵𝗼𝘁𝗼𝗴
@@ -4367,7 +4475,7 @@ DTSTAMP:20270127T000000Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Le Teckel
-DESCRIPTION:Le Teckel\n(2.7 →︎)\n\nComédie\n\nFrance\, Belgium\n(Frenc
+DESCRIPTION:Le Teckel\n(2.9 ↗︎)\n\nComédie\n\nFrance\, Belgium\n(Frenc
  h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Mathieu Sapin\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mathieu Sapin\, Fabien Suarez\, Juliette Sa
  les\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Julien Hirsch\n
@@ -4388,26 +4496,6 @@ DESCRIPTION:Le Teckel\n(2.7 →︎)\n\nComédie\n\nFrance\, Belgium\n(Frenc
  ovie Database (TMDB)
 TRANSP:TRANSPARENT
 CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1172597@calendrier-cine-fr
-DTSTAMP:20270127T000000Z
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
-SUMMARY:Lovebirds
-DESCRIPTION:Lovebirds\n(1.4 →︎)\n\nAnimation\, Comédie\n𝟭𝗵𝟯
- 𝟬\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
- 𝘀 : Hélène Blanchard\, Laurent Bru\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
- : Debbie Jhoon\, J. Michael Feldman\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : TAT Productions\n\n\nTania\, une jeune inséparable bosseuse et rom
- antique rencontre enfin l’oiseau de sa vie. Lorsque ce dernier est kidna
- ppé et livré à une rédactrice de mode new-yorkaise\, elle décide de t
- raverser le pays pour retrouver son âme sœur\, accompagnée d’un coupl
- e d’amis et de George\, un pigeon cynique.\n\n\nFiche TMDB : https://www
- .themoviedb.org/movie/1172597\n\nDonnées fournies par The Movie Database 
- (TMDB)
-TRANSP:TRANSPARENT
-CATEGORIES:Animation,Comédie
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1318337@calendrier-cine-fr
@@ -4437,12 +4525,72 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/laFwueMnthKE0GUZV
 CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1414526@calendrier-cine-fr
+DTSTAMP:20270127T000000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Peau d'homme
+DESCRIPTION:Peau d'homme\n(1.5)\n\nComédie\, Fantastique\, Musique\n𝟭
+ 𝗵𝟰𝟱\n\nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
+ 𝘁𝗲𝘂𝗿 : Léa Domenach\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Léa 
+ Domenach\, Clémence Dargent\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
+ 𝗲 : Elin Kirschfink\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Trésor
+  Films\, France 3 Cinéma\, uMedia\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Ca
+ therine Deneuve\n- Claire Pommet\n- Karin Viard\n- Laurent Stocker\n- Paul
+  de Saint Sernin\n- Louis Peres\n- Stefan Crepon\n- Eddy de Pretto\n- Melh
+ a Bedia\n- Estéban\n- Gilbert Melki\n- Justine Tristan Dartois\n\n\nEn 14
+ 80 et des poussières\, alors que la princesse Blanche se prépare à épo
+ user le beau prince du royaume voisin\, son père décide de la marier à 
+ Melchior\, son vulgaire chef des armées. C’est alors que sa marraine lu
+ i révèle être en possession d’une mystérieuse "peau" qui va permettr
+ e à Blanche\, si elle la revêt\, de devenir un homme et ainsi faire conn
+ aissance avec son futur mari incognito.\n\n\nAffiche : https://image.tmdb.
+ org/t/p/w780/6D6itYNIOXLJsb0l4FmlvZMK2o8.jpg\n\nFiche TMDB : https://www.t
+ hemoviedb.org/movie/1414526\n\nDonnées fournies par The Movie Database (T
+ MDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/6D6itYNIOXLJsb0l4FmlvZMK2o8.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/6D6itYNIOXLJsb0l4
+ FmlvZMK2o8.jpg
+CATEGORIES:Comédie,Fantastique,Musique
+END:VEVENT
+BEGIN:VEVENT
+UID:tmdb-1458914@calendrier-cine-fr
+DTSTAMP:20270127T000000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:The Man I Love
+DESCRIPTION:The Man I Love\n(3.5)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲\n\nU
+ nited States of America\, France\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : Ira Sachs\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ira S
+ achs\, Mauricio Zacharias\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
+ 𝗲 : Josée Deshaies\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Big Cre
+ ek Projects\, Assemble Media\, Merino Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿
+ 𝘀 :\n- Rami Malek\n- Rebecca Hall\n- Ebon Moss-Bachrach\n- Tom Sturridg
+ e\n- Luther Ford\n- Maisy Stella\n- Sasha Lane\n- Isabel Sandoval\n- Lizbe
+ th Mackay\n- Wesley Han\n- Mohammad Ghaffari\n\n\nNew York\, fin des anné
+ es 1980\, Jimmy George\, figure iconique de la scène théâtrale\, vit en
+  couple avec le plus tendre et attentionné des amants. Mais devant la mor
+ t qui lui est promise\, la soif de vivre et de créer\, de désirer et d
+ ’aimer\, une dernière fois\, est plus forte que tout.\n\n\nAffiche : ht
+ tps://image.tmdb.org/t/p/w780/uheQYAQQCfGVTr0XNxTr5pC3SIM.jpg\n\nFiche TMD
+ B : https://www.themoviedb.org/movie/1458914\n\nDonnées fournies par The 
+ Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/uheQYAQQCfGVTr0XNxTr5pC3SIM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uheQYAQQCfGVTr0XN
+ xTr5pC3SIM.jpg
+CATEGORIES:Drame,Romance
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1429355@calendrier-cine-fr
 DTSTAMP:20270203T000000Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Beaux Seigneurs
-DESCRIPTION:Beaux Seigneurs\n(3.2 →︎)\n\nComédie\, Crime\n𝟭𝗵𝟯
+DESCRIPTION:Beaux Seigneurs\n(3.4 →︎)\n\nComédie\, Crime\n𝟭𝗵𝟯
  𝟮\n\nFrance\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Maxime Roy\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Maxime Roy\, Fra
  nçois Créton\, Ella Benoit\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
@@ -4497,7 +4645,7 @@ DTSTAMP:20270203T000000Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:L'Âge de Glace : Le Réveil du Volcan
-DESCRIPTION:Ice Age: Boiling Point\n(11.3 ↑︎)\n\nAventure\, Animation\,
+DESCRIPTION:Ice Age: Boiling Point\n(11.4 ↑︎)\n\nAventure\, Animation\,
   Comédie\, Familial\n\nUnited States of America\n(English)\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Donkin\n𝗦𝗰𝗲𝗻𝗮
  𝗿𝗶𝗼 : Michael J. Wilson\, Michael Berg\, Yoni Brenner\n𝗣𝗿
@@ -4520,12 +4668,38 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/h7Td6puRt0hMmsoaG
 CATEGORIES:Aventure,Animation,Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-676670@calendrier-cine-fr
+DTSTAMP:20270203T000000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Muyi\, la légende du village des femmes
+DESCRIPTION:Muyi\, la légende du village des femmes\n(2.4 ↗︎)\n\nActio
+ n\, Aventure\, Animation\, Fantastique\n𝟭𝗵𝟯𝟬\n\nFrance\n(Frenc
+ h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Julien Chheng\n𝗦
+ 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Julien Chheng\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : Studio La Cachette\, Duetto\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀
+  :\n- Lucie Zhang\n- Guillaume Bouchède\n- Colette Venhard\n- Yumi Fujimo
+ ri\n- Anatole Yun\n\n\nMuyi\, 14 ans\, vit en Chine dans un village interd
+ it aux hommes. Le jour de la fête des morts\, elle invite une troupe ambu
+ lante à jouer le célèbre spectacle du Beau Général. Mais la pièce r
+ éveille d'anciens secrets\, et sème rapidement le chaos.\n\n\nAffiche : 
+ https://image.tmdb.org/t/p/w780/64AukSojt0FWqqXSVYvnDBjyLTT.jpg\n\nFiche T
+ MDB : https://www.themoviedb.org/movie/676670\n\nDonnées fournies par The
+  Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/64AukSojt0FWqqXSVYvnDBjyLTT.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/64AukSojt0FWqqXSV
+ YvnDBjyLTT.jpg
+CATEGORIES:Action,Aventure,Animation,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1425859@calendrier-cine-fr
 DTSTAMP:20270203T000000Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Reste avec moi
-DESCRIPTION:Remain\n(5.8 ↘︎)\n\nRomance\, Horreur\, Mystère\, Thriller
+DESCRIPTION:Remain\n(5.4 ↘︎)\n\nRomance\, Horreur\, Mystère\, Thriller
  \n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : M. Night Shyamalan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 
  M. Night Shyamalan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ado
@@ -4552,7 +4726,7 @@ DTSTAMP:20270203T000000Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Somnambule
-DESCRIPTION:Somnambule\n(2.3 ↘︎)\n\nComédie\n\nFrance\n(French)\n\n
+DESCRIPTION:Somnambule\n(2.2 →︎)\n\nComédie\n\nFrance\n(French)\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Tarek Boudali\n𝗦𝗰𝗲
  𝗻𝗮𝗿𝗶𝗼 : Tarek Boudali\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : Vincent Richard-Marquis\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
@@ -4576,7 +4750,7 @@ DTSTAMP:20270210T000000Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Everything I Said I Wasn't
-DESCRIPTION:Everything I Said I Wasn't\n(1.6 →︎)\n\nDrame\n𝟭𝗵𝟯
+DESCRIPTION:Everything I Said I Wasn't\n(1.9 ↗︎)\n\nDrame\n𝟭𝗵𝟯
  𝟰\n\nFR\n(French\, English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Antony Hickling\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 :
   Yann Gadaud\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : AH Films\, Vivàs
@@ -4602,7 +4776,7 @@ DTSTAMP:20270210T000000Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Fantômas – Le nouveau monde
-DESCRIPTION:Fantômas – Le nouveau monde\n(3.2 ↗︎)\n\nAction\, Crime\
+DESCRIPTION:Fantômas – Le nouveau monde\n(3.1 →︎)\n\nAction\, Crime\
  , Thriller\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Frédéric Tellier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Frédéric T
  ellier\, Dan Franck\, Olivier Gorce\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
@@ -4633,7 +4807,7 @@ DTSTAMP:20270210T000000Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Le mal est fait
-DESCRIPTION:Le mal est fait\n(1.7 ↑︎)\n\nDrame\, Thriller\n\nFrance\n(F
+DESCRIPTION:Le mal est fait\n(1.9 ↑︎)\n\nDrame\, Thriller\n\nFrance\n(F
  rench)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : François Ozon\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : François Ozon\n𝗣𝗵𝗼𝘁𝗼
  𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Manuel Dacosse\n𝗣𝗿𝗼𝗱𝘂𝗰
@@ -4663,22 +4837,22 @@ DTSTAMP:20270210T000000Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Les Profs 3 - Retour vers le passé
-DESCRIPTION:Les Profs 3 - Retour vers le passé\n(2.4 ↑︎)\n\nComédie\n
+DESCRIPTION:Les Profs 3 - Retour vers le passé\n(2.7 ↑︎)\n\nComédie\n
  \nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierr
  e-François Martin-Laval\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Pierre-Franç
  ois Martin-Laval\, Mathias Gavarry\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
  𝗻 : Les Films du Premier\, TF1 Films Production\n\n𝗔𝗰𝘁𝗲𝘂
  𝗿𝘀 :\n- Isabelle Nanty\n- Christian Clavier\n- Pierre-François Mart
  in-Laval\n- Arnaud Ducret\n- Stéfi Celma\n- Fred Tousch\n- Jean-Luc Couch
- ard\n- Laurent Stocker\n- Tom Boudet\n\n\nLes cours reprennent à Jules Fe
- rry\, le célèbre établissement n’a pas changé sa formule\, aux pires
-  élèves\, les pires profs ! Lors d’un voyage scolaire\, les profs et B
- oulard sont projetés dans le passé\, en pleine bataille napoléonienne. 
- Ils se retrouvent alors à une époque où l’école publique n’existe 
- pas encore\, et vont\, sans le faire exprès\, chambouler le cours de l’
- Histoire…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/9BHTMkXbALjZ5TO
- DqwKXSzaSoPu.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1676026\
- n\nDonnées fournies par The Movie Database (TMDB)
+ ard\n- Laurent Stocker\n- Tom Boudet\n- Julien Jakout\n\n\nLes cours repre
+ nnent à Jules Ferry\, le célèbre établissement n’a pas changé sa fo
+ rmule\, aux pires élèves\, les pires profs ! Lors d’un voyage scolaire
+ \, les profs et Boulard sont projetés dans le passé\, en pleine bataille
+  napoléonienne. Ils se retrouvent alors à une époque où l’école pub
+ lique n’existe pas encore\, et vont\, sans le faire exprès\, chambouler
+  le cours de l’Histoire…\n\n\nAffiche : https://image.tmdb.org/t/p/w78
+ 0/9BHTMkXbALjZ5TODqwKXSzaSoPu.jpg\n\nFiche TMDB : https://www.themoviedb.o
+ rg/movie/1676026\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/9BHTMkXbALjZ5TODqwKXSzaSoPu.jpg
@@ -4692,7 +4866,7 @@ DTSTAMP:20270210T000000Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Mauvaise étoile
-DESCRIPTION:Mauvaise étoile\n(2.1 →︎)\n\nDrame\n𝟮𝗵𝟭𝟮\n\nFr
+DESCRIPTION:Mauvaise étoile\n(2.0 →︎)\n\nDrame\n𝟮𝗵𝟭𝟮\n\nFr
  ance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Yann 
  Berlier\, Lola Cambourieu\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Yann Berlier
  \, Lola Cambourieu\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Lol
@@ -4720,7 +4894,7 @@ DTSTAMP:20270210T000000Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Mélody pour un ours
-DESCRIPTION:Mélody pour un ours\n(1.9 →︎)\n\nAventure\, Familial\n\nFr
+DESCRIPTION:Mélody pour un ours\n(2.0 →︎)\n\nAventure\, Familial\n\nFr
  ance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gilles de
   Maistre\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Gilles de Maistre\, Prune de 
  Maistre\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Marie Spencer\
@@ -4747,7 +4921,7 @@ DTSTAMP:20270210T000000Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:New York\, Miriam et moi
-DESCRIPTION:New York\, Miriam et moi\n(1.9 →︎)\n\nAnimation\, Drame\, F
+DESCRIPTION:New York\, Miriam et moi\n(1.8 →︎)\n\nAnimation\, Drame\, F
  amilial\, Guerre\, Histoire\n𝟭𝗵𝟮𝟱\n\nFrance\, Luxembourg\n(Fre
  nch)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Rémy Schaepman
  \, Léahn Vivier-Chapas\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Olivier Legran
@@ -4827,7 +5001,7 @@ DTSTAMP:20270217T000000Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Banquise
-DESCRIPTION:Banquise\n(2.1 ↘︎)\n\nDrame\, Thriller\n\nFrance\, Denmark\
+DESCRIPTION:Banquise\n(2.4 →︎)\n\nDrame\, Thriller\n\nFrance\, Denmark\
  n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Emmanuel Courc
  ol\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Emmanuel Courcol\, Irène Muscari\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Maxence Lemonnier\n𝗣
@@ -4851,7 +5025,7 @@ DTSTAMP:20270217T000000Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:CoComelon: The Movie
-DESCRIPTION:CoComelon: The Movie\n(3.9 →︎)\n\nAnimation\, Familial\, Av
+DESCRIPTION:CoComelon: The Movie\n(3.6 →︎)\n\nAnimation\, Familial\, Av
  enture\, Fantastique\, Comédie\n\nUnited Kingdom\, United States of Ameri
  ca\, India\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ka
  thleen Good\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Adam Pava\n𝗣𝗿𝗼
@@ -4881,7 +5055,7 @@ DTSTAMP:20270217T000000Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:La Guerre des étoiles
-DESCRIPTION:Star Wars\n(32.8 →︎)\n\nAventure\, Action\, Science-Fiction
+DESCRIPTION:Star Wars\n(31.0 ↘︎)\n\nAventure\, Action\, Science-Fiction
  \n𝟮𝗵𝟬𝟭\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 octobre 1977\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : George Lucas\n𝗦𝗰𝗲
@@ -4917,7 +5091,7 @@ DTSTAMP:20270217T000000Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Mystik
-DESCRIPTION:Mystik\n(1.8 ↗︎)\n\nComédie\, Romance\n\nFrance\n(French)\
+DESCRIPTION:Mystik\n(1.7 ↗︎)\n\nComédie\, Romance\n\nFrance\n(French)\
  n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Raphaël Quenard\, A
  zedine Kasri\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Raphaël Quenard\, Azedin
  e Kasri\, Guillaume Scaillet\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : F
@@ -4961,12 +5135,38 @@ TRANSP:TRANSPARENT
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1483224@calendrier-cine-fr
+DTSTAMP:20270224T000000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Maudits Français
+DESCRIPTION:Maudits Français\n(1.3)\n\nComédie\n\nFrance\, Canada\n(Frenc
+ h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Émile Gaudreault\n
+ 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Émile Gaudreault\, Guy Laurent\n𝗣
+ 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ronald Plante\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Cine Nomine\, Gemma Pictures\, StudioCanal\
+ n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Lambert Wilson\n- Thierry Lhermitte\n
+ - Anne Consigny\n- Suzanne Jouannet\n- Laura Laune\n- Patrick Chanfray\n- 
+ Patrick Huard\n- Antoine Bertrand\n- Sandrine Bisson\n- Pierrette Robitail
+ le\n- Pier-Luc Funk\n- Magali Saint-Vincent\n\n\nQuand deux familles que t
+ out oppose se retrouvent autour d’un mariage\, les étincelles ne tarden
+ t pas à jaillir. D’un côté\, une famille française\, aristocratique\
+ , râleuse et conservatrice. De l’autre\, une famille québécoise\, aux
+  allures bienveillantes\, optimistes et un brin trop « woke » aux yeux d
+ e leurs hôtes. Entre incompréhensions et chocs culturels\, les deux clan
+ s vont devoir apprendre à se supporter – et peut-être même finalement
+  à s’apprécier…\n\n\nFiche TMDB : https://www.themoviedb.org/movie/1
+ 483224\n\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+CATEGORIES:Comédie
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1575408@calendrier-cine-fr
 DTSTAMP:20270303T000000Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:Badinter
-DESCRIPTION:Badinter\n(2.3 ↑︎)\n\nHistoire\, Drame\n\nFrance\, Belgium\
+DESCRIPTION:Badinter\n(2.1 ↑︎)\n\nHistoire\, Drame\n\nFrance\, Belgium\
  n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre Godeau\
  n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Pierre Godeau\n𝗣𝗵𝗼𝘁𝗼
  𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Denis Lenoir\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
@@ -4987,7 +5187,7 @@ DTSTAMP:20270303T000000Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:Les princes
-DESCRIPTION:Les princes\n(2.3 ↗︎)\n\nComédie\n𝟭𝗵𝟮𝟳\n\nFran
+DESCRIPTION:Les princes\n(2.7 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟳\n\nFran
  ce\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : A
  ntoine Giorgini\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Antoine Giorgini\n𝗣
  𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Sébastien Goepfert\n𝗣
@@ -5009,8 +5209,8 @@ DTSTAMP:20270303T000000Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:Nero\, chat noir
-DESCRIPTION:Gatto\n(11.2 ↑︎)\n\nAnimation\, Comédie\, Crime\, Familial
- \n\nUnited States of America\n(English\, Italian)\n\n𝗥𝗲𝗮𝗹𝗶
+DESCRIPTION:Gatto\n(9.9 →︎)\n\nAnimation\, Comédie\, Crime\, Familial\
+ n\nUnited States of America\n(English\, Italian)\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Enrico Casarosa\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
  𝗶𝗼𝗻 : Pixar\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mark Ruffalo\n- 
  Laurence Fishburne\n- Enrico Casarosa\n\n\nNero\, un chat noir au passé b
@@ -5066,7 +5266,7 @@ DTSTAMP:20270310T000000Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Blue Hour
-DESCRIPTION:Blue Hour\n(2.2 ↗︎)\n\nDrame\n\nFrance\, United Kingdom\n(F
+DESCRIPTION:Blue Hour\n(2.3 →︎)\n\nDrame\n\nFrance\, United Kingdom\n(F
  rench)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ornella Pacchioni
  \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ornella Pacchioni\n𝗣𝗵𝗼𝘁
  𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Arnaud Alberola\n𝗣𝗿𝗼𝗱𝘂
@@ -5112,22 +5312,22 @@ DTSTAMP:20270310T000000Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Elsinore
-DESCRIPTION:Elsinore\n(6.0)\n\nDrame\n𝟭𝗵𝟰𝟰\n\nItaly\, United Ki
- ngdom\, United States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿 : Simon Stone\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ste
- phen Beresford\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike El
- ey\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lucky Red\, LD Entertainmen
- t\, Magnolia Mae Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andrew Scott\n
- - Olivia Colman\n- Billie Piper\n- Johnny Flynn\n- Luke Thompson\n- David 
- Dawson\n- Matthew Beard\n- Joe Locke\n- Monica Dolan\n- Georgie Glen\n- Sa
- die Soverall\n- Adeel Akhtar\n\n\n(synopsis non encore traduit sur TMDB)\n
- The deeply emotional and inspirational true story of Ian Charleson\, a gif
- ted actor whose greatest challenge becomes his greatest triumph. Facing hi
- s own mortality with unflinching honesty\, wit\, and grace\, Charleson del
- ivers a courageous performance that becomes a source of healing and inspir
- ation for those around him.\n\n\nAffiche : https://image.tmdb.org/t/p/w780
- /mTd1B0Nq4vwMRilsf7eGNpdGIrv.jpg\n\nFiche TMDB : https://www.themoviedb.or
- g/movie/1599230\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Elsinore\n(5.7 ↗︎)\n\nDrame\n𝟭𝗵𝟰𝟰\n\nItaly\, Un
+ ited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
+ 𝘀𝗮𝘁𝗲𝘂𝗿 : Simon Stone\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 :
+  Stephen Beresford\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mik
+ e Eley\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lucky Red\, LD Entertai
+ nment\, Magnolia Mae Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andrew Sco
+ tt\n- Olivia Colman\n- Billie Piper\n- Johnny Flynn\n- Luke Thompson\n- Da
+ vid Dawson\n- Matthew Beard\n- Joe Locke\n- Monica Dolan\n- Georgie Glen\n
+ - Sadie Soverall\n- Adeel Akhtar\n\n\n(synopsis non encore traduit sur TMD
+ B)\nThe deeply emotional and inspirational true story of Ian Charleson\, a
+  gifted actor whose greatest challenge becomes his greatest triumph. Facin
+ g his own mortality with unflinching honesty\, wit\, and grace\, Charleson
+  delivers a courageous performance that becomes a source of healing and in
+ spiration for those around him.\n\n\nAffiche : https://image.tmdb.org/t/p/
+ w780/mTd1B0Nq4vwMRilsf7eGNpdGIrv.jpg\n\nFiche TMDB : https://www.themovied
+ b.org/movie/1599230\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/mTd1B0Nq4vwMRilsf7eGNpdGIrv.jpg
@@ -5141,7 +5341,7 @@ DTSTAMP:20270310T000000Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Kaamelott : Deuxième Volet\, partie 2
-DESCRIPTION:Kaamelott : Deuxième Volet\, partie 2\n(2.8 ↑︎)\n\nAventur
+DESCRIPTION:Kaamelott : Deuxième Volet\, partie 2\n(2.9 ↑︎)\n\nAventur
  e\, Fantastique\, Comédie\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Alexandre Astier\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
  : Alexandre Astier\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jea
@@ -5168,7 +5368,7 @@ DTSTAMP:20270310T000000Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:The Exorcist: Martyrs
-DESCRIPTION:The Exorcist: Martyrs\n(4.5 ↗︎)\n\nHorreur\n\nUnited States
+DESCRIPTION:The Exorcist: Martyrs\n(4.1 ↗︎)\n\nHorreur\n\nUnited States
   of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : M
  ike Flanagan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mike Flanagan\n𝗣𝗵
  𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Michael Fimognari\n𝗣𝗿𝗼
@@ -5196,7 +5396,7 @@ DTSTAMP:20270317T000000Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:Rukku Bakku
-DESCRIPTION:ルックバック\n(4.7 →︎)\n\nDrame\n𝟭𝗵𝟰𝟬\n\n
+DESCRIPTION:ルックバック\n(4.8 →︎)\n\nDrame\n𝟭𝗵𝟰𝟬\n\n
  Japan\n(Japanese)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hiroka
  zu Kore-eda\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Hirokazu Kore-eda\n𝗣
  𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 上野千蔵\n𝗣𝗿𝗼
@@ -5248,7 +5448,7 @@ DTSTAMP:20270331T000000Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:Not Alone
-DESCRIPTION:Not Alone\n(3.9 →︎)\n\nAnimation\, Comédie\, Familial\, Ro
+DESCRIPTION:Not Alone\n(4.0 →︎)\n\nAnimation\, Comédie\, Familial\, Ro
  mance\, Science-Fiction\n\nUnited States of America\n(English)\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Eric Guillon\, Claire Dodgson\,
   Jonathan del Val\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Illumination
@@ -5281,7 +5481,7 @@ DTSTAMP:20270414T000000Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:Demande à la montagne
-DESCRIPTION:Demande à la montagne\n(1.9 ↑︎)\n\nDrame\n𝟭𝗵𝟯𝟱
+DESCRIPTION:Demande à la montagne\n(1.8 ↑︎)\n\nDrame\n𝟭𝗵𝟯𝟱
  \n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pie
  rre Menahem\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Pierre Menahem\, Jihane Ch
  ouaib\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Aurélien Py\n
@@ -5304,17 +5504,17 @@ DTSTAMP:20270414T000000Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:Des femmes comme les autres
-DESCRIPTION:Des femmes comme les autres\n(1.7)\n\nComédie\, Drame\n\nFranc
- e\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Dominique Ca
- brera\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dominique Cabrera\, Anna Zisman\
- n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Patrick Blossier\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Everybody on Deck\, Ad Libitum\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Yolande Moreau\n- Hélène Vincent\n- Ev
- a Huault\n- Isabelle Lafon\n- Sarah Suco\n- David Ayala\n- Véronique Rugg
- ia Saura\n\n\nUn soir\, une femme suit le fil de son ouvrage plus loin que
-  prévu et se laisse déborder\, bouleversant la vie de sa meilleure amie 
- et ses copines...\n\n\nFiche TMDB : https://www.themoviedb.org/movie/10011
- 39\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Des femmes comme les autres\n(1.6 ↑︎)\n\nComédie\, Drame\n
+ \nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Domin
+ ique Cabrera\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dominique Cabrera\, Anna 
+ Zisman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Patrick Blossie
+ r\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Everybody on Deck\, Ad Libit
+ um\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Yolande Moreau\n- Hélène Vincent
+ \n- Eva Huault\n- Isabelle Lafon\n- Sarah Suco\n- David Ayala\n- Véroniqu
+ e Ruggia Saura\n\n\nUn soir\, une femme suit le fil de son ouvrage plus lo
+ in que prévu et se laisse déborder\, bouleversant la vie de sa meilleure
+  amie et ses copines...\n\n\nFiche TMDB : https://www.themoviedb.org/movie
+ /1001139\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 CATEGORIES:Comédie,Drame
 END:VEVENT
