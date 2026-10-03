@@ -12,28 +12,28 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:event-920@calendrier-cine-fr
-DTSTAMP:20261002T000000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(27.2)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(25.7)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
- ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
- ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Wal
- t Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul
-  Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shal
- houb\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n-
-  George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQ
- ueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radi
- ator Springs\, une petite ville oubliée sur la Route 66. Il y rencontre S
- ally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aiden
- t à découvrir que la vie vaut plus que les trophées et la célébrité.
- \n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovd
- o.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance rele
- vée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
+ ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
+ n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Walt 
+ Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul N
+ ewman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalho
+ ub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- G
+ eorge Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQue
+ en vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiat
+ or Springs\, une petite ville oubliée sur la Route 66. Il y rencontre Sal
+ ly\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aident 
+ à découvrir que la vie vaut plus que les trophées et la célébrité.\n
+ \n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.
+ jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance relev
+ ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
@@ -43,16 +43,16 @@ CATEGORIES:Animation,Aventure,Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
 UID:event-299534@calendrier-cine-fr
-DTSTAMP:20261002T000000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
+DTSTAMP:20261003T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(123.6 ↑︎)\n\nAventure\, Science-Fiction
+DESCRIPTION:Avengers: Endgame\n(118.0 ↑︎)\n\nAventure\, Science-Fiction
  \, Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japane
  se\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
- Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
- ely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
+ Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher 
+ Markus\, Stephen McFeely\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
   : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
  s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
   Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renner\n-
@@ -77,73 +77,12 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
 CATEGORIES:Aventure,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
-UID:event-149@calendrier-cine-fr
-DTSTAMP:20261003T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Akira
-DESCRIPTION:Akira\n(16.3)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
- 𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
- 𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
- ashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
- 𝗲 : 三沢勝治\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MBS\, Sumi
- tomo Corporation\, TOHO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mitsuo Iwata\
- n- Nozomu Sasaki\n- Mami Koyama\n- 石田太郎\n- Mizuho Suzuki\n- Tessyo
-  Genda\n- Koichi Kitamura\n- 渕崎ゆり子\n- Masaaki Okura\n- Takeshi K
- usao\n- Kazuhiro Kamifuji\n- Tatsuhiko Nakamura\n\n\nTetsuo\, un adolescen
- t ayant vécu une enfance difficile\, est la victime d'expériences visant
-  à développer les capacités psychiques qui dorment en chacun de nous. A
- insi doté d'une puissance que lui-même ne peut imaginer\, Tetsuo décide
-  de partir en guerre contre le monde qui l'a opprimé. Dès lors\, il se r
- etrouve au cœur d'une légende populaire qui annonce le retour prochain d
- 'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer Tokyo du 
- chaos ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
- iLssX6UcHe.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/149\n\nSé
- ance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TM
- DB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
- iLssX6UcHe.jpg
-CATEGORIES:Animation,Science-Fiction,Action
-END:VEVENT
-BEGIN:VEVENT
-UID:event-655424@calendrier-cine-fr
-DTSTAMP:20261003T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:La Baleine et l'escargote
-DESCRIPTION:The Snail and the Whale\n(3.6)\n\nAnimation\, Familial\, Télé
- film\n𝟮𝟳𝗺𝗶𝗻\n\nUnited Kingdom\n(English)\n𝗦𝗼𝗿𝘁
- 𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 octobre 2020\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Max Lang\, Daniel Snadd
- on\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Suzanne Lang\, Max Lang\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Magic Light Pictures\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Rob Brydon\n- Sally Hawkins\n- Diana Rigg\n- Cariad 
- Lloyd\n- Max Lang\n\n\nUne petite escargote de mer s’ennuie sur le roche
- r d’un vieux port et rêve de parcourir le monde. Un jour\, une grande b
- aleine à bosse lui propose de l’emmener en voyage à travers les océan
- s du globe. Cette amitié insolite nous plonge dans une odyssée fabuleuse
-  au cœur de la nature\, de l’infiniment petit à l’infiniment grand.\
- n\n\nAffiche : https://image.tmdb.org/t/p/w780/ysDh4yvgG3Kdrc19urwsVXAiWkB
- .jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/655424\n\nSéance re
- levée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/ysDh4yvgG3Kdrc19urwsVXAiWkB.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ysDh4yvgG3Kdrc19u
- rwsVXAiWkB.jpg
-CATEGORIES:Animation,Familial,Téléfilm
-END:VEVENT
-BEGIN:VEVENT
 UID:event-1241803@calendrier-cine-fr
 DTSTAMP:20261004T000000Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Les Misérables
-DESCRIPTION:Les Misérables\n(3.3 ↗︎)\n\nHistoire\, Romance\, Drame\n
+DESCRIPTION:Les Misérables\n(3.1 ↗︎)\n\nHistoire\, Romance\, Drame\n
  𝟮𝗵𝟱𝟴\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Fred Cavayé\n𝗦𝗰𝗲𝗻𝗮
@@ -178,12 +117,73 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tY3CoBNTCpvJayVRL
 CATEGORIES:Histoire,Romance,Drame
 END:VEVENT
 BEGIN:VEVENT
+UID:event-655424@calendrier-cine-fr
+DTSTAMP:20261004T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:La Baleine et l'escargote
+DESCRIPTION:The Snail and the Whale\n(3.5)\n\nAnimation\, Familial\, Télé
+ film\n𝟮𝟳𝗺𝗶𝗻\n\nUnited Kingdom\n(English)\n𝗦𝗼𝗿𝘁
+ 𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 octobre 2020\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Max Lang\, Daniel Snadd
+ on\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Suzanne Lang\, Max Lang\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Magic Light Pictures\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Rob Brydon\n- Sally Hawkins\n- Diana Rigg\n- Cariad 
+ Lloyd\n- Max Lang\n\n\nUne petite escargote de mer s’ennuie sur le roche
+ r d’un vieux port et rêve de parcourir le monde. Un jour\, une grande b
+ aleine à bosse lui propose de l’emmener en voyage à travers les océan
+ s du globe. Cette amitié insolite nous plonge dans une odyssée fabuleuse
+  au cœur de la nature\, de l’infiniment petit à l’infiniment grand.\
+ n\n\nAffiche : https://image.tmdb.org/t/p/w780/ysDh4yvgG3Kdrc19urwsVXAiWkB
+ .jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/655424\n\nSéance re
+ levée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/ysDh4yvgG3Kdrc19urwsVXAiWkB.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ysDh4yvgG3Kdrc19u
+ rwsVXAiWkB.jpg
+CATEGORIES:Animation,Familial,Téléfilm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-149@calendrier-cine-fr
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Akira
+DESCRIPTION:Akira\n(15.5)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+ 𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
+ 𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
+ 𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
+ ashimoto\, Katsuhiro Ōtomo\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
+ 𝗲 : 三沢勝治\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MBS\, Sumi
+ tomo Corporation\, TOHO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mitsuo Iwata\
+ n- Nozomu Sasaki\n- Mami Koyama\n- 石田太郎\n- Mizuho Suzuki\n- Tessyo
+  Genda\n- Koichi Kitamura\n- 渕崎ゆり子\n- Masaaki Okura\n- Takeshi K
+ usao\n- Kazuhiro Kamifuji\n- Tatsuhiko Nakamura\n\n\nTetsuo\, un adolescen
+ t ayant vécu une enfance difficile\, est la victime d'expériences visant
+  à développer les capacités psychiques qui dorment en chacun de nous. A
+ insi doté d'une puissance que lui-même ne peut imaginer\, Tetsuo décide
+  de partir en guerre contre le monde qui l'a opprimé. Dès lors\, il se r
+ etrouve au cœur d'une légende populaire qui annonce le retour prochain d
+ 'Akira\, un enfant aux pouvoirs extraordinaires censé délivrer Tokyo du 
+ chaos ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
+ iLssX6UcHe.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/149\n\nSé
+ ance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TM
+ DB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
+ iLssX6UcHe.jpg
+CATEGORIES:Animation,Science-Fiction,Action
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1400837@calendrier-cine-fr
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Malfaisante
-DESCRIPTION:Other Mommy\n(27.1 →︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
+DESCRIPTION:Other Mommy\n(27.9 →︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
  ed States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 
  𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Rob Savage\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -211,7 +211,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Hunger Games
-DESCRIPTION:The Hunger Games\n(15.5)\n\nScience-Fiction\, Aventure\, Action
+DESCRIPTION:The Hunger Games\n(16.5)\n\nScience-Fiction\, Aventure\, Action
  \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
  12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
@@ -239,12 +239,39 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yE
 CATEGORIES:Science-Fiction,Aventure,Action,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:event-1218069@calendrier-cine-fr
+DTSTAMP:20261011T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Mochy
+DESCRIPTION:Yugly\n(3.0)\n\nAventure\, Animation\, Comédie\, Familial\n
+ 𝟭𝗵𝟮𝟰\n\nBelgium\, France\n(English\, French)\n𝗔𝗩𝗣 - 
+ 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre
+  2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jérémie Degr
+ uson\, Yanis Belaid\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Greg Brooker\n𝗣
+ 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : nWave Pictures\, Octopolis\n\n\nMoc
+ hy est un jeune chien au grand cœur… mais il n’a pas un physique faci
+ le…  Ça ne l’empêche pas d’avoir un rêve : participer au concours
+  du plus beau chien. Défiant tous les obstacles\, il va tout faire pour r
+ éaliser ce projet fou avec le secret espoir d’y trouver l’humain qui 
+ l’aimera pour la vie.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/vlO
+ 9hdpZDbpoZcdXgUBiNpxL6Nn.jpg\n\nFiche TMDB : https://www.themoviedb.org/mo
+ vie/1218069\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The 
+ Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/vlO9hdpZDbpoZcdXgUBiNpxL6Nn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vlO9hdpZDbpoZcdXg
+ UBiNpxL6Nn.jpg
+CATEGORIES:Aventure,Animation,Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1477104@calendrier-cine-fr
 DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Shaun le Mouton : La Bêêête d'Halloween
-DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(12.5 ↘︎)\n\nAn
+DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(11.2 ↘︎)\n\nAn
  imation\, Comédie\, Familial\, Aventure\, Horreur\n𝟭𝗵𝟮𝟭\n\nUn
  ited Kingdom\, France\n(No Language)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲
@@ -276,7 +303,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Street Fighter
-DESCRIPTION:Street Fighter\n(21.2 ↑︎)\n\nAction\, Fantastique\n\nJapan\
+DESCRIPTION:Street Fighter\n(24.3 ↑︎)\n\nAction\, Fantastique\n\nJapan\
  , United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰𝗲𝗻𝗮
@@ -309,7 +336,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Love Me Tender
-DESCRIPTION:Love Me Tender\n(2.8)\n\nDrame\n𝟮𝗵𝟭𝟳\n\nFrance\, Lu
+DESCRIPTION:Love Me Tender\n(2.7)\n\nDrame\n𝟮𝗵𝟭𝟳\n\nFrance\, Lu
  xembourg\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 10 decembre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Anna Cazenave Cambet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Anna C
@@ -338,11 +365,11 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(28.6)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(27.4)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
- nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Beaufoy\, Michael Arndt\n
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
@@ -362,6 +389,34 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/32mRJXEjmpcVYcQFv
  zvXCLPsUgS.jpg
 CATEGORIES:Aventure,Action,Science-Fiction
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1758886@calendrier-cine-fr
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Papa où t'es ?
+DESCRIPTION:Papa où t'es ?\n(2.2 →︎)\n\nDocumentaire\n\nFrance\n𝗔
+ 𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 :
+  28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Bas
+ ile Monnot\, Samy Bouyssié\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : as
+ cend\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Nicolas Trouvé\n- Bounama Tour
+ é\n- Mohamed Touré\n\n\nÀ 27 ans\, Nicolas n’a presque aucun souvenir
+  de son enfance et n’a jamais connu son père. Séparé de sa mère à l
+ ’âge de trois ans\, il a grandi placé entre familles d’accueil et fo
+ yers. Décidé à retrouver ce père qui l’a abandonné à la naissance\
+ , Nicolas récupère son dossier de l’Aide sociale à l’enfance et se 
+ lance sur sa trace. Une enquête qui va le mener jusqu’au Sénégal\, à
+  la rencontre de sa famille et d’une histoire qu’il connaît à peine.
+ \n\n\nAffiche : https://image.tmdb.org/t/p/w780/7Xls6LSB6MjFV9YflhwamJfsnU
+ n.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1758886\n\nSéance 
+ relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/7Xls6LSB6MjFV9YflhwamJfsnUn.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7Xls6LSB6MjFV9Yfl
+ hwamJfsnUn.jpg
+CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
 UID:event-131631@calendrier-cine-fr
@@ -402,7 +457,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte\, partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(23.6)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(23.5)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -430,6 +485,73 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ojFCU0K7Err8n87VO
  ONrnrCcQxj.jpg
 CATEGORIES:Action,Aventure,Science-Fiction
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1443@calendrier-cine-fr
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Virgin Suicides
+DESCRIPTION:The Virgin Suicides\n(9.0)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+ \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
+ 𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
+ ofia Coppola\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Edward La
+ chman\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : American Zoetrope\, Muse
+  Productions\, Eternity Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Kirs
+ ten Dunst\n- Josh Hartnett\n- James Woods\n- Kathleen Turner\n- Michael Pa
+ ré\n- A.J. Cook\n- Hanna Hall\n- Leslie Hayman\n- Chelse Swain\n- Giovann
+ i Ribisi\n- Anthony DeSimone\n- Lee Kagan\n\n\nDans une ville américaine 
+ tranquille et puritaine des années soixante-dix\, Cecilia Lisbon\, 13 ans
+ \, tente de se suicider. Elle a 4 sœurs\, de jolies adolescentes. Cet inc
+ ident éclaire d'un jour nouveau le mode de vie de toute la famille. L'his
+ toire\, relatée par l’intermédiaire de la vision des garçons du voisi
+ nage\, obsédés par ces sœurs mystérieuses\, dépeint avec cynisme la v
+ ie adolescente. Petit a petit\, la famille se referme et les filles reçoi
+ vent rapidement l'interdiction de sortir. Alors que la situation s'enlise\
+ , les garçons envisagent de secourir les filles.\n\n\nAffiche : https://i
+ mage.tmdb.org/t/p/w780/yHIAt0xdPis7UwoJuM2AwORsLAM.jpg\n\nFiche TMDB : htt
+ ps://www.themoviedb.org/movie/1443\n\nSéance relevée sur AlloCiné.\nDon
+ nées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/yHIAt0xdPis7UwoJuM2AwORsLAM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/yHIAt0xdPis7UwoJu
+ M2AwORsLAM.jpg
+CATEGORIES:Drame,Romance
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1887@calendrier-cine-fr
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Marie-Antoinette
+DESCRIPTION:Marie Antoinette\n(8.3)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
+ \nJapan\, United States of America\, France\n(English\, French\, Latin)\n
+ 𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
+ la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Lance Acord\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : Pricel\, Columbia Pictures\, American Zoetrope\n\n𝗔𝗰
+ 𝘁𝗲𝘂𝗿𝘀 :\n- Kirsten Dunst\n- Jason Schwartzman\n- Steve Coog
+ an\n- Judy Davis\n- Rip Torn\n- Asia Argento\n- Molly Shannon\n- Shirley H
+ enderson\n- Rose Byrne\n- Mary Nighy\n- Danny Huston\n- Marianne Faithfull
+ \n\n\nÉvocation de la vie de la reine d'origine autrichienne\, épouse ma
+ l-aimée de Louis XVI\, guillotinée en 1793. Au sortir de l'adolescence\,
+  une jeune fille découvre un monde hostile et codifié\, un univers frivo
+ le où chacun observe et juge l'autre sans aménité. Mariée à un homme 
+ maladroit qui la délaisse\, elle est rapidement lassée par les devoirs d
+ e représentation qu'on lui impose. Elle s'évade dans l'ivresse de la fê
+ te et les plaisirs des sens pour réinventer un monde à elle. Y a-t-il un
+  prix à payer à chercher le bonheur que certains vous refusent ?\n\n\nAf
+ fiche : https://image.tmdb.org/t/p/w780/gyZQYEbG4ske29Uh8EO3JFrxq8e.jpg\n\
+ nFiche TMDB : https://www.themoviedb.org/movie/1887\n\nSéance relevée su
+ r AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/gyZQYEbG4ske29Uh8EO3JFrxq8e.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gyZQYEbG4ske29Uh8
+ EO3JFrxq8e.jpg
+CATEGORIES:Drame,Histoire
 END:VEVENT
 BEGIN:VEVENT
 UID:event-1281204@calendrier-cine-fr
@@ -469,7 +591,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(22.5 ↗︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(25.3 ↑︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\
