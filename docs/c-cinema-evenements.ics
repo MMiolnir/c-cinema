@@ -11,78 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-920@calendrier-cine-fr
-DTSTAMP:20261003T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(25.7)\n\nAnimation\, Aventure\, Comédie\, Familial\n
- 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
- e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
-  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
- ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
- n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Walt 
- Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul N
- ewman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalho
- ub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- G
- eorge Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQue
- en vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiat
- or Springs\, une petite ville oubliée sur la Route 66. Il y rencontre Sal
- ly\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aident 
- à découvrir que la vie vaut plus que les trophées et la célébrité.\n
- \n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.
- jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance relev
- ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
- OtwYXrovdo.jpg
-CATEGORIES:Animation,Aventure,Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:event-299534@calendrier-cine-fr
-DTSTAMP:20261003T000000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(118.0 ↑︎)\n\nAventure\, Science-Fiction
- \, Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japane
- se\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
- 𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
- Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher 
- Markus\, Stephen McFeely\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
-  : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
- s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
-  Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renner\n-
-  Josh Brolin\n- Don Cheadle\n- Paul Rudd\n- Benedict Cumberbatch\n- Chadwi
- ck Boseman\n- Brie Larson\n\n\nAprès leur défaite face au Titan Thanos q
- ui dans le film précédent s'est approprié toutes les pierres du Gant de
-  l'infini\, les Avengers et les Gardiens de la Galaxie ayant survécu à s
- on claquement de doigts qui a pulvérisé « la moitié de toute forme de 
- vie dans l'Univers »\, Captain America\, Thor\, Bruce Banner\, Natasha Ro
- manoff\, War Machine\, Tony Stark\, Nébula et Rocket\, vont essayer de tr
- ouver une solution pour ramener leurs coéquipiers disparus et vaincre Tha
- nos en se faisant aider par Ronin alias Clint Barton\, Captain Marvel et A
- nt-Man.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KH
- ePuRjXc8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/299534\n\nS
- éance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (
- TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
- KHePuRjXc8.jpg
-CATEGORIES:Aventure,Science-Fiction,Action
-END:VEVENT
-BEGIN:VEVENT
 UID:event-1241803@calendrier-cine-fr
 DTSTAMP:20261004T000000Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Les Misérables
-DESCRIPTION:Les Misérables\n(3.1 ↗︎)\n\nHistoire\, Romance\, Drame\n
+DESCRIPTION:Les Misérables\n(3.3 ↗︎)\n\nHistoire\, Romance\, Drame\n
  𝟮𝗵𝟱𝟴\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Fred Cavayé\n𝗦𝗰𝗲𝗻𝗮
@@ -117,32 +51,70 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tY3CoBNTCpvJayVRL
 CATEGORIES:Histoire,Romance,Drame
 END:VEVENT
 BEGIN:VEVENT
-UID:event-655424@calendrier-cine-fr
+UID:event-920@calendrier-cine-fr
 DTSTAMP:20261004T000000Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-SUMMARY:La Baleine et l'escargote
-DESCRIPTION:The Snail and the Whale\n(3.5)\n\nAnimation\, Familial\, Télé
- film\n𝟮𝟳𝗺𝗶𝗻\n\nUnited Kingdom\n(English)\n𝗦𝗼𝗿𝘁
- 𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 octobre 2020\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Max Lang\, Daniel Snadd
- on\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Suzanne Lang\, Max Lang\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Magic Light Pictures\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Rob Brydon\n- Sally Hawkins\n- Diana Rigg\n- Cariad 
- Lloyd\n- Max Lang\n\n\nUne petite escargote de mer s’ennuie sur le roche
- r d’un vieux port et rêve de parcourir le monde. Un jour\, une grande b
- aleine à bosse lui propose de l’emmener en voyage à travers les océan
- s du globe. Cette amitié insolite nous plonge dans une odyssée fabuleuse
-  au cœur de la nature\, de l’infiniment petit à l’infiniment grand.\
- n\n\nAffiche : https://image.tmdb.org/t/p/w780/ysDh4yvgG3Kdrc19urwsVXAiWkB
- .jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/655424\n\nSéance re
- levée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+SUMMARY:Cars : Quatre roues
+DESCRIPTION:Cars\n(26.1)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+ 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
+ e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
+  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Lasseter\, Jørgen Klubien\, Dan
+  Fogelman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky
+ \, Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\,
+  Walt Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- 
+ Paul Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony 
+ Shalhoub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Walli
+ s\n- George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash
+  McQueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à 
+ Radiator Springs\, une petite ville oubliée sur la Route 66. Il y rencont
+ re Sally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’a
+ ident à découvrir que la vie vaut plus que les trophées et la célébri
+ té.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYX
+ rovdo.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance 
+ relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/ysDh4yvgG3Kdrc19urwsVXAiWkB.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ysDh4yvgG3Kdrc19u
- rwsVXAiWkB.jpg
-CATEGORIES:Animation,Familial,Téléfilm
+ t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
+ OtwYXrovdo.jpg
+CATEGORIES:Animation,Aventure,Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
+UID:event-299534@calendrier-cine-fr
+DTSTAMP:20261004T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Avengers : Endgame
+DESCRIPTION:Avengers: Endgame\n(118.2 ↑︎)\n\nAventure\, Science-Fiction
+ \, Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japane
+ se\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
+ 𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
+ Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
+ ely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
+  : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
+ s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
+  Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renner\n-
+  Josh Brolin\n- Don Cheadle\n- Paul Rudd\n- Benedict Cumberbatch\n- Chadwi
+ ck Boseman\n- Brie Larson\n\n\nAprès leur défaite face au Titan Thanos q
+ ui dans le film précédent s'est approprié toutes les pierres du Gant de
+  l'infini\, les Avengers et les Gardiens de la Galaxie ayant survécu à s
+ on claquement de doigts qui a pulvérisé « la moitié de toute forme de 
+ vie dans l'Univers »\, Captain America\, Thor\, Bruce Banner\, Natasha Ro
+ manoff\, War Machine\, Tony Stark\, Nébula et Rocket\, vont essayer de tr
+ ouver une solution pour ramener leurs coéquipiers disparus et vaincre Tha
+ nos en se faisant aider par Ronin alias Clint Barton\, Captain Marvel et A
+ nt-Man.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KH
+ ePuRjXc8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/299534\n\nS
+ éance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (
+ TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
+ KHePuRjXc8.jpg
+CATEGORIES:Aventure,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
 UID:event-149@calendrier-cine-fr
@@ -150,7 +122,7 @@ DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Akira
-DESCRIPTION:Akira\n(15.5)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(14.8)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
  𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
@@ -183,7 +155,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Malfaisante
-DESCRIPTION:Other Mommy\n(27.9 →︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
+DESCRIPTION:Other Mommy\n(30.0 →︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
  ed States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 
  𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Rob Savage\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -211,7 +183,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Hunger Games
-DESCRIPTION:The Hunger Games\n(16.5)\n\nScience-Fiction\, Aventure\, Action
+DESCRIPTION:The Hunger Games\n(18.2)\n\nScience-Fiction\, Aventure\, Action
  \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
  12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
@@ -244,7 +216,7 @@ DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Mochy
-DESCRIPTION:Yugly\n(3.0)\n\nAventure\, Animation\, Comédie\, Familial\n
+DESCRIPTION:Yugly\n(2.9)\n\nAventure\, Animation\, Comédie\, Familial\n
  𝟭𝗵𝟮𝟰\n\nBelgium\, France\n(English\, French)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre
   2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jérémie Degr
@@ -271,7 +243,7 @@ DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Shaun le Mouton : La Bêêête d'Halloween
-DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(11.2 ↘︎)\n\nAn
+DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(12.3 ↓︎)\n\nAn
  imation\, Comédie\, Familial\, Aventure\, Horreur\n𝟭𝗵𝟮𝟭\n\nUn
  ited Kingdom\, France\n(No Language)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲
@@ -303,26 +275,26 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Street Fighter
-DESCRIPTION:Street Fighter\n(24.3 ↑︎)\n\nAction\, Fantastique\n\nJapan\
- , United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
- 𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : T.J. Fixman\, Kitao Sakurai\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Ken Seng\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 
- : Capcom\, Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andrew 
- Koji\n- Noah Centineo\n- Callina Liang\n- Joe Anoa'i\n- David Dastmalchian
- \n- Cody Rhodes\n- Andrew Schulz\n- Eric Andre\n- विद्युत 
- जामवाल\n- Mel Jarnson\n- Orville Peck\n- Olivier Richters\n\n\
- nEn 1993\, Ryu et Ken Masters\, deux Street Fighters autrefois inséparabl
- es\, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les r
- ecrute pour le prochain World Warrior Tournament : un affrontement brutal 
- où se mêlent poings\, destin et fureur. Mais derrière cette battle roya
- le se cache une conspiration mortelle qui les oblige à s’affronter\, to
- ut en faisant face aux démons de leur passé… Et s’ils échouent\, c
- ’est GAME OVER.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/k53HHxQ4r
- QG0dME6nsofii3QNS7.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/11
- 53576\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie 
- Database (TMDB)
+DESCRIPTION:Street Fighter\n(25.4 ↑︎)\n\nAction\, Fantastique\n𝟮𝗵
+ \n\nJapan\, United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
+ 𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\
+ n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : T.J. Fixman\, Kitao Sakurai\n𝗣𝗵𝗼𝘁
+ 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ken Seng\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : Capcom\, Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀
+  :\n- Andrew Koji\n- Noah Centineo\n- Callina Liang\n- Joe Anoa'i\n- David
+  Dastmalchian\n- Cody Rhodes\n- Andrew Schulz\n- Eric Andre\n- विद
+ ्युत जामवाल\n- Mel Jarnson\n- Orville Peck\n- Olivier 
+ Richters\n\n\nEn 1993\, Ryu et Ken Masters\, deux Street Fighters autrefoi
+ s inséparables\, sont replongés dans l’arène lorsque la mystérieuse 
+ Chun-Li les recrute pour le prochain World Warrior Tournament : un affront
+ ement brutal où se mêlent poings\, destin et fureur. Mais derrière cett
+ e battle royale se cache une conspiration mortelle qui les oblige à s’a
+ ffronter\, tout en faisant face aux démons de leur passé… Et s’ils 
+ échouent\, c’est GAME OVER.\n\n\nAffiche : https://image.tmdb.org/t/p/w
+ 780/k53HHxQ4rQG0dME6nsofii3QNS7.jpg\n\nFiche TMDB : https://www.themoviedb
+ .org/movie/1153576\n\nSéance relevée sur AlloCiné.\nDonnées fournies p
+ ar The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/k53HHxQ4rQG0dME6nsofii3QNS7.jpg
@@ -336,7 +308,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Love Me Tender
-DESCRIPTION:Love Me Tender\n(2.7)\n\nDrame\n𝟮𝗵𝟭𝟳\n\nFrance\, Lu
+DESCRIPTION:Love Me Tender\n(2.8)\n\nDrame\n𝟮𝗵𝟭𝟳\n\nFrance\, Lu
  xembourg\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 10 decembre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Anna Cazenave Cambet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Anna C
@@ -365,11 +337,11 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(27.4)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(29.3)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
- nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Beaufoy\, Michael Arndt\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
@@ -396,7 +368,7 @@ DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Papa où t'es ?
-DESCRIPTION:Papa où t'es ?\n(2.2 →︎)\n\nDocumentaire\n\nFrance\n𝗔
+DESCRIPTION:Papa où t'es ?\n(2.0 →︎)\n\nDocumentaire\n\nFrance\n𝗔
  𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 :
   28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Bas
  ile Monnot\, Samy Bouyssié\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : as
@@ -424,7 +396,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte\, partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(40.3)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(42.4)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -457,7 +429,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte\, partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(23.5)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(25.6)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -492,7 +464,7 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Virgin Suicides
-DESCRIPTION:The Virgin Suicides\n(9.0)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+DESCRIPTION:The Virgin Suicides\n(9.1)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
  \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
@@ -559,7 +531,7 @@ DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(0.9)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
+DESCRIPTION:Mika Ex Machina\n(1.0)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
   1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
   Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
@@ -591,7 +563,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(25.3 ↑︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(25.8 ↑︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\
