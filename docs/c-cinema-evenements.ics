@@ -11,69 +11,29 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-1241803@calendrier-cine-fr
-DTSTAMP:20261004T000000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:Les Misérables
-DESCRIPTION:Les Misérables\n(3.3 ↗︎)\n\nHistoire\, Romance\, Drame\n
- 𝟮𝗵𝟱𝟴\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
- 𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Fred Cavayé\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Fred Cavayé\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
- 𝗲 : Denis Rouden\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Curiosa Fi
- lms\, Eskwad\, StudioCanal\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Vincent Li
- ndon\n- Tahar Rahim\n- Camille Cottin\n- Noémie Merlant\n- Benjamin Laver
- nhe\n- Vassili Schneider\n- Megan Northam\n- Marie Colomb\n- Léonard Sign
- oret\n- Ryan Fartout\n- Maryne Bertieaux\n- Giorgia Sinicorni\n\n\nJean Va
- ljean\, un ancien forçat évadé du bagne où il a passé 16 ans pour avo
- ir volé du pain\, seconsacre désormais à faire le bien autour de lui. I
- l se crée une nouvelle identité\, celle d'un notable respecté\, et vien
- t en aide à Fantine\, une ouvrière mourante en lui promettant de sauver 
- sa fille\, la petite Cosette\, des griffes des Thénardier\, des aubergist
- es qui l'exploitent et la maltraitent. Alors que Valjean prend soin de l'e
- nfant et l'élève comme sa propre fille\, son passé finit par le rattrap
- er en la personne de l’inspecteur Javert qui n'a eu de cesse de le pourc
- hasser durant toutes ces années. En dépit de l'agitation sociale qui sec
- oue la France\, les destins de Valjean\, de Cosette\, de son amant Marius 
- et de Javert s'entremêlent dans un Paris bouillonnant et révolutionnaire
- . À travers des luttes\, des sacrifices et un profond désir de justice\,
-  Valjean s'efforce d'achever son parcours de rédemption et d'offrir à Co
- sette un avenir d'amour et de liberté.\n\n\nAffiche : https://image.tmdb.
- org/t/p/w780/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg\n\nFiche TMDB : https://www.t
- hemoviedb.org/movie/1241803\n\nSéance relevée sur AlloCiné.\nDonnées f
- ournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tY3CoBNTCpvJayVRL
- qIIGDa4Ep8.jpg
-CATEGORIES:Histoire,Romance,Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:event-920@calendrier-cine-fr
-DTSTAMP:20261004T000000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(26.1)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(26.3)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Lasseter\, Jørgen Klubien\, Dan
-  Fogelman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky
- \, Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\,
-  Walt Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- 
- Paul Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony 
- Shalhoub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Walli
- s\n- George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash
-  McQueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à 
- Radiator Springs\, une petite ville oubliée sur la Route 66. Il y rencont
- re Sally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’a
- ident à découvrir que la vie vaut plus que les trophées et la célébri
- té.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYX
- rovdo.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance 
- relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
+ ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
+ ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Wal
+ t Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul
+  Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shal
+ houb\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n-
+  George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQ
+ ueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radi
+ ator Springs\, une petite ville oubliée sur la Route 66. Il y rencontre S
+ ally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aiden
+ t à découvrir que la vie vaut plus que les trophées et la célébrité.
+ \n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovd
+ o.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance rele
+ vée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
@@ -83,11 +43,11 @@ CATEGORIES:Animation,Aventure,Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
 UID:event-299534@calendrier-cine-fr
-DTSTAMP:20261004T000000Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(118.2 ↑︎)\n\nAventure\, Science-Fiction
+DESCRIPTION:Avengers: Endgame\n(118.9 ↑︎)\n\nAventure\, Science-Fiction
  \, Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japane
  se\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
@@ -118,11 +78,11 @@ CATEGORIES:Aventure,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
 UID:event-149@calendrier-cine-fr
-DTSTAMP:20261005T000000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
 SUMMARY:Akira
-DESCRIPTION:Akira\n(14.8)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(15.3)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
  𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
@@ -155,7 +115,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Malfaisante
-DESCRIPTION:Other Mommy\n(30.0 →︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
+DESCRIPTION:Other Mommy\n(33.3 ↗︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
  ed States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 
  𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Rob Savage\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -183,7 +143,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Hunger Games
-DESCRIPTION:The Hunger Games\n(18.2)\n\nScience-Fiction\, Aventure\, Action
+DESCRIPTION:The Hunger Games\n(18.1)\n\nScience-Fiction\, Aventure\, Action
  \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
  12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
@@ -216,7 +176,7 @@ DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Mochy
-DESCRIPTION:Yugly\n(2.9)\n\nAventure\, Animation\, Comédie\, Familial\n
+DESCRIPTION:Yugly\n(3.1)\n\nAventure\, Animation\, Comédie\, Familial\n
  𝟭𝗵𝟮𝟰\n\nBelgium\, France\n(English\, French)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre
   2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jérémie Degr
@@ -243,7 +203,7 @@ DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Shaun le Mouton : La Bêêête d'Halloween
-DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(12.3 ↓︎)\n\nAn
+DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(11.4 ↓︎)\n\nAn
  imation\, Comédie\, Familial\, Aventure\, Horreur\n𝟭𝗵𝟮𝟭\n\nUn
  ited Kingdom\, France\n(No Language)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲
@@ -337,7 +297,7 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(29.3)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(28.8)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
@@ -368,26 +328,27 @@ DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Papa où t'es ?
-DESCRIPTION:Papa où t'es ?\n(2.0 →︎)\n\nDocumentaire\n\nFrance\n𝗔
- 𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 :
-  28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Bas
- ile Monnot\, Samy Bouyssié\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : as
- cend\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Nicolas Trouvé\n- Bounama Tour
- é\n- Mohamed Touré\n\n\nÀ 27 ans\, Nicolas n’a presque aucun souvenir
-  de son enfance et n’a jamais connu son père. Séparé de sa mère à l
- ’âge de trois ans\, il a grandi placé entre familles d’accueil et fo
- yers. Décidé à retrouver ce père qui l’a abandonné à la naissance\
- , Nicolas récupère son dossier de l’Aide sociale à l’enfance et se 
- lance sur sa trace. Une enquête qui va le mener jusqu’au Sénégal\, à
-  la rencontre de sa famille et d’une histoire qu’il connaît à peine.
- \n\n\nAffiche : https://image.tmdb.org/t/p/w780/7Xls6LSB6MjFV9YflhwamJfsnU
- n.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1758886\n\nSéance 
- relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Papa où t'es ?\n(2.2 →︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟬
+ \n\nFrance\n(French\, Wolof)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
+ 𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶
+ 𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Basile Monnot\, Samy Bouyssié\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : ascend\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 
+ :\n- Nicolas Trouvé\n- Bounama Touré\n- Mohamed Touré\n\n\nÀ 27 ans\, 
+ Nicolas n’a presque aucun souvenir de son enfance et n’a jamais connu 
+ son père. Séparé de sa mère à l’âge de trois ans\, il a grandi pla
+ cé entre familles d’accueil et foyers. Décidé à retrouver ce père q
+ ui l’a abandonné à la naissance\, Nicolas récupère son dossier de l
+ ’Aide sociale à l’enfance et se lance sur sa trace. Une enquête qui 
+ va le mener jusqu’au Sénégal\, à la rencontre de sa famille et d’un
+ e histoire qu’il connaît à peine.\n\n\nAffiche : https://image.tmdb.or
+ g/t/p/w780/3HqZ26kFQnyJKVgtzu8MnrzKBLX.jpg\n\nFiche TMDB : https://www.the
+ moviedb.org/movie/1758886\n\nSéance relevée sur AlloCiné.\nDonnées fou
+ rnies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/7Xls6LSB6MjFV9YflhwamJfsnUn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7Xls6LSB6MjFV9Yfl
- hwamJfsnUn.jpg
+ t/p/w780/3HqZ26kFQnyJKVgtzu8MnrzKBLX.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/3HqZ26kFQnyJKVgtz
+ u8MnrzKBLX.jpg
 CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
@@ -396,7 +357,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte\, partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(42.4)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(42.8)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -429,7 +390,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte\, partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(25.6)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(25.0)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -464,7 +425,7 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Virgin Suicides
-DESCRIPTION:The Virgin Suicides\n(9.1)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+DESCRIPTION:The Virgin Suicides\n(9.8)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
  \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
@@ -498,7 +459,7 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Marie-Antoinette
-DESCRIPTION:Marie Antoinette\n(8.3)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
+DESCRIPTION:Marie Antoinette\n(9.2)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
  \nJapan\, United States of America\, France\n(English\, French\, Latin)\n
  𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
  la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
@@ -531,7 +492,7 @@ DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(1.0)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
+DESCRIPTION:Mika Ex Machina\n(1.2)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
   1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
   Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
