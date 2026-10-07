@@ -11,29 +11,54 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:event-445187@calendrier-cine-fr
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Sam le Pompier - Volume 3 le commandant
+DESCRIPTION:Sam le Pompier - Volume 3 le commandant\n(0.4)\n\n\nFR\n𝗦
+ 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 octobre
+  2025\n\n\nVéritable modèle pour les plus jeunes\, Sam le pompier est to
+ ujours là pour aider les habitants de Pontypandy ! Accompagné de la brig
+ ade de pompiers de la ville\, notre héros trouve des solutions à toutes 
+ les situations...\n Charlie et Max suivent un stage à la caserne pour êt
+ re pompiers volontaires ! Autrement dit\, si un jour Sam et ses collègues
+  sont appelés sur un gros incendie\, ils demanderont à Max et à Charlie
+  de venir les aider ! Mais Charlie doit partir en mer car il n'y a plus de
+  poisson à vendre à la poissonnerie ! Le Commandant\, qui n'est pas de g
+ arde\, propose de lui donner un coup de main ! Mais au lieu de lui facilit
+ er la tâche\, le pauvre ne va réussir qu'à provoquer catastrophe sur ca
+ tastrophe ! Mais il va se montrer bien efficace quand le moteur du bateau 
+ va prendre feu !\n\n\nFiche TMDB : https://www.themoviedb.org/movie/445187
+ \n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Datab
+ ase (TMDB)
+TRANSP:TRANSPARENT
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
 UID:event-920@calendrier-cine-fr
-DTSTAMP:20261006T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(24.5)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(23.7)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
- ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
- n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Walt 
- Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul N
- ewman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalho
- ub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- G
- eorge Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQue
- en vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiat
- or Springs\, une petite ville oubliée sur la Route 66. Il y rencontre Sal
- ly\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aident 
- à découvrir que la vie vaut plus que les trophées et la célébrité.\n
- \n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.
- jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance relev
- ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Lasseter\, Jørgen Klubien\, Dan
+  Fogelman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky
+ \, Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\,
+  Walt Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- 
+ Paul Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony 
+ Shalhoub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Walli
+ s\n- George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash
+  McQueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à 
+ Radiator Springs\, une petite ville oubliée sur la Route 66. Il y rencont
+ re Sally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’a
+ ident à découvrir que la vie vaut plus que les trophées et la célébri
+ té.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYX
+ rovdo.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance 
+ relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
@@ -43,15 +68,15 @@ CATEGORIES:Animation,Aventure,Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
 UID:event-299534@calendrier-cine-fr
-DTSTAMP:20261006T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(106.2 ↗︎)\n\nAventure\, Science-Fiction
+DESCRIPTION:Avengers: Endgame\n(101.2 →︎)\n\nAventure\, Science-Fiction
  \, Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japane
  se\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
- Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
+ Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
  ely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
   : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
  s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
@@ -78,11 +103,11 @@ CATEGORIES:Aventure,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
 UID:event-149@calendrier-cine-fr
-DTSTAMP:20261006T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
 SUMMARY:Akira
-DESCRIPTION:Akira\n(15.5)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
+DESCRIPTION:Akira\n(15.2)\n\nAnimation\, Science-Fiction\, Action\n𝟮𝗵
  𝟬𝟰\n\nJapan\n(Japanese)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁
  𝗼𝗿𝗶𝗾𝘂𝗲 : 8 mai 1991\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Katsuhiro Ōtomo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Izō H
@@ -110,37 +135,12 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8fCn7TwTe0Z4fTugI
 CATEGORIES:Animation,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
-UID:event-445187@calendrier-cine-fr
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Sam le Pompier - Volume 3 le commandant
-DESCRIPTION:Sam le Pompier - Volume 3 le commandant\n(0.4)\n\n\nFR\n𝗦
- 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 octobre
-  2025\n\n\nVéritable modèle pour les plus jeunes\, Sam le pompier est to
- ujours là pour aider les habitants de Pontypandy ! Accompagné de la brig
- ade de pompiers de la ville\, notre héros trouve des solutions à toutes 
- les situations...\n Charlie et Max suivent un stage à la caserne pour êt
- re pompiers volontaires ! Autrement dit\, si un jour Sam et ses collègues
-  sont appelés sur un gros incendie\, ils demanderont à Max et à Charlie
-  de venir les aider ! Mais Charlie doit partir en mer car il n'y a plus de
-  poisson à vendre à la poissonnerie ! Le Commandant\, qui n'est pas de g
- arde\, propose de lui donner un coup de main ! Mais au lieu de lui facilit
- er la tâche\, le pauvre ne va réussir qu'à provoquer catastrophe sur ca
- tastrophe ! Mais il va se montrer bien efficace quand le moteur du bateau 
- va prendre feu !\n\n\nFiche TMDB : https://www.themoviedb.org/movie/445187
- \n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Datab
- ase (TMDB)
-TRANSP:TRANSPARENT
-CATEGORIES:Cinema
-END:VEVENT
-BEGIN:VEVENT
 UID:event-1400837@calendrier-cine-fr
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Malfaisante
-DESCRIPTION:Other Mommy\n(37.8 ↑︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
+DESCRIPTION:Other Mommy\n(46.2 ↑︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
  ed States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 
  𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Rob Savage\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -201,7 +201,7 @@ DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Mochy
-DESCRIPTION:Yugly\n(2.8)\n\nAventure\, Animation\, Comédie\, Familial\n
+DESCRIPTION:Yugly\n(3.0)\n\nAventure\, Animation\, Comédie\, Familial\n
  𝟭𝗵𝟮𝟰\n\nBelgium\, France\n(English\, French)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre
   2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jérémie Degr
@@ -228,7 +228,7 @@ DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Shaun le Mouton : La Bêêête d'Halloween
-DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(10.8 ↓︎)\n\nAn
+DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(10.2 ↓︎)\n\nAn
  imation\, Comédie\, Familial\, Aventure\, Horreur\n𝟭𝗵𝟮𝟭\n\nUn
  ited Kingdom\, France\n(No Language)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲
@@ -237,7 +237,7 @@ DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(10.8 ↓︎)\n\nAn
  𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Charles Copping\n𝗣𝗿𝗼
  𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Aardman\, StudioCanal\n\n𝗔𝗰𝘁𝗲
  𝘂𝗿𝘀 :\n- Justin Fletcher\n- John Sparkes\n- Nina Sosanya\n- Kate 
- Harbour\n- Andy Nyman\n- Simon Greenall\n- Emma Tate\n- Rich Webber\n- Pau
+ Harbour\n- Rich Webber\n- Emma Tate\n- Simon Greenall\n- Andy Nyman\n- Pau
  l Whitehouse\n- Roman Kemp\n- Dani Dyer\n- Chris Morrell\n\n\nÀ Halloween
  \, les habitants de la ferme de Mossy Bottom se réjouissent des festivit
  és\, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-
@@ -260,7 +260,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Street Fighter
-DESCRIPTION:Street Fighter\n(27.0 ↑︎)\n\nAction\, Fantastique\n𝟮𝗵
+DESCRIPTION:Street Fighter\n(26.4 ↑︎)\n\nAction\, Fantastique\n𝟮𝗵
  \n\nJapan\, United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
  𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰
@@ -322,11 +322,11 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(27.5)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(26.6)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
- nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Beaufoy\, Michael Arndt\n
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
@@ -353,7 +353,7 @@ DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Papa où t'es ?
-DESCRIPTION:Papa où t'es ?\n(2.1 →︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟬
+DESCRIPTION:Papa où t'es ?\n(2.1 ↗︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟬
  \n\nFrance\n(French\, Wolof)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Basile Monnot\, Samy Bouyssié\n𝗣𝗿
@@ -382,7 +382,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte\, partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(43.3)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(43.5)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -408,6 +408,33 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4LzjVMUit99buiiuh
  qW4pe0OhmA.jpg
 CATEGORIES:Science-Fiction,Aventure,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1193614@calendrier-cine-fr
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Il faut brûler maman
+DESCRIPTION:Il faut brûler maman\n(1.9 →︎)\n\nComédie\n\nFrance\n(Fre
+ nch)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
+ 𝗹𝗲 : 11 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Albert Dupontel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Albert Dupontel
+ \n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Alexis Kavyrchine\n
+ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pathé\, France 2 Cinéma\, ADC
+ B Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Louise Coldefy\n- Julia Piato
+ n\n- Artus\n- Albert Dupontel\n\n\nDans une famille de croque-morts\, deux
+  sœurs et un frère se retrouvent pour les funérailles de leur mère. Le
+  personnel étant en grève\, ils doivent accomplir le protocole funérair
+ e par eux-mêmes.  Comment s’accorder pour brûler Maman ?\n\n\nAffiche 
+ : https://image.tmdb.org/t/p/w780/tviARuh5nZ02b76lZ4dewrTkN4M.jpg\n\nFiche
+  TMDB : https://www.themoviedb.org/movie/1193614\n\nSéance relevée sur A
+ lloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/tviARuh5nZ02b76lZ4dewrTkN4M.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tviARuh5nZ02b76lZ
+ 4dewrTkN4M.jpg
+CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
 UID:event-131634@calendrier-cine-fr
@@ -450,7 +477,7 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Virgin Suicides
-DESCRIPTION:The Virgin Suicides\n(8.9)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+DESCRIPTION:The Virgin Suicides\n(9.1)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
  \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
@@ -484,7 +511,7 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Marie-Antoinette
-DESCRIPTION:Marie Antoinette\n(9.5)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
+DESCRIPTION:Marie Antoinette\n(8.7)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
  \nJapan\, United States of America\, France\n(English\, French\, Latin)\n
  𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
  la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
