@@ -11,98 +11,32 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-920@calendrier-cine-fr
-DTSTAMP:20261008T000000Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(24.2)\n\nAnimation\, Aventure\, Comédie\, Familial\n
- 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
- e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
-  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
- ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
- ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Wal
- t Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul
-  Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shal
- houb\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n-
-  George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQ
- ueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radi
- ator Springs\, une petite ville oubliée sur la Route 66. Il y rencontre S
- ally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aiden
- t à découvrir que la vie vaut plus que les trophées et la célébrité.
- \n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovd
- o.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance rele
- vée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
- OtwYXrovdo.jpg
-CATEGORIES:Animation,Aventure,Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:event-299534@calendrier-cine-fr
-DTSTAMP:20261008T000000Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(99.7 →︎)\n\nAventure\, Science-Fiction\
- , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
- e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
- 𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
- Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
- ely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
-  : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
- s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
-  Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renner\n-
-  Josh Brolin\n- Don Cheadle\n- Paul Rudd\n- Benedict Cumberbatch\n- Chadwi
- ck Boseman\n- Brie Larson\n\n\nAprès leur défaite face au Titan Thanos q
- ui dans le film précédent s'est approprié toutes les pierres du Gant de
-  l'infini\, les Avengers et les Gardiens de la Galaxie ayant survécu à s
- on claquement de doigts qui a pulvérisé « la moitié de toute forme de 
- vie dans l'Univers »\, Captain America\, Thor\, Bruce Banner\, Natasha Ro
- manoff\, War Machine\, Tony Stark\, Nébula et Rocket\, vont essayer de tr
- ouver une solution pour ramener leurs coéquipiers disparus et vaincre Tha
- nos en se faisant aider par Ronin alias Clint Barton\, Captain Marvel et A
- nt-Man.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KH
- ePuRjXc8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/299534\n\nS
- éance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (
- TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
- KHePuRjXc8.jpg
-CATEGORIES:Aventure,Science-Fiction,Action
-END:VEVENT
-BEGIN:VEVENT
 UID:event-1400837@calendrier-cine-fr
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Malfaisante
-DESCRIPTION:Other Mommy\n(64.3 ↑︎)\n\nHorreur\, Thriller\n𝟭𝗵𝟯
- 𝟯\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
- 𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Rob Savage\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Nathan Elston\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Lowell A. Meyer\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 :
-  Blumhouse Productions\, Atomic Monster\, Spin a Black Yarn\n\n𝗔𝗰
- 𝘁𝗲𝘂𝗿𝘀 :\n- Jessica Chastain\n- Arabella Olivia Clark\n- Jay
-  Duplass\n- Dichen Lachman\n- Arian Moayed\n- Karen Allen\n- Sean Kaufman\
- n- Adam Silver\n- Carrie Dimaculangan\n- Travis Nelson\n- Hayley Spelman\n
- - Alec Secăreanu\n\n\nUne famille est la cible d'une entité qu'elle appe
- lle « l'autre maman ».\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wA
- ofwsldMDNAIzGSEfMJMoUn1KB.jpg\n\nFiche TMDB : https://www.themoviedb.org/m
- ovie/1400837\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The
-  Movie Database (TMDB)
+DESCRIPTION:Other Mommy\n(88.6 ↑︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
+ ed States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 
+ 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Rob Savage\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
+ 𝗼 : Nathan Elston\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : L
+ owell A. Meyer\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Blumhouse Produ
+ ctions\, Atomic Monster\, Spin a Black Yarn\n\n𝗔𝗰𝘁𝗲𝘂𝗿
+ 𝘀 :\n- Jessica Chastain\n- Arabella Olivia Clark\n- Jay Duplass\n- Dich
+ en Lachman\n- Arian Moayed\n- Karen Allen\n- Sean Kaufman\n- Adam Silver\n
+ - Carrie Dimaculangan\n- Travis Nelson\n- Hayley Spelman\n- Alec Secărean
+ u\n\n\nUne famille est la cible d'une entité qu'elle appelle « l'autre m
+ aman ».\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wAofwsldMDNAIzGSEf
+ MJMoUn1KB.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1400837\n\n
+ Séance relevée sur AlloCiné.\nDonnées fournies par The Movie Database 
+ (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wAofwsldMDNAIzGSE
  fMJMoUn1KB.jpg
-CATEGORIES:Horreur,Thriller
+CATEGORIES:Horreur
 END:VEVENT
 BEGIN:VEVENT
 UID:event-70160@calendrier-cine-fr
@@ -110,7 +44,7 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Hunger Games
-DESCRIPTION:The Hunger Games\n(21.1)\n\nScience-Fiction\, Aventure\, Action
+DESCRIPTION:The Hunger Games\n(21.4)\n\nScience-Fiction\, Aventure\, Action
  \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
  12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
@@ -138,12 +72,78 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yE
 CATEGORIES:Science-Fiction,Aventure,Action,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:event-299534@calendrier-cine-fr
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Avengers : Endgame
+DESCRIPTION:Avengers: Endgame\n(96.6 →︎)\n\nAventure\, Science-Fiction\
+ , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
+ e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
+ 𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
+ Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher 
+ Markus\, Stephen McFeely\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
+  : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
+ s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
+  Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renner\n-
+  Josh Brolin\n- Don Cheadle\n- Paul Rudd\n- Benedict Cumberbatch\n- Chadwi
+ ck Boseman\n- Brie Larson\n\n\nAprès leur défaite face au Titan Thanos q
+ ui dans le film précédent s'est approprié toutes les pierres du Gant de
+  l'infini\, les Avengers et les Gardiens de la Galaxie ayant survécu à s
+ on claquement de doigts qui a pulvérisé « la moitié de toute forme de 
+ vie dans l'Univers »\, Captain America\, Thor\, Bruce Banner\, Natasha Ro
+ manoff\, War Machine\, Tony Stark\, Nébula et Rocket\, vont essayer de tr
+ ouver une solution pour ramener leurs coéquipiers disparus et vaincre Tha
+ nos en se faisant aider par Ronin alias Clint Barton\, Captain Marvel et A
+ nt-Man.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KH
+ ePuRjXc8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/299534\n\nS
+ éance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (
+ TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
+ KHePuRjXc8.jpg
+CATEGORIES:Aventure,Science-Fiction,Action
+END:VEVENT
+BEGIN:VEVENT
+UID:event-920@calendrier-cine-fr
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Cars : Quatre roues
+DESCRIPTION:Cars\n(23.0)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+ 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
+ e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
+  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
+ ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
+ n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Walt 
+ Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul N
+ ewman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalho
+ ub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- G
+ eorge Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQue
+ en vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiat
+ or Springs\, une petite ville oubliée sur la Route 66. Il y rencontre Sal
+ ly\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aident 
+ à découvrir que la vie vaut plus que les trophées et la célébrité.\n
+ \n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.
+ jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance relev
+ ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
+ OtwYXrovdo.jpg
+CATEGORIES:Animation,Aventure,Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
 UID:event-445187@calendrier-cine-fr
 DTSTAMP:20261010T000000Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Sam le Pompier - Volume 3 le commandant
-DESCRIPTION:Sam le Pompier - Volume 3 le commandant\n(0.5)\n\n\nFR\n𝗦
+DESCRIPTION:Sam le Pompier - Volume 3 le commandant\n(0.4)\n\n\nFR\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 octobre
   2025\n\n\nVéritable modèle pour les plus jeunes\, Sam le pompier est to
  ujours là pour aider les habitants de Pontypandy ! Accompagné de la brig
@@ -168,7 +168,7 @@ DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Mochy
-DESCRIPTION:Yugly\n(3.3)\n\nAventure\, Animation\, Comédie\, Familial\n
+DESCRIPTION:Yugly\n(2.7)\n\nAventure\, Animation\, Comédie\, Familial\n
  𝟭𝗵𝟮𝟰\n\nBelgium\, France\n(English\, French)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre
   2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jérémie Degr
@@ -195,7 +195,7 @@ DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Shaun le Mouton : La Bêêête d'Halloween
-DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(10.7 ↓︎)\n\nAn
+DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(12.0 ↓︎)\n\nAn
  imation\, Comédie\, Familial\, Aventure\, Horreur\n𝟭𝗵𝟮𝟭\n\nUn
  ited Kingdom\, France\n(No Language)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲
@@ -227,26 +227,26 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Street Fighter
-DESCRIPTION:Street Fighter\n(29.8 ↑︎)\n\nAction\, Fantastique\n𝟮𝗵
- \n\nJapan\, United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
- 𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\
- n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : T.J. Fixman\, Kitao Sakurai\n𝗣𝗵𝗼𝘁
- 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ken Seng\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Capcom\, Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀
-  :\n- Andrew Koji\n- Noah Centineo\n- Callina Liang\n- Joe Anoa'i\n- David
-  Dastmalchian\n- Cody Rhodes\n- Andrew Schulz\n- Eric Andre\n- विद
- ्युत जामवाल\n- Mel Jarnson\n- Orville Peck\n- Olivier 
- Richters\n\n\nEn 1993\, Ryu et Ken Masters\, deux Street Fighters autrefoi
- s inséparables\, sont replongés dans l’arène lorsque la mystérieuse 
- Chun-Li les recrute pour le prochain World Warrior Tournament : un affront
- ement brutal où se mêlent poings\, destin et fureur. Mais derrière cett
- e battle royale se cache une conspiration mortelle qui les oblige à s’a
- ffronter\, tout en faisant face aux démons de leur passé… Et s’ils 
- échouent\, c’est GAME OVER.\n\n\nAffiche : https://image.tmdb.org/t/p/w
- 780/k53HHxQ4rQG0dME6nsofii3QNS7.jpg\n\nFiche TMDB : https://www.themoviedb
- .org/movie/1153576\n\nSéance relevée sur AlloCiné.\nDonnées fournies p
- ar The Movie Database (TMDB)
+DESCRIPTION:Street Fighter\n(31.5 ↑︎)\n\nAction\, Fantastique\n\nJapan\
+ , United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
+ 𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
+ 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : T.J. Fixman\, Kitao Sakurai\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
+ 𝗮𝗽𝗵𝗶𝗲 : Ken Seng\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 
+ : Capcom\, Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andrew 
+ Koji\n- Noah Centineo\n- Callina Liang\n- Joe Anoa'i\n- David Dastmalchian
+ \n- Cody Rhodes\n- Andrew Schulz\n- Eric Andre\n- विद्युत 
+ जामवाल\n- Mel Jarnson\n- Orville Peck\n- Olivier Richters\n\n\
+ nEn 1993\, Ryu et Ken Masters\, deux Street Fighters autrefois inséparabl
+ es\, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les r
+ ecrute pour le prochain World Warrior Tournament : un affrontement brutal 
+ où se mêlent poings\, destin et fureur. Mais derrière cette battle roya
+ le se cache une conspiration mortelle qui les oblige à s’affronter\, to
+ ut en faisant face aux démons de leur passé… Et s’ils échouent\, c
+ ’est GAME OVER.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/k53HHxQ4r
+ QG0dME6nsofii3QNS7.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/11
+ 53576\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie 
+ Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/k53HHxQ4rQG0dME6nsofii3QNS7.jpg
@@ -289,7 +289,7 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(27.8)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(25.7)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
@@ -377,25 +377,59 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4LzjVMUit99buiiuh
 CATEGORIES:Science-Fiction,Aventure,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:event-1430841@calendrier-cine-fr
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Le Fantôme de l'Opéra
+DESCRIPTION:Le Fantôme de l'Opéra\n(2.9 ↗︎)\n\nThriller\, Romance\, M
+ ystère\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
+ 𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶
+ 𝘀𝗮𝘁𝗲𝘂𝗿 : Alexandre Castagnetti\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : Alexandre Castagnetti\, Camille Fontaine\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Nicolas Bolduc\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : FullDawa Films\, SND\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\
+ n- Deva Cassel\n- Julien de Saint Jean\n- Romain Duris\n- Dorothée Gilber
+ t\n- Axel Auriant\n- Laïka Blanc-Francard\n- Guillaume Diop\n- Florence B
+ anks\n- Pascaline Chotard\n- Miglen Mirtchev\n- Sarah Niblack\n\n\nDans le
+  Paris d'aujourd'hui\, Anastasia\, jeune danseuse\, intègre le prestigieu
+ x Opéra de Paris. Alors qu’elle répète l'Orpheus\, un opéra maudit q
+ ui aurait été composé par le Fantôme de l'Opéra\, elle tombe amoureus
+ e d'un mystérieux pianiste. A l’approche de la première représentatio
+ n\, entre accidents inexpliqués et révélations troublantes\, Anastasia 
+ se trouve plongée dans une histoire d'amour impossible\, à la frontière
+  du réel et du fantastique.\n\n\nAffiche : https://image.tmdb.org/t/p/w78
+ 0/2aU9dLDES0IdxB4sGYeeoJ7DOjA.jpg\n\nFiche TMDB : https://www.themoviedb.o
+ rg/movie/1430841\n\nSéance relevée sur AlloCiné.\nDonnées fournies par
+  The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/2aU9dLDES0IdxB4sGYeeoJ7DOjA.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2aU9dLDES0IdxB4sG
+ YeeoJ7DOjA.jpg
+CATEGORIES:Thriller,Romance,Mystère
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1193614@calendrier-cine-fr
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Il faut brûler maman
-DESCRIPTION:Il faut brûler maman\n(2.2 →︎)\n\nComédie\n\nFrance\n(Fre
- nch)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
- 𝗹𝗲 : 11 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Albert Dupontel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Albert Dupontel
- \n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Alexis Kavyrchine\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pathé\, France 2 Cinéma\, ADC
- B Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Louise Coldefy\n- Julia Piato
- n\n- Artus\n- Albert Dupontel\n\n\nDans une famille de croque-morts\, deux
-  sœurs et un frère se retrouvent pour les funérailles de leur mère. Le
-  personnel étant en grève\, ils doivent accomplir le protocole funérair
- e par eux-mêmes.  Comment s’accorder pour brûler Maman ?\n\n\nAffiche 
- : https://image.tmdb.org/t/p/w780/tviARuh5nZ02b76lZ4dewrTkN4M.jpg\n\nFiche
-  TMDB : https://www.themoviedb.org/movie/1193614\n\nSéance relevée sur A
- lloCiné.\nDonnées fournies par The Movie Database (TMDB)
+SUMMARY:Il faut brûler Maman
+DESCRIPTION:Il faut brûler Maman\n(2.5 →︎)\n\nComédie\n𝟭𝗵𝟯
+ 𝟱\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
+ 𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 11 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
+ 𝘀𝗮𝘁𝗲𝘂𝗿 : Albert Dupontel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
+ 𝗼 : Albert Dupontel\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 :
+  Alexis Kavyrchine\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pathé\, Fr
+ ance 2 Cinéma\, ADCB Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Louise Co
+ ldefy\n- Julia Piaton\n- Artus\n- Albert Dupontel\n\n\nDans une famille de
+  croque-morts\, deux sœurs et un frère se retrouvent pour les funéraill
+ es de leur mère. Le personnel étant en grève\, ils doivent accomplir le
+  protocole funéraire par eux-mêmes.  Comment s’accorder pour brûler M
+ aman ?\n\n\nAffiche : https://image.tmdb.org/t/p/w780/tviARuh5nZ02b76lZ4de
+ wrTkN4M.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1193614\n\nS
+ éance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (
+ TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/tviARuh5nZ02b76lZ4dewrTkN4M.jpg
@@ -409,7 +443,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte\, partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(25.8)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(23.8)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -444,7 +478,7 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Virgin Suicides
-DESCRIPTION:The Virgin Suicides\n(8.8)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+DESCRIPTION:The Virgin Suicides\n(8.0)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
  \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
@@ -478,8 +512,8 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Marie-Antoinette
-DESCRIPTION:Marie Antoinette\n(9.5)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
- \nJapan\, United States of America\, France\n(English\, French\, Latin)\n
+DESCRIPTION:Marie Antoinette\n(10.0)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\
+ n\nJapan\, United States of America\, France\n(English\, French\, Latin)\n
  𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
  la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
  𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Lance Acord\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
@@ -543,7 +577,7 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux : La Communauté de l'anneau
-DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(52.7)\n\nAv
+DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(52.0)\n\nAv
  enture\, Fantastique\, Action\n𝟮𝗵𝟱𝟵\n\nNew Zealand\, United St
  ates of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼
  𝗿𝗶𝗾𝘂𝗲 : 19 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
@@ -576,7 +610,7 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux : Les Deux Tours
-DESCRIPTION:The Lord of the Rings: The Two Towers\n(37.4)\n\nAventure\, Fan
+DESCRIPTION:The Lord of the Rings: The Two Towers\n(36.5)\n\nAventure\, Fan
  tastique\, Action\n𝟯𝗵\n\nNew Zealand\, United States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 18 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter
@@ -608,12 +642,12 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux : Le Retour du roi
-DESCRIPTION:The Lord of the Rings: The Return of the King\n(46.7)\n\nAventu
+DESCRIPTION:The Lord of the Rings: The Return of the King\n(47.4)\n\nAventu
  re\, Fantastique\, Action\n𝟯𝗵𝟮𝟭\n\nNew Zealand\, United States
   of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 17 decembre 2003\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Peter Jac
- kson\, Fran Walsh\, Philippa Boyens\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Fran Wals
+ h\, Peter Jackson\, Philippa Boyens\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : N
  ew Line Cinema\, WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Se
@@ -641,21 +675,22 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(25.2 ↑︎)\n\nScience-Fiction\, Aventure\n
- 𝟮𝗵𝟮𝟬\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 
- 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembr
- e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\
- n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Denis Villeneuve\, Brian K. Vaughan\n
- 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Linus Sandgren\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Timothée Chalamet\n- Zendaya\n- Jason Momoa\n- Flor
- ence Pugh\n- Rebecca Ferguson\n- Isaach de Bankolé\n- Charlotte Rampling\
- n- Anya Taylor-Joy\n- Robert Pattinson\n- Javier Bardem\n- Nakoa-Wolf Momo
- a\n- Ida Brooke\n\n\nTroisième et dernier volet de la trilogie Dune de Vi
- lleneuve. Adapté du roman Le Messie de Dune de Frank Herbert.\n\n\nAffich
- e : https://image.tmdb.org/t/p/w780/s6r04BVmT2T2Xr6PbZQYHCI7H2r.jpg\n\nFic
- he TMDB : https://www.themoviedb.org/movie/1170608\n\nSéance relevée sur
-  AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Dune: Part Three\n(24.0 ↑︎)\n\nScience-Fiction\, Aventure\n
+ 𝟮𝗵𝟮𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
+ ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
+ 𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Denis Villeneu
+ ve\, Brian K. Vaughan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 
+ Linus Sandgren\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Legendary Pictu
+ res\, Image Nation Studios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Timothée 
+ Chalamet\n- Zendaya\n- Jason Momoa\n- Florence Pugh\n- Rebecca Ferguson\n-
+  Isaach de Bankolé\n- Charlotte Rampling\n- Anya Taylor-Joy\n- Robert Pat
+ tinson\n- Javier Bardem\n- Nakoa-Wolf Momoa\n- Ida Brooke\n\n\nTroisième 
+ et dernier volet de la trilogie Dune de Villeneuve. Adapté du roman Le Me
+ ssie de Dune de Frank Herbert.\n\n\nAffiche : https://image.tmdb.org/t/p/w
+ 780/s6r04BVmT2T2Xr6PbZQYHCI7H2r.jpg\n\nFiche TMDB : https://www.themoviedb
+ .org/movie/1170608\n\nSéance relevée sur AlloCiné.\nDonnées fournies p
+ ar The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/s6r04BVmT2T2Xr6PbZQYHCI7H2r.jpg
