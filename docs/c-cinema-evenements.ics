@@ -11,78 +11,48 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-1400837@calendrier-cine-fr
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Malfaisante
-DESCRIPTION:Other Mommy\n(88.6 ↑︎)\n\nHorreur\n𝟭𝗵𝟯𝟯\n\nUnit
- ed States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 
- 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Rob Savage\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
- 𝗼 : Nathan Elston\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : L
- owell A. Meyer\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Blumhouse Produ
- ctions\, Atomic Monster\, Spin a Black Yarn\n\n𝗔𝗰𝘁𝗲𝘂𝗿
- 𝘀 :\n- Jessica Chastain\n- Arabella Olivia Clark\n- Jay Duplass\n- Dich
- en Lachman\n- Arian Moayed\n- Karen Allen\n- Sean Kaufman\n- Adam Silver\n
- - Carrie Dimaculangan\n- Travis Nelson\n- Hayley Spelman\n- Alec Secărean
- u\n\n\nUne famille est la cible d'une entité qu'elle appelle « l'autre m
- aman ».\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wAofwsldMDNAIzGSEf
- MJMoUn1KB.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1400837\n\n
- Séance relevée sur AlloCiné.\nDonnées fournies par The Movie Database 
- (TMDB)
+UID:event-920@calendrier-cine-fr
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Cars : Quatre roues
+DESCRIPTION:Cars\n(22.4)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+ 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
+ e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
+  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Lasseter\, Jørgen Klubien\, Dan
+  Fogelman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky
+ \, Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\,
+  Walt Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- 
+ Paul Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony 
+ Shalhoub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Walli
+ s\n- George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash
+  McQueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à 
+ Radiator Springs\, une petite ville oubliée sur la Route 66. Il y rencont
+ re Sally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’a
+ ident à découvrir que la vie vaut plus que les trophées et la célébri
+ té.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYX
+ rovdo.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance 
+ relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wAofwsldMDNAIzGSE
- fMJMoUn1KB.jpg
-CATEGORIES:Horreur
-END:VEVENT
-BEGIN:VEVENT
-UID:event-70160@calendrier-cine-fr
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Hunger Games
-DESCRIPTION:The Hunger Games\n(21.4)\n\nScience-Fiction\, Aventure\, Action
- \, Thriller\n𝟮𝗵𝟮𝟮\n\nUnited States of America\n(English)\n𝗦
- 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 mars 20
- 12\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gary Ross\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Gary Ross\, Billy Ray\, Suzanne Collins\n𝗣
- 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Tom Stern\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁𝗲𝘂
- 𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemsworth\n- Wo
- ody Harrelson\n- Elizabeth Banks\n- Lenny Kravitz\n- Stanley Tucci\n- Dona
- ld Sutherland\n- Wes Bentley\n- Toby Jones\n- Alexander Ludwig\n- Isabelle
-  Fuhrman\n\n\nDans un proche futur\, les États‐Unis sont devenus un gou
- vernement fédéral dystopique dans lequel chacun des 12 districts doit en
- voyer un garçon et une fille combattre lors d’un événement annuel té
- lévisé\, « Les Hunger Games ». La seule issue à ces jeux pour les 
- « Tributs » est de tuer ou d’être tué. Lorsque la petite sœur de 
- Katniss est tirée au sort pour y participer\, celle‐ci décide de prend
- re sa place.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku
- 9yEUNZYFwUF87.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/70160\n
- \nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Databas
- e (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/wSvsjqyRWk5xku9yEUNZYFwUF87.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wSvsjqyRWk5xku9yE
- UNZYFwUF87.jpg
-CATEGORIES:Science-Fiction,Aventure,Action,Thriller
+ t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
+ OtwYXrovdo.jpg
+CATEGORIES:Animation,Aventure,Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
 UID:event-299534@calendrier-cine-fr
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(96.6 →︎)\n\nAventure\, Science-Fiction\
+DESCRIPTION:Avengers: Endgame\n(92.3 ↘︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
- Anthony Russo\, Joe Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher 
- Markus\, Stephen McFeely\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
+ Joe Russo\, Anthony Russo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFe
+ ely\, Christopher Markus\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
   : Trent Opaloch\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studio
  s\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans\n-
   Mark Ruffalo\n- Chris Hemsworth\n- Scarlett Johansson\n- Jeremy Renner\n-
@@ -105,62 +75,6 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
  KHePuRjXc8.jpg
 CATEGORIES:Aventure,Science-Fiction,Action
-END:VEVENT
-BEGIN:VEVENT
-UID:event-920@calendrier-cine-fr
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(23.0)\n\nAnimation\, Aventure\, Comédie\, Familial\n
- 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
- e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
-  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
- ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
- n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Walt 
- Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul N
- ewman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalho
- ub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- G
- eorge Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQue
- en vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiat
- or Springs\, une petite ville oubliée sur la Route 66. Il y rencontre Sal
- ly\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aident 
- à découvrir que la vie vaut plus que les trophées et la célébrité.\n
- \n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.
- jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance relev
- ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
- OtwYXrovdo.jpg
-CATEGORIES:Animation,Aventure,Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:event-445187@calendrier-cine-fr
-DTSTAMP:20261010T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Sam le Pompier - Volume 3 le commandant
-DESCRIPTION:Sam le Pompier - Volume 3 le commandant\n(0.4)\n\n\nFR\n𝗦
- 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 octobre
-  2025\n\n\nVéritable modèle pour les plus jeunes\, Sam le pompier est to
- ujours là pour aider les habitants de Pontypandy ! Accompagné de la brig
- ade de pompiers de la ville\, notre héros trouve des solutions à toutes 
- les situations...\n Charlie et Max suivent un stage à la caserne pour êt
- re pompiers volontaires ! Autrement dit\, si un jour Sam et ses collègues
-  sont appelés sur un gros incendie\, ils demanderont à Max et à Charlie
-  de venir les aider ! Mais Charlie doit partir en mer car il n'y a plus de
-  poisson à vendre à la poissonnerie ! Le Commandant\, qui n'est pas de g
- arde\, propose de lui donner un coup de main ! Mais au lieu de lui facilit
- er la tâche\, le pauvre ne va réussir qu'à provoquer catastrophe sur ca
- tastrophe ! Mais il va se montrer bien efficace quand le moteur du bateau 
- va prendre feu !\n\n\nFiche TMDB : https://www.themoviedb.org/movie/445187
- \n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Datab
- ase (TMDB)
-TRANSP:TRANSPARENT
-CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:event-1218069@calendrier-cine-fr
@@ -195,7 +109,7 @@ DTSTAMP:20261011T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Shaun le Mouton : La Bêêête d'Halloween
-DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(12.0 ↓︎)\n\nAn
+DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(10.8 ↓︎)\n\nAn
  imation\, Comédie\, Familial\, Aventure\, Horreur\n𝟭𝗵𝟮𝟭\n\nUn
  ited Kingdom\, France\n(No Language)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲
@@ -222,31 +136,56 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/poG8LaprHjz2Ka0c6
 CATEGORIES:Animation,Comédie,Familial,Aventure,Horreur
 END:VEVENT
 BEGIN:VEVENT
+UID:event-445187@calendrier-cine-fr
+DTSTAMP:20261011T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Sam le Pompier - Volume 3 le commandant
+DESCRIPTION:Sam le Pompier - Volume 3 le commandant\n(0.4)\n\n\nFR\n𝗦
+ 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 octobre
+  2025\n\n\nVéritable modèle pour les plus jeunes\, Sam le pompier est to
+ ujours là pour aider les habitants de Pontypandy ! Accompagné de la brig
+ ade de pompiers de la ville\, notre héros trouve des solutions à toutes 
+ les situations...\n Charlie et Max suivent un stage à la caserne pour êt
+ re pompiers volontaires ! Autrement dit\, si un jour Sam et ses collègues
+  sont appelés sur un gros incendie\, ils demanderont à Max et à Charlie
+  de venir les aider ! Mais Charlie doit partir en mer car il n'y a plus de
+  poisson à vendre à la poissonnerie ! Le Commandant\, qui n'est pas de g
+ arde\, propose de lui donner un coup de main ! Mais au lieu de lui facilit
+ er la tâche\, le pauvre ne va réussir qu'à provoquer catastrophe sur ca
+ tastrophe ! Mais il va se montrer bien efficace quand le moteur du bateau 
+ va prendre feu !\n\n\nFiche TMDB : https://www.themoviedb.org/movie/445187
+ \n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Datab
+ ase (TMDB)
+TRANSP:TRANSPARENT
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1153576@calendrier-cine-fr
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Street Fighter
-DESCRIPTION:Street Fighter\n(31.5 ↑︎)\n\nAction\, Fantastique\n\nJapan\
- , United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
- 𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : T.J. Fixman\, Kitao Sakurai\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Ken Seng\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 
- : Capcom\, Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andrew 
- Koji\n- Noah Centineo\n- Callina Liang\n- Joe Anoa'i\n- David Dastmalchian
- \n- Cody Rhodes\n- Andrew Schulz\n- Eric Andre\n- विद्युत 
- जामवाल\n- Mel Jarnson\n- Orville Peck\n- Olivier Richters\n\n\
- nEn 1993\, Ryu et Ken Masters\, deux Street Fighters autrefois inséparabl
- es\, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les r
- ecrute pour le prochain World Warrior Tournament : un affrontement brutal 
- où se mêlent poings\, destin et fureur. Mais derrière cette battle roya
- le se cache une conspiration mortelle qui les oblige à s’affronter\, to
- ut en faisant face aux démons de leur passé… Et s’ils échouent\, c
- ’est GAME OVER.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/k53HHxQ4r
- QG0dME6nsofii3QNS7.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/11
- 53576\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie 
- Database (TMDB)
+DESCRIPTION:Street Fighter\n(32.2 ↑︎)\n\nAction\, Fantastique\n𝟮𝗵
+ \n\nJapan\, United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
+ 𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\
+ n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : T.J. Fixman\, Kitao Sakurai\n𝗣𝗵𝗼𝘁
+ 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ken Seng\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : Capcom\, Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀
+  :\n- Andrew Koji\n- Noah Centineo\n- Callina Liang\n- Joe Anoa'i\n- David
+  Dastmalchian\n- Cody Rhodes\n- Andrew Schulz\n- Eric Andre\n- विद
+ ्युत जामवाल\n- Mel Jarnson\n- Orville Peck\n- Olivier 
+ Richters\n\n\nEn 1993\, Ryu et Ken Masters\, deux Street Fighters autrefoi
+ s inséparables\, sont replongés dans l’arène lorsque la mystérieuse 
+ Chun-Li les recrute pour le prochain World Warrior Tournament : un affront
+ ement brutal où se mêlent poings\, destin et fureur. Mais derrière cett
+ e battle royale se cache une conspiration mortelle qui les oblige à s’a
+ ffronter\, tout en faisant face aux démons de leur passé… Et s’ils 
+ échouent\, c’est GAME OVER.\n\n\nAffiche : https://image.tmdb.org/t/p/w
+ 780/k53HHxQ4rQG0dME6nsofii3QNS7.jpg\n\nFiche TMDB : https://www.themoviedb
+ .org/movie/1153576\n\nSéance relevée sur AlloCiné.\nDonnées fournies p
+ ar The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/k53HHxQ4rQG0dME6nsofii3QNS7.jpg
@@ -260,7 +199,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Love Me Tender
-DESCRIPTION:Love Me Tender\n(3.1)\n\nDrame\n𝟮𝗵𝟭𝟳\n\nFrance\, Lu
+DESCRIPTION:Love Me Tender\n(4.1)\n\nDrame\n𝟮𝗵𝟭𝟳\n\nFrance\, Lu
  xembourg\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 10 decembre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Anna Cazenave Cambet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Anna C
@@ -289,11 +228,11 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(25.7)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(25.5)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
- nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael Arndt\, Simon Beaufoy\n
+ nce\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Beaufoy\, Michael Arndt\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Jennifer Lawrence\n- Josh Hutcherson\n- Liam Hemswor
@@ -320,7 +259,7 @@ DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Papa où t'es ?
-DESCRIPTION:Papa où t'es ?\n(2.2 ↑︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟬
+DESCRIPTION:Papa où t'es ?\n(2.0 ↑︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟬
  \n\nFrance\n(French\, Wolof)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Basile Monnot\, Samy Bouyssié\n𝗣𝗿
@@ -344,12 +283,42 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/3HqZ26kFQnyJKVgtz
 CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
+UID:event-1422041@calendrier-cine-fr
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:La bola negra
+DESCRIPTION:La bola negra\n(19.5 ↑︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
+ 𝟱\n\nSpain\, France\n(Spanish\, English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
+ 𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembre 2026\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Javier Ambrossi\, Javie
+ r Calvo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Javier Ambrossi\, Javier Calvo
+ \, Alberto Conejero\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Gr
+ is Jordana\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Movistar Plus\, Le 
+ Pacte\, El Deseo\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Guitarricadelafuente
+ \n- Miguel Bernardeau\n- Carlos González\n- Milo Quifes\n- Lola Dueñas\n
+ - Penélope Cruz\n- Glenn Close\n- Antonio de la Torre\n- María Morales\n
+ - Natalia de Molina\n- Lorenzo Zurzolo\n- Albert Pla\n\n\nEspagne 1932\, 1
+ 937\, 2017. Trois hommes. Trois époques. Un même fil invisible de désir
+ \, de douleur et d'héritage. LA BOLA NEGRA traverse le temps pour révél
+ er ce qui les unit.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/ttsFxxH
+ KwCHrtAGJt58rpNqHdFw.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/
+ 1422041\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movi
+ e Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/ttsFxxHKwCHrtAGJt58rpNqHdFw.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ttsFxxHKwCHrtAGJt
+ 58rpNqHdFw.jpg
+CATEGORIES:Drame,Guerre
+END:VEVENT
+BEGIN:VEVENT
 UID:event-131631@calendrier-cine-fr
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte\, partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(43.2)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(43.1)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -382,7 +351,7 @@ DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Le Fantôme de l'Opéra
-DESCRIPTION:Le Fantôme de l'Opéra\n(2.9 ↗︎)\n\nThriller\, Romance\, M
+DESCRIPTION:Le Fantôme de l'Opéra\n(3.2 ↑︎)\n\nThriller\, Romance\, M
  ystère\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Alexandre Castagnetti\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -415,7 +384,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Il faut brûler Maman
-DESCRIPTION:Il faut brûler Maman\n(2.5 →︎)\n\nComédie\n𝟭𝗵𝟯
+DESCRIPTION:Il faut brûler Maman\n(2.4 →︎)\n\nComédie\n𝟭𝗵𝟯
  𝟱\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 11 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Albert Dupontel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -443,7 +412,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte\, partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(23.8)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(23.5)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -478,7 +447,7 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Virgin Suicides
-DESCRIPTION:The Virgin Suicides\n(8.0)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+DESCRIPTION:The Virgin Suicides\n(8.5)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
  \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
@@ -512,8 +481,8 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Marie-Antoinette
-DESCRIPTION:Marie Antoinette\n(10.0)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\
- n\nJapan\, United States of America\, France\n(English\, French\, Latin)\n
+DESCRIPTION:Marie Antoinette\n(9.9)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
+ \nJapan\, United States of America\, France\n(English\, French\, Latin)\n
  𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
  la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
  𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Lance Acord\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
@@ -545,10 +514,10 @@ DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(1.2)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
+DESCRIPTION:Mika Ex Machina\n(1.1)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
-  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
-  Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
+  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Déb
+ orah Saïag\, Mika Tard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
  éborah Saïag\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mika Ta
  rd\, Déborah Saïag\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mika Tard\n- Dé
  borah Saïag\n- Iris Brey\n- Ludivine Sagnier\n- Daniel Gourdon\n- Audrey 
@@ -577,7 +546,7 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux : La Communauté de l'anneau
-DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(52.0)\n\nAv
+DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(49.7)\n\nAv
  enture\, Fantastique\, Action\n𝟮𝗵𝟱𝟵\n\nNew Zealand\, United St
  ates of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼
  𝗿𝗶𝗾𝘂𝗲 : 19 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
@@ -610,25 +579,25 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux : Les Deux Tours
-DESCRIPTION:The Lord of the Rings: The Two Towers\n(36.5)\n\nAventure\, Fan
+DESCRIPTION:The Lord of the Rings: The Two Towers\n(34.8)\n\nAventure\, Fan
  tastique\, Action\n𝟯𝗵\n\nNew Zealand\, United States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 18 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter
-  Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Philippa Boyens\, Fran Walsh\
- , Stephen Sinclair\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : And
- rew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : New Line Cinema\, W
- ingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n
- - Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Sean Astin\n- Andy Ser
- kis\n- John Rhys-Davies\n- Orlando Bloom\n- Bernard Hill\n- Miranda Otto\n
- - Dominic Monaghan\n- Billy Boyd\n- Christopher Lee\n\n\nLa Communauté es
- t dissoute\, mais la quête pour détruire l'Anneau Unique se poursuit. Ac
- compagné par son fidèle Sam et guidé par l'étrange Gollum\, Frodon che
- rche un moyen d'entrer en Mordor. Alors que l'armée de Saroumane se met e
- n marche\, les autres compagnons de la Communauté se préparent à la bat
- aille. La Guerre de l'Anneau a commencé !\n\n\nAffiche : https://image.tm
- db.org/t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg\n\nFiche TMDB : https://ww
- w.themoviedb.org/movie/121\n\nSéance relevée sur AlloCiné.\nDonnées fo
- urnies par The Movie Database (TMDB)
+  Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen Sinclair\, Philippa B
+ oyens\, Peter Jackson\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 
+ Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : New Line Cinema\
+ , WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 
+ :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Sean Astin\n- Andy 
+ Serkis\n- John Rhys-Davies\n- Orlando Bloom\n- Bernard Hill\n- Miranda Ott
+ o\n- Dominic Monaghan\n- Billy Boyd\n- Christopher Lee\n\n\nLa Communauté
+  est dissoute\, mais la quête pour détruire l'Anneau Unique se poursuit.
+  Accompagné par son fidèle Sam et guidé par l'étrange Gollum\, Frodon 
+ cherche un moyen d'entrer en Mordor. Alors que l'armée de Saroumane se me
+ t en marche\, les autres compagnons de la Communauté se préparent à la 
+ bataille. La Guerre de l'Anneau a commencé !\n\n\nAffiche : https://image
+ .tmdb.org/t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg\n\nFiche TMDB : https:/
+ /www.themoviedb.org/movie/121\n\nSéance relevée sur AlloCiné.\nDonnées
+  fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg
@@ -642,12 +611,12 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux : Le Retour du roi
-DESCRIPTION:The Lord of the Rings: The Return of the King\n(47.4)\n\nAventu
+DESCRIPTION:The Lord of the Rings: The Return of the King\n(45.0)\n\nAventu
  re\, Fantastique\, Action\n𝟯𝗵𝟮𝟭\n\nNew Zealand\, United States
   of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 17 decembre 2003\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Fran Wals
- h\, Peter Jackson\, Philippa Boyens\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Peter Jac
+ kson\, Philippa Boyens\, Fran Walsh\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : N
  ew Line Cinema\, WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Se
@@ -675,7 +644,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(24.0 ↑︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(23.9 ↑︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
