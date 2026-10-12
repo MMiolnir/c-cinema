@@ -11,88 +11,29 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-1218069@calendrier-cine-fr
-DTSTAMP:20261011T000000Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:Mochy
-DESCRIPTION:Yugly\n(3.1)\n\nAventure\, Animation\, Comédie\, Familial\n
- 𝟭𝗵𝟮𝟰\n\nBelgium\, France\n(English\, French)\n𝗔𝗩𝗣 - 
- 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre
-  2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jérémie Degr
- uson\, Yanis Belaid\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Greg Brooker\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : nWave Pictures\, Octopolis\n\n\nMoc
- hy est un jeune chien au grand cœur… mais il n’a pas un physique faci
- le…  Ça ne l’empêche pas d’avoir un rêve : participer au concours
-  du plus beau chien. Défiant tous les obstacles\, il va tout faire pour r
- éaliser ce projet fou avec le secret espoir d’y trouver l’humain qui 
- l’aimera pour la vie.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/vlO
- 9hdpZDbpoZcdXgUBiNpxL6Nn.jpg\n\nFiche TMDB : https://www.themoviedb.org/mo
- vie/1218069\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The 
- Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/vlO9hdpZDbpoZcdXgUBiNpxL6Nn.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vlO9hdpZDbpoZcdXg
- UBiNpxL6Nn.jpg
-CATEGORIES:Aventure,Animation,Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:event-1477104@calendrier-cine-fr
-DTSTAMP:20261011T000000Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:Shaun le Mouton : La Bêêête d'Halloween
-DESCRIPTION:Shaun the Sheep: The Beast of Mossy Bottom\n(10.6 ↘︎)\n\nAn
- imation\, Comédie\, Familial\, Aventure\, Horreur\n𝟭𝗵𝟮𝟭\n\nUn
- ited Kingdom\, France\n(No Language)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
- 𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 21 octobre 2026\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Steve Cox\, Matthew Walker\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mark Burton\, Giles Pilbrow\n𝗣𝗵
- 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Charles Copping\n𝗣𝗿𝗼
- 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Aardman\, StudioCanal\n\n𝗔𝗰𝘁𝗲
- 𝘂𝗿𝘀 :\n- Justin Fletcher\n- John Sparkes\n- Nina Sosanya\n- Kate 
- Harbour\n- Rich Webber\n- Emma Tate\n- Simon Greenall\n- Andy Nyman\n- Pau
- l Whitehouse\n- Roman Kemp\n- Dani Dyer\n- Chris Morrell\n\n\nÀ Halloween
- \, les habitants de la ferme de Mossy Bottom se réjouissent des festivit
- és\, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-
- aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour 
- résoudre le problème\, les choses dérapent : le Fermier disparaît et u
- ne bête sauvage rôde dans les bois.\n\n\nAffiche : https://image.tmdb.or
- g/t/p/w780/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg\n\nFiche TMDB : https://www.the
- moviedb.org/movie/1477104\n\nSéance relevée sur AlloCiné.\nDonnées fou
- rnies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/poG8LaprHjz2Ka0c6
- zCvDrVjEUq.jpg
-CATEGORIES:Animation,Comédie,Familial,Aventure,Horreur
-END:VEVENT
-BEGIN:VEVENT
 UID:event-920@calendrier-cine-fr
-DTSTAMP:20261011T000000Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
 SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(22.8)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+DESCRIPTION:Cars\n(26.0)\n\nAnimation\, Aventure\, Comédie\, Familial\n
  𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
  e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
   juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
- ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
- ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Wal
- t Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul
-  Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shal
- houb\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n-
-  George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQ
- ueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radi
- ator Springs\, une petite ville oubliée sur la Route 66. Il y rencontre S
- ally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aiden
- t à découvrir que la vie vaut plus que les trophées et la célébrité.
- \n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovd
- o.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance rele
- vée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
+ ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
+ n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Walt 
+ Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul N
+ ewman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalho
+ ub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- G
+ eorge Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQue
+ en vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiat
+ or Springs\, une petite ville oubliée sur la Route 66. Il y rencontre Sal
+ ly\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aident 
+ à découvrir que la vie vaut plus que les trophées et la célébrité.\n
+ \n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.
+ jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance relev
+ ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
@@ -102,11 +43,11 @@ CATEGORIES:Animation,Aventure,Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
 UID:event-299534@calendrier-cine-fr
-DTSTAMP:20261011T000000Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
 SUMMARY:Avengers : Endgame
-DESCRIPTION:Avengers: Endgame\n(90.7 ↘︎)\n\nAventure\, Science-Fiction\
+DESCRIPTION:Avengers: Endgame\n(96.9 ↘︎)\n\nAventure\, Science-Fiction\
  , Action\n𝟯𝗵𝟬𝟭\n\nUnited States of America\n(English\, Japanes
  e\, Xhosa)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 29 aout 2019\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : 
@@ -124,15 +65,15 @@ DESCRIPTION:Avengers: Endgame\n(90.7 ↘︎)\n\nAventure\, Science-Fiction\
  manoff\, War Machine\, Tony Stark\, Nébula et Rocket\, vont essayer de tr
  ouver une solution pour ramener leurs coéquipiers disparus et vaincre Tha
  nos en se faisant aider par Ronin alias Clint Barton\, Captain Marvel et A
- nt-Man.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5KH
- ePuRjXc8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/299534\n\nS
+ nt-Man.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/qXekTarZKRrVfnBwhS6
+ xevt6BGU.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/299534\n\nS
  éance relevée sur AlloCiné.\nDonnées fournies par The Movie Database (
  TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/wF7jv3x51hXgkl7t5
- KHePuRjXc8.jpg
+ t/p/w780/qXekTarZKRrVfnBwhS6xevt6BGU.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qXekTarZKRrVfnBwh
+ S6xevt6BGU.jpg
 CATEGORIES:Aventure,Science-Fiction,Action
 END:VEVENT
 BEGIN:VEVENT
@@ -141,7 +82,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Street Fighter
-DESCRIPTION:Street Fighter\n(28.0 ↑︎)\n\nAction\, Fantastique\n𝟮𝗵
+DESCRIPTION:Street Fighter\n(34.6 ↑︎)\n\nAction\, Fantastique\n𝟮𝗵
  \n\nJapan\, United States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
  𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 14 octobre 2026\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Kitao Sakurai\n𝗦𝗰
@@ -174,7 +115,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Love Me Tender
-DESCRIPTION:Love Me Tender\n(4.2)\n\nDrame\n𝟮𝗵𝟭𝟳\n\nFrance\, Lu
+DESCRIPTION:Love Me Tender\n(4.5)\n\nDrame\n𝟮𝗵𝟭𝟳\n\nFrance\, Lu
  xembourg\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 10 decembre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Anna Cazenave Cambet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Anna C
@@ -203,7 +144,7 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Hunger Games : L'Embrasement
-DESCRIPTION:The Hunger Games: Catching Fire\n(24.7)\n\nAventure\, Action\, 
+DESCRIPTION:The Hunger Games: Catching Fire\n(26.4)\n\nAventure\, Action\, 
  Science-Fiction\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 nov
  embre 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis Lawre
@@ -234,7 +175,7 @@ DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Papa où t'es ?
-DESCRIPTION:Papa où t'es ?\n(1.7 ↑︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟬
+DESCRIPTION:Papa où t'es ?\n(1.9 ↗︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟬
  \n\nFrance\n(French\, Wolof)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Basile Monnot\, Samy Bouyssié\n𝗣𝗿
@@ -263,7 +204,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:La bola negra
-DESCRIPTION:La bola negra\n(18.6 →︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
+DESCRIPTION:La bola negra\n(19.7 →︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
  𝟱\n\nSpain\, France\n(Spanish\, English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Javier Ambrossi\, Javie
@@ -293,7 +234,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte\, partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(36.7)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(45.3)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -326,7 +267,7 @@ DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Le Fantôme de l'Opéra
-DESCRIPTION:Le Fantôme de l'Opéra\n(2.8 ↗︎)\n\nThriller\, Romance\, M
+DESCRIPTION:Le Fantôme de l'Opéra\n(3.6 ↗︎)\n\nThriller\, Romance\, M
  ystère\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Alexandre Castagnetti\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -359,7 +300,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Il faut brûler Maman
-DESCRIPTION:Il faut brûler Maman\n(2.1 →︎)\n\nComédie\n𝟭𝗵𝟯
+DESCRIPTION:Il faut brûler Maman\n(2.9 →︎)\n\nComédie\n𝟭𝗵𝟯
  𝟱\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 11 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Albert Dupontel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -387,7 +328,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte\, partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(19.8)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(24.0)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -417,12 +358,42 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ojFCU0K7Err8n87VO
 CATEGORIES:Action,Aventure,Science-Fiction
 END:VEVENT
 BEGIN:VEVENT
+UID:event-1381071@calendrier-cine-fr
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Godzilla Minus Zero
+DESCRIPTION:ゴジラ-0.0 — G-0.0\n(20.6 ↑︎)\n\nScience-Fiction\, Hor
+ reur\, Action\n𝟮𝗵𝟭𝟱\n\nJapan\n(Japanese\, English)\n𝗔𝗩
+ 𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 4 n
+ ovembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Takashi Yam
+ azaki\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Takashi Yamazaki\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : TOHO\, Robot Communications\, TOHO Studios\
+ n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Ryunosuke Kamiki\n- Minami Hamabe\n- 
+ 山田裕貴\n- Kuranosuke Sasaki\n- Jun Kunimura\n- Miou Tanaka\n- Sakura
+  Ando\n- 長澤まさみ\n- 田中泯\n- 吉岡秀隆\n- Munetaka Aoki\n- 
+ 永谷咲笑\n\n\nJapon après la Seconde Guerre mondiale\, Shikishima Koi
+ chi\, un ancien pilote kamikaze survit à une rencontre avec Godzilla et s
+ ouffre de symptômes de stress post-traumatique. Lorsque la créature réa
+ pparaît des années plus tard\, un groupe de soldats et de vétérans doi
+ t s'unir pour vaincre le monstre avant qu'il ne puisse détruire le Japon.
+ \n\n\nAffiche : https://image.tmdb.org/t/p/w780/zpcoFlZwyLnBt7bb5wmvGDCdg0
+ 6.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1381071\n\nSéance 
+ relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zpcoFlZwyLnBt7bb5
+ wmvGDCdg06.jpg
+CATEGORIES:Science-Fiction,Horreur,Action
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1443@calendrier-cine-fr
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Virgin Suicides
-DESCRIPTION:The Virgin Suicides\n(8.6)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+DESCRIPTION:The Virgin Suicides\n(8.7)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
  \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
@@ -456,7 +427,7 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Marie-Antoinette
-DESCRIPTION:Marie Antoinette\n(10.5)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\
+DESCRIPTION:Marie Antoinette\n(10.6)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\
  n\nJapan\, United States of America\, France\n(English\, French\, Latin)\n
  𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
  la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
@@ -489,10 +460,10 @@ DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(1.0)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
+DESCRIPTION:Mika Ex Machina\n(0.9)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
-  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Déb
- orah Saïag\, Mika Tard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
+  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
+  Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
  éborah Saïag\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mika Ta
  rd\, Déborah Saïag\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mika Tard\n- Dé
  borah Saïag\n- Iris Brey\n- Ludivine Sagnier\n- Daniel Gourdon\n- Audrey 
@@ -521,12 +492,12 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux : La Communauté de l'anneau
-DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(48.1)\n\nAv
+DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(47.8)\n\nAv
  enture\, Fantastique\, Action\n𝟮𝗵𝟱𝟵\n\nNew Zealand\, United St
  ates of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼
  𝗿𝗶𝗾𝘂𝗲 : 19 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
- 𝘁𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Fran 
- Walsh\, Philippa Boyens\, Peter Jackson\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
+ 𝘁𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Peter
+  Jackson\, Fran Walsh\, Philippa Boyens\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
  𝗽𝗵𝗶𝗲 : Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
   : New Line Cinema\, WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰
  𝘁𝗲𝘂𝗿𝘀 :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n
@@ -554,25 +525,25 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux : Les Deux Tours
-DESCRIPTION:The Lord of the Rings: The Two Towers\n(34.2)\n\nAventure\, Fan
+DESCRIPTION:The Lord of the Rings: The Two Towers\n(33.7)\n\nAventure\, Fan
  tastique\, Action\n𝟯𝗵\n\nNew Zealand\, United States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 18 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter
-  Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Fran Walsh\, Philippa Boyens\
- , Stephen Sinclair\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : And
- rew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : New Line Cinema\, W
- ingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n
- - Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Sean Astin\n- Andy Ser
- kis\n- John Rhys-Davies\n- Orlando Bloom\n- Bernard Hill\n- Miranda Otto\n
- - Dominic Monaghan\n- Billy Boyd\n- Christopher Lee\n\n\nLa Communauté es
- t dissoute\, mais la quête pour détruire l'Anneau Unique se poursuit. Ac
- compagné par son fidèle Sam et guidé par l'étrange Gollum\, Frodon che
- rche un moyen d'entrer en Mordor. Alors que l'armée de Saroumane se met e
- n marche\, les autres compagnons de la Communauté se préparent à la bat
- aille. La Guerre de l'Anneau a commencé !\n\n\nAffiche : https://image.tm
- db.org/t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg\n\nFiche TMDB : https://ww
- w.themoviedb.org/movie/121\n\nSéance relevée sur AlloCiné.\nDonnées fo
- urnies par The Movie Database (TMDB)
+  Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen Sinclair\, Philippa B
+ oyens\, Peter Jackson\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 
+ Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : New Line Cinema\
+ , WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 
+ :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Sean Astin\n- Andy 
+ Serkis\n- John Rhys-Davies\n- Orlando Bloom\n- Bernard Hill\n- Miranda Ott
+ o\n- Dominic Monaghan\n- Billy Boyd\n- Christopher Lee\n\n\nLa Communauté
+  est dissoute\, mais la quête pour détruire l'Anneau Unique se poursuit.
+  Accompagné par son fidèle Sam et guidé par l'étrange Gollum\, Frodon 
+ cherche un moyen d'entrer en Mordor. Alors que l'armée de Saroumane se me
+ t en marche\, les autres compagnons de la Communauté se préparent à la 
+ bataille. La Guerre de l'Anneau a commencé !\n\n\nAffiche : https://image
+ .tmdb.org/t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg\n\nFiche TMDB : https:/
+ /www.themoviedb.org/movie/121\n\nSéance relevée sur AlloCiné.\nDonnées
+  fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg
@@ -586,7 +557,7 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux : Le Retour du roi
-DESCRIPTION:The Lord of the Rings: The Return of the King\n(44.3)\n\nAventu
+DESCRIPTION:The Lord of the Rings: The Return of the King\n(42.3)\n\nAventu
  re\, Fantastique\, Action\n𝟯𝗵𝟮𝟭\n\nNew Zealand\, United States
   of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 17 decembre 2003\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
@@ -619,7 +590,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(20.3 ↑︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(22.3 ↗︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
