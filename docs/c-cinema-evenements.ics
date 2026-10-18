@@ -11,41 +11,10 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-920@calendrier-cine-fr
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(24.1)\n\nAnimation\, Aventure\, Comédie\, Familial\n
- 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
- e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
-  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
- ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
- ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Wal
- t Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul
-  Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shal
- houb\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n-
-  George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQ
- ueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radi
- ator Springs\, une petite ville oubliée sur la Route 66. Il y rencontre S
- ally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aiden
- t à découvrir que la vie vaut plus que les trophées et la célébrité.
- \n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovd
- o.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance rele
- vée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
- OtwYXrovdo.jpg
-CATEGORIES:Animation,Aventure,Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
 UID:event-445187@calendrier-cine-fr
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+DTSTAMP:20261018T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
 SUMMARY:Sam le Pompier - Volume 3 le commandant
 DESCRIPTION:Sam le Pompier - Volume 3 le commandant\n(0.4)\n\n\nFR\n𝗦
  𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 octobre
@@ -67,12 +36,43 @@ TRANSP:TRANSPARENT
 CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
+UID:event-920@calendrier-cine-fr
+DTSTAMP:20261018T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Cars : Quatre roues
+DESCRIPTION:Cars\n(24.0)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+ 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
+ e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
+  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
+ ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
+ n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Walt 
+ Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul N
+ ewman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalho
+ ub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- G
+ eorge Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQue
+ en vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiat
+ or Springs\, une petite ville oubliée sur la Route 66. Il y rencontre Sal
+ ly\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aident 
+ à découvrir que la vie vaut plus que les trophées et la célébrité.\n
+ \n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.
+ jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance relev
+ ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
+ OtwYXrovdo.jpg
+CATEGORIES:Animation,Aventure,Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1758886@calendrier-cine-fr
 DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Papa où t'es ?
-DESCRIPTION:Papa où t'es ?\n(2.0 ↘︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟬
+DESCRIPTION:Papa où t'es ?\n(2.7 →︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟬
  \n\nFrance\n(French\, Wolof)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻
  𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Basile Monnot\, Samy Bouyssié\n𝗣𝗿
@@ -101,7 +101,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:La bola negra
-DESCRIPTION:La bola negra\n(23.9 ↗︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
+DESCRIPTION:La bola negra\n(24.0 ↗︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
  𝟱\n\nSpain\, France\n(Spanish\, English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Javier Ambrossi\, Javie
@@ -131,7 +131,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte\, partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(66.9)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(60.9)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -159,12 +159,44 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4LzjVMUit99buiiuh
 CATEGORIES:Science-Fiction,Aventure,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:event-1147747@calendrier-cine-fr
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Blue Whales: Return of the Giants
+DESCRIPTION:Blue Whales: Return of the Giants\n(1.5)\n\nDocumentaire\n𝟰
+ 𝟱𝗺𝗶𝗻\n\nUS\n(English\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
+ 𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 25 mai 2023\n\n𝗥𝗲𝗮𝗹𝗶
+ 𝘀𝗮𝘁𝗲𝘂𝗿 : Hugh Pearson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
+ : Myles Connolly\, Jared Lipworth\, Hugh Pearson\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : SK Films\, Tangled Bank Studios\, Océanic Films\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andy Serkis\n- Diane Gendron\n- Jeremy K
+ iszka\n- Ladd Irvine\n- Kate Stafford\n- Ella Nancy\n- Jasivi Arcos Diaz\n
+ \n\n(synopsis non encore traduit sur TMDB)\nBlue Whales: Return of the Gia
+ nts 3D takes viewers on a journey of a lifetime to explore the world of th
+ e magnificent blue whale\, a species rebounding from the brink of extincti
+ on. Following two scientific expeditions—one to find a missing populatio
+ n of blues off the exotic Seychelles Islands\, the other to chronicle whal
+ e families in Mexico’s stunning Gulf of California—the film is an insp
+ irational story that transforms our understanding of the largest animal ev
+ er to have lived.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/hM8yRTvPy
+ 7JUqOU1t9OHaaYJBY4.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/11
+ 47747\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie 
+ Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/hM8yRTvPy7JUqOU1t9OHaaYJBY4.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hM8yRTvPy7JUqOU1t
+ 9OHaaYJBY4.jpg
+CATEGORIES:Documentaire
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1430841@calendrier-cine-fr
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Le fantôme de l'opéra
-DESCRIPTION:Le fantôme de l'opéra\n(2.7 ↗︎)\n\nThriller\, Romance\, M
+DESCRIPTION:Le fantôme de l'opéra\n(2.9 ↗︎)\n\nThriller\, Romance\, M
  ystère\n𝟮𝗵𝟭𝟰\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alexandre Castagnetti\n𝗦
@@ -197,7 +229,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Si tu tends l'oreille
-DESCRIPTION:耳をすませば — Mimi o Sumaseba\n(18.7 ↑︎)\n\nAnimat
+DESCRIPTION:耳をすませば — Mimi o Sumaseba\n(15.5 ↑︎)\n\nAnimat
  ion\, Drame\, Familial\n𝟭𝗵𝟱𝟬\n\nJapan\n(Japanese)\n𝗔𝗩
  𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Yoshifumi Kondo\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Hayao Miyazaki\n𝗣𝗵𝗼𝘁𝗼
@@ -228,8 +260,8 @@ UID:event-1193614@calendrier-cine-fr
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Il faut brûler Maman
-DESCRIPTION:Il faut brûler Maman\n(2.5 ↗︎)\n\nComédie\n𝟭𝗵𝟯
+SUMMARY:Il faut brûler maman
+DESCRIPTION:Il faut brûler maman\n(2.5 ↑︎)\n\nComédie\n𝟭𝗵𝟯
  𝟱\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 11 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Albert Dupontel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -240,7 +272,7 @@ DESCRIPTION:Il faut brûler Maman\n(2.5 ↗︎)\n\nComédie\n𝟭𝗵𝟯
  régoire Ludig\n- Clovis Cornillac\n\n\nDans une famille de croque-morts\,
   deux sœurs et un frère se retrouvent pour les funérailles de leur mèr
  e. Le personnel étant en grève\, ils doivent accomplir le protocole fun
- éraire par eux-mêmes.  Comment s’accorder pour brûler Maman ?\n\n\nAf
+ éraire par eux-mêmes.  Comment s’accorder pour brûler maman ?\n\n\nAf
  fiche : https://image.tmdb.org/t/p/w780/tviARuh5nZ02b76lZ4dewrTkN4M.jpg\n\
  nFiche TMDB : https://www.themoviedb.org/movie/1193614\n\nSéance relevée
   sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
@@ -257,7 +289,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte\, partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(31.5)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(30.1)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -287,12 +319,79 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ojFCU0K7Err8n87VO
 CATEGORIES:Action,Aventure,Science-Fiction
 END:VEVENT
 BEGIN:VEVENT
+UID:event-138843@calendrier-cine-fr
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Conjuring : Les Dossiers Warren
+DESCRIPTION:The Conjuring\n(58.1)\n\nHorreur\, Thriller\n𝟭𝗵𝟱𝟮\n
+ \nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
+ 𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 aout 2013\n\n𝗥𝗲𝗮𝗹𝗶
+ 𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : C
+ arey Hayes\, Chad Hayes\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
+ : John R. Leonetti\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Evergreen M
+ edia Group\, The Safran Company\, New Line Cinema\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Vera Farmiga\n- Patrick Wilson\n- Lili Taylor\n- Ron Livings
+ ton\n- Hayley McFarland\n- Sterling Jerins\n- Shanley Caswell\n- Mackenzie
+  Foy\n- Joey King\n- Kyla Deaver\n- Shannon Kook\n- John Brotherton\n\n\nA
+ vant Amityville\, il y avait Harrisville… Conjuring : Les dossiers Warre
+ n\, raconte l'histoire horrible\, mais vraie\, d'Ed et Lorraine Warren\, e
+ nquêteurs paranormaux réputés dans le monde entier\, venus en aide à u
+ ne famille terrorisée par une présence inquiétante dans leur ferme isol
+ ée… Contraints d'affronter une créature démoniaque d'une force redout
+ able\, les Warren se retrouvent face à l'affaire la plus terrifiante de l
+ eur carrière.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/vOnTvcSsxdJW
+ L9xgauljHHmFSN4.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/13884
+ 3\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Data
+ base (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/vOnTvcSsxdJWL9xgauljHHmFSN4.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/vOnTvcSsxdJWL9xga
+ uljHHmFSN4.jpg
+CATEGORIES:Horreur,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-76492@calendrier-cine-fr
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Hôtel Transylvanie
+DESCRIPTION:Hotel Transylvania\n(34.0)\n\nAnimation\, Comédie\, Familial\,
+  Fantastique\n𝟭𝗵𝟯𝟭\n\nUnited States of America\n(English)\n
+ 𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 13 fev
+ rier 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Genndy Tartako
+ vsky\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Peter Baynham\, Robert Smigel\n
+ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Columbia Pictures\, Sony Pictur
+ es Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Selena Gomez\n- Adam San
+ dler\n- Andy Samberg\n- Kevin James\n- Fran Drescher\n- Steve Buscemi\n- M
+ olly Shannon\n- David Spade\n- Cee Lo Green\n- Jon Lovitz\n- Brian George\
+ n- Luenell\n\n\nBienvenue à l’Hôtel Transylvanie\, le somptueux hôtel
+  de Dracula\, où les monstres et leurs familles peuvent enfin vivre leur 
+ vie\, se détendre et faire « monstrueusement » la fête comme ils en 
+ ont envie sans être embêtés par les humains. Pour l’anniversaire de s
+ a fille\, la jeune Mavis\, qui fête ses 118 printemps\, Dracula invite le
+ s plus célèbres monstres du monde – Frankenstein et sa femme\, la Momi
+ e\, l’Homme Invisible\, une famille de loups‐garous\, et bien d’autr
+ es encore… Tout se passe très bien\, jusqu’à ce qu’un humain déba
+ rque par hasard à l’hôtel et se lie d’amitié avec Mavis…\n\n\nAff
+ iche : https://image.tmdb.org/t/p/w780/2SqkrWiYOrIVHI8cKHh6fNDMcnG.jpg\n\n
+ Fiche TMDB : https://www.themoviedb.org/movie/76492\n\nSéance relevée su
+ r AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/2SqkrWiYOrIVHI8cKHh6fNDMcnG.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2SqkrWiYOrIVHI8cK
+ Hh6fNDMcnG.jpg
+CATEGORIES:Animation,Comédie,Familial,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1381071@calendrier-cine-fr
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Godzilla Minus Zero
-DESCRIPTION:ゴジラ-0.0 — G-0.0\n(19.8 ↑︎)\n\nScience-Fiction\, Hor
+DESCRIPTION:ゴジラ-0.0 — G-0.0\n(20.2 ↑︎)\n\nScience-Fiction\, Hor
  reur\, Action\n𝟮𝗵𝟭𝟱\n\nJapan\n(Japanese\, English)\n𝗔𝗩
  𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 4 n
  ovembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Takashi Yam
@@ -322,7 +421,7 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Virgin Suicides
-DESCRIPTION:The Virgin Suicides\n(8.0)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+DESCRIPTION:The Virgin Suicides\n(9.5)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
  \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
@@ -356,7 +455,7 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Marie-Antoinette
-DESCRIPTION:Marie Antoinette\n(12.3)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\
+DESCRIPTION:Marie Antoinette\n(13.2)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\
  n\nJapan\, United States of America\, France\n(English\, French\, Latin)\n
  𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
  la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
@@ -384,12 +483,75 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/gyZQYEbG4ske29Uh8
 CATEGORIES:Drame,Histoire
 END:VEVENT
 BEGIN:VEVENT
+UID:event-76341@calendrier-cine-fr
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Mad Max : Fury Road
+DESCRIPTION:Mad Max: Fury Road\n(60.6)\n\nAction\, Aventure\, Science-Ficti
+ on\n𝟮𝗵\n\nAustralia\, United States of America\n(English)\n𝗦𝗼
+ 𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 mai 2015\n\
+ n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : George Miller\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Nico Lathouris\, George Miller\, Brendan McCart
+ hy\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : John Seale\n𝗣
+ 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Village Roa
+ dshow Pictures\, Kennedy Miller Mitchell\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
+ \n- Tom Hardy\n- Charlize Theron\n- Nicholas Hoult\n- Hugh Keays-Byrne\n- 
+ Josh Helman\n- Nathan Jones\n- Zoë Kravitz\n- Rosie Huntington-Whiteley\n
+ - Riley Keough\n- Abbey Lee\n- Courtney Eaton\n- John Howard\n\n\nHanté p
+ ar un lourd passé\, Mad Max estime que le meilleur moyen de survivre est 
+ de rester seul. Cependant\, il se retrouve embarqué par une bande qui par
+ court le désert à bord d’un véhicule militaire piloté par l’Impér
+ atrice Furiosa. Ils fuient la Citadelle où sévit le terrible Immortan Jo
+ e qui s’est fait voler un objet irremplaçable. Enragé\, ce Seigneur de
+  guerre envoie ses hommes pour traquer les rebelles impitoyablement…\n\n
+ \nAffiche : https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jp
+ g\n\nFiche TMDB : https://www.themoviedb.org/movie/76341\n\nSéance relev
+ ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOt
+ rSGnwB3Q2R.jpg
+CATEGORIES:Action,Aventure,Science-Fiction
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1321412@calendrier-cine-fr
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:À bicyclette !
+DESCRIPTION:À bicyclette !\n(2.9)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
+ nFrance\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
+ 𝗾𝘂𝗲 : 26 fevrier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Mathias Mlekuz\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mathias Mlekuz\,
+  Philippe Rebbot\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Flore
+ nt Sabatier\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : M.E.S. Productions
+ \, F Comme Film\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mathias Mlekuz\n- Phi
+ lippe Rebbot\n- Josef Mlekuz\n- Adriane Gradziel\n- Marziyeh Rezaei\n- Lau
+ rent Jouault\n- Lucky\n- Romane Bohringer\n- Raoul Rebbot-Bohringer\n- May
+ a Latrobe\n\n\nDe l’Atlantique à la mer Noire\, Mathias embarque son me
+ illeur ami Philippe dans un road trip à bicyclette. Ensemble ils vont ref
+ aire le voyage que Youri\, son fils\, avait entrepris avant de disparaîtr
+ e tragiquement. Une épopée qu’ils traverseront avec tendresse\, humour
+  et émotion.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/3fx5j8LSJC1UG
+ LHO455FY4peY8m.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/132141
+ 2\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Data
+ base (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/3fx5j8LSJC1UGLHO455FY4peY8m.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/3fx5j8LSJC1UGLHO4
+ 55FY4peY8m.jpg
+CATEGORIES:Comédie,Drame
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1613021@calendrier-cine-fr
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Camembert
-DESCRIPTION:Camembert\n(2.3 →︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
+DESCRIPTION:Camembert\n(2.7 ↗︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
  \n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
  𝗻𝗮𝗹𝗲 : 18 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿𝘀 : Matthieu Rumani\, Nicolas Slomka\n𝗦𝗰𝗲𝗻𝗮
@@ -417,15 +579,49 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jJECyLZIHUZxQbC1V
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:event-116745@calendrier-cine-fr
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:La Vie rêvée de Walter Mitty
+DESCRIPTION:The Secret Life of Walter Mitty\n(30.5)\n\nAventure\, Comédie\
+ , Drame\, Fantastique\n𝟭𝗵𝟱𝟰\n\nUnited Kingdom\, United States 
+ of America\n(English\, Icelandic\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
+ 𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2014\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ben Stiller\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
+ 𝗼 : Steven Conrad\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : S
+ tuart Dryburgh\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Samuel Goldwyn 
+ Films\, Red Hour\, New Line Cinema\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Be
+ n Stiller\n- Kristen Wiig\n- Sean Penn\n- Shirley MacLaine\n- Adam Scott\n
+ - Kathryn Hahn\n- Patton Oswalt\n- Adrian Martinez\n- Ólafur Darri Ólafs
+ son\n- Gunnar Helgason\n- Terence Bernie Hines\n- Alex Anfanger\n\n\nWalte
+ r Mitty est un homme ordinaire\, enfermé dans son quotidien\, qui n’ose
+  s’évader qu’à travers des rêves à la fois drôles et extravagants
+ . Mais confronté à une difficulté dans sa vie professionnelle\, Walter 
+ doit trouver le courage de passer à l’action dans le monde réel. Il em
+ barque alors dans un périple incroyable\, pour vivre une aventure bien pl
+ us riche que tout ce qu’il aurait pu imaginer jusqu’ici. Et qui devrai
+ t changer sa vie à jamais.\n\n\nAffiche : https://image.tmdb.org/t/p/w780
+ /1WKxLcAmM4liIaZ3aLEE123HrJG.jpg\n\nFiche TMDB : https://www.themoviedb.or
+ g/movie/116745\n\nSéance relevée sur AlloCiné.\nDonnées fournies par T
+ he Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1WKxLcAmM4liIaZ3aLEE123HrJG.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1WKxLcAmM4liIaZ3a
+ LEE123HrJG.jpg
+CATEGORIES:Aventure,Comédie,Drame,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1281204@calendrier-cine-fr
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(1.1)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
+DESCRIPTION:Mika Ex Machina\n(1.5)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
-  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Déb
- orah Saïag\, Mika Tard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
+  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
+  Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
  éborah Saïag\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mika Ta
  rd\, Déborah Saïag\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mika Tard\n- Dé
  borah Saïag\n- Iris Brey\n- Ludivine Sagnier\n- Daniel Gourdon\n- Audrey 
@@ -449,12 +645,42 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xoudiatLe0x9eNTTh
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:event-804370@calendrier-cine-fr
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Arco
+DESCRIPTION:Arco\n(7.6)\n\nAventure\, Animation\, Familial\, Science-Fictio
+ n\n𝟭𝗵𝟮𝟴\n\nFrance\, United Kingdom\, United States of America\
+ n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
+ 𝗲 : 22 octobre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : U
+ go Bienvenu\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ugo Bienvenu\, Félix de G
+ ivry\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Remembers\, MountainA\, F
+ rance 3 Cinéma\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Margot Ringard Oldra\
+ n- Oscar Tresanini\n- Nathanaël Perrot\n- Alma Jodorowsky\n- Swann Arlaud
+ \n- Vincent Macaigne\n- Louis Garrel\n- William Lebghil\n- Sophie Mas\n- F
+ rédérique Cantrel\n- Oxmo Puccino\n- Joséphine Mancini\n\n\nEn 2075\, u
+ ne petite fille de 10 ans\, Iris\, voit un mystérieux garçon vêtu d'une
+  combinaison arc-en-ciel tomber du ciel. C'est Arco. Il vient d'un futur l
+ ointain et idyllique où voyager dans le temps est possible. Iris le recue
+ ille et va l'aider par tous les moyens à rentrer chez lui.\n\n\nAffiche :
+  https://image.tmdb.org/t/p/w780/rWvbMnqLTpyTHmNii4TrnmgzpcS.jpg\n\nFiche 
+ TMDB : https://www.themoviedb.org/movie/804370\n\nSéance relevée sur All
+ oCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/rWvbMnqLTpyTHmNii4TrnmgzpcS.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/rWvbMnqLTpyTHmNii
+ 4TrnmgzpcS.jpg
+CATEGORIES:Aventure,Animation,Familial,Science-Fiction
+END:VEVENT
+BEGIN:VEVENT
 UID:event-120@calendrier-cine-fr
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux : La Communauté de l'anneau
-DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(44.4)\n\nAv
+DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(44.9)\n\nAv
  enture\, Fantastique\, Action\n𝟮𝗵𝟱𝟵\n\nNew Zealand\, United St
  ates of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼
  𝗿𝗶𝗾𝘂𝗲 : 19 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
@@ -482,30 +708,119 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/5OPg6M0yHr21Ovs1f
 CATEGORIES:Aventure,Fantastique,Action
 END:VEVENT
 BEGIN:VEVENT
+UID:event-1117898@calendrier-cine-fr
+DTSTAMP:20261122T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Le Chat Chapeauté
+DESCRIPTION:The Cat in the Hat\n(15.1)\n\nAnimation\, Comédie\, Aventure\,
+  Fantastique\, Familial\n𝟭𝗵𝟱𝟰\n\nUnited Kingdom\, United State
+ s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
+ 𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿𝘀 : Erica Rivinoja\, Alessandro Carloni\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Alessandro Carloni\, Erica Rivinoja\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : DNEG\, Dr. Seuss Enterprises\, Warner B
+ ros. Pictures Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Bill Hader\n-
+  Xochitl Gomez\n- Tiago Martinez\n- Matt Berry\n- Quinta Brunson\n- Bowen 
+ Yang\n- America Ferrera\n- Paula Pell\n- Tituss Burgess\n- Giancarlo Espos
+ ito\n- Thomas Middleditch\n- Robin Åkerstrand\n\n\nLe Chat se voit confie
+ r sa mission la plus difficile jusqu'à présent... aider deux frères et 
+ sœurs qui ont du mal à s'installer dans une nouvelle ville.\n\n\nAffiche
+  : https://image.tmdb.org/t/p/w780/jBcFgdERUGw0au9fYZc5X9M8Dfs.jpg\n\nFich
+ e TMDB : https://www.themoviedb.org/movie/1117898\n\nSéance relevée sur 
+ AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/jBcFgdERUGw0au9fYZc5X9M8Dfs.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jBcFgdERUGw0au9fY
+ Zc5X9M8Dfs.jpg
+CATEGORIES:Animation,Comédie,Aventure,Fantastique,Familial
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1084728@calendrier-cine-fr
+DTSTAMP:20261122T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Astérix : Le Royaume de Nubie
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(5.4 →︎)\n\nAnimation\, Ave
+ nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
+ ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
+ 𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Alexandre Heboyan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alexandre de 
+ La Patellière\, Matthieu Delaporte\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : SND\, M6 Films\, Superprod Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿
+ 𝘀 :\n- Christian Clavier\n- François-Xavier Demaison\n- Bernard Alane\
+ n- Issa Doumbia\n- Eye Haïdara\n- Élie Semoun\n- François de Brauer\n- 
+ Claudia Tagbo\n- Lucien Jean-Baptiste\n- Michaël Grégorio\n- Jérémie C
+ ovillault\n\n\nQuand un élixir de jouvence tombe par erreur dans leur pot
+ ion magique\, les irréductibles gaulois sont transformés en enfants et A
+ stérix et Obélix doivent rejoindre le lointain royaume de Nubie pour tro
+ uver l'antidote et sauver le village.\n\n\nAffiche : https://image.tmdb.or
+ g/t/p/w780/p6PFYB8TSFrVcF2eFTIt39cL4eK.jpg\n\nFiche TMDB : https://www.the
+ moviedb.org/movie/1084728\n\nSéance relevée sur AlloCiné.\nDonnées fou
+ rnies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/p6PFYB8TSFrVcF2eFTIt39cL4eK.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/p6PFYB8TSFrVcF2eF
+ TIt39cL4eK.jpg
+CATEGORIES:Animation,Aventure,Comédie,Familial,Fantastique
+END:VEVENT
+BEGIN:VEVENT
+UID:event-16859@calendrier-cine-fr
+DTSTAMP:20261122T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Kiki la petite sorcière
+DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(30.0)\n\nAnimation\
+ , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
+ 𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
+ \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Hayao Miyazaki\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
+ 𝗮𝗽𝗵𝗶𝗲 : 杉村重郎\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : Studio Ghibli\, Tokuma Shoten\, Nippon Television Network Corporati
+ on\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Minami Takayama\n- Rei Sakuma\n- K
+ appei Yamaguchi\n- Keiko Toda\n- 信澤三惠子\n- 三浦浩一\n- 加藤
+ 治子\n- 関弘子\n- 渕崎ゆり子\n- Kōichi Yamadera\n- Kikuko Inoue
+ \n- 小林優子\n\n\nÀ l'âge de 13 ans\, une future sorcière doit part
+ ir faire son apprentissage dans une ville inconnue durant un an. Une expé
+ rience que va vivre la jeune et espiègle Kiki aux côtés de Osono\, une 
+ gentille boulangère qui lui propose un emploi de livreuse.\n\n\nAffiche :
+  https://image.tmdb.org/t/p/w780/tdOJxx6PCzjPYViSnk0OPQ80X2d.jpg\n\nFiche 
+ TMDB : https://www.themoviedb.org/movie/16859\n\nSéance relevée sur Allo
+ Ciné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/tdOJxx6PCzjPYViSnk0OPQ80X2d.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tdOJxx6PCzjPYViSn
+ k0OPQ80X2d.jpg
+CATEGORIES:Animation,Familial,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:event-121@calendrier-cine-fr
 DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux : Les Deux Tours
-DESCRIPTION:The Lord of the Rings: The Two Towers\n(33.2)\n\nAventure\, Fan
+DESCRIPTION:The Lord of the Rings: The Two Towers\n(33.9)\n\nAventure\, Fan
  tastique\, Action\n𝟯𝗵\n\nNew Zealand\, United States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 18 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter
-  Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Philippa Boyens\, Fran Walsh\
- , Stephen Sinclair\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : And
- rew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : New Line Cinema\, W
- ingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n
- - Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Sean Astin\n- Andy Ser
- kis\n- John Rhys-Davies\n- Orlando Bloom\n- Bernard Hill\n- Miranda Otto\n
- - Dominic Monaghan\n- Billy Boyd\n- Christopher Lee\n\n\nLa Communauté es
- t dissoute\, mais la quête pour détruire l'Anneau Unique se poursuit. Ac
- compagné par son fidèle Sam et guidé par l'étrange Gollum\, Frodon che
- rche un moyen d'entrer en Mordor. Alors que l'armée de Saroumane se met e
- n marche\, les autres compagnons de la Communauté se préparent à la bat
- aille. La Guerre de l'Anneau a commencé !\n\n\nAffiche : https://image.tm
- db.org/t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg\n\nFiche TMDB : https://ww
- w.themoviedb.org/movie/121\n\nSéance relevée sur AlloCiné.\nDonnées fo
- urnies par The Movie Database (TMDB)
+  Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen Sinclair\, Philippa B
+ oyens\, Peter Jackson\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 
+ Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : New Line Cinema\
+ , WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 
+ :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Sean Astin\n- Andy 
+ Serkis\n- John Rhys-Davies\n- Orlando Bloom\n- Bernard Hill\n- Miranda Ott
+ o\n- Dominic Monaghan\n- Billy Boyd\n- Christopher Lee\n\n\nLa Communauté
+  est dissoute\, mais la quête pour détruire l'Anneau Unique se poursuit.
+  Accompagné par son fidèle Sam et guidé par l'étrange Gollum\, Frodon 
+ cherche un moyen d'entrer en Mordor. Alors que l'armée de Saroumane se me
+ t en marche\, les autres compagnons de la Communauté se préparent à la 
+ bataille. La Guerre de l'Anneau a commencé !\n\n\nAffiche : https://image
+ .tmdb.org/t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg\n\nFiche TMDB : https:/
+ /www.themoviedb.org/movie/121\n\nSéance relevée sur AlloCiné.\nDonnées
+  fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg
@@ -519,12 +834,12 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux : Le Retour du roi
-DESCRIPTION:The Lord of the Rings: The Return of the King\n(76.3)\n\nAventu
+DESCRIPTION:The Lord of the Rings: The Return of the King\n(72.9)\n\nAventu
  re\, Fantastique\, Action\n𝟯𝗵𝟮𝟭\n\nNew Zealand\, United States
   of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 17 decembre 2003\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Peter Jac
- kson\, Fran Walsh\, Philippa Boyens\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ kson\, Philippa Boyens\, Fran Walsh\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : N
  ew Line Cinema\, WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Se
@@ -552,7 +867,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(28.8 ↗︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(29.4 ↗︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
