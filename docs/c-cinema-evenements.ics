@@ -11,43 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-920@calendrier-cine-fr
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(23.7)\n\nAnimation\, Aventure\, Comédie\, Familial\n
- 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
- e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
-  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Lasseter\, Jørgen Klubien\, Dan
-  Fogelman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky
- \, Jean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\,
-  Walt Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- 
- Paul Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony 
- Shalhoub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Walli
- s\n- George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash
-  McQueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à 
- Radiator Springs\, une petite ville oubliée sur la Route 66. Il y rencont
- re Sally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’a
- ident à découvrir que la vie vaut plus que les trophées et la célébri
- té.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYX
- rovdo.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance 
- relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
- OtwYXrovdo.jpg
-CATEGORIES:Animation,Aventure,Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
 UID:event-1422041@calendrier-cine-fr
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:La bola negra
-DESCRIPTION:La bola negra\n(54.7 ↑︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
+DESCRIPTION:La bola negra\n(45.3 ↑︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
  𝟱\n\nSpain\, France\n(Spanish\, English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Javier Ambrossi\, Javie
@@ -77,7 +46,7 @@ DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Hunger Games : La Révolte\, partie 1
-DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(49.1)\n\nScience-Fictio
+DESCRIPTION:The Hunger Games: Mockingjay - Part 1\n(44.3)\n\nScience-Fictio
  n\, Aventure\, Thriller\n𝟮𝗵𝟬𝟯\n\nUnited States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 19 novembre 2014\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franc
@@ -103,6 +72,37 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xWQfZgnjaH2fmjGSC
  WFYicTPwwv.jpg
 CATEGORIES:Science-Fiction,Aventure,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-920@calendrier-cine-fr
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Cars : Quatre roues
+DESCRIPTION:Cars\n(24.9)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+ 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
+ e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
+  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
+ ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
+ n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Walt 
+ Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul N
+ ewman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalho
+ ub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- G
+ eorge Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQue
+ en vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiat
+ or Springs\, une petite ville oubliée sur la Route 66. Il y rencontre Sal
+ ly\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aident 
+ à découvrir que la vie vaut plus que les trophées et la célébrité.\n
+ \n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.
+ jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance relev
+ ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
+ OtwYXrovdo.jpg
+CATEGORIES:Animation,Aventure,Comédie,Familial
 END:VEVENT
 BEGIN:VEVENT
 UID:event-445187@calendrier-cine-fr
@@ -167,7 +167,7 @@ DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Le fantôme de l'opéra
-DESCRIPTION:Le fantôme de l'opéra\n(2.6 ↘︎)\n\nThriller\, Romance\, M
+DESCRIPTION:Le fantôme de l'opéra\n(3.1 ↘︎)\n\nThriller\, Romance\, M
  ystère\n𝟮𝗵𝟭𝟰\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alexandre Castagnetti\n𝗦
@@ -200,7 +200,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Si tu tends l'oreille
-DESCRIPTION:耳をすませば — Mimi o Sumaseba\n(17.7 ↗︎)\n\nAnimat
+DESCRIPTION:耳をすませば — Mimi o Sumaseba\n(15.1 ↗︎)\n\nAnimat
  ion\, Drame\, Familial\n𝟭𝗵𝟱𝟬\n\nJapan\n(Japanese)\n𝗔𝗩
  𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Yoshifumi Kondo\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Hayao Miyazaki\n𝗣𝗵𝗼𝘁𝗼
@@ -232,7 +232,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Il faut brûler maman
-DESCRIPTION:Il faut brûler maman\n(2.1 ↗︎)\n\nComédie\n𝟭𝗵𝟯
+DESCRIPTION:Il faut brûler maman\n(2.5 →︎)\n\nComédie\n𝟭𝗵𝟯
  𝟱\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 11 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Albert Dupontel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -260,7 +260,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte\, partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(25.1)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(23.2)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -295,7 +295,7 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Conjuring : Les Dossiers Warren
-DESCRIPTION:The Conjuring\n(46.5)\n\nHorreur\, Thriller\n𝟭𝗵𝟱𝟮\n
+DESCRIPTION:The Conjuring\n(43.1)\n\nHorreur\, Thriller\n𝟭𝗵𝟱𝟮\n
  \nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 aout 2013\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : C
@@ -328,7 +328,7 @@ DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Hôtel Transylvanie
-DESCRIPTION:Hotel Transylvania\n(26.5)\n\nAnimation\, Comédie\, Familial\,
+DESCRIPTION:Hotel Transylvania\n(24.5)\n\nAnimation\, Comédie\, Familial\,
   Fantastique\n𝟭𝗵𝟯𝟭\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 13 fev
  rier 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Genndy Tartako
@@ -362,7 +362,7 @@ DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Godzilla Minus Zero
-DESCRIPTION:ゴジラ-0.0 — G-0.0\n(84.5 ↑︎)\n\nScience-Fiction\, Hor
+DESCRIPTION:ゴジラ-0.0 — G-0.0\n(71.7 ↑︎)\n\nScience-Fiction\, Hor
  reur\, Action\n𝟮𝗵𝟭𝟱\n\nJapan\n(Japanese\, English)\n𝗔𝗩
  𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 4 n
  ovembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Takashi Yam
@@ -392,7 +392,7 @@ DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Wild Horse Nine
-DESCRIPTION:Wild Horse Nine\n(45.3 ↑︎)\n\nComédie\, Crime\, Thriller\n
+DESCRIPTION:Wild Horse Nine\n(32.6 ↑︎)\n\nComédie\, Crime\, Thriller\n
  𝟭𝗵𝟱𝟳\n\nUnited Kingdom\, United States of America\n(English\, 
  Spanish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 4 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -424,7 +424,7 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Virgin Suicides
-DESCRIPTION:The Virgin Suicides\n(8.9)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+DESCRIPTION:The Virgin Suicides\n(9.8)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
  \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
@@ -458,8 +458,8 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Marie-Antoinette
-DESCRIPTION:Marie Antoinette\n(9.0)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
- \nJapan\, United States of America\, France\n(English\, French\, Latin)\n
+DESCRIPTION:Marie Antoinette\n(10.9)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\
+ n\nJapan\, United States of America\, France\n(English\, French\, Latin)\n
  𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
  la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
  𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Lance Acord\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
@@ -491,7 +491,7 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Mad Max : Fury Road
-DESCRIPTION:Mad Max: Fury Road\n(41.5)\n\nAction\, Aventure\, Science-Ficti
+DESCRIPTION:Mad Max: Fury Road\n(45.7)\n\nAction\, Aventure\, Science-Ficti
  on\n𝟮𝗵\n\nAustralia\, United States of America\n(English)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 mai 2015\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : George Miller\n𝗦𝗰
@@ -524,7 +524,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:À bicyclette !
-DESCRIPTION:À bicyclette !\n(2.6)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
+DESCRIPTION:À bicyclette !\n(3.4)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
  nFrance\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 26 fevrier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Mathias Mlekuz\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mathias Mlekuz\,
@@ -554,7 +554,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Camembert
-DESCRIPTION:Camembert\n(3.5 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
+DESCRIPTION:Camembert\n(4.3 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
  \n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
  𝗻𝗮𝗹𝗲 : 18 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿𝘀 : Matthieu Rumani\, Nicolas Slomka\n𝗦𝗰𝗲𝗻𝗮
@@ -587,7 +587,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:La Vie rêvée de Walter Mitty
-DESCRIPTION:The Secret Life of Walter Mitty\n(22.2)\n\nAventure\, Comédie\
+DESCRIPTION:The Secret Life of Walter Mitty\n(18.8)\n\nAventure\, Comédie\
  , Drame\, Fantastique\n𝟭𝗵𝟱𝟰\n\nUnited Kingdom\, United States 
  of America\n(English\, Icelandic\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
  𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2014\n\n𝗥𝗲𝗮𝗹
@@ -623,8 +623,8 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
 DESCRIPTION:Mika Ex Machina\n(1.5)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
-  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
-  Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
+  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Déb
+ orah Saïag\, Mika Tard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
  éborah Saïag\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mika Ta
  rd\, Déborah Saïag\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mika Tard\n- Dé
  borah Saïag\n- Iris Brey\n- Ludivine Sagnier\n- Daniel Gourdon\n- Audrey 
@@ -653,7 +653,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Arco
-DESCRIPTION:Arco\n(7.1)\n\nAventure\, Animation\, Familial\, Science-Fictio
+DESCRIPTION:Arco\n(7.0)\n\nAventure\, Animation\, Familial\, Science-Fictio
  n\n𝟭𝗵𝟮𝟴\n\nFrance\, United Kingdom\, United States of America\
  n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 22 octobre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : U
@@ -683,7 +683,7 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux : La Communauté de l'anneau
-DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(44.2)\n\nAv
+DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(57.4)\n\nAv
  enture\, Fantastique\, Action\n𝟮𝗵𝟱𝟵\n\nNew Zealand\, United St
  ates of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼
  𝗿𝗶𝗾𝘂𝗲 : 19 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
@@ -716,12 +716,12 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(16.3)\n\nAnimation\, Comédie\, Aventure\,
+DESCRIPTION:The Cat in the Hat\n(19.6)\n\nAnimation\, Comédie\, Aventure\,
   Fantastique\, Familial\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
  s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿𝘀 : Erica Rivinoja\, Alessandro Carloni\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Erica Rivinoja\, Alessandro Carloni\n𝗣𝗿
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Alessandro Carloni\, Erica Rivinoja\n𝗣𝗿
  𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : DNEG\, Dr. Seuss Enterprises\, Warner B
  ros. Pictures Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Bill Hader\n-
   Xochitl Gomez\n- Tiago Martinez\n- Matt Berry\n- Quinta Brunson\n- Bowen 
@@ -745,7 +745,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.7 ↗︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(5.6 ↗︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -775,7 +775,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Kiki la petite sorcière
-DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(23.2)\n\nAnimation\
+DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(23.6)\n\nAnimation\
  , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
@@ -805,7 +805,7 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux : Les Deux Tours
-DESCRIPTION:The Lord of the Rings: The Two Towers\n(36.5)\n\nAventure\, Fan
+DESCRIPTION:The Lord of the Rings: The Two Towers\n(43.8)\n\nAventure\, Fan
  tastique\, Action\n𝟯𝗵\n\nNew Zealand\, United States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 18 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter
@@ -837,7 +837,7 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux : Le Retour du roi
-DESCRIPTION:The Lord of the Rings: The Return of the King\n(57.9)\n\nAventu
+DESCRIPTION:The Lord of the Rings: The Return of the King\n(49.8)\n\nAventu
  re\, Fantastique\, Action\n𝟯𝗵𝟮𝟭\n\nNew Zealand\, United States
   of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 17 decembre 2003\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
@@ -870,7 +870,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(177.8 ↑︎)\n\nScience-Fiction\, Aventure\
+DESCRIPTION:Dune: Part Three\n(122.6 ↑︎)\n\nScience-Fiction\, Aventure\
  n𝟮𝗵𝟮𝟬\n\nUnited States of America\, United Arab Emirates\n(Eng
  lish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
