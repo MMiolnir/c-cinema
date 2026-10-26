@@ -11,68 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-920@calendrier-cine-fr
-DTSTAMP:20261025T000000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:Cars : Quatre roues
-DESCRIPTION:Cars\n(22.5)\n\nAnimation\, Aventure\, Comédie\, Familial\n
- 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
- e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
-  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
- \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, John Lasse
- ter\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, Jea
- n-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Walt 
- Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul N
- ewman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shalho
- ub\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n- G
- eorge Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQue
- en vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiat
- or Springs\, une petite ville oubliée sur la Route 66. Il y rencontre Sal
- ly\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aident 
- à découvrir que la vie vaut plus que les trophées et la célébrité.\n
- \n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.
- jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance relev
- ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
- OtwYXrovdo.jpg
-CATEGORIES:Animation,Aventure,Comédie,Familial
-END:VEVENT
-BEGIN:VEVENT
-UID:event-445187@calendrier-cine-fr
-DTSTAMP:20261025T000000Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:Sam le Pompier - Volume 3 le commandant
-DESCRIPTION:Sam le Pompier - Volume 3 le commandant\n(0.4)\n\n\nFR\n𝗦
- 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 octobre
-  2025\n\n\nVéritable modèle pour les plus jeunes\, Sam le pompier est to
- ujours là pour aider les habitants de Pontypandy ! Accompagné de la brig
- ade de pompiers de la ville\, notre héros trouve des solutions à toutes 
- les situations...\n Charlie et Max suivent un stage à la caserne pour êt
- re pompiers volontaires ! Autrement dit\, si un jour Sam et ses collègues
-  sont appelés sur un gros incendie\, ils demanderont à Max et à Charlie
-  de venir les aider ! Mais Charlie doit partir en mer car il n'y a plus de
-  poisson à vendre à la poissonnerie ! Le Commandant\, qui n'est pas de g
- arde\, propose de lui donner un coup de main ! Mais au lieu de lui facilit
- er la tâche\, le pauvre ne va réussir qu'à provoquer catastrophe sur ca
- tastrophe ! Mais il va se montrer bien efficace quand le moteur du bateau 
- va prendre feu !\n\n\nFiche TMDB : https://www.themoviedb.org/movie/445187
- \n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Datab
- ase (TMDB)
-TRANSP:TRANSPARENT
-CATEGORIES:Cinema
-END:VEVENT
-BEGIN:VEVENT
 UID:event-1430841@calendrier-cine-fr
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Le fantôme de l'opéra
-DESCRIPTION:Le fantôme de l'opéra\n(2.7 →︎)\n\nThriller\, Romance\, M
+DESCRIPTION:Le fantôme de l'opéra\n(3.1 →︎)\n\nThriller\, Romance\, M
  ystère\n𝟮𝗵𝟭𝟰\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 28 octobre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alexandre Castagnetti\n𝗦
@@ -100,12 +44,68 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/2aU9dLDES0IdxB4sG
 CATEGORIES:Thriller,Romance,Mystère
 END:VEVENT
 BEGIN:VEVENT
+UID:event-920@calendrier-cine-fr
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Cars : Quatre roues
+DESCRIPTION:Cars\n(21.1)\n\nAnimation\, Aventure\, Comédie\, Familial\n
+ 𝟭𝗵𝟱𝟭\n\nUnited States of America\n(English\, Italian\, Japanes
+ e)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14
+  juin 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Lasseter
+ \n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dan Fogelman\, Joe Ranft\, Jørgen Kl
+ ubien\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeremy Lasky\, J
+ ean-Claude Kalache\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\, Wal
+ t Disney Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Owen Wilson\n- Paul
+  Newman\n- Bonnie Hunt\n- Larry the Cable Guy\n- Cheech Marin\n- Tony Shal
+ houb\n- Guido Quaroni\n- Jenifer Lewis\n- Paul Dooley\n- Michael Wallis\n-
+  George Carlin\n- Katherine Helmond\n\n\nUn champion de course\, Flash McQ
+ ueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radi
+ ator Springs\, une petite ville oubliée sur la Route 66. Il y rencontre S
+ ally\, Martin\, Doc Hudson et un tas de personnages amusants qui l’aiden
+ t à découvrir que la vie vaut plus que les trophées et la célébrité.
+ \n\n\nAffiche : https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovd
+ o.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/920\n\nSéance rele
+ vée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/hvHw7ASXEK8x3EawlOtwYXrovdo.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hvHw7ASXEK8x3Eawl
+ OtwYXrovdo.jpg
+CATEGORIES:Animation,Aventure,Comédie,Familial
+END:VEVENT
+BEGIN:VEVENT
+UID:event-445187@calendrier-cine-fr
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Sam le Pompier - Volume 3 le commandant
+DESCRIPTION:Sam le Pompier - Volume 3 le commandant\n(0.4)\n\n\nFR\n𝗦
+ 𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 octobre
+  2025\n\n\nVéritable modèle pour les plus jeunes\, Sam le pompier est to
+ ujours là pour aider les habitants de Pontypandy ! Accompagné de la brig
+ ade de pompiers de la ville\, notre héros trouve des solutions à toutes 
+ les situations...\n Charlie et Max suivent un stage à la caserne pour êt
+ re pompiers volontaires ! Autrement dit\, si un jour Sam et ses collègues
+  sont appelés sur un gros incendie\, ils demanderont à Max et à Charlie
+  de venir les aider ! Mais Charlie doit partir en mer car il n'y a plus de
+  poisson à vendre à la poissonnerie ! Le Commandant\, qui n'est pas de g
+ arde\, propose de lui donner un coup de main ! Mais au lieu de lui facilit
+ er la tâche\, le pauvre ne va réussir qu'à provoquer catastrophe sur ca
+ tastrophe ! Mais il va se montrer bien efficace quand le moteur du bateau 
+ va prendre feu !\n\n\nFiche TMDB : https://www.themoviedb.org/movie/445187
+ \n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Datab
+ ase (TMDB)
+TRANSP:TRANSPARENT
+CATEGORIES:Cinema
+END:VEVENT
+BEGIN:VEVENT
 UID:event-37797@calendrier-cine-fr
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Si tu tends l'oreille
-DESCRIPTION:耳をすませば — Mimi o Sumaseba\n(13.7 ↗︎)\n\nAnimat
+DESCRIPTION:耳をすませば — Mimi o Sumaseba\n(15.6 ↗︎)\n\nAnimat
  ion\, Drame\, Familial\n𝟭𝗵𝟱𝟬\n\nJapan\n(Japanese)\n𝗔𝗩
  𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Yoshifumi Kondo\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Hayao Miyazaki\n𝗣𝗵𝗼𝘁𝗼
@@ -137,7 +137,7 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Il faut brûler maman
-DESCRIPTION:Il faut brûler maman\n(2.8 ↘︎)\n\nComédie\n𝟭𝗵𝟯
+DESCRIPTION:Il faut brûler maman\n(2.3 ↘︎)\n\nComédie\n𝟭𝗵𝟯
  𝟱\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 11 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : Albert Dupontel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
@@ -165,7 +165,7 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hunger Games : La Révolte\, partie 2
-DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(21.9)\n\nAction\, Avent
+DESCRIPTION:The Hunger Games: Mockingjay - Part 2\n(20.9)\n\nAction\, Avent
  ure\, Science-Fiction\n𝟮𝗵𝟭𝟳\n\nGermany\, United States of Amer
  ica\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 24 septembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -200,11 +200,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Conjuring : Les Dossiers Warren
-DESCRIPTION:The Conjuring\n(37.5)\n\nHorreur\, Thriller\n𝟭𝗵𝟱𝟮\n
+DESCRIPTION:The Conjuring\n(37.6)\n\nHorreur\, Thriller\n𝟭𝗵𝟱𝟮\n
  \nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 21 aout 2013\n\n𝗥𝗲𝗮𝗹𝗶
  𝘀𝗮𝘁𝗲𝘂𝗿 : James Wan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : C
- arey Hayes\, Chad Hayes\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
+ had Hayes\, Carey Hayes\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
  : John R. Leonetti\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Evergreen M
  edia Group\, The Safran Company\, New Line Cinema\n\n𝗔𝗰𝘁𝗲𝘂
  𝗿𝘀 :\n- Vera Farmiga\n- Patrick Wilson\n- Lili Taylor\n- Ron Livings
@@ -233,7 +233,7 @@ DTSTAMP:20261101T000000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Hôtel Transylvanie
-DESCRIPTION:Hotel Transylvania\n(41.2)\n\nAnimation\, Comédie\, Familial\,
+DESCRIPTION:Hotel Transylvania\n(29.1)\n\nAnimation\, Comédie\, Familial\,
   Fantastique\n𝟭𝗵𝟯𝟭\n\nUnited States of America\n(English)\n
  𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 13 fev
  rier 2013\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Genndy Tartako
@@ -267,7 +267,7 @@ DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Godzilla Minus Zero
-DESCRIPTION:ゴジラ-0.0 — G-0.0\n(53.6 ↑︎)\n\nScience-Fiction\, Hor
+DESCRIPTION:ゴジラ-0.0 — G-0.0\n(40.8 ↑︎)\n\nScience-Fiction\, Hor
  reur\, Action\n𝟮𝗵𝟭𝟱\n\nJapan\n(Japanese\, English)\n𝗔𝗩
  𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 4 n
  ovembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Takashi Yam
@@ -297,7 +297,7 @@ DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:L’Affaire Marie-Claire
-DESCRIPTION:L’Affaire Marie-Claire\n(4.2 ↑︎)\n\nHistoire\, Drame\n
+DESCRIPTION:L’Affaire Marie-Claire\n(4.4 ↑︎)\n\nHistoire\, Drame\n
  𝟭𝗵𝟰𝟮\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
  𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 4 novembre 2026\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Lauriane Escaffre\, Yvo Muller\
@@ -330,7 +330,7 @@ DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Wild Horse Nine
-DESCRIPTION:Wild Horse Nine\n(28.5 ↑︎)\n\nComédie\, Crime\, Thriller\n
+DESCRIPTION:Wild Horse Nine\n(24.6 ↑︎)\n\nComédie\, Crime\, Thriller\n
  𝟭𝗵𝟱𝟳\n\nUnited Kingdom\, United States of America\n(English\, 
  Spanish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 4 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -362,7 +362,7 @@ DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Virgin Suicides
-DESCRIPTION:The Virgin Suicides\n(8.6)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
+DESCRIPTION:The Virgin Suicides\n(8.5)\n\nDrame\, Romance\n𝟭𝗵𝟯𝟲
  \n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 mai 2000\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Sofia Coppola\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : S
@@ -396,7 +396,7 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Marie-Antoinette
-DESCRIPTION:Marie Antoinette\n(8.0)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
+DESCRIPTION:Marie Antoinette\n(7.9)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
  \nJapan\, United States of America\, France\n(English\, French\, Latin)\n
  𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
  la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
@@ -429,7 +429,7 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Le Labyrinthe de Pan
-DESCRIPTION:El laberinto del fauno\n(22.2)\n\nFantastique\, Drame\, Guerre\
+DESCRIPTION:El laberinto del fauno\n(32.1)\n\nFantastique\, Drame\, Guerre\
  n𝟭𝗵𝟱𝟯\n\nMexico\, Spain\, United States of America\n(Spanish)\
  n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 nov
  embre 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Guillermo del
@@ -462,7 +462,7 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Mad Max : Fury Road
-DESCRIPTION:Mad Max: Fury Road\n(48.7)\n\nAction\, Aventure\, Science-Ficti
+DESCRIPTION:Mad Max: Fury Road\n(44.5)\n\nAction\, Aventure\, Science-Ficti
  on\n𝟮𝗵\n\nAustralia\, United States of America\n(English)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 mai 2015\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : George Miller\n𝗦𝗰
@@ -495,7 +495,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:À bicyclette !
-DESCRIPTION:À bicyclette !\n(3.6)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
+DESCRIPTION:À bicyclette !\n(3.4)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
  nFrance\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 26 fevrier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Mathias Mlekuz\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mathias Mlekuz\,
@@ -525,7 +525,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Camembert
-DESCRIPTION:Camembert\n(6.0 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
+DESCRIPTION:Camembert\n(6.2 ↑︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
  \n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
  𝗻𝗮𝗹𝗲 : 18 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿𝘀 : Matthieu Rumani\, Nicolas Slomka\n𝗦𝗰𝗲𝗻𝗮
@@ -558,7 +558,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:La Vie rêvée de Walter Mitty
-DESCRIPTION:The Secret Life of Walter Mitty\n(15.5)\n\nAventure\, Comédie\
+DESCRIPTION:The Secret Life of Walter Mitty\n(14.0)\n\nAventure\, Comédie\
  , Drame\, Fantastique\n𝟭𝗵𝟱𝟰\n\nUnited Kingdom\, United States 
  of America\n(English\, Icelandic\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
  𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2014\n\n𝗥𝗲𝗮𝗹
@@ -592,10 +592,10 @@ DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(2.3)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
+DESCRIPTION:Mika Ex Machina\n(2.2)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
-  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
-  Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
+  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Déb
+ orah Saïag\, Mika Tard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
  éborah Saïag\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mika Ta
  rd\, Déborah Saïag\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mika Tard\n- Dé
  borah Saïag\n- Iris Brey\n- Ludivine Sagnier\n- Daniel Gourdon\n- Audrey 
@@ -654,12 +654,12 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux : La Communauté de l'anneau
-DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(74.2)\n\nAv
+DESCRIPTION:The Lord of the Rings: The Fellowship of the Ring\n(64.6)\n\nAv
  enture\, Fantastique\, Action\n𝟮𝗵𝟱𝟵\n\nNew Zealand\, United St
  ates of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼
  𝗿𝗶𝗾𝘂𝗲 : 19 decembre 2001\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
- 𝘁𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Fran 
- Walsh\, Philippa Boyens\, Peter Jackson\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
+ 𝘁𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Phili
+ ppa Boyens\, Fran Walsh\, Peter Jackson\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
  𝗽𝗵𝗶𝗲 : Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
   : New Line Cinema\, WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰
  𝘁𝗲𝘂𝗿𝘀 :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n
@@ -687,7 +687,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(17.3)\n\nAnimation\, Comédie\, Aventure\,
+DESCRIPTION:The Cat in the Hat\n(16.3)\n\nAnimation\, Comédie\, Aventure\,
   Fantastique\, Familial\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
  s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
@@ -716,7 +716,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(5.0 ↑︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(5.7 ↑︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -746,7 +746,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Kiki la petite sorcière
-DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(20.5)\n\nAnimation\
+DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(19.2)\n\nAnimation\
  , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
@@ -776,25 +776,25 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux : Les Deux Tours
-DESCRIPTION:The Lord of the Rings: The Two Towers\n(52.0)\n\nAventure\, Fan
+DESCRIPTION:The Lord of the Rings: The Two Towers\n(45.1)\n\nAventure\, Fan
  tastique\, Action\n𝟯𝗵\n\nNew Zealand\, United States of America\n(En
  glish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 
  : 18 decembre 2002\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter
-  Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Fran Walsh\, Philippa Boyens\
- , Stephen Sinclair\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : And
- rew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : New Line Cinema\, W
- ingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n
- - Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Sean Astin\n- Andy Ser
- kis\n- John Rhys-Davies\n- Orlando Bloom\n- Bernard Hill\n- Miranda Otto\n
- - Dominic Monaghan\n- Billy Boyd\n- Christopher Lee\n\n\nLa Communauté es
- t dissoute\, mais la quête pour détruire l'Anneau Unique se poursuit. Ac
- compagné par son fidèle Sam et guidé par l'étrange Gollum\, Frodon che
- rche un moyen d'entrer en Mordor. Alors que l'armée de Saroumane se met e
- n marche\, les autres compagnons de la Communauté se préparent à la bat
- aille. La Guerre de l'Anneau a commencé !\n\n\nAffiche : https://image.tm
- db.org/t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg\n\nFiche TMDB : https://ww
- w.themoviedb.org/movie/121\n\nSéance relevée sur AlloCiné.\nDonnées fo
- urnies par The Movie Database (TMDB)
+  Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen Sinclair\, Philippa B
+ oyens\, Peter Jackson\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 
+ Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : New Line Cinema\
+ , WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 
+ :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Sean Astin\n- Andy 
+ Serkis\n- John Rhys-Davies\n- Orlando Bloom\n- Bernard Hill\n- Miranda Ott
+ o\n- Dominic Monaghan\n- Billy Boyd\n- Christopher Lee\n\n\nLa Communauté
+  est dissoute\, mais la quête pour détruire l'Anneau Unique se poursuit.
+  Accompagné par son fidèle Sam et guidé par l'étrange Gollum\, Frodon 
+ cherche un moyen d'entrer en Mordor. Alors que l'armée de Saroumane se me
+ t en marche\, les autres compagnons de la Communauté se préparent à la 
+ bataille. La Guerre de l'Anneau a commencé !\n\n\nAffiche : https://image
+ .tmdb.org/t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg\n\nFiche TMDB : https:/
+ /www.themoviedb.org/movie/121\n\nSéance relevée sur AlloCiné.\nDonnées
+  fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qVHBqQYLDRs7ESjP9q6o9iPHLWj.jpg
@@ -808,12 +808,12 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux : Le Retour du roi
-DESCRIPTION:The Lord of the Rings: The Return of the King\n(58.4)\n\nAventu
+DESCRIPTION:The Lord of the Rings: The Return of the King\n(49.1)\n\nAventu
  re\, Fantastique\, Action\n𝟯𝗵𝟮𝟭\n\nNew Zealand\, United States
   of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿
  𝗶𝗾𝘂𝗲 : 17 decembre 2003\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Peter Jackson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Peter Jac
- kson\, Philippa Boyens\, Fran Walsh\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ kson\, Fran Walsh\, Philippa Boyens\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
  𝗵𝗶𝗲 : Andrew Lesnie\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : N
  ew Line Cinema\, WingNut Films\, The Saul Zaentz Company\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Elijah Wood\n- Ian McKellen\n- Viggo Mortensen\n- Se
@@ -841,7 +841,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(92.6 ↑︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(75.2 ↑︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟮𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
