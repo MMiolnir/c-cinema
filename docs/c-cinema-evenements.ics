@@ -11,74 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-1567605@calendrier-cine-fr
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Scrooge
-DESCRIPTION:Ebenezer\n(42.2 ↑︎)\n\nFantastique\, Comédie\n𝟭𝗵𝟱
- 𝟱\n\nUnited States of America\, United Kingdom\n(English)\n𝗔𝗩𝗣
-  - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 11 nove
- mbre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ti West\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nathaniel Halpern\n𝗣𝗵𝗼𝘁𝗼𝗴
- 𝗿𝗮𝗽𝗵𝗶𝗲 : Checco Varese\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : Paramount Pictures\, Domain Entertainment\, Wattsco\n\n𝗔𝗰
- 𝘁𝗲𝘂𝗿𝘀 :\n- Johnny Depp\n- Rupert Grint\n- Daisy Ridley\n- T
- ramell Tillman\n- Ian McKellen\n- Andrea Riseborough\n- Sam Claflin\n- Art
- hur Conti\n- Charlie Murphy\n- Robert Strange\n- Alfie Buck\n- Ian Midlane
- \n\n\nEbenezer Scrooge est un vieil homme avare\, pingre et solitaire. Bie
- n évidemment\, il déteste et méprise Noël et tout ce qui engendre le b
- onheur. C'est alors qu'il reçoit la visite du fantôme d'un ancien associ
- é ainsi que par les esprits de Noëls du passé\, du présent et du futur
- .\n\n\nAffiche : https://image.tmdb.org/t/p/w780/9RCnWkVOevfAVuSkYkQOg1k8Q
- vO.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1567605\n\nSéance
-  relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9RCnWkVOevfAVuSkY
- kQOg1k8QvO.jpg
-CATEGORIES:Fantastique,Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:event-1437511@calendrier-cine-fr
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Comment braquer une banque
-DESCRIPTION:How to Rob a Bank\n(15.7 ↑︎)\n\nAction\, Crime\, Thriller\n
- 𝟮𝗵𝟬𝟭\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 
- 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 11 novembr
- e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Leitch\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mark Bianculli\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jonathan Sela\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : 87North Productions\, Imagine Entertainment\, Amazon MGM St
- udios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Nicholas Hoult\n- Zoë Kravitz\
- n- Anna Sawai\n- Rhenzy Feliz\n- Pete Davidson\n- John C. Reilly\n- Christ
- ian Slater\n- Tati Gabrielle\n- Young Mazino\n- Michael Gandolfini\n- Sam 
- Lerner\n- Thomas C. Stuhr\n\n\nUne équipe de braqueurs filme ses hold-up 
- en direct et devient viral. Mais leur célébrité grandissante attire l'a
- ttention d'un agent du FBI et d'une ingénieure informatique déterminés 
- à les arrêter. Alors que cet improbable duo se rapproche dangereusement 
- d’eux\, le gang décide de tout miser sur le braquage le plus ambitieux 
- de leur carrière.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/uvTMQzEU
- 3b4GJLVv2HD318rb1sB.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1
- 437511\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie
-  Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uvTMQzEU3b4GJLVv2
- HD318rb1sB.jpg
-CATEGORIES:Action,Crime,Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:event-438631@calendrier-cine-fr
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Dune
-DESCRIPTION:Dune\n(41.1)\n\nScience-Fiction\, Aventure\n𝟮𝗵𝟯𝟱\n\
+DESCRIPTION:Dune\n(40.1)\n\nScience-Fiction\, Aventure\n𝟮𝗵𝟯𝟱\n\
  nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 septembre 2021\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -112,7 +50,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Dune : Deuxième partie
-DESCRIPTION:Dune: Part Two\n(41.7)\n\nScience-Fiction\, Aventure\n𝟮𝗵
+DESCRIPTION:Dune: Part Two\n(42.5)\n\nScience-Fiction\, Aventure\n𝟮𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 fevrier 2024\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮
@@ -142,7 +80,7 @@ DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Marie-Antoinette
-DESCRIPTION:Marie Antoinette\n(6.4)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
+DESCRIPTION:Marie Antoinette\n(6.2)\n\nDrame\, Histoire\n𝟮𝗵𝟬𝟯\n
  \nJapan\, United States of America\, France\n(English\, French\, Latin)\n
  𝗔𝗩𝗣\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sofia Coppo
  la\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sofia Coppola\n𝗣𝗵𝗼𝘁𝗼
@@ -175,7 +113,7 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Le Labyrinthe de Pan
-DESCRIPTION:El laberinto del fauno\n(15.3)\n\nFantastique\, Drame\, Guerre\
+DESCRIPTION:El laberinto del fauno\n(16.0)\n\nFantastique\, Drame\, Guerre\
  n𝟭𝗵𝟱𝟯\n\nMexico\, Spain\, United States of America\n(Spanish)\
  n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 nov
  embre 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Guillermo del
@@ -208,11 +146,11 @@ DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Mad Max : Fury Road
-DESCRIPTION:Mad Max: Fury Road\n(21.2)\n\nAction\, Aventure\, Science-Ficti
+DESCRIPTION:Mad Max: Fury Road\n(21.0)\n\nAction\, Aventure\, Science-Ficti
  on\n𝟮𝗵\n\nAustralia\, United States of America\n(English)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 mai 2015\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : George Miller\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Nico Lathouris\, George Miller\, Brendan McCart
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : George Miller\, Nico Lathouris\, Brendan McCart
  hy\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : John Seale\n𝗣
  𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Village Roa
  dshow Pictures\, Kennedy Miller Mitchell\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
@@ -241,7 +179,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:À bicyclette !
-DESCRIPTION:À bicyclette !\n(1.1)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
+DESCRIPTION:À bicyclette !\n(1.2)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
  nFrance\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 26 fevrier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Mathias Mlekuz\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mathias Mlekuz\,
@@ -271,7 +209,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Camembert
-DESCRIPTION:Camembert\n(1.2 ↓︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
+DESCRIPTION:Camembert\n(1.3 ↓︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
  \n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
  𝗻𝗮𝗹𝗲 : 18 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿𝘀 : Matthieu Rumani\, Nicolas Slomka\n𝗦𝗰𝗲𝗻𝗮
@@ -304,7 +242,7 @@ DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:La Vie rêvée de Walter Mitty
-DESCRIPTION:The Secret Life of Walter Mitty\n(11.6)\n\nAventure\, Comédie\
+DESCRIPTION:The Secret Life of Walter Mitty\n(11.3)\n\nAventure\, Comédie\
  , Drame\, Fantastique\n𝟭𝗵𝟱𝟰\n\nUnited Kingdom\, United States 
  of America\n(English\, Icelandic\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
  𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2014\n\n𝗥𝗲𝗮𝗹
@@ -338,7 +276,7 @@ DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(0.5)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
+DESCRIPTION:Mika Ex Machina\n(0.4)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
   1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Déb
  orah Saïag\, Mika Tard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
@@ -370,7 +308,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Arco
-DESCRIPTION:Arco\n(3.6)\n\nAventure\, Animation\, Familial\, Science-Fictio
+DESCRIPTION:Arco\n(4.0)\n\nAventure\, Animation\, Familial\, Science-Fictio
  n\n𝟭𝗵𝟮𝟴\n\nFrance\, United Kingdom\, United States of America\
  n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 22 octobre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : U
@@ -400,7 +338,7 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(4.5)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(5.4)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -434,7 +372,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(65.3)\n\nAnimation\, Fantastique\, Aventur
+DESCRIPTION:The Cat in the Hat\n(64.7)\n\nAnimation\, Fantastique\, Aventur
  e\, Familial\, Comédie\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
  s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
@@ -463,7 +401,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(3.3 ↓︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(3.9 ↓︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -493,7 +431,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Focker-in-Law\n(13.9 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
+DESCRIPTION:Focker-in-Law\n(13.5 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
  𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 25 novembre 2026\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Hamburg\n𝗦𝗰
@@ -522,7 +460,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Kiki la petite sorcière
-DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(12.5)\n\nAnimation\
+DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(12.7)\n\nAnimation\
  , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
@@ -552,7 +490,7 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(4.5)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(5.4)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -586,7 +524,7 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(4.5)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(5.4)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -620,7 +558,7 @@ DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(1.6 ↘︎)\n\nDrame\n𝟮𝗵𝟭
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.1 ↘︎)\n\nDrame\n𝟮𝗵𝟭
  𝟮\n\nFrance\, Italy\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jean-Pierre Jeunet\n𝗦
@@ -658,7 +596,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(19.8 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+DESCRIPTION:I Play Rocky\n(22.0 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\, Australia\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farrelly\n
@@ -690,7 +628,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Mystik
-DESCRIPTION:Mystik\n(0.7 ↓︎)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\
+DESCRIPTION:Mystik\n(0.6 ↓︎)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\
  nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁
  𝗶𝗼𝗻𝗮𝗹𝗲 : 17 fevrier 2027\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿𝘀 : Raphaël Quenard\, Azedine Kasri\n𝗦𝗰𝗲𝗻
@@ -723,7 +661,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(27.2 ↓︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(25.3 ↓︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟯𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -746,40 +684,5 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/zfI58QKzav88liXLs
  k0lvFSMCdr.jpg
 CATEGORIES:Science-Fiction,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:event-535377@calendrier-cine-fr
-DTSTAMP:20270126T000000Z
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270127
-SUMMARY:Michel Sardou – Dernier show
-DESCRIPTION:Michel Sardou – Dernier show\n(0.7)\n\nMusique\, Téléfilm\n
- 𝟮𝗵𝟮𝟯\n\nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶
- 𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 27 janvier 2027\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Franck Broqua\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : Franck Saurat Productions\, Carson Prod\n\n𝗔𝗰
- 𝘁𝗲𝘂𝗿𝘀 :\n- Stéphane Bern\n- Michel Sardou\n- Amir\n- Anggi
- e Robba\n- Charles Aznavour\n- Florent Pagny\n- Garou\n- Gérard Depardieu
- \n- Gregory Porter\n- Laurent Gerra\n- Marie-Anne Chazel\n- Némo Schiffma
- n\n\n\nAprès 50 ans de carrière\, le chanteur donne un dernier show sous
-  Le Dôme de Paris-Palais des sports avant de se consacrer au théâtre. E
- n compagnie de Stéphane Bern\, Michel Sardou - qui a vendu plus de 100 m
- illions de disques ! - reçoit de nombreux artistes avec qui il reprend 
- ses plus grands succès. Accompagnés d'un grand orchestre de trente music
- iens\, ils chantent ensemble « Les Lacs du Connemara »\, « La Maladi
- e d'amour »\, « Être une femme » ou encore « Je vais t'aimer ».
-  Avec Charles Aznavour\, Florent Pagny\, Laurent Gerra\, Nolwenn Leroy\, A
- mir\, Kids United\, Garou\, le groupe Arcadian\, le crooner américain Gre
- gory Porter\, les enfants du projet « Sardou et nous… » et la partic
- ipation exceptionnelle des acteurs Gérard Depardieu et Marie-Anne Chazel.
- \n\n\nAffiche : https://image.tmdb.org/t/p/w780/9nuwf8wkBoaL0wtMn8yP68PH9l
- D.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/535377\n\nSéance r
- elevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/9nuwf8wkBoaL0wtMn8yP68PH9lD.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/9nuwf8wkBoaL0wtMn
- 8yP68PH9lD.jpg
-CATEGORIES:Musique,Téléfilm
 END:VEVENT
 END:VCALENDAR
