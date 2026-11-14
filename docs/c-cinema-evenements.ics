@@ -11,42 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-693134@calendrier-cine-fr
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Dune : Deuxième partie
-DESCRIPTION:Dune: Part Two\n(43.0)\n\nScience-Fiction\, Aventure\n𝟮𝗵
- 𝟰𝟱\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 
- 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 fevrier 2024\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Denis Villeneuve\, Jon Spaihts\n𝗣𝗵𝗼𝘁𝗼𝗴
- 𝗿𝗮𝗽𝗵𝗶𝗲 : Greig Fraser\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Timoth
- ée Chalamet\n- Zendaya\n- Rebecca Ferguson\n- Javier Bardem\n- Josh Broli
- n\n- Austin Butler\n- Florence Pugh\n- Dave Bautista\n- Christopher Walken
- \n- Léa Seydoux\n- Stellan Skarsgård\n- Charlotte Rampling\n\n\nLe voyag
- e mythique de Paul Atreides qui s'allie à Chani et aux Fremen dans sa qu
- ête de vengeance envers les conspirateurs qui ont anéanti sa famille. De
- vant choisir entre l'amour de sa vie et le destin de l'univers\, il fera t
- out pour éviter un terrible futur que lui seul peut prédire.\n\n\nAffich
- e : https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg\n\nFic
- he TMDB : https://www.themoviedb.org/movie/693134\n\nSéance relevée sur 
- AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnj
- pwJFm0dgt4.jpg
-CATEGORIES:Science-Fiction,Aventure
-END:VEVENT
-BEGIN:VEVENT
 UID:event-438631@calendrier-cine-fr
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
 SUMMARY:Dune
-DESCRIPTION:Dune\n(40.4)\n\nScience-Fiction\, Aventure\n𝟮𝗵𝟯𝟱\n\
+DESCRIPTION:Dune\n(39.2)\n\nScience-Fiction\, Aventure\n𝟮𝗵𝟯𝟱\n\
  nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
  𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 septembre 2021\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -75,70 +45,34 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ck
 CATEGORIES:Science-Fiction,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:event-1417@calendrier-cine-fr
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Le Labyrinthe de Pan
-DESCRIPTION:El laberinto del fauno\n(14.9)\n\nFantastique\, Drame\, Guerre\
- n𝟭𝗵𝟱𝟯\n\nMexico\, Spain\, United States of America\n(Spanish)\
- n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 nov
- embre 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Guillermo del
-  Toro\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Guillermo del Toro\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Guillermo Navarro\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : Estudios Picasso\, Esperanto Filmoj\, Tequila G
- ang\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Ivana Baquero\n- Sergi López\n- 
- Maribel Verdú\n- Doug Jones\n- Ariadna Gil\n- Álex Angulo\n- Roger Casam
- ajor\n- Manolo Solo\n- César Vea\n- Ivan Massagué\n- Gonzalo Uriarte\n- 
- Eusebio Lázaro\n\n\nEspagne 1944. Ofelia s’installe avec sa mère dans 
- une garnison dirigée par Vidal\, son beau‐père\, capitaine autoritaire
-  de l’armée franquiste. À proximité de la grande maison familiale\, l
- a jeune fille découvre un étrange labyrinthe gardé par une créature no
- mmée Pan. Le monstre lui révèle qu’elle n’est autre que la princess
- e d’un royaume enchanté. Afin de découvrir la vérité\, Ofelia devra 
- se soumettre à trois épreuves que rien ne l’a préparée à affronter
- …\n\n\nAffiche : https://image.tmdb.org/t/p/w780/hV2WDaJ4l6VPipM08AkmhLF
- DWqE.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1417\n\nSéance 
- relevée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+UID:event-693134@calendrier-cine-fr
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Dune : Deuxième partie
+DESCRIPTION:Dune: Part Two\n(43.5)\n\nScience-Fiction\, Aventure\n𝟮𝗵
+ 𝟰𝟱\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 
+ 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 fevrier 2024\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Denis Villeneuve\, Jon Spaihts\n𝗣𝗵𝗼𝘁𝗼𝗴
+ 𝗿𝗮𝗽𝗵𝗶𝗲 : Greig Fraser\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
+ 𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Timoth
+ ée Chalamet\n- Zendaya\n- Rebecca Ferguson\n- Javier Bardem\n- Josh Broli
+ n\n- Austin Butler\n- Florence Pugh\n- Dave Bautista\n- Christopher Walken
+ \n- Léa Seydoux\n- Stellan Skarsgård\n- Charlotte Rampling\n\n\nLe voyag
+ e mythique de Paul Atreides qui s'allie à Chani et aux Fremen dans sa qu
+ ête de vengeance envers les conspirateurs qui ont anéanti sa famille. De
+ vant choisir entre l'amour de sa vie et le destin de l'univers\, il fera t
+ out pour éviter un terrible futur que lui seul peut prédire.\n\n\nAffich
+ e : https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg\n\nFic
+ he TMDB : https://www.themoviedb.org/movie/693134\n\nSéance relevée sur 
+ AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/hV2WDaJ4l6VPipM08AkmhLFDWqE.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hV2WDaJ4l6VPipM08
- AkmhLFDWqE.jpg
-CATEGORIES:Fantastique,Drame,Guerre
-END:VEVENT
-BEGIN:VEVENT
-UID:event-76341@calendrier-cine-fr
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Mad Max : Fury Road
-DESCRIPTION:Mad Max: Fury Road\n(20.5)\n\nAction\, Aventure\, Science-Ficti
- on\n𝟮𝗵\n\nAustralia\, United States of America\n(English)\n𝗦𝗼
- 𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 14 mai 2015\n\
- n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : George Miller\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Nico Lathouris\, George Miller\, Brendan McCart
- hy\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : John Seale\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Warner Bros. Pictures\, Village Roa
- dshow Pictures\, Kennedy Miller Mitchell\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
- \n- Tom Hardy\n- Charlize Theron\n- Nicholas Hoult\n- Hugh Keays-Byrne\n- 
- Josh Helman\n- Nathan Jones\n- Zoë Kravitz\n- Rosie Huntington-Whiteley\n
- - Riley Keough\n- Abbey Lee\n- Courtney Eaton\n- John Howard\n\n\nHanté p
- ar un lourd passé\, Mad Max estime que le meilleur moyen de survivre est 
- de rester seul. Cependant\, il se retrouve embarqué par une bande qui par
- court le désert à bord d’un véhicule militaire piloté par l’Impér
- atrice Furiosa. Ils fuient la Citadelle où sévit le terrible Immortan Jo
- e qui s’est fait voler un objet irremplaçable. Enragé\, ce Seigneur de
-  guerre envoie ses hommes pour traquer les rebelles impitoyablement…\n\n
- \nAffiche : https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jp
- g\n\nFiche TMDB : https://www.themoviedb.org/movie/76341\n\nSéance relev
- ée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/oLy2V6AWSEfdPgKOt
- rSGnwB3Q2R.jpg
-CATEGORIES:Action,Aventure,Science-Fiction
+ t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnj
+ pwJFm0dgt4.jpg
+CATEGORIES:Science-Fiction,Aventure
 END:VEVENT
 BEGIN:VEVENT
 UID:event-1321412@calendrier-cine-fr
@@ -146,7 +80,7 @@ DTSTAMP:20261114T000000Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:À bicyclette !
-DESCRIPTION:À bicyclette !\n(1.1)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
+DESCRIPTION:À bicyclette !\n(1.3)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
  nFrance\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
  𝗾𝘂𝗲 : 26 fevrier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Mathias Mlekuz\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mathias Mlekuz\,
@@ -275,7 +209,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Arco
-DESCRIPTION:Arco\n(3.6)\n\nAventure\, Animation\, Familial\, Science-Fictio
+DESCRIPTION:Arco\n(3.4)\n\nAventure\, Animation\, Familial\, Science-Fictio
  n\n𝟭𝗵𝟮𝟴\n\nFrance\, United Kingdom\, United States of America\
  n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 22 octobre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : U
@@ -305,11 +239,11 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.2)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(5.9)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Peter S. Beagle\, Chris Conkling\n𝗣𝗵𝗼𝘁
+ 𝗻𝗮𝗿𝗶𝗼 : Chris Conkling\, Peter S. Beagle\n𝗣𝗵𝗼𝘁
  𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Timothy Galfas\n𝗣𝗿𝗼𝗱𝘂
  𝗰𝘁𝗶𝗼𝗻 : Fantasy Films\, The Saul Zaentz Company\n\n𝗔𝗰
  𝘁𝗲𝘂𝗿𝘀 :\n- Christopher Guard\n- William Squire\n- Michael S
@@ -339,12 +273,12 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(60.1)\n\nAnimation\, Fantastique\, Aventur
+DESCRIPTION:The Cat in the Hat\n(59.1)\n\nAnimation\, Fantastique\, Aventur
  e\, Familial\, Comédie\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
  s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿𝘀 : Erica Rivinoja\, Alessandro Carloni\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Alessandro Carloni\, Erica Rivinoja\, Caroline 
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Erica Rivinoja\, Alessandro Carloni\, Caroline 
  Goddard\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : DNEG\, Dr. Seuss Enter
  prises\, Warner Bros. Pictures Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
  \n- Bill Hader\n- Xochitl Gomez\n- Tiago Martinez\n- Matt Berry\n- Quinta 
@@ -368,7 +302,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(3.8 ↓︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.1 ↓︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -398,7 +332,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Focker-in-Law\n(14.8 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
+DESCRIPTION:Focker-in-Law\n(16.0 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
  𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 25 novembre 2026\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Hamburg\n𝗦𝗰
@@ -427,7 +361,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Kiki la petite sorcière
-DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(12.2)\n\nAnimation\
+DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(11.7)\n\nAnimation\
  , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
@@ -457,11 +391,11 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.2)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(5.9)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Peter S. Beagle\, Chris Conkling\n𝗣𝗵𝗼𝘁
+ 𝗻𝗮𝗿𝗶𝗼 : Chris Conkling\, Peter S. Beagle\n𝗣𝗵𝗼𝘁
  𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Timothy Galfas\n𝗣𝗿𝗼𝗱𝘂
  𝗰𝘁𝗶𝗼𝗻 : Fantasy Films\, The Saul Zaentz Company\n\n𝗔𝗰
  𝘁𝗲𝘂𝗿𝘀 :\n- Christopher Guard\n- William Squire\n- Michael S
@@ -491,11 +425,11 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.2)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(5.9)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Peter S. Beagle\, Chris Conkling\n𝗣𝗵𝗼𝘁
+ 𝗻𝗮𝗿𝗶𝗼 : Chris Conkling\, Peter S. Beagle\n𝗣𝗵𝗼𝘁
  𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Timothy Galfas\n𝗣𝗿𝗼𝗱𝘂
  𝗰𝘁𝗶𝗼𝗻 : Fantasy Films\, The Saul Zaentz Company\n\n𝗔𝗰
  𝘁𝗲𝘂𝗿𝘀 :\n- Christopher Guard\n- William Squire\n- Michael S
@@ -525,7 +459,7 @@ DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(2.1 →︎)\n\nDrame\n𝟮𝗵𝟭
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.3 →︎)\n\nDrame\n𝟮𝗵𝟭
  𝟮\n\nFrance\, Italy\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jean-Pierre Jeunet\n𝗦
@@ -563,7 +497,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(26.6 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+DESCRIPTION:I Play Rocky\n(27.9 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\, Australia\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farrelly\n
@@ -628,7 +562,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(25.1 ↓︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(26.7 ↓︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟯𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
