@@ -11,100 +11,6 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-438631@calendrier-cine-fr
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Dune
-DESCRIPTION:Dune\n(39.2)\n\nScience-Fiction\, Aventure\n𝟮𝗵𝟯𝟱\n\
- nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
- 𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 septembre 2021\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Eric Roth\, Denis Villeneuve\, Jon Spaihts\n𝗣𝗵𝗼𝘁
- 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Greig Fraser\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n-
-  Timothée Chalamet\n- Rebecca Ferguson\n- Oscar Isaac\n- Jason Momoa\n- S
- tellan Skarsgård\n- Stephen McKinley Henderson\n- Josh Brolin\n- Javier B
- ardem\n- Sharon Duncan-Brewster\n- 張震\n- Dave Bautista\n- David Dastma
- lchian\n\n\nL'histoire de Paul Atreides\, jeune homme aussi doué que bril
- lant\, voué à connaître un destin hors du commun qui le dépasse totale
- ment. Car\, s'il veut préserver l'avenir de sa famille et de son peuple\,
-  il devra se rendre sur Dune\, la planète la plus dangereuse de l'Univers
- . Mais aussi la seule à même de fournir la ressource la plus précieuse 
- capable de décupler la puissance de l'Humanité. Tandis que des forces ma
- léfiques se disputent le contrôle de cette planète\, seuls ceux qui par
- viennent à dominer leur peur pourront survivre…\n\n\nAffiche : https://
- image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg\n\nFiche TMDB : ht
- tps://www.themoviedb.org/movie/438631\n\nSéance relevée sur AlloCiné.\n
- Données fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ck
- g5zAZFHvsb.jpg
-CATEGORIES:Science-Fiction,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:event-693134@calendrier-cine-fr
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Dune : Deuxième partie
-DESCRIPTION:Dune: Part Two\n(43.5)\n\nScience-Fiction\, Aventure\n𝟮𝗵
- 𝟰𝟱\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 
- 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 fevrier 2024\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Denis Villeneuve\, Jon Spaihts\n𝗣𝗵𝗼𝘁𝗼𝗴
- 𝗿𝗮𝗽𝗵𝗶𝗲 : Greig Fraser\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Timoth
- ée Chalamet\n- Zendaya\n- Rebecca Ferguson\n- Javier Bardem\n- Josh Broli
- n\n- Austin Butler\n- Florence Pugh\n- Dave Bautista\n- Christopher Walken
- \n- Léa Seydoux\n- Stellan Skarsgård\n- Charlotte Rampling\n\n\nLe voyag
- e mythique de Paul Atreides qui s'allie à Chani et aux Fremen dans sa qu
- ête de vengeance envers les conspirateurs qui ont anéanti sa famille. De
- vant choisir entre l'amour de sa vie et le destin de l'univers\, il fera t
- out pour éviter un terrible futur que lui seul peut prédire.\n\n\nAffich
- e : https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg\n\nFic
- he TMDB : https://www.themoviedb.org/movie/693134\n\nSéance relevée sur 
- AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnj
- pwJFm0dgt4.jpg
-CATEGORIES:Science-Fiction,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:event-1321412@calendrier-cine-fr
-DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:À bicyclette !
-DESCRIPTION:À bicyclette !\n(1.3)\n\nComédie\, Drame\n𝟭𝗵𝟯𝟬\n\
- nFrance\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶
- 𝗾𝘂𝗲 : 26 fevrier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Mathias Mlekuz\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mathias Mlekuz\,
-  Philippe Rebbot\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Flore
- nt Sabatier\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : M.E.S. Productions
- \, F Comme Film\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mathias Mlekuz\n- Phi
- lippe Rebbot\n- Josef Mlekuz\n- Adriane Gradziel\n- Marziyeh Rezaei\n- Lau
- rent Jouault\n- Lucky\n- Romane Bohringer\n- Raoul Rebbot-Bohringer\n- May
- a Latrobe\n\n\nDe l’Atlantique à la mer Noire\, Mathias embarque son me
- illeur ami Philippe dans un road trip à bicyclette. Ensemble ils vont ref
- aire le voyage que Youri\, son fils\, avait entrepris avant de disparaîtr
- e tragiquement. Une épopée qu’ils traverseront avec tendresse\, humour
-  et émotion.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/3fx5j8LSJC1UG
- LHO455FY4peY8m.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/132141
- 2\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Data
- base (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/3fx5j8LSJC1UGLHO455FY4peY8m.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/3fx5j8LSJC1UGLHO4
- 55FY4peY8m.jpg
-CATEGORIES:Comédie,Drame
-END:VEVENT
-BEGIN:VEVENT
 UID:event-1613021@calendrier-cine-fr
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
@@ -138,12 +44,76 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jJECyLZIHUZxQbC1V
 CATEGORIES:Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:event-438631@calendrier-cine-fr
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Dune
+DESCRIPTION:Dune\n(39.1)\n\nScience-Fiction\, Aventure\n𝟮𝗵𝟯𝟱\n\
+ nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
+ 𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 septembre 2021\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : Eric Roth\, Denis Villeneuve\, Jon Spaihts\n𝗣𝗵𝗼𝘁
+ 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Greig Fraser\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n-
+  Timothée Chalamet\n- Rebecca Ferguson\n- Oscar Isaac\n- Jason Momoa\n- S
+ tellan Skarsgård\n- Stephen McKinley Henderson\n- Josh Brolin\n- Javier B
+ ardem\n- Sharon Duncan-Brewster\n- 張震\n- Dave Bautista\n- David Dastma
+ lchian\n\n\nL'histoire de Paul Atreides\, jeune homme aussi doué que bril
+ lant\, voué à connaître un destin hors du commun qui le dépasse totale
+ ment. Car\, s'il veut préserver l'avenir de sa famille et de son peuple\,
+  il devra se rendre sur Dune\, la planète la plus dangereuse de l'Univers
+ . Mais aussi la seule à même de fournir la ressource la plus précieuse 
+ capable de décupler la puissance de l'Humanité. Tandis que des forces ma
+ léfiques se disputent le contrôle de cette planète\, seuls ceux qui par
+ viennent à dominer leur peur pourront survivre…\n\n\nAffiche : https://
+ image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg\n\nFiche TMDB : ht
+ tps://www.themoviedb.org/movie/438631\n\nSéance relevée sur AlloCiné.\n
+ Données fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ck
+ g5zAZFHvsb.jpg
+CATEGORIES:Science-Fiction,Aventure
+END:VEVENT
+BEGIN:VEVENT
+UID:event-693134@calendrier-cine-fr
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Dune : Deuxième partie
+DESCRIPTION:Dune: Part Two\n(42.6)\n\nScience-Fiction\, Aventure\n𝟮𝗵
+ 𝟰𝟱\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 
+ 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 fevrier 2024\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Denis Villeneuve\, Jon Spaihts\n𝗣𝗵𝗼𝘁𝗼𝗴
+ 𝗿𝗮𝗽𝗵𝗶𝗲 : Greig Fraser\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
+ 𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Timoth
+ ée Chalamet\n- Zendaya\n- Rebecca Ferguson\n- Javier Bardem\n- Josh Broli
+ n\n- Austin Butler\n- Florence Pugh\n- Dave Bautista\n- Christopher Walken
+ \n- Léa Seydoux\n- Stellan Skarsgård\n- Charlotte Rampling\n\n\nLe voyag
+ e mythique de Paul Atreides qui s'allie à Chani et aux Fremen dans sa qu
+ ête de vengeance envers les conspirateurs qui ont anéanti sa famille. De
+ vant choisir entre l'amour de sa vie et le destin de l'univers\, il fera t
+ out pour éviter un terrible futur que lui seul peut prédire.\n\n\nAffich
+ e : https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg\n\nFic
+ he TMDB : https://www.themoviedb.org/movie/693134\n\nSéance relevée sur 
+ AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/iRNbRAIGQQr5diGnjpwJFm0dgt4.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnj
+ pwJFm0dgt4.jpg
+CATEGORIES:Science-Fiction,Aventure
+END:VEVENT
+BEGIN:VEVENT
 UID:event-116745@calendrier-cine-fr
 DTSTAMP:20261115T000000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:La Vie rêvée de Walter Mitty
-DESCRIPTION:The Secret Life of Walter Mitty\n(10.8)\n\nAventure\, Comédie\
+DESCRIPTION:The Secret Life of Walter Mitty\n(10.5)\n\nAventure\, Comédie\
  , Drame\, Fantastique\n𝟭𝗵𝟱𝟰\n\nUnited Kingdom\, United States 
  of America\n(English\, Icelandic\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
  𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2014\n\n𝗥𝗲𝗮𝗹
@@ -177,7 +147,7 @@ DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(0.5)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
+DESCRIPTION:Mika Ex Machina\n(0.4)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
   1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
   Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
@@ -209,12 +179,12 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Arco
-DESCRIPTION:Arco\n(3.4)\n\nAventure\, Animation\, Familial\, Science-Fictio
+DESCRIPTION:Arco\n(4.0)\n\nAventure\, Animation\, Familial\, Science-Fictio
  n\n𝟭𝗵𝟮𝟴\n\nFrance\, United Kingdom\, United States of America\
  n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 22 octobre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : U
- go Bienvenu\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ugo Bienvenu\, Félix de G
- ivry\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Remembers\, MountainA\, F
+ go Bienvenu\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Félix de Givry\, Ugo Bien
+ venu\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Remembers\, MountainA\, F
  rance 3 Cinéma\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Margot Ringard Oldra\
  n- Oscar Tresanini\n- Nathanaël Perrot\n- Alma Jodorowsky\n- Swann Arlaud
  \n- Vincent Macaigne\n- Louis Garrel\n- William Lebghil\n- Sophie Mas\n- F
@@ -239,7 +209,7 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(5.9)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.3)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -273,7 +243,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(59.1)\n\nAnimation\, Fantastique\, Aventur
+DESCRIPTION:The Cat in the Hat\n(61.0)\n\nAnimation\, Fantastique\, Aventur
  e\, Familial\, Comédie\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
  s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
@@ -302,7 +272,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.1 ↓︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(3.5 ↓︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -332,7 +302,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Focker-in-Law\n(16.0 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
+DESCRIPTION:Focker-in-Law\n(14.5 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
  𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 25 novembre 2026\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Hamburg\n𝗦𝗰
@@ -361,7 +331,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Kiki la petite sorcière
-DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(11.7)\n\nAnimation\
+DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(11.0)\n\nAnimation\
  , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
@@ -391,7 +361,7 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(5.9)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.3)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -425,7 +395,7 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(5.9)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.3)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -459,7 +429,7 @@ DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(2.3 →︎)\n\nDrame\n𝟮𝗵𝟭
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.0 ↘︎)\n\nDrame\n𝟮𝗵𝟭
  𝟮\n\nFrance\, Italy\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jean-Pierre Jeunet\n𝗦
@@ -497,7 +467,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(27.9 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+DESCRIPTION:I Play Rocky\n(27.5 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\, Australia\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farrelly\n
@@ -529,26 +499,26 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Mystik
-DESCRIPTION:Mystik\n(0.5 ↓︎)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\
- nFrance\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁
- 𝗶𝗼𝗻𝗮𝗹𝗲 : 17 fevrier 2027\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
- 𝘁𝗲𝘂𝗿𝘀 : Raphaël Quenard\, Azedine Kasri\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Raphaël Quenard\, Azedine Kasri\, Guillaume Scaillet\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Five Dogs\, Lipsum Productions\
- n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Raphaël Quenard\n- François Cluzet\
- n- Hakim Jemili\n- Emmanuelle Bercot\n- Magalie Lépine-Blondeau\n\n\nLion
- el\, unique policier municipal d’un petit village\, est un homme simple\
- , doux\, un peu à côté. Moqué par les siens\, ignoré par les femmes\,
-  il rêve d'être aimé pour ce qu’il est. Lorsqu’Angèle\, son amour 
- d’enfance devenue journaliste star\, revient au village pour une soirée
-  d’hommage\, Lionel croit à une renaissance. Le temps d’une nuit\, il
- s s’aiment. Mais dès le lendemain\, elle s’éloigne. Pour la retenir\
- , Lionel kidnappe Mystik\, le chat vedette d’Angèle\; mais à force de 
- s’attacher à l’animal\, il devra choisir entre nourrir son mensonge o
- u apprendre\, enfin\, à s’aimer lui-même...\n\n\nAffiche : https://ima
- ge.tmdb.org/t/p/w780/l5hoFvnByeeZqyJaI8F8jvG56jO.jpg\n\nFiche TMDB : https
- ://www.themoviedb.org/movie/1542021\n\nSéance relevée sur AlloCiné.\nDo
- nnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Mystik\n(0.6)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\nFrance
+ \n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
+ 𝗻𝗮𝗹𝗲 : 17 fevrier 2027\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
+ 𝘂𝗿𝘀 : Raphaël Quenard\, Azedine Kasri\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : Raphaël Quenard\, Azedine Kasri\, Guillaume Scaillet\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Five Dogs\, Lipsum Productions\n\n𝗔
+ 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Raphaël Quenard\n- François Cluzet\n- Haki
+ m Jemili\n- Emmanuelle Bercot\n- Magalie Lépine-Blondeau\n\n\nLionel\, un
+ ique policier municipal d’un petit village\, est un homme simple\, doux\
+ , un peu à côté. Moqué par les siens\, ignoré par les femmes\, il rê
+ ve d'être aimé pour ce qu’il est. Lorsqu’Angèle\, son amour d’enf
+ ance devenue journaliste star\, revient au village pour une soirée d’ho
+ mmage\, Lionel croit à une renaissance. Le temps d’une nuit\, ils s’a
+ iment. Mais dès le lendemain\, elle s’éloigne. Pour la retenir\, Lione
+ l kidnappe Mystik\, le chat vedette d’Angèle\; mais à force de s’att
+ acher à l’animal\, il devra choisir entre nourrir son mensonge ou appre
+ ndre\, enfin\, à s’aimer lui-même...\n\n\nAffiche : https://image.tmdb
+ .org/t/p/w780/l5hoFvnByeeZqyJaI8F8jvG56jO.jpg\n\nFiche TMDB : https://www.
+ themoviedb.org/movie/1542021\n\nSéance relevée sur AlloCiné.\nDonnées 
+ fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/l5hoFvnByeeZqyJaI8F8jvG56jO.jpg
@@ -562,7 +532,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(26.7 ↓︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(24.9 ↓︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟯𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
