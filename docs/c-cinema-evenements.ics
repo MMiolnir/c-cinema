@@ -11,79 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-1613021@calendrier-cine-fr
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Camembert
-DESCRIPTION:Camembert\n(1.4 ↓︎)\n\nComédie\n𝟭𝗵𝟮𝟱\n\nFrance
- \n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
- 𝗻𝗮𝗹𝗲 : 18 novembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿𝘀 : Matthieu Rumani\, Nicolas Slomka\n𝗦𝗰𝗲𝗻𝗮
- 𝗿𝗶𝗼 : Matthieu Rumani\, Nicolas Slomka\, Marina Rollman\n𝗣𝗵
- 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jean-Paul Agostini\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Jerico Films\, TF1 Films Production\, T
- F1 Studio\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Kristin Scott Thomas\n- Ale
- x Lutz\n- Pascale Arbillot\n- Bernard Le Coq\n- Guillermo Guiz\n- Bertrand
-  Goncalves\n- Anaïde Rozam\n- Sacha Vanbockestal\n- Panayotis Pascot\n- S
- aadia Bentaïeb\n- Jéremy Gillet\n\n\nLors du dîner du réveillon chez l
- es Roussel\, Stan rencontre pour la première fois la grande famille bourg
- eoise de sa petite amie\, Cléo. Tout semble parfait… jusqu’à ce que 
- le groupe décide de lancer une partie de Trivial Pursuit. Face à ces ér
- udits surentraînés\, Stan sait qu’il n’a aucune chance. Mais France\
- , sa belle-mère autoritaire\, ne lui laisse pas le choix. Après tout\, c
- e n’est "qu’un jeu "…\n\n\nAffiche : https://image.tmdb.org/t/p/w7
- 80/jJECyLZIHUZxQbC1VowuURFs2Kl.jpg\n\nFiche TMDB : https://www.themoviedb.
- org/movie/1613021\n\nSéance relevée sur AlloCiné.\nDonnées fournies pa
- r The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jJECyLZIHUZxQbC1VowuURFs2Kl.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jJECyLZIHUZxQbC1V
- owuURFs2Kl.jpg
-CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
-UID:event-438631@calendrier-cine-fr
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:Dune
-DESCRIPTION:Dune\n(39.1)\n\nScience-Fiction\, Aventure\n𝟮𝗵𝟯𝟱\n\
- nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
- 𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 septembre 2021\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Eric Roth\, Denis Villeneuve\, Jon Spaihts\n𝗣𝗵𝗼𝘁
- 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Greig Fraser\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n-
-  Timothée Chalamet\n- Rebecca Ferguson\n- Oscar Isaac\n- Jason Momoa\n- S
- tellan Skarsgård\n- Stephen McKinley Henderson\n- Josh Brolin\n- Javier B
- ardem\n- Sharon Duncan-Brewster\n- 張震\n- Dave Bautista\n- David Dastma
- lchian\n\n\nL'histoire de Paul Atreides\, jeune homme aussi doué que bril
- lant\, voué à connaître un destin hors du commun qui le dépasse totale
- ment. Car\, s'il veut préserver l'avenir de sa famille et de son peuple\,
-  il devra se rendre sur Dune\, la planète la plus dangereuse de l'Univers
- . Mais aussi la seule à même de fournir la ressource la plus précieuse 
- capable de décupler la puissance de l'Humanité. Tandis que des forces ma
- léfiques se disputent le contrôle de cette planète\, seuls ceux qui par
- viennent à dominer leur peur pourront survivre…\n\n\nAffiche : https://
- image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg\n\nFiche TMDB : ht
- tps://www.themoviedb.org/movie/438631\n\nSéance relevée sur AlloCiné.\n
- Données fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ck
- g5zAZFHvsb.jpg
-CATEGORIES:Science-Fiction,Aventure
-END:VEVENT
-BEGIN:VEVENT
 UID:event-693134@calendrier-cine-fr
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
 SUMMARY:Dune : Deuxième partie
-DESCRIPTION:Dune: Part Two\n(42.6)\n\nScience-Fiction\, Aventure\n𝟮𝗵
+DESCRIPTION:Dune: Part Two\n(46.3)\n\nScience-Fiction\, Aventure\n𝟮𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 
  𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 28 fevrier 2024\n\n𝗥𝗲𝗮
  𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮
@@ -108,38 +41,38 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/iRNbRAIGQQr5diGnj
 CATEGORIES:Science-Fiction,Aventure
 END:VEVENT
 BEGIN:VEVENT
-UID:event-116745@calendrier-cine-fr
-DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:La Vie rêvée de Walter Mitty
-DESCRIPTION:The Secret Life of Walter Mitty\n(10.5)\n\nAventure\, Comédie\
- , Drame\, Fantastique\n𝟭𝗵𝟱𝟰\n\nUnited Kingdom\, United States 
- of America\n(English\, Icelandic\, Spanish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
- 𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2014\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ben Stiller\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
- 𝗼 : Steven Conrad\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : S
- tuart Dryburgh\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Samuel Goldwyn 
- Films\, Red Hour\, New Line Cinema\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Be
- n Stiller\n- Kristen Wiig\n- Sean Penn\n- Shirley MacLaine\n- Adam Scott\n
- - Kathryn Hahn\n- Patton Oswalt\n- Adrian Martinez\n- Ólafur Darri Ólafs
- son\n- Gunnar Helgason\n- Terence Bernie Hines\n- Alex Anfanger\n\n\nWalte
- r Mitty est un homme ordinaire\, enfermé dans son quotidien\, qui n’ose
-  s’évader qu’à travers des rêves à la fois drôles et extravagants
- . Mais confronté à une difficulté dans sa vie professionnelle\, Walter 
- doit trouver le courage de passer à l’action dans le monde réel. Il em
- barque alors dans un périple incroyable\, pour vivre une aventure bien pl
- us riche que tout ce qu’il aurait pu imaginer jusqu’ici. Et qui devrai
- t changer sa vie à jamais.\n\n\nAffiche : https://image.tmdb.org/t/p/w780
- /1WKxLcAmM4liIaZ3aLEE123HrJG.jpg\n\nFiche TMDB : https://www.themoviedb.or
- g/movie/116745\n\nSéance relevée sur AlloCiné.\nDonnées fournies par T
- he Movie Database (TMDB)
+UID:event-438631@calendrier-cine-fr
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Dune
+DESCRIPTION:Dune\n(41.6)\n\nScience-Fiction\, Aventure\n𝟮𝗵𝟯𝟱\n\
+ nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
+ 𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 septembre 2021\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : Denis Villeneuve\, Eric Roth\, Jon Spaihts\n𝗣𝗵𝗼𝘁
+ 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Greig Fraser\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n-
+  Timothée Chalamet\n- Rebecca Ferguson\n- Oscar Isaac\n- Jason Momoa\n- S
+ tellan Skarsgård\n- Stephen McKinley Henderson\n- Josh Brolin\n- Javier B
+ ardem\n- Sharon Duncan-Brewster\n- 張震\n- Dave Bautista\n- David Dastma
+ lchian\n\n\nL'histoire de Paul Atreides\, jeune homme aussi doué que bril
+ lant\, voué à connaître un destin hors du commun qui le dépasse totale
+ ment. Car\, s'il veut préserver l'avenir de sa famille et de son peuple\,
+  il devra se rendre sur Dune\, la planète la plus dangereuse de l'Univers
+ . Mais aussi la seule à même de fournir la ressource la plus précieuse 
+ capable de décupler la puissance de l'Humanité. Tandis que des forces ma
+ léfiques se disputent le contrôle de cette planète\, seuls ceux qui par
+ viennent à dominer leur peur pourront survivre…\n\n\nAffiche : https://
+ image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg\n\nFiche TMDB : ht
+ tps://www.themoviedb.org/movie/438631\n\nSéance relevée sur AlloCiné.\n
+ Données fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/1WKxLcAmM4liIaZ3aLEE123HrJG.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1WKxLcAmM4liIaZ3a
- LEE123HrJG.jpg
-CATEGORIES:Aventure,Comédie,Drame,Fantastique
+ t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ck
+ g5zAZFHvsb.jpg
+CATEGORIES:Science-Fiction,Aventure
 END:VEVENT
 BEGIN:VEVENT
 UID:event-1281204@calendrier-cine-fr
@@ -147,7 +80,7 @@ DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(0.4)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
+DESCRIPTION:Mika Ex Machina\n(0.8)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
  ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
   1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
   Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
@@ -209,7 +142,7 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.3)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.4)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -243,7 +176,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(61.0)\n\nAnimation\, Fantastique\, Aventur
+DESCRIPTION:The Cat in the Hat\n(59.3)\n\nAnimation\, Fantastique\, Aventur
  e\, Familial\, Comédie\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
  s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
@@ -272,7 +205,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(3.5 ↓︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.0 ↓︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -302,7 +235,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Focker-in-Law\n(14.5 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
+DESCRIPTION:Focker-in-Law\n(16.1 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
  𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 25 novembre 2026\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Hamburg\n𝗦𝗰
@@ -331,7 +264,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Kiki la petite sorcière
-DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(11.0)\n\nAnimation\
+DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(12.4)\n\nAnimation\
  , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
@@ -361,7 +294,7 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.3)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.4)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -395,7 +328,7 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.3)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.4)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -429,7 +362,7 @@ DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(2.0 ↘︎)\n\nDrame\n𝟮𝗵𝟭
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.2 →︎)\n\nDrame\n𝟮𝗵𝟭
  𝟮\n\nFrance\, Italy\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jean-Pierre Jeunet\n𝗦
@@ -467,7 +400,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(27.5 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+DESCRIPTION:I Play Rocky\n(29.1 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\, Australia\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farrelly\n
@@ -499,7 +432,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Mystik
-DESCRIPTION:Mystik\n(0.6)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\nFrance
+DESCRIPTION:Mystik\n(0.5)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\nFrance
  \n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
  𝗻𝗮𝗹𝗲 : 17 fevrier 2027\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿𝘀 : Raphaël Quenard\, Azedine Kasri\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -532,7 +465,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(24.9 ↓︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(27.3 ↓︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟯𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
