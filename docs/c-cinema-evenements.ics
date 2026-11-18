@@ -11,78 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-438631@calendrier-cine-fr
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Dune
-DESCRIPTION:Dune\n(42.1)\n\nScience-Fiction\, Aventure\n𝟮𝗵𝟯𝟱\n\
- nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶
- 𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 15 septembre 2021\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Eric Roth\, Denis Villeneuve\, Jon Spaihts\n𝗣𝗵𝗼𝘁
- 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Greig Fraser\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : Legendary Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n-
-  Timothée Chalamet\n- Rebecca Ferguson\n- Oscar Isaac\n- Jason Momoa\n- S
- tellan Skarsgård\n- Stephen McKinley Henderson\n- Josh Brolin\n- Javier B
- ardem\n- Sharon Duncan-Brewster\n- 張震\n- Dave Bautista\n- David Dastma
- lchian\n\n\nL'histoire de Paul Atreides\, jeune homme aussi doué que bril
- lant\, voué à connaître un destin hors du commun qui le dépasse totale
- ment. Car\, s'il veut préserver l'avenir de sa famille et de son peuple\,
-  il devra se rendre sur Dune\, la planète la plus dangereuse de l'Univers
- . Mais aussi la seule à même de fournir la ressource la plus précieuse 
- capable de décupler la puissance de l'Humanité. Tandis que des forces ma
- léfiques se disputent le contrôle de cette planète\, seuls ceux qui par
- viennent à dominer leur peur pourront survivre…\n\n\nAffiche : https://
- image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg\n\nFiche TMDB : ht
- tps://www.themoviedb.org/movie/438631\n\nSéance relevée sur AlloCiné.\n
- Données fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qpyaW4xUPeIiYA5ck
- g5zAZFHvsb.jpg
-CATEGORIES:Science-Fiction,Aventure
-END:VEVENT
-BEGIN:VEVENT
-UID:event-1281204@calendrier-cine-fr
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Mika Ex Machina
-DESCRIPTION:Mika Ex Machina\n(0.9)\n\nComédie\n𝟭𝗵𝟯𝟱\n\nFR\n(Fr
- ench)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
-  1 janvier 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Mika
-  Tard\, Déborah Saïag\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mika Tard\, D
- éborah Saïag\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mika Ta
- rd\, Déborah Saïag\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mika Tard\n- Dé
- borah Saïag\n- Iris Brey\n- Ludivine Sagnier\n- Daniel Gourdon\n- Audrey 
- Fabre\n- Charlie Biboun\n- Fleur Godart\n- Océan\n\n\nDepuis plusieurs mo
- is\, Mika trouve chaque jour des choses étranges sur sa moto : rubans rou
- ges\, pièces de monnaie\, antivols... Jusqu’à ce qu’un mini-cadenas 
- caché dans la chaîne de son moteur manque de lui causer un grave acciden
- t. Déterminée à trouver le coupable\, elle filme sa moto à distance av
- ec l'aide de ses ami.e.s. Très vite\, les fantasmes et projections de cha
- cun.e brouillent les pistes. Harcèlement\, drague ou vengeance ? La situa
- tion est-elle romantique\, romanesque ou menaçante ? Mika et sa bande mè
- nent l’enquête.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/xoudiatL
- e0x9eNTThcXhXA4ASmT.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1
- 281204\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie
-  Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/xoudiatLe0x9eNTThcXhXA4ASmT.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xoudiatLe0x9eNTTh
- cXhXA4ASmT.jpg
-CATEGORIES:Comédie
-END:VEVENT
-BEGIN:VEVENT
 UID:event-804370@calendrier-cine-fr
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Arco
-DESCRIPTION:Arco\n(3.8)\n\nAventure\, Animation\, Familial\, Science-Fictio
+DESCRIPTION:Arco\n(3.9)\n\nAventure\, Animation\, Familial\, Science-Fictio
  n\n𝟭𝗵𝟮𝟴\n\nFrance\, United Kingdom\, United States of America\
  n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂
  𝗲 : 22 octobre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : U
@@ -112,7 +46,7 @@ DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.4)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.7)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -146,12 +80,12 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(54.8)\n\nAnimation\, Fantastique\, Aventur
+DESCRIPTION:The Cat in the Hat\n(61.1)\n\nAnimation\, Fantastique\, Aventur
  e\, Familial\, Comédie\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
  s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿𝘀 : Erica Rivinoja\, Alessandro Carloni\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Alessandro Carloni\, Erica Rivinoja\, Caroline 
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Erica Rivinoja\, Alessandro Carloni\, Caroline 
  Goddard\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : DNEG\, Dr. Seuss Enter
  prises\, Warner Bros. Pictures Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
  \n- Bill Hader\n- Xochitl Gomez\n- Tiago Martinez\n- Matt Berry\n- Quinta 
@@ -175,7 +109,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.4 ↓︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.2 ↘︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -205,7 +139,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Focker-in-Law\n(18.0 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
+DESCRIPTION:Focker-in-Law\n(19.2 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
  𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 25 novembre 2026\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Hamburg\n𝗦𝗰
@@ -234,7 +168,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Kiki la petite sorcière
-DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(12.2)\n\nAnimation\
+DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(18.7)\n\nAnimation\
  , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
@@ -264,7 +198,7 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.4)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.7)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -298,7 +232,7 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.4)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.7)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -332,7 +266,7 @@ DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(2.4 →︎)\n\nDrame\n𝟮𝗵𝟭
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.3 →︎)\n\nDrame\n𝟮𝗵𝟭
  𝟮\n\nFrance\, Italy\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jean-Pierre Jeunet\n𝗦
@@ -365,12 +299,49 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/nXCS8xCMx4VRIZV1L
 CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
+UID:event-36557@calendrier-cine-fr
+DTSTAMP:20261210T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Casino Royale
+DESCRIPTION:Casino Royale\n(20.4)\n\nAventure\, Action\, Thriller\n𝟮𝗵
+ 𝟭𝟴\n\nUnited Kingdom\, United States of America\n(English\, French)\
+ n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 22 no
+ vembre 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Martin Campb
+ ell\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Neal Purvis\, Robert Wade\, Paul H
+ aggis\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Phil Meheux\n
+ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Metro-Goldwyn-Mayer\, Columbia 
+ Pictures\, EON Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Daniel Cra
+ ig\n- Eva Green\n- Mads Mikkelsen\n- Judi Dench\n- Jeffrey Wright\n- Gianc
+ arlo Giannini\n- Caterina Murino\n- Simon Abkarian\n- Isaach de Bankolé\n
+ - Jesper Christensen\n- Ivana Miličević\n- Tobias Menzies\n\n\nPour sa p
+ remière mission\, James Bond affronte le tout-puissant banquier privé du
+  terrorisme international\, Le Chiffre. Pour achever de le ruiner et déma
+ nteler le plus grand réseau criminel qui soit\, Bond doit le battre lors 
+ d'une partie de poker à haut risque au Casino Royale. La très belle Vesp
+ er\, attachée au Trésor\, l'accompagne afin de veiller à ce que l'agent
+  007 prenne soin de l'argent du gouvernement britannique qui lui sert de m
+ ise\, mais rien ne va se passer comme prévu. Alors que Bond et Vesper s'e
+ fforcent d'échapper aux tentatives d'assassinat du Chiffre et de ses homm
+ es\, d'autres sentiments surgissent entre eux\, ce qui ne fera que les ren
+ dre plus vulnérables...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/1S
+ T7phuvQsaAIIkRyAtESZFLMx9.jpg\n\nFiche TMDB : https://www.themoviedb.org/m
+ ovie/36557\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The M
+ ovie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/1ST7phuvQsaAIIkRyAtESZFLMx9.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/1ST7phuvQsaAIIkRy
+ AtESZFLMx9.jpg
+CATEGORIES:Aventure,Action,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1286656@calendrier-cine-fr
 DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(33.7 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+DESCRIPTION:I Play Rocky\n(35.8 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\, Australia\n(English)\n𝗔𝗩𝗣 - 
  𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 decembr
  e 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farrelly\n
@@ -402,7 +373,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Mystik
-DESCRIPTION:Mystik\n(0.5)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\nFrance
+DESCRIPTION:Mystik\n(0.9)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\nFrance
  \n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
  𝗻𝗮𝗹𝗲 : 17 fevrier 2027\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿𝘀 : Raphaël Quenard\, Azedine Kasri\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -435,7 +406,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(30.2 ↓︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(36.1 ↘︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟯𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
