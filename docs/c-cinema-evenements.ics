@@ -11,51 +11,17 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:event-123@calendrier-cine-fr
-DTSTAMP:20261120T000000Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.4)\n\nAventure\, Animation\, Fantasti
- que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
- 𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Chris Conkling\, Peter S. Beagle\n𝗣𝗵𝗼𝘁
- 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Timothy Galfas\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : Fantasy Films\, The Saul Zaentz Company\n\n𝗔𝗰
- 𝘁𝗲𝘂𝗿𝘀 :\n- Christopher Guard\n- William Squire\n- Michael S
- choles\n- John Hurt\n- Simon Chandler\n- Dominic Guard\n- Michael Graham C
- ox\n- Anthony Daniels\n- David Buck\n- Norman Bird\n- Peter Woodthorpe\n- 
- Fraser Kerr\n\n\nDans les Terres du Milieu\, l'Anneau unique forgé par Sa
- uron le maléfique pour dominer les hommes\, les elfes et les nains est to
- mbé par inadvertance dans les mains de Frodon\, paisible hobbit. Ce n'est
-  qu'une question de temps avant que les sinistres Cavaliers Noirs\, les Se
- rvants de l'Anneau\, retrouvent sa trace. Sous la direction de Gandalf le 
- magicien\, une expédition est alors montée avec pour mission une tâche 
- quasi-impossible : détruire l'Anneau\, en le jetant dans le feu de la Mon
- tagne du Destin\, au coeur du territoire de l'ennemi...\n\n\nAffiche : htt
- ps://image.tmdb.org/t/p/w780/lH5at1RvvglQmnoBkytTTPZfw94.jpg\n\nFiche TMDB
-  : https://www.themoviedb.org/movie/123\n\nSéance relevée sur AlloCiné.
- \nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/lH5at1RvvglQmnoBkytTTPZfw94.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/lH5at1RvvglQmnoBk
- ytTTPZfw94.jpg
-CATEGORIES:Aventure,Animation,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:event-1117898@calendrier-cine-fr
 DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(69.4)\n\nAnimation\, Fantastique\, Aventur
+DESCRIPTION:The Cat in the Hat\n(55.6)\n\nAnimation\, Fantastique\, Aventur
  e\, Familial\, Comédie\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
  s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿𝘀 : Erica Rivinoja\, Alessandro Carloni\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Erica Rivinoja\, Alessandro Carloni\, Caroline 
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Alessandro Carloni\, Erica Rivinoja\, Caroline 
  Goddard\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : DNEG\, Dr. Seuss Enter
  prises\, Warner Bros. Pictures Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
  \n- Bill Hader\n- Xochitl Gomez\n- Tiago Martinez\n- Matt Berry\n- Quinta 
@@ -79,7 +45,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(5.2 →︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.4 ↗︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -109,7 +75,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Focker-in-Law\n(48.2 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
+DESCRIPTION:Focker In-Law\n(38.8 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
  𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 25 novembre 2026\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Hamburg\n𝗦𝗰
@@ -138,7 +104,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Kiki la petite sorcière
-DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(15.8)\n\nAnimation\
+DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(17.1)\n\nAnimation\
  , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
  𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
@@ -164,11 +130,45 @@ CATEGORIES:Animation,Familial,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:event-123@calendrier-cine-fr
+DTSTAMP:20261122T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Le Seigneur des anneaux
+DESCRIPTION:The Lord of the Rings\n(6.0)\n\nAventure\, Animation\, Fantasti
+ que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
+ 𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
+ 𝗻𝗮𝗿𝗶𝗼 : Chris Conkling\, Peter S. Beagle\n𝗣𝗵𝗼𝘁
+ 𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Timothy Galfas\n𝗣𝗿𝗼𝗱𝘂
+ 𝗰𝘁𝗶𝗼𝗻 : Fantasy Films\, The Saul Zaentz Company\n\n𝗔𝗰
+ 𝘁𝗲𝘂𝗿𝘀 :\n- Christopher Guard\n- William Squire\n- Michael S
+ choles\n- John Hurt\n- Simon Chandler\n- Dominic Guard\n- Michael Graham C
+ ox\n- Anthony Daniels\n- David Buck\n- Norman Bird\n- Peter Woodthorpe\n- 
+ Fraser Kerr\n\n\nDans les Terres du Milieu\, l'Anneau unique forgé par Sa
+ uron le maléfique pour dominer les hommes\, les elfes et les nains est to
+ mbé par inadvertance dans les mains de Frodon\, paisible hobbit. Ce n'est
+  qu'une question de temps avant que les sinistres Cavaliers Noirs\, les Se
+ rvants de l'Anneau\, retrouvent sa trace. Sous la direction de Gandalf le 
+ magicien\, une expédition est alors montée avec pour mission une tâche 
+ quasi-impossible : détruire l'Anneau\, en le jetant dans le feu de la Mon
+ tagne du Destin\, au coeur du territoire de l'ennemi...\n\n\nAffiche : htt
+ ps://image.tmdb.org/t/p/w780/lH5at1RvvglQmnoBkytTTPZfw94.jpg\n\nFiche TMDB
+  : https://www.themoviedb.org/movie/123\n\nSéance relevée sur AlloCiné.
+ \nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/lH5at1RvvglQmnoBkytTTPZfw94.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/lH5at1RvvglQmnoBk
+ ytTTPZfw94.jpg
+CATEGORIES:Aventure,Animation,Fantastique
+END:VEVENT
+BEGIN:VEVENT
+UID:event-123@calendrier-cine-fr
 DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.4)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.0)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -202,7 +202,7 @@ DTSTAMP:20261129T000000Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Wildwood : La prophétie de la forêt
-DESCRIPTION:Wildwood\n(87.5 ↓︎)\n\nAnimation\, Aventure\, Drame\, Fanta
+DESCRIPTION:Wildwood\n(75.1 ↓︎)\n\nAnimation\, Aventure\, Drame\, Fanta
  stique\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗔𝗩
  𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 d
  ecembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Travis Knig
@@ -234,7 +234,7 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.4)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.0)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -268,7 +268,7 @@ DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(2.6 ↗︎)\n\nDrame\n𝟮𝗵𝟭
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.6 ↑︎)\n\nDrame\n𝟮𝗵𝟭
  𝟮\n\nFrance\, Italy\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jean-Pierre Jeunet\n𝗦
@@ -306,7 +306,7 @@ DTSTAMP:20261210T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Casino Royale
-DESCRIPTION:Casino Royale\n(21.5)\n\nAventure\, Action\, Thriller\n𝟮𝗵
+DESCRIPTION:Casino Royale\n(22.9)\n\nAventure\, Action\, Thriller\n𝟮𝗵
  𝟭𝟴\n\nUnited Kingdom\, United States of America\n(English\, French)\
  n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 22 no
  vembre 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Martin Campb
@@ -343,7 +343,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(65.5 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+DESCRIPTION:I Play Rocky\n(54.6 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\, Australia\n(English\, Aymara)\n𝗔𝗩
  𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 
  decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farr
@@ -359,14 +359,14 @@ DESCRIPTION:I Play Rocky\n(65.5 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  oir jouer le rôle principal. Refusant une offre d’argent qui pourrait c
  hanger sa vie\, il travaille pour des centimes afin que le film soit réal
  isé avec lui dans le rôle principal.\n\n\nAffiche : https://image.tmdb.o
- rg/t/p/w780/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg\n\nFiche TMDB : https://www.th
+ rg/t/p/w780/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg\n\nFiche TMDB : https://www.th
  emoviedb.org/movie/1286656\n\nSéance relevée sur AlloCiné.\nDonnées fo
  urnies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xE5tY3lppZUyG7WKK
- ThsuYHuAHr.jpg
+ t/p/w780/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jKW6b89n5EGbJXtxT
+ ZYBcDHLpYg.jpg
 CATEGORIES:Drame,Histoire
 END:VEVENT
 BEGIN:VEVENT
@@ -405,7 +405,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:La La Land
-DESCRIPTION:La La Land\n(19.5)\n\nComédie\, Drame\, Romance\n𝟮𝗵𝟬
+DESCRIPTION:La La Land\n(20.6)\n\nComédie\, Drame\, Romance\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
  𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 25 janvier 2017\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Damien Chazelle\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -432,12 +432,44 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/5KIj6aioW1UtUT1IV
 CATEGORIES:Comédie,Drame,Romance
 END:VEVENT
 BEGIN:VEVENT
+UID:event-14645@calendrier-cine-fr
+DTSTAMP:20261213T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Le père Noël est une ordure
+DESCRIPTION:Le père Noël est une ordure\n(2.1)\n\nComédie\n𝟭𝗵𝟯
+ 𝟬\n\nFrance\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼
+ 𝗿𝗶𝗾𝘂𝗲 : 8 novembre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
+ 𝗲𝘂𝗿 : Jean-Marie Poiré\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Géra
+ rd Jugnot\, Bruno Moynot\, Josiane Balasko\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
+ 𝗮𝗽𝗵𝗶𝗲 : Robert Alazraki\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
+ 𝗼𝗻 : Trinacra Films\, Films A2\, Les Films du Splendid\n\n𝗔𝗰
+ 𝘁𝗲𝘂𝗿𝘀 :\n- Gérard Jugnot\n- Thierry Lhermitte\n- Anémone\
+ n- Christian Clavier\n- Marie-Anne Chazel\n- Josiane Balasko\n- Bruno Moyn
+ ot\n- Martin Lamotte\n- Jacques François\n- Michel Blanc\n- Jeannette Bat
+ ti\n- Pierre Belot\n\n\nFélix représente mal le père Noël : il est sal
+ e\, brutal\, vulgaire et il boit. Fatalement\, son amie Josette le quitte.
+  Elle trouve refuge à la permanence de SOS détresse tenue par ces 2 coin
+ cés que sont Pierre et Thérèse. S'y croisent également un homosexuel d
+ épressif\, Mme Musquin\, un émigré voisin et un pauvre réparateur d'as
+ censeur…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/xkTLoFbNpBPt5SyT
+ Pqllw9F97YM.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/14645\n\n
+ Séance relevée sur AlloCiné.\nDonnées fournies par The Movie Database 
+ (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/xkTLoFbNpBPt5SyTPqllw9F97YM.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xkTLoFbNpBPt5SyTP
+ qllw9F97YM.jpg
+CATEGORIES:Comédie
+END:VEVENT
+BEGIN:VEVENT
 UID:event-1170608@calendrier-cine-fr
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(38.8 ↑︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(37.9 ↑︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟯𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -460,5 +492,154 @@ IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jry5ldPQuhomSzjP0
  XsZChq93ma.jpg
 CATEGORIES:Science-Fiction,Aventure
+END:VEVENT
+BEGIN:VEVENT
+UID:event-10764@calendrier-cine-fr
+DTSTAMP:20270107T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Quantum of Solace
+DESCRIPTION:Quantum of Solace\n(12.0)\n\nAventure\, Action\, Thriller\n𝟭
+ 𝗵𝟰𝟳\n\nUnited Kingdom\, United States of America\n(English\, Span
+ ish\, Italian)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
+ 𝘂𝗲 : 31 octobre 2008\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
+  : Marc Forster\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Paul Haggis\, Neal Pur
+ vis\, Robert Wade\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Robe
+ rto Schaefer\, Josh Bleibtreu\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 
+ EON Productions\, Metro-Goldwyn-Mayer\, Columbia Pictures\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Daniel Craig\n- Olga Kurylenko\n- Mathieu Amalric\n-
+  Judi Dench\n- Giancarlo Giannini\n- Gemma Arterton\n- Jeffrey Wright\n- D
+ avid Harbour\n- Jesper Christensen\n- Anatole Taubman\n- Rory Kinnear\n- T
+ im Pigott-Smith\n\n\nMême s’il lutte pour ne pas faire de sa dernière 
+ mission une affaire personnelle\, James Bond est décidé à traquer ceux 
+ qui ont forcé Vesper à le trahir. En interrogeant Mr White\, 007 et M ap
+ prennent que l’organisation à laquelle il appartient est bien plus comp
+ lexe et dangereuse que tout ce qu’ils avaient imaginé… Bond croise al
+ ors la route de la belle et pugnace Camille\, qui cherche à se venger ell
+ e aussi. Elle le conduit sur la piste de Dominic Greene\, un homme d’aff
+ aires impitoyable et un des piliers de la mystérieuse organisation. Au co
+ urs d’une mission qui l’entraîne en Autriche\, en Italie et en Améri
+ que du Sud\, Bond découvre que Greene manœuvre pour prendre le contrôle
+  de l’une des ressources naturelles les plus importantes au monde en uti
+ lisant la puissance de l’organisation\, et en manipulant la CIA et le go
+ uvernement britannique…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/Q
+ vphhhQiHanVakuQTiXsEMe4cE.jpg\n\nFiche TMDB : https://www.themoviedb.org/m
+ ovie/10764\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The M
+ ovie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/QvphhhQiHanVakuQTiXsEMe4cE.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/QvphhhQiHanVakuQT
+ iXsEMe4cE.jpg
+CATEGORIES:Aventure,Action,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-37724@calendrier-cine-fr
+DTSTAMP:20270114T000000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Skyfall
+DESCRIPTION:Skyfall\n(16.6)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
+ 𝟯\n\nUnited Kingdom\, United States of America\n(English)\n𝗦𝗼𝗿
+ 𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 26 octobre 2012\n\
+ n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sam Mendes\n𝗦𝗰𝗲
+ 𝗻𝗮𝗿𝗶𝗼 : Robert Wade\, Neal Purvis\, John Logan\n𝗣𝗵
+ 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Roger Deakins\n𝗣𝗿𝗼𝗱
+ 𝘂𝗰𝘁𝗶𝗼𝗻 : Metro-Goldwyn-Mayer\, EON Productions\, Columbi
+ a Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Daniel Craig\n- Judi Dench
+ \n- Javier Bardem\n- Ralph Fiennes\n- Naomie Harris\n- Bérénice Marlohe\
+ n- Albert Finney\n- Ben Whishaw\n- Rory Kinnear\n- Ola Rapace\n- Helen McC
+ rory\n- Nicholas Woodeson\n\n\nLorsque la dernière mission de Bond tourne
+  mal\, plusieurs agents infiltrés se retrouvent exposés dans le monde en
+ tier. Le MI6 est attaqué\, et M est obligée de relocaliser l’Agence. C
+ es événements ébranlent son autorité\, et elle est remise en cause par
+  Mallory\, le nouveau président de l’ISC\, le comité chargé du rensei
+ gnement et de la sécurité. Le MI6 est à présent sous le coup d’une d
+ ouble menace\, intérieure et extérieure. Il ne reste à M qu’un seul a
+ llié de confiance vers qui se tourner: Bond. Plus que jamais\, 007 va dev
+ oir agir dans l’ombre. Avec l’aide d’Ève\, un agent de terrain\, il
+  se lance sur la piste du mystérieux Silva\, dont il doit identifier coû
+ te que coûte l’objectif secret et mortel.\n\n\nAffiche : https://image.
+ tmdb.org/t/p/w780/nNFECkwmrYoUQ17EnPTcSlRictV.jpg\n\nFiche TMDB : https://
+ www.themoviedb.org/movie/37724\n\nSéance relevée sur AlloCiné.\nDonnée
+ s fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/nNFECkwmrYoUQ17EnPTcSlRictV.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/nNFECkwmrYoUQ17En
+ PTcSlRictV.jpg
+CATEGORIES:Action,Aventure,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-206647@calendrier-cine-fr
+DTSTAMP:20270121T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Spectre
+DESCRIPTION:Spectre\n(13.2)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
+ 𝟴\n\nUnited Kingdom\, United States of America\n(English\, French\, Spa
+ nish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
+  10 novembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sam Me
+ ndes\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Logan\, Jez Butterworth\, Ro
+ bert Wade\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Hoyte van Ho
+ ytema\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Metro-Goldwyn-Mayer\, Co
+ lumbia Pictures\, EON Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Dan
+ iel Craig\n- Christoph Waltz\n- Léa Seydoux\n- Ralph Fiennes\n- Monica Be
+ llucci\n- Ben Whishaw\n- Naomie Harris\n- Dave Bautista\n- Andrew Scott\n-
+  Rory Kinnear\n- Jesper Christensen\n- Alessandro Cremona\n\n\nUn message 
+ cryptique surgi du passé entraîne James Bond dans une mission très pers
+ onnelle à Mexico puis à Rome\, où il rencontre Lucia Sciarra\, la très
+  belle veuve d’un célèbre criminel. Bond réussit à infiltrer une ré
+ union secrète révélant une redoutable organisation baptisée Spectre. P
+ endant ce temps\, à Londres\, Max Denbigh\, le nouveau directeur du Centr
+ e pour la Sécurité Nationale\, remet en cause les actions de Bond et l
+ ’existence même du MI6\, dirigé par M. Bond persuade Moneypenny et Q d
+ e l’aider secrètement à localiser Madeleine Swann\, la fille de son vi
+ eil ennemi\, Mr White\, qui pourrait détenir le moyen de détruire Spectr
+ e. Fille de tueur\, Madeleine comprend Bond mieux que personne… En s’a
+ pprochant du cœur de Spectre\, Bond va découvrir qu’il existe peut-êt
+ re un terrible lien entre lui et le mystérieux ennemi qu’il traque…\n
+ \n\nAffiche : https://image.tmdb.org/t/p/w780/AwCpcShhgRqoVPWhOzs4JiI4dlK.
+ jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/206647\n\nSéance rel
+ evée sur AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/AwCpcShhgRqoVPWhOzs4JiI4dlK.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/AwCpcShhgRqoVPWhO
+ zs4JiI4dlK.jpg
+CATEGORIES:Action,Aventure,Thriller
+END:VEVENT
+BEGIN:VEVENT
+UID:event-370172@calendrier-cine-fr
+DTSTAMP:20270129T000000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Mourir peut attendre
+DESCRIPTION:No Time to Die\n(19.6)\n\nAction\, Thriller\, Aventure\n𝟮
+ 𝗵𝟰𝟯\n\nUnited Kingdom\, United States of America\n(English\, Russ
+ ian\, French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
+ 𝘂𝗲 : 6 octobre 2021\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
+ : Cary Joji Fukunaga\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Robert Wade\, Pho
+ ebe Waller-Bridge\, Neal Purvis\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
+ 𝗶𝗲 : Linus Sandgren\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : EON 
+ Productions\, Metro-Goldwyn-Mayer\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Dan
+ iel Craig\n- Léa Seydoux\n- Rami Malek\n- Lashana Lynch\n- Ralph Fiennes\
+ n- Ben Whishaw\n- Naomie Harris\n- Rory Kinnear\n- Jeffrey Wright\n- Billy
+  Magnussen\n- Christoph Waltz\n- David Dencik\n\n\nJames Bond a quitté le
+ s services secrets et coule des jours heureux en Jamaïque. Mais sa tranqu
+ illité est de courte durée car son vieil ami Felix Leiter de la CIA déb
+ arque pour solliciter son aide : il s'agit de sauver un scientifique qui v
+ ient d'être kidnappé. Mais la mission se révèle bien plus dangereuse q
+ ue prévu et Bond se retrouve aux trousses d'un mystérieux ennemi détena
+ nt de redoutables armes technologiques…\n\n\nAffiche : https://image.tmd
+ b.org/t/p/w780/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg\n\nFiche TMDB : https://www
+ .themoviedb.org/movie/370172\n\nSéance relevée sur AlloCiné.\nDonnées 
+ fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/qseURFLjRBCqFCNCK
+ mS2uwM9IOj.jpg
+CATEGORIES:Action,Thriller,Aventure
 END:VEVENT
 END:VCALENDAR
