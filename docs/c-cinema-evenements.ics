@@ -16,7 +16,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(55.6)\n\nAnimation\, Fantastique\, Aventur
+DESCRIPTION:The Cat in the Hat\n(50.2)\n\nAnimation\, Fantastique\, Aventur
  e\, Familial\, Comédie\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
  s of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮
  𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀
@@ -45,7 +45,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Astérix : Le Royaume de Nubie
-DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.4 ↗︎)\n\nAnimation\, Ave
+DESCRIPTION:Astérix - Le Royaume de Nubie\n(4.6 ↗︎)\n\nAnimation\, Ave
  nture\, Comédie\, Familial\, Fantastique\n𝟭𝗵𝟮𝟲\n\nFrance\n(Fr
  ench)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻
  𝗮𝗹𝗲 : 2 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -75,7 +75,7 @@ DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Focker In-Law\n(38.8 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
+DESCRIPTION:Focker In-Law\n(39.0 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
  𝟰𝟱\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 𝘀𝗼
  𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 25 novembre 2026\n
  \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Hamburg\n𝗦𝗰
@@ -99,42 +99,12 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/j66QF4oquvSMe9rb7
 CATEGORIES:Comédie,Romance
 END:VEVENT
 BEGIN:VEVENT
-UID:event-16859@calendrier-cine-fr
-DTSTAMP:20261122T000000Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Kiki la petite sorcière
-DESCRIPTION:魔女の宅急便 — Majo no Takkyûbin\n(17.1)\n\nAnimation\
- , Familial\, Fantastique\n𝟭𝗵𝟰𝟮\n\nJapan\n(Japanese)\n𝗦𝗼
- 𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 31 mars 2004\n
- \n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Hayao Miyazaki\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Hayao Miyazaki\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : 杉村重郎\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : Studio Ghibli\, Tokuma Shoten\, Nippon Television Network Corporati
- on\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Minami Takayama\n- Rei Sakuma\n- K
- appei Yamaguchi\n- Keiko Toda\n- Mieko Nobusawa\n- 三浦浩一\n- Haruko 
- Katou\n- 関弘子\n- Yuriko Fuchizaki\n- Kōichi Yamadera\n- Kikuko Inoue
- \n- 小林優子\n\n\nÀ l'âge de 13 ans\, une future sorcière doit part
- ir faire son apprentissage dans une ville inconnue durant un an. Une expé
- rience que va vivre la jeune et espiègle Kiki aux côtés de Osono\, une 
- gentille boulangère qui lui propose un emploi de livreuse.\n\n\nAffiche :
-  https://image.tmdb.org/t/p/w780/tdOJxx6PCzjPYViSnk0OPQ80X2d.jpg\n\nFiche 
- TMDB : https://www.themoviedb.org/movie/16859\n\nSéance relevée sur Allo
- Ciné.\nDonnées fournies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/tdOJxx6PCzjPYViSnk0OPQ80X2d.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/tdOJxx6PCzjPYViSn
- k0OPQ80X2d.jpg
-CATEGORIES:Animation,Familial,Fantastique
-END:VEVENT
-BEGIN:VEVENT
 UID:event-123@calendrier-cine-fr
 DTSTAMP:20261122T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.0)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.1)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -168,7 +138,7 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.0)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.1)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -202,7 +172,7 @@ DTSTAMP:20261129T000000Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Wildwood : La prophétie de la forêt
-DESCRIPTION:Wildwood\n(75.1 ↓︎)\n\nAnimation\, Aventure\, Drame\, Fanta
+DESCRIPTION:Wildwood\n(71.6 ↓︎)\n\nAnimation\, Aventure\, Drame\, Fanta
  stique\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗔𝗩
  𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 d
  ecembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Travis Knig
@@ -234,7 +204,7 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.0)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(6.1)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -268,7 +238,7 @@ DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(2.6 ↑︎)\n\nDrame\n𝟮𝗵𝟭
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.5 ↑︎)\n\nDrame\n𝟮𝗵𝟭
  𝟮\n\nFrance\, Italy\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jean-Pierre Jeunet\n𝗦
@@ -306,7 +276,7 @@ DTSTAMP:20261210T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Casino Royale
-DESCRIPTION:Casino Royale\n(22.9)\n\nAventure\, Action\, Thriller\n𝟮𝗵
+DESCRIPTION:Casino Royale\n(25.1)\n\nAventure\, Action\, Thriller\n𝟮𝗵
  𝟭𝟴\n\nUnited Kingdom\, United States of America\n(English\, French)\
  n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 22 no
  vembre 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Martin Campb
@@ -343,7 +313,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(54.6 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+DESCRIPTION:I Play Rocky\n(54.4 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\, Australia\n(English\, Aymara)\n𝗔𝗩
  𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 
  decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farr
@@ -405,7 +375,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:La La Land
-DESCRIPTION:La La Land\n(20.6)\n\nComédie\, Drame\, Romance\n𝟮𝗵𝟬
+DESCRIPTION:La La Land\n(20.9)\n\nComédie\, Drame\, Romance\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
  𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 25 janvier 2017\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Damien Chazelle\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -437,7 +407,7 @@ DTSTAMP:20261213T000000Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Le père Noël est une ordure
-DESCRIPTION:Le père Noël est une ordure\n(2.1)\n\nComédie\n𝟭𝗵𝟯
+DESCRIPTION:Le père Noël est une ordure\n(1.9)\n\nComédie\n𝟭𝗵𝟯
  𝟬\n\nFrance\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼
  𝗿𝗶𝗾𝘂𝗲 : 8 novembre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Jean-Marie Poiré\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Géra
@@ -469,7 +439,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(37.9 ↑︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(40.0 ↑︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟯𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -499,12 +469,12 @@ DTSTAMP:20270107T000000Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Quantum of Solace
-DESCRIPTION:Quantum of Solace\n(12.0)\n\nAventure\, Action\, Thriller\n𝟭
+DESCRIPTION:Quantum of Solace\n(12.8)\n\nAventure\, Action\, Thriller\n𝟭
  𝗵𝟰𝟳\n\nUnited Kingdom\, United States of America\n(English\, Span
  ish\, Italian)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 31 octobre 2008\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
-  : Marc Forster\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Paul Haggis\, Neal Pur
- vis\, Robert Wade\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Robe
+  : Marc Forster\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Robert Wade\, Paul Hag
+ gis\, Neal Purvis\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Robe
  rto Schaefer\, Josh Bleibtreu\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 
  EON Productions\, Metro-Goldwyn-Mayer\, Columbia Pictures\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Daniel Craig\n- Olga Kurylenko\n- Mathieu Amalric\n-
@@ -539,7 +509,7 @@ DTSTAMP:20270114T000000Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:Skyfall
-DESCRIPTION:Skyfall\n(16.6)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
+DESCRIPTION:Skyfall\n(17.4)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
  𝟯\n\nUnited Kingdom\, United States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 26 octobre 2012\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sam Mendes\n𝗦𝗰𝗲
@@ -576,7 +546,7 @@ DTSTAMP:20270121T000000Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Spectre
-DESCRIPTION:Spectre\n(13.2)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
+DESCRIPTION:Spectre\n(13.6)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
  𝟴\n\nUnited Kingdom\, United States of America\n(English\, French\, Spa
  nish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
   10 novembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sam Me
@@ -615,26 +585,26 @@ DTSTAMP:20270129T000000Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Mourir peut attendre
-DESCRIPTION:No Time to Die\n(19.6)\n\nAction\, Thriller\, Aventure\n𝟮
+DESCRIPTION:No Time to Die\n(20.3)\n\nAction\, Thriller\, Aventure\n𝟮
  𝗵𝟰𝟯\n\nUnited Kingdom\, United States of America\n(English\, Russ
  ian\, French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 6 octobre 2021\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
  : Cary Joji Fukunaga\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Robert Wade\, Pho
- ebe Waller-Bridge\, Neal Purvis\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
- 𝗶𝗲 : Linus Sandgren\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : EON 
- Productions\, Metro-Goldwyn-Mayer\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Dan
- iel Craig\n- Léa Seydoux\n- Rami Malek\n- Lashana Lynch\n- Ralph Fiennes\
- n- Ben Whishaw\n- Naomie Harris\n- Rory Kinnear\n- Jeffrey Wright\n- Billy
-  Magnussen\n- Christoph Waltz\n- David Dencik\n\n\nJames Bond a quitté le
- s services secrets et coule des jours heureux en Jamaïque. Mais sa tranqu
- illité est de courte durée car son vieil ami Felix Leiter de la CIA déb
- arque pour solliciter son aide : il s'agit de sauver un scientifique qui v
- ient d'être kidnappé. Mais la mission se révèle bien plus dangereuse q
- ue prévu et Bond se retrouve aux trousses d'un mystérieux ennemi détena
- nt de redoutables armes technologiques…\n\n\nAffiche : https://image.tmd
- b.org/t/p/w780/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg\n\nFiche TMDB : https://www
- .themoviedb.org/movie/370172\n\nSéance relevée sur AlloCiné.\nDonnées 
- fournies par The Movie Database (TMDB)
+ ebe Waller-Bridge\, Cary Joji Fukunaga\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
+ 𝗽𝗵𝗶𝗲 : Linus Sandgren\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : EON Productions\, Metro-Goldwyn-Mayer\n\n𝗔𝗰𝘁𝗲𝘂𝗿
+ 𝘀 :\n- Daniel Craig\n- Léa Seydoux\n- Rami Malek\n- Lashana Lynch\n- R
+ alph Fiennes\n- Ben Whishaw\n- Naomie Harris\n- Rory Kinnear\n- Jeffrey Wr
+ ight\n- Billy Magnussen\n- Christoph Waltz\n- David Dencik\n\n\nJames Bond
+  a quitté les services secrets et coule des jours heureux en Jamaïque. M
+ ais sa tranquillité est de courte durée car son vieil ami Felix Leiter d
+ e la CIA débarque pour solliciter son aide : il s'agit de sauver un scien
+ tifique qui vient d'être kidnappé. Mais la mission se révèle bien plus
+  dangereuse que prévu et Bond se retrouve aux trousses d'un mystérieux e
+ nnemi détenant de redoutables armes technologiques…\n\n\nAffiche : http
+ s://image.tmdb.org/t/p/w780/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg\n\nFiche TMDB 
+ : https://www.themoviedb.org/movie/370172\n\nSéance relevée sur AlloCin
+ é.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg
