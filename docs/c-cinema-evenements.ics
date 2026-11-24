@@ -16,7 +16,7 @@ DTSTAMP:20261127T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.1)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(5.9)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -50,31 +50,61 @@ DTSTAMP:20261129T000000Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Wildwood : La prophétie de la forêt
-DESCRIPTION:Wildwood\n(64.0 ↓︎)\n\nAnimation\, Aventure\, Drame\, Fanta
- stique\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗔𝗩
- 𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 d
- ecembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Travis Knig
- ht\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Chris Butler\n𝗣𝗵𝗼𝘁𝗼
- 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Caleb Deschanel\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : LAIKA\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Peyton Eliza
- beth Lee\n- Jacob Tremblay\n- Carey Mulligan\n- Mahershala Ali\n- Richard 
- E. Grant\n- Angela Bassett\n- Awkwafina\n- Amandla Stenberg\n- Tom Waits\n
- - Charlie Day\n- Blythe Danner\n- Jake Johnson\n\n\nPrue\, une jeune fille
-  courageuse\, part à la recherche de son petit frère\, enlevé et retenu
-  dans la forêt interdite peuplée de créatures enchantées\, d’alliés
-  inattendus et d’adversaires redoutables. Ce qui débute comme une quêt
- e intime se transforme rapidement en une aventure spectaculaire aux enjeux
-  colossaux\, et c’est le destin de tout un monde caché qui dépend dés
- ormais de ses choix.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/shb3Om
- IQACcqhRvIcXuba26cP0l.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie
- /791523\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movi
- e Database (TMDB)
+DESCRIPTION:Wildwood\n(61.1 ↓︎)\n\nAnimation\, Aventure\, Fantastique\n
+ 𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗔𝗩𝗣 - 
+ 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre
+  2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Travis Knight\n
+ 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Chris Butler\n𝗣𝗵𝗼𝘁𝗼𝗴
+ 𝗿𝗮𝗽𝗵𝗶𝗲 : Caleb Deschanel\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : LAIKA\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Peyton Elizabeth
+  Lee\n- Jacob Tremblay\n- Carey Mulligan\n- Mahershala Ali\n- Richard E. G
+ rant\n- Angela Bassett\n- Awkwafina\n- Amandla Stenberg\n- Tom Waits\n- Ch
+ arlie Day\n- Blythe Danner\n- Jake Johnson\n\n\nPrue\, une jeune fille cou
+ rageuse\, part à la recherche de son petit frère\, enlevé et retenu dan
+ s la forêt interdite peuplée de créatures enchantées\, d’alliés ina
+ ttendus et d’adversaires redoutables. Ce qui débute comme une quête in
+ time se transforme rapidement en une aventure spectaculaire aux enjeux col
+ ossaux\, et c’est le destin de tout un monde caché qui dépend désorma
+ is de ses choix.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/shb3OmIQAC
+ cqhRvIcXuba26cP0l.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/791
+ 523\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie Da
+ tabase (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/shb3OmIQACcqhRvIcXuba26cP0l.jpg
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/shb3OmIQACcqhRvIc
  Xuba26cP0l.jpg
-CATEGORIES:Animation,Aventure,Drame,Fantastique
+CATEGORIES:Animation,Aventure,Fantastique
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1422041@calendrier-cine-fr
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:La bola negra
+DESCRIPTION:La bola negra\n(94.7 ↘︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
+ 𝟱\n\nSpain\, France\n(Spanish\, English\, Italian)\n𝗔𝗩𝗣 - 𝘀
+ 𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 16 decembre 20
+ 26\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Javier Ambrossi\,
+  Javier Calvo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Javier Ambrossi\, Javier
+  Calvo\, Alberto Conejero\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
+ 𝗲 : Gris Jordana\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Movistar P
+ lus\, Le Pacte\, El Deseo\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Guitarricad
+ elafuente\n- Miguel Bernardeau\n- Carlos González\n- Milo Quifes\n- Lola 
+ Dueñas\n- Penélope Cruz\n- Glenn Close\n- Julio Torres\n- Yenesi\n- Lore
+ nzo Zurzolo\n- Antonio de la Torre\n- María Morales\n\n\nEspagne 1932\, 1
+ 937\, 2017. Trois hommes. Trois époques. Un même fil invisible de désir
+ \, de douleur et d'héritage. LA BOLA NEGRA traverse le temps pour révél
+ er ce qui les unit.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/ttsFxxH
+ KwCHrtAGJt58rpNqHdFw.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/
+ 1422041\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movi
+ e Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/ttsFxxHKwCHrtAGJt58rpNqHdFw.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/ttsFxxHKwCHrtAGJt
+ 58rpNqHdFw.jpg
+CATEGORIES:Drame,Guerre
 END:VEVENT
 BEGIN:VEVENT
 UID:event-123@calendrier-cine-fr
@@ -82,7 +112,7 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Le Seigneur des anneaux
-DESCRIPTION:The Lord of the Rings\n(6.1)\n\nAventure\, Animation\, Fantasti
+DESCRIPTION:The Lord of the Rings\n(5.9)\n\nAventure\, Animation\, Fantasti
  que\n𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 1 janvier 2020\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ralph Bakshi\n𝗦𝗰𝗲
@@ -116,8 +146,8 @@ DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(2.8 ↑︎)\n\nDrame\n𝟮𝗵𝟭
- 𝟮\n\nFrance\, Italy\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.5 ↗︎)\n\nDrame\n𝟮𝗵𝟭
+ 𝟴\n\nFrance\, Italy\, Belgium\n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿
  𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 9 decembre 2026\n\n
  𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jean-Pierre Jeunet\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jean-Pierre Jeunet\, Guillaume Laurant\, Va
@@ -128,19 +158,17 @@ DESCRIPTION:Changer l'Eau des Fleurs\n(2.8 ↑︎)\n\nDrame\n𝟮𝗵𝟭
  n- Alban Lenoir\n- Philippe Uchan\n- Dominique Pinon\n- Natacha Lindinger\
  n- Elodie Batard Gaultier\n- Philippe Rebbot\n- Clotilde Mollet\n\n\nViole
  tte\, la quarantaine\, est garde-cimetière dans une petite ville de Bourg
- ogne. Un métier qui lui permet d'être auprès de la tombe de sa fille d
- écédée des années plus tôt. Son quotidien est rythmé par les con
- fidences des personnes de passage ou habitués du lieu\, qui viennent 
- trouver un peu de réconfort dans sa  loge. Un jour\, elle reçoit la 
- visite d'un policier\, Julien Seul\, venu déposer les cendres de sa mè
- re sur la tombe de l'homme qu'elle aimait. Intrigué par l’histoire de
-  Violette\, dont le mari a disparu mystérieusement\, peu de temps après 
- leur arrivée au cimetière\, il décide d’enquêter\, faisant sans le v
- ouloir remonter à la surface de douloureux souvenirs ainsi que des v
- érités salvatrices pour Violette.\n\n\nAffiche : https://image.tmdb.or
- g/t/p/w780/nXCS8xCMx4VRIZV1LAqHqWDdu7E.jpg\n\nFiche TMDB : https://www.the
- moviedb.org/movie/1421967\n\nSéance relevée sur AlloCiné.\nDonnées fou
- rnies par The Movie Database (TMDB)
+ ogne. Son quotidien est rythmé par les confidences des personnes de passa
+ ge ou habitués du lieu\, qui viennent trouver un peu de réconfort dans s
+ a loge. Un jour\, elle reçoit la visite d'un policier\, Julien Seul\, ven
+ u déposer les cendres de sa mère sur la tombe de l'homme qu'elle aimait.
+  Intrigué par l’histoire de Violette\, dont le mari a disparu mystérie
+ usement\, peu de temps après leur arrivée au cimetière\, il décide d
+ ’enquêter\, faisant sans le vouloir remonter à la surface de douloureu
+ x souvenirs ainsi que des vérités salvatrices pour Violette.\n\n\nAffich
+ e : https://image.tmdb.org/t/p/w780/nXCS8xCMx4VRIZV1LAqHqWDdu7E.jpg\n\nFic
+ he TMDB : https://www.themoviedb.org/movie/1421967\n\nSéance relevée sur
+  AlloCiné.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/nXCS8xCMx4VRIZV1LAqHqWDdu7E.jpg
@@ -154,7 +182,7 @@ DTSTAMP:20261210T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Casino Royale
-DESCRIPTION:Casino Royale\n(24.9)\n\nAventure\, Action\, Thriller\n𝟮𝗵
+DESCRIPTION:Casino Royale\n(25.1)\n\nAventure\, Action\, Thriller\n𝟮𝗵
  𝟭𝟴\n\nUnited Kingdom\, United States of America\n(English\, French)\
  n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 22 no
  vembre 2006\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Martin Campb
@@ -191,7 +219,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(63.1 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+DESCRIPTION:I Play Rocky\n(57.1 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\, Australia\n(English\, Aymara)\n𝗔𝗩
  𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗲 : 23 
  decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farr
@@ -223,7 +251,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Mystik
-DESCRIPTION:Mystik\n(0.6)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\nFrance
+DESCRIPTION:Mystik\n(0.5)\n\nComédie\, Romance\n𝟭𝗵𝟮𝟲\n\nFrance
  \n(French)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼
  𝗻𝗮𝗹𝗲 : 17 fevrier 2027\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿𝘀 : Raphaël Quenard\, Azedine Kasri\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -253,7 +281,7 @@ DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:La La Land
-DESCRIPTION:La La Land\n(21.6)\n\nComédie\, Drame\, Romance\n𝟮𝗵𝟬
+DESCRIPTION:La La Land\n(22.5)\n\nComédie\, Drame\, Romance\n𝟮𝗵𝟬
  𝟴\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
  𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 25 janvier 2017\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Damien Chazelle\n𝗦𝗰𝗲𝗻𝗮𝗿
@@ -285,25 +313,25 @@ DTSTAMP:20261213T000000Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Le père Noël est une ordure
-DESCRIPTION:Le père Noël est une ordure\n(2.3)\n\nComédie\n𝟭𝗵𝟯
+DESCRIPTION:Le père Noël est une ordure\n(1.9)\n\nComédie\n𝟭𝗵𝟯
  𝟬\n\nFrance\n(French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼
  𝗿𝗶𝗾𝘂𝗲 : 8 novembre 2025\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿 : Jean-Marie Poiré\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Géra
- rd Jugnot\, Bruno Moynot\, Josiane Balasko\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Robert Alazraki\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
- 𝗼𝗻 : Trinacra Films\, Films A2\, Les Films du Splendid\n\n𝗔𝗰
- 𝘁𝗲𝘂𝗿𝘀 :\n- Gérard Jugnot\n- Thierry Lhermitte\n- Anémone\
- n- Christian Clavier\n- Marie-Anne Chazel\n- Josiane Balasko\n- Bruno Moyn
- ot\n- Martin Lamotte\n- Jacques François\n- Michel Blanc\n- Jeannette Bat
- ti\n- Pierre Belot\n\n\nFélix représente mal le père Noël : il est sal
- e\, brutal\, vulgaire et il boit. Fatalement\, son amie Josette le quitte.
-  Elle trouve refuge à la permanence de SOS détresse tenue par ces 2 coin
- cés que sont Pierre et Thérèse. S'y croisent également un homosexuel d
- épressif\, Mme Musquin\, un émigré voisin et un pauvre réparateur d'as
- censeur…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/xkTLoFbNpBPt5SyT
- Pqllw9F97YM.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/14645\n\n
- Séance relevée sur AlloCiné.\nDonnées fournies par The Movie Database 
- (TMDB)
+ 𝗲𝘂𝗿 : Jean-Marie Poiré\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Josia
+ ne Balasko\, Marie-Anne Chazel\, Christian Clavier\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Robert Alazraki\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Trinacra Films\, Films A2\, Les Films du Splendid\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Gérard Jugnot\n- Thierry Lhermitte\n- A
+ némone\n- Christian Clavier\n- Marie-Anne Chazel\n- Josiane Balasko\n- Br
+ uno Moynot\n- Martin Lamotte\n- Jacques François\n- Michel Blanc\n- Jeann
+ ette Batti\n- Pierre Belot\n\n\nFélix représente mal le père Noël : il
+  est sale\, brutal\, vulgaire et il boit. Fatalement\, son amie Josette le
+  quitte. Elle trouve refuge à la permanence de SOS détresse tenue par ce
+ s 2 coincés que sont Pierre et Thérèse. S'y croisent également un homo
+ sexuel dépressif\, Mme Musquin\, un émigré voisin et un pauvre réparat
+ eur d'ascenseur…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/xkTLoFbN
+ pBPt5SyTPqllw9F97YM.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1
+ 4645\n\nSéance relevée sur AlloCiné.\nDonnées fournies par The Movie D
+ atabase (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/xkTLoFbNpBPt5SyTPqllw9F97YM.jpg
@@ -317,7 +345,7 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(39.4 ↑︎)\n\nScience-Fiction\, Aventure\n
+DESCRIPTION:Dune: Part Three\n(45.6 ↑︎)\n\nScience-Fiction\, Aventure\n
  𝟮𝗵𝟯𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
  ish)\n𝗔𝗩𝗣 - 𝘀𝗼𝗿𝘁𝗶𝗲 𝗻𝗮𝘁𝗶𝗼𝗻𝗮
  𝗹𝗲 : 16 decembre 2026\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
@@ -347,12 +375,12 @@ DTSTAMP:20270107T000000Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Quantum of Solace
-DESCRIPTION:Quantum of Solace\n(13.2)\n\nAventure\, Action\, Thriller\n𝟭
+DESCRIPTION:Quantum of Solace\n(14.2)\n\nAventure\, Action\, Thriller\n𝟭
  𝗵𝟰𝟳\n\nUnited Kingdom\, United States of America\n(English\, Span
  ish\, Italian)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 31 octobre 2008\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
-  : Marc Forster\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Paul Haggis\, Neal Pur
- vis\, Robert Wade\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Robe
+  : Marc Forster\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Robert Wade\, Neal Pur
+ vis\, Paul Haggis\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Robe
  rto Schaefer\, Josh Bleibtreu\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 
  EON Productions\, Metro-Goldwyn-Mayer\, Columbia Pictures\n\n𝗔𝗰𝘁
  𝗲𝘂𝗿𝘀 :\n- Daniel Craig\n- Olga Kurylenko\n- Mathieu Amalric\n-
@@ -387,11 +415,11 @@ DTSTAMP:20270114T000000Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:Skyfall
-DESCRIPTION:Skyfall\n(19.1)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
+DESCRIPTION:Skyfall\n(18.8)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
  𝟯\n\nUnited Kingdom\, United States of America\n(English)\n𝗦𝗼𝗿
  𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 26 octobre 2012\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sam Mendes\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Robert Wade\, Neal Purvis\, John Logan\n𝗣𝗵
+ 𝗻𝗮𝗿𝗶𝗼 : John Logan\, Neal Purvis\, Robert Wade\n𝗣𝗵
  𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Roger Deakins\n𝗣𝗿𝗼𝗱
  𝘂𝗰𝘁𝗶𝗼𝗻 : Metro-Goldwyn-Mayer\, EON Productions\, Columbi
  a Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Daniel Craig\n- Judi Dench
@@ -424,7 +452,7 @@ DTSTAMP:20270121T000000Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Spectre
-DESCRIPTION:Spectre\n(14.6)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
+DESCRIPTION:Spectre\n(16.4)\n\nAction\, Aventure\, Thriller\n𝟮𝗵𝟮
  𝟴\n\nUnited Kingdom\, United States of America\n(English\, French\, Spa
  nish)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 :
   10 novembre 2015\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sam Me
@@ -463,26 +491,26 @@ DTSTAMP:20270129T000000Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Mourir peut attendre
-DESCRIPTION:No Time to Die\n(21.7)\n\nAction\, Thriller\, Aventure\n𝟮
+DESCRIPTION:No Time to Die\n(23.3)\n\nAction\, Thriller\, Aventure\n𝟮
  𝗵𝟰𝟯\n\nUnited Kingdom\, United States of America\n(English\, Russ
  ian\, French)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾
  𝘂𝗲 : 6 octobre 2021\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
- : Cary Joji Fukunaga\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Cary Joji Fukunag
- a\, Neal Purvis\, Robert Wade\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
- 𝗶𝗲 : Linus Sandgren\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : EON 
- Productions\, Metro-Goldwyn-Mayer\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Dan
- iel Craig\n- Léa Seydoux\n- Rami Malek\n- Lashana Lynch\n- Ralph Fiennes\
- n- Ben Whishaw\n- Naomie Harris\n- Rory Kinnear\n- Jeffrey Wright\n- Billy
-  Magnussen\n- Christoph Waltz\n- David Dencik\n\n\nJames Bond a quitté le
- s services secrets et coule des jours heureux en Jamaïque. Mais sa tranqu
- illité est de courte durée car son vieil ami Felix Leiter de la CIA déb
- arque pour solliciter son aide : il s'agit de sauver un scientifique qui v
- ient d'être kidnappé. Mais la mission se révèle bien plus dangereuse q
- ue prévu et Bond se retrouve aux trousses d'un mystérieux ennemi détena
- nt de redoutables armes technologiques…\n\n\nAffiche : https://image.tmd
- b.org/t/p/w780/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg\n\nFiche TMDB : https://www
- .themoviedb.org/movie/370172\n\nSéance relevée sur AlloCiné.\nDonnées 
- fournies par The Movie Database (TMDB)
+ : Cary Joji Fukunaga\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Robert Wade\, Pho
+ ebe Waller-Bridge\, Cary Joji Fukunaga\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
+ 𝗽𝗵𝗶𝗲 : Linus Sandgren\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : EON Productions\, Metro-Goldwyn-Mayer\n\n𝗔𝗰𝘁𝗲𝘂𝗿
+ 𝘀 :\n- Daniel Craig\n- Léa Seydoux\n- Rami Malek\n- Lashana Lynch\n- R
+ alph Fiennes\n- Ben Whishaw\n- Naomie Harris\n- Rory Kinnear\n- Jeffrey Wr
+ ight\n- Billy Magnussen\n- Christoph Waltz\n- David Dencik\n\n\nJames Bond
+  a quitté les services secrets et coule des jours heureux en Jamaïque. M
+ ais sa tranquillité est de courte durée car son vieil ami Felix Leiter d
+ e la CIA débarque pour solliciter son aide : il s'agit de sauver un scien
+ tifique qui vient d'être kidnappé. Mais la mission se révèle bien plus
+  dangereuse que prévu et Bond se retrouve aux trousses d'un mystérieux e
+ nnemi détenant de redoutables armes technologiques…\n\n\nAffiche : http
+ s://image.tmdb.org/t/p/w780/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg\n\nFiche TMDB 
+ : https://www.themoviedb.org/movie/370172\n\nSéance relevée sur AlloCin
+ é.\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg
