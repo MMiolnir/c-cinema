@@ -11,42 +11,12 @@ X-WR-CALDESC:Sorties en salles en France. Données fournies par The Movie D
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:tmdb-1437511@calendrier-cine-fr
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Comment braquer une banque
-DESCRIPTION:How to Rob a Bank\n(49.9 ↑︎)\n\nAction\, Crime\, Thriller\n
- 𝟮𝗵𝟬𝟮\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : David Leitch\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Mark Bianculli\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
- 𝗲 : Jonathan Sela\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 87North P
- roductions\, Imagine Entertainment\, Amazon MGM Studios\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Nicholas Hoult\n- Zoë Kravitz\n- Pete Davidson\n- J
- ohn C. Reilly\n- Anna Sawai\n- Rhenzy Feliz\n- Christian Slater\n- Tati Ga
- brielle\n- Paul Sparks\n- Young Mazino\n- Alessandra Frugoli\n- Gloria Lai
- no\n\n\nUne équipe de braqueurs filme ses hold-up en direct et devient vi
- ral. Mais leur célébrité grandissante attire l'attention d'un agent du 
- FBI et d'une ingénieure informatique déterminés à les arrêter. Alors 
- que cet improbable duo se rapproche dangereusement d’eux\, le gang déci
- de de tout miser sur le braquage le plus ambitieux de leur carrière.\n\n\
- nAffiche : https://image.tmdb.org/t/p/w780/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg
- \n\nFiche TMDB : https://www.themoviedb.org/movie/1437511\n\nDonnées four
- nies par The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uvTMQzEU3b4GJLVv2
- HD318rb1sB.jpg
-CATEGORIES:Action,Crime,Thriller
-END:VEVENT
-BEGIN:VEVENT
 UID:tmdb-1429602@calendrier-cine-fr
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:15/18
-DESCRIPTION:15/18\n(1.3 →︎)\n\nDrame\n𝟭𝗵𝟰𝟰\n\nFrance\n(Fren
+DESCRIPTION:15/18\n(1.5 →︎)\n\nDrame\n𝟭𝗵𝟰𝟰\n\nFrance\n(Fren
  ch)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Cédric Kahn\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Cédric Kahn\, Kahina Le Querrec\n𝗣𝗵
  𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Patrick Ghiringhelli\n𝗣𝗿
@@ -79,7 +49,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Ce qui nous mène à toi
-DESCRIPTION:Ce qui nous mène à toi\n(1.5 ↗︎)\n\nDrame\n𝟭𝗵𝟯
+DESCRIPTION:Ce qui nous mène à toi\n(1.3 →︎)\n\nDrame\n𝟭𝗵𝟯
  𝟲\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 :
   Khalil Cherti\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Khalil Cherti\, Simon S
  erna\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Frida Marzouk\n
@@ -103,12 +73,42 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/haUbAmN1P3VnnXtE2
 CATEGORIES:Drame
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1437511@calendrier-cine-fr
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Comment braquer une banque
+DESCRIPTION:How to Rob a Bank\n(42.9 ↑︎)\n\nAction\, Crime\, Thriller\n
+ 𝟮𝗵𝟬𝟮\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : David Leitch\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ma
+ rk Bianculli\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jonathan 
+ Sela\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 87North Productions\, Ima
+ gine Entertainment\, Amazon MGM Studios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\
+ n- Nicholas Hoult\n- Zoë Kravitz\n- Pete Davidson\n- John C. Reilly\n- An
+ na Sawai\n- Rhenzy Feliz\n- Christian Slater\n- Tati Gabrielle\n- Paul Spa
+ rks\n- Young Mazino\n- Alessandra Frugoli\n- Gloria Laino\n\n\nUne équipe
+  de braqueurs filme ses hold-up en direct et devient viral. Mais leur cél
+ ébrité grandissante attire l'attention d'un agent du FBI et d'une ingén
+ ieure informatique déterminés à les arrêter. Alors que cet improbable 
+ duo se rapproche dangereusement d’eux\, le gang décide de tout miser su
+ r le braquage le plus ambitieux de leur carrière.\n\n\nAffiche : https://
+ image.tmdb.org/t/p/w780/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg\n\nFiche TMDB : ht
+ tps://www.themoviedb.org/movie/1437511\n\nDonnées fournies par The Movie 
+ Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/uvTMQzEU3b4GJLVv2
+ HD318rb1sB.jpg
+CATEGORIES:Action,Crime,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1655419@calendrier-cine-fr
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Everytime
-DESCRIPTION:Everytime\n(3.6 ↗︎)\n\nDrame\n𝟮𝗵𝟬𝟰\n\nAustria\,
+DESCRIPTION:Everytime\n(3.7 →︎)\n\nDrame\n𝟮𝗵𝟬𝟰\n\nAustria\,
   Germany\n(German\, Spanish\, English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Sandra Wollner\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Sandra W
  ollner\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Gregory Oke\n
@@ -138,7 +138,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Il faut brûler maman
-DESCRIPTION:Il faut brûler maman\n(3.5 ↑︎)\n\nComédie\, Drame\n𝟭
+DESCRIPTION:Il faut brûler maman\n(3.2 →︎)\n\nComédie\, Drame\n𝟭
  𝗵𝟯𝟱\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Albert Dupontel\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Albert Dupo
  ntel\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Alexis Kavyrchine
@@ -166,17 +166,17 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Infirmary
-DESCRIPTION:Infirmary\n(5.1 ↘︎)\n\nHorreur\n𝟭𝗵𝟮𝟲\n\nUnited 
- States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Nicholas Pineda\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Katy Krauland\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Witchcraft Motion Picture Compa
- ny\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Paul Syre\n- Mark Anthony Williams
- \n- Danielle Kennedy\n- Corinna Wagner-Smith\n\n\nUn gardien a disparu lor
- s de sa première nuit dans un ancien hôpital psychiatrique en 2023. Les 
- images de sa caméra montrent des incidents inexplicables qui continuent d
- e déconcerter les enquêteurs.\n\n\nAffiche : https://image.tmdb.org/t/p/
- w780/n9MospSE1BoXx2gNJdR6gnWbEzd.jpg\n\nFiche TMDB : https://www.themovied
- b.org/movie/1610703\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Infirmary\n(5.4 ↘︎)\n\nHorreur\n𝟭𝗵𝟮𝟲\n\nUnited 
+ States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Nichol
+ as Pineda\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Katy Krauland\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Witchcraft Motion Picture Company\n\n𝗔
+ 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Paul Syre\n- Mark Anthony Williams\n- Daniel
+ le Kennedy\n- Corinna Wagner-Smith\n\n\nUn gardien a disparu lors de sa pr
+ emière nuit dans un ancien hôpital psychiatrique en 2023. Les images de 
+ sa caméra montrent des incidents inexplicables qui continuent de déconce
+ rter les enquêteurs.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/n9Mos
+ pSE1BoXx2gNJdR6gnWbEzd.jpg\n\nFiche TMDB : https://www.themoviedb.org/movi
+ e/1610703\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/n9MospSE1BoXx2gNJdR6gnWbEzd.jpg
@@ -190,7 +190,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:L'Âge d'Or
-DESCRIPTION:L'Âge d'Or\n(1.3 ↘︎)\n\nHistoire\, Drame\n𝟭𝗵𝟱𝟯
+DESCRIPTION:L'Âge d'Or\n(1.2 ↘︎)\n\nHistoire\, Drame\n𝟭𝗵𝟱𝟯
  \n\nFrance\, Italy\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Bérenger Thouin\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Bérenger Thou
  in\, Mehdi Ben Attia\, Virginie Legeay\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
@@ -220,22 +220,22 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Scrooge
-DESCRIPTION:Ebenezer\n(89.7 ↑︎)\n\nFantastique\, Comédie\n𝟭𝗵𝟱
- 𝟱\n\nUnited States of America\, United Kingdom\n(English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ti West\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Nathaniel Halpern\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
- 𝗲 : Checco Varese\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Paramount
-  Pictures\, Domain Entertainment\, Wattsco\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀
-  :\n- Johnny Depp\n- Rupert Grint\n- Daisy Ridley\n- Ian McKellen\n- Andre
- a Riseborough\n- Sam Claflin\n- Tramell Tillman\n- Arthur Conti\n- Ellie B
- amber\n- Henry Lloyd-Hughes\n- Charlie Murphy\n- Freddie Lee-Grey\n\n\nEbe
- nezer Scrooge est un vieil homme avare\, pingre et solitaire. Bien évidem
- ment\, il déteste et méprise Noël et tout ce qui engendre le bonheur. C
- 'est alors qu'il reçoit la visite du fantôme d'un ancien associé ainsi 
- que par les esprits de Noëls du passé\, du présent et du futur.\n\n\nAf
- fiche : https://image.tmdb.org/t/p/w780/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg\n\
- nFiche TMDB : https://www.themoviedb.org/movie/1567605\n\nDonnées fournie
- s par The Movie Database (TMDB)
+DESCRIPTION:Ebenezer\n(81.5 ↗︎)\n\nFantastique\, Comédie\n𝟭𝗵𝟱
+ 𝟱\n\nUnited States\, United Kingdom\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
+ 𝘀𝗮𝘁𝗲𝘂𝗿 : Ti West\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nat
+ haniel Halpern\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Checco 
+ Varese\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Paramount Pictures\, Do
+ main Entertainment\, Wattsco\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Johnny D
+ epp\n- Rupert Grint\n- Daisy Ridley\n- Ian McKellen\n- Andrea Riseborough\
+ n- Sam Claflin\n- Tramell Tillman\n- Arthur Conti\n- Ellie Bamber\n- Henry
+  Lloyd-Hughes\n- Charlie Murphy\n- Freddie Lee-Grey\n\n\nEbenezer Scrooge 
+ est un vieil homme avare\, pingre et solitaire. Bien évidemment\, il dét
+ este et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'
+ il reçoit la visite du fantôme d'un ancien associé ainsi que par les es
+ prits de Noëls du passé\, du présent et du futur.\n\n\nAffiche : https:
+ //image.tmdb.org/t/p/w780/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1567605\n\nDonnées fournies par The Movi
+ e Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg
@@ -274,12 +274,44 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/e5qRxuVJNfgZHfFAx
 CATEGORIES:Drame,Mystère,Horreur
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-378@calendrier-cine-fr
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Arizona Junior
+DESCRIPTION:Raising Arizona\n(4.3 ↗︎)\n\nComédie\, Crime\n𝟭𝗵𝟯
+ 𝟰\n\nUnited States\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀
+ 𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 27 mai 1987\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
+ 𝘁𝗲𝘂𝗿 : Joel Coen\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Ethan Coe
+ n\, Joel Coen\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Barry So
+ nnenfeld\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Circle Films\n\n𝗔
+ 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Nicolas Cage\n- Holly Hunter\n- Trey Wilson\
+ n- John Goodman\n- William Forsythe\n- Sam McMurray\n- Frances McDormand\n
+ - Randall 'Tex' Cobb\n- T.J. Kuhn\n- Lynne Kitei\n- Peter Benedek\n- Charl
+ es 'Lew' Smith\n\n\nHi\, impénitent cambrioleur de supermarchés\, passe 
+ beaucoup de temps dans la prison de Tempe en Arizona. Il y rencontre un jo
+ ur Ed\, charmante femme policier\, dont il tombe éperdument amoureux. Ter
+ miné les braquages\, il se marie et part pour l’usine qui ressemble som
+ me toute à la prison. Hi et Ed voudraient un enfant mais Ed est stérile.
+  Or un jour des quintuplés font la une de la presse locale. Hi et Ed déc
+ ident d’en voler un. Sur cinq\, cela ne se verra pas trop.\n\n\nAffiche 
+ : https://image.tmdb.org/t/p/w780/kfbbJGZs5qiaK5cyuQkFDNKeUWg.jpg\n\nFiche
+  TMDB : https://www.themoviedb.org/movie/378\n\nDonnées fournies par The 
+ Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/kfbbJGZs5qiaK5cyuQkFDNKeUWg.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/kfbbJGZs5qiaK5cyu
+ QkFDNKeUWg.jpg
+CATEGORIES:Comédie,Crime
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1613021@calendrier-cine-fr
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Camembert
-DESCRIPTION:Camembert\n(4.5 ↑︎)\n\nComédie\n𝟭𝗵𝟯𝟮\n\nFrance
+DESCRIPTION:Camembert\n(4.4 ↑︎)\n\nComédie\n𝟭𝗵𝟯𝟮\n\nFrance
  \n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Matthieu 
  Rumani\, Nicolas Slomka\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Matthieu Ruman
  i\, Nicolas Slomka\, Marina Rollman\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
@@ -316,7 +348,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Gabin
-DESCRIPTION:Gabin\n(1.7 ↗︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟱\n\nFrance
+DESCRIPTION:Gabin\n(1.3 ↗︎)\n\nDocumentaire\n𝟭𝗵𝟰𝟱\n\nFrance
  \, Germany\, Switzerland\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Maxence Voiseux\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Maxence Voi
  seux\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Alter Ego Productions\, R
@@ -344,30 +376,29 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Hunger Games : Lever de soleil sur la moisson
-DESCRIPTION:The Hunger Games: Sunrise on the Reaping\n(385.9 ↑︎)\n\nSci
- ence-Fiction\, Action\, Aventure\n𝟮𝗵𝟯𝟵\n\nUnited States of Ame
- rica\, Germany\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
- : Francis Lawrence\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Billy Ray\, Michael
-  Lesslie\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\, about
- :blank\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Joseph Zada\n- Jesse Plemons\n
- - Ralph Fiennes\n- Glenn Close\n- Mckenna Grace\n- Whitney Peak\n- Elle Fa
- nning\n- Kieran Culkin\n- Kelvin Harrison Jr.\n- Maya Hawke\n- Lili Taylor
- \n- Ben Wang\n\n\nAlors que le jour se lève sur les 50e Hunger Games annu
- els\, la peur s'empare des districts de Panem. Cette année\, en l'honneur
-  du Quarter Quell\, deux fois plus de tributs seront tirés au sort. Dans 
- le District 12\, Haymitch Abernathy essaie de ne pas trop penser à ses ch
- ances. Tout ce qui lui importe est d'être avec la fille qu'il aime. Mais 
- lorsque qu'il est appelé\, tous ses rêves s'effondrent. Il est arraché 
- à sa famille et à son amour\, transporté au Capitole avec les trois aut
- res tributs du District 12 : une jeune amie qui est presque une sœur pour
-  lui\, un parieur compulsif\, et la fille la plus prétentieuse de la vill
- e. Alors que les Jeux commencent\, Haymitch comprend qu'il a été piégé
-  pour échouer. Mais il est prêt à se battre... et faire en sorte que ce
-  combat résonne bien au-delà de l'arène.\n\n\nAffiche : https://image.t
- mdb.org/t/p/w780/2crlvf4VsSQORysk1A8o2jBUduI.jpg\n\nFiche TMDB : https://w
- ww.themoviedb.org/movie/1300968\n\nDonnées fournies par The Movie Databas
- e (TMDB)
+DESCRIPTION:The Hunger Games: Sunrise on the Reaping\n(379.0 ↑︎)\n\nSci
+ ence-Fiction\, Action\, Aventure\n𝟮𝗵𝟯𝟵\n\nUnited States\, Germ
+ any\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Francis L
+ awrence\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Billy Ray\, Michael Lesslie\n
+ 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jo Willems\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lionsgate\, Color Force\, about:blank\n
+ \n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Joseph Zada\n- Jesse Plemons\n- Ralph 
+ Fiennes\n- Glenn Close\n- Mckenna Grace\n- Whitney Peak\n- Elle Fanning\n-
+  Kieran Culkin\n- Kelvin Harrison Jr.\n- Maya Hawke\n- Lili Taylor\n- Ben 
+ Wang\n\n\nAlors que le jour se lève sur les 50e Hunger Games annuels\, la
+  peur s'empare des districts de Panem. Cette année\, en l'honneur du Quar
+ ter Quell\, deux fois plus de tributs seront tirés au sort. Dans le Distr
+ ict 12\, Haymitch Abernathy essaie de ne pas trop penser à ses chances. T
+ out ce qui lui importe est d'être avec la fille qu'il aime. Mais lorsque 
+ qu'il est appelé\, tous ses rêves s'effondrent. Il est arraché à sa fa
+ mille et à son amour\, transporté au Capitole avec les trois autres trib
+ uts du District 12 : une jeune amie qui est presque une sœur pour lui\, u
+ n parieur compulsif\, et la fille la plus prétentieuse de la ville. Alors
+  que les Jeux commencent\, Haymitch comprend qu'il a été piégé pour é
+ chouer. Mais il est prêt à se battre... et faire en sorte que ce combat 
+ résonne bien au-delà de l'arène.\n\n\nAffiche : https://image.tmdb.org/
+ t/p/w780/2crlvf4VsSQORysk1A8o2jBUduI.jpg\n\nFiche TMDB : https://www.themo
+ viedb.org/movie/1300968\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/2crlvf4VsSQORysk1A8o2jBUduI.jpg
@@ -381,7 +412,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Jupiter
-DESCRIPTION:Jupiter\n(4.8 ↑︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
+DESCRIPTION:Jupiter\n(4.1 ↑︎)\n\nDrame\, Thriller\n𝟭𝗵𝟮𝟳\n\n
  France\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alexand
  re Smia\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alexandre Smia\, Thomas Finkie
  lkraut\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Nicolas Loir\n
@@ -411,21 +442,21 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Les Braves (Coward)
-DESCRIPTION:Les Braves\n(10.0 ↑︎)\n\nDrame\, Romance\, Guerre\n𝟮𝗵
+DESCRIPTION:Les Braves\n(10.0 ↗︎)\n\nDrame\, Romance\, Guerre\n𝟮𝗵
  𝟬𝟱\n\nBelgium\, France\, Netherlands\, United Kingdom\n(French\, Dut
- ch)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Lukas Dhont\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Lukas Dhont\, Angelo Tijssens\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Frank van den Eeden\n𝗣𝗿𝗼
- 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : The Reunion\, Versus Production\, Topkapi F
- ilms\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Emmanuel Macchia\n- Valentin Cam
- pagne\n- Jef Jacobs\n- Willem De Schryver\n- Liam Jacqmin\n- Mistral Guido
- tti\n- Jonas Wertz\n- Boris Bouchat\n- Orlando Vauthier\n- Tuur Verelst\n-
-  Mathieu Carpentier\n- Tijmen van Damme\n\n\nLe jeune soldat Pierre veut f
- aire ses preuves sur le front pendant la Première Guerre mondiale. Derri
- ère les lignes\, il rencontre Francis\, chargé de remonter le moral des 
- troupes.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/qy5ytiCeyR9uW5HsLD
- OFaOQ8yEr.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1437981\n\n
- Données fournies par The Movie Database (TMDB)
+ ch\; Flemish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Lukas Dhon
+ t\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Lukas Dhont\, Angelo Tijssens\n𝗣
+ 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Frank van den Eeden\n𝗣
+ 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : The Reunion\, Versus Production\, T
+ opkapi Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Emmanuel Macchia\n- Vale
+ ntin Campagne\n- Jef Jacobs\n- Willem De Schryver\n- Liam Jacqmin\n- Mistr
+ al Guidotti\n- Jonas Wertz\n- Boris Bouchat\n- Orlando Vauthier\n- Tuur Ve
+ relst\n- Mathieu Carpentier\n- Tijmen van Damme\n\n\nLe jeune soldat Pierr
+ e veut faire ses preuves sur le front pendant la Première Guerre mondiale
+ . Derrière les lignes\, il rencontre Francis\, chargé de remonter le mor
+ al des troupes.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/qy5ytiCeyR9
+ uW5HsLDOFaOQ8yEr.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1437
+ 981\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qy5ytiCeyR9uW5HsLDOFaOQ8yEr.jpg
@@ -469,7 +500,7 @@ DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:O.M: Operation Mole
 DESCRIPTION:ஓ.ம்: ஆபரேஷன் மோல் — Dhanush 55\n
- (40.4 ↑︎)\n\nCrime\, Action\, Thriller\n𝟮𝗵𝟱𝟴\n\nIndia\n(Ta
+ (37.9 ↑︎)\n\nCrime\, Action\, Thriller\n𝟮𝗵𝟱𝟴\n\nIndia\n(Ta
  mil\, Telugu)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Rajkumar P
  eriasamy\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Rajkumar Periasamy\n𝗣𝗵
  𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ezhil Arasan\n𝗣𝗿𝗼𝗱
@@ -524,26 +555,26 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Billie\, à la croisée des mondes
-DESCRIPTION:Hexed\n(50.8)\n\nAventure\, Animation\, Familial\, Fantastique\
- , Comédie\n𝟭𝗵𝟰𝟯\n\nUnited States of America\n(English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Jason Hand\, Fawn Veera
- sunthorn\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jared Bush\, Dana Ledoux Mill
- er\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Walt Disney Animation Studi
- os\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Hailee Steinfeld\n- Rashida Jones\
- n- Jodie Foster\n- Walton Goggins\n- Tracey Ullman\n- Stephen Fry\n- Henry
-  Winkler\n- Dan Stevens\n- Brett Gelman\n- Samson Kayo\n- Jimmy O. Yang\n-
-  Ron Funches\n\n\nUne adolescente maladroite et sa mère supra-organisée 
- découvrent que ce qui la rend unique pourrait bien provenir de pouvoirs m
- agiques capables non seulement de chambouler leur vie mais aussi le monde 
- secret des sortilèges…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/o
- ifSgkd0jb7ycHUld3IKRVCvmyZ.jpg\n\nFiche TMDB : https://www.themoviedb.org/
- movie/1538497\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Hexed\n(58.8)\n\nAventure\, Animation\, Familial\, Fantastique\
+ n𝟭𝗵𝟰𝟯\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿𝘀 : Jason Hand\, Fawn Veerasunthorn\n𝗦𝗰𝗲
+ 𝗻𝗮𝗿𝗶𝗼 : Jared Bush\, Dana Ledoux Miller\n𝗣𝗿𝗼𝗱
+ 𝘂𝗰𝘁𝗶𝗼𝗻 : Walt Disney Animation Studios\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Hailee Steinfeld\n- Rashida Jones\n- Jodie Foster\n-
+  Walton Goggins\n- Henry Winkler\n- Dan Stevens\n- Brett Gelman\n- Tracey 
+ Ullman\n- Stephen Fry\n- Samson Kayo\n- Jimmy O. Yang\n- Ron Funches\n\n\n
+ Une adolescente maladroite et sa mère supra-organisée découvrent que ce
+  qui la rend unique pourrait bien provenir de pouvoirs magiques capables n
+ on seulement de chambouler leur vie mais aussi le monde secret des sortil
+ èges…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/oifSgkd0jb7ycHUld3
+ IKRVCvmyZ.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1538497\n\n
+ Données fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/oifSgkd0jb7ycHUld3IKRVCvmyZ.jpg
 ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/oifSgkd0jb7ycHUld
  3IKRVCvmyZ.jpg
-CATEGORIES:Aventure,Animation,Familial,Fantastique,Comédie
+CATEGORIES:Aventure,Animation,Familial,Fantastique
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1306291@calendrier-cine-fr
@@ -551,7 +582,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Demain\, je tombe amoureux
-DESCRIPTION:Demain\, je tombe amoureux\n(1.8 ↑︎)\n\nComédie\n𝟭𝗵
+DESCRIPTION:Demain\, je tombe amoureux\n(2.1 ↑︎)\n\nComédie\n𝟭𝗵
  𝟰𝟳\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Martin Provost\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Martin Provost\n
  𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Guillaume Schiffman\n
@@ -582,7 +613,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Forty Love
-DESCRIPTION:Forty Love\n(3.1 ↑︎)\n\nDrame\, Romance\, Thriller\n𝟭
+DESCRIPTION:Forty Love\n(3.0 ↑︎)\n\nDrame\, Romance\, Thriller\n𝟭
  𝗵𝟯𝟰\n\nFrance\n(French\, English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Pierre-Ange Carlotti\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
  : Pierre-Ange Carlotti\, Gaëlle Macé\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
@@ -611,8 +642,8 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Le Sabre des gardiens
-DESCRIPTION:镖人：风起大漠 — Biao ren: Feng qi da mo\n(13.7 ↗︎
- )\n\nAction\, Aventure\n𝟮𝗵𝟬𝟲\n\nChina\n(Mandarin)\n\n𝗥𝗲
+DESCRIPTION:镖人：风起大漠 — Biao ren: Feng qi da mo\n(13.1 →︎
+ )\n\nAction\, Aventure\n𝟮𝗵𝟬𝟲\n\nChina\n(Chinese)\n\n𝗥𝗲
  𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Yuen Woo-ping\n𝗦𝗰𝗲𝗻𝗮
  𝗿𝗶𝗼 : Su Chaobin\, 杨子\, 俞白眉\n𝗣𝗵𝗼𝘁𝗼𝗴
  𝗿𝗮𝗽𝗵𝗶𝗲 : 張東亮\, Peter Pau\n𝗣𝗿𝗼𝗱𝘂𝗰
@@ -639,22 +670,22 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Paper Tiger
-DESCRIPTION:Paper Tiger\n(24.7 ↑︎)\n\nCrime\, Drame\, Thriller\n𝟭
- 𝗵𝟱𝟱\n\nUnited States of America\, Brazil\, Italy\, France\, Cypru
- s\, United Kingdom\, Qatar\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿 : James Gray\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : James Gray\n
- 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Joaquín Baca-Asay\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : RT Features\, Leone Film Group\
- , Keep Your Head Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Adam Dri
- ver\n- Miles Teller\n- Scarlett Johansson\n- Gavin Goudey\n- Roman Engel\n
- - Cindy Katz\n- Yavor Vesselinov\n- Victor Ptak\n- Dimiter D. Marinov\n- R
- aphael Corkhill\n- Roman Blat\n- Patrick Murney\n\n\nNew York\, Queens\, 1
- 986. Deux frères que tout oppose s’unissent pour une affaire douteuse l
- iée à la mafia russe. Mais ce qui devait être une opportunité devient 
- un cauchemar\, mettant en péril leur famille\, leur intégrité\, et leur
-  lien fraternel.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/vlWqitWiT3
- 4gGVRNMyPnHmCA7q8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/138
- 1273\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Paper Tiger\n(22.1 ↑︎)\n\nCrime\, Drame\, Thriller\n𝟭
+ 𝗵𝟱𝟱\n\nUnited States\, Brazil\, Italy\, France\, Cyprus\, United 
+ Kingdom\, Qatar\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
+  : James Gray\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : James Gray\n𝗣𝗵𝗼
+ 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Joaquín Baca-Asay\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : RT Features\, Leone Film Group\, Keep Your 
+ Head Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Adam Driver\n- Miles
+  Teller\n- Scarlett Johansson\n- Gavin Goudey\n- Roman Engel\n- Cindy Katz
+ \n- Yavor Vesselinov\n- Victor Ptak\n- Dimiter D. Marinov\n- Raphael Corkh
+ ill\n- Roman Blat\n- Patrick Murney\n\n\nNew York\, Queens\, 1986. Deux fr
+ ères que tout oppose s’unissent pour une affaire douteuse liée à la m
+ afia russe. Mais ce qui devait être une opportunité devient un cauchemar
+ \, mettant en péril leur famille\, leur intégrité\, et leur lien frater
+ nel.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/vlWqitWiT34gGVRNMyPnHm
+ CA7q8.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1381273\n\nDonn
+ ées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/vlWqitWiT34gGVRNMyPnHmCA7q8.jpg
@@ -668,7 +699,7 @@ DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Un bon petit soldat
-DESCRIPTION:Un bon petit soldat\n(1.9 ↗︎)\n\nDrame\n𝟭𝗵𝟰𝟮\n\
+DESCRIPTION:Un bon petit soldat\n(1.6 ↗︎)\n\nDrame\n𝟭𝗵𝟰𝟮\n\
  nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Stéph
  ane Brizé\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stéphane Brizé\, Coralie 
  Amédéo\, Olivier Gorce\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
@@ -699,20 +730,20 @@ DTSTAMP:20261126T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Mon beau-père\, ma belle-fille et moi
-DESCRIPTION:Focker In-Law\n(46.1 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
- 𝟰𝟱\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿 : John Hamburg\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
- : John Hamburg\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Barry P
- eterson\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Universal Pictures\, T
- ribeca Productions\, Red Hour\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Ben Sti
- ller\n- Robert De Niro\n- Ariana Grande\n- Skyler Gisondo\n- Owen Wilson\n
- - Blythe Danner\n- Teri Polo\n- Beanie Feldstein\n- Eduardo Franco\n- Liza
-  Koshy\n- Cole Escola\n- Kali Rocha\n\n\nHenry Focker\, fils de Greg et Pa
- m\, fait face au chaos familial lorsqu'il décide d'épouser une femme tê
- tue qui semble totalement incompatible avec lui.\n\n\nAffiche : https://im
- age.tmdb.org/t/p/w780/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg\n\nFiche TMDB : http
- s://www.themoviedb.org/movie/1400336\n\nDonnées fournies par The Movie Da
- tabase (TMDB)
+DESCRIPTION:Focker In-Law\n(48.7 ↑︎)\n\nComédie\, Romance\n𝟭𝗵
+ 𝟰𝟱\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
+ 𝗲𝘂𝗿 : John Hamburg\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : John Hambu
+ rg\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Barry Peterson\n
+ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Universal Pictures\, Tribeca Pr
+ oductions\, Red Hour\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Ben Stiller\n- R
+ obert De Niro\n- Ariana Grande\n- Skyler Gisondo\n- Owen Wilson\n- Blythe 
+ Danner\n- Teri Polo\n- Beanie Feldstein\n- Eduardo Franco\n- Liza Koshy\n-
+  Cole Escola\n- Kali Rocha\n\n\nHenry Focker\, fils de Greg et Pam\, fait 
+ face au chaos familial lorsqu'il décide d'épouser une femme têtue qui s
+ emble totalement incompatible avec lui.\n\n\nAffiche : https://image.tmdb.
+ org/t/p/w780/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg\n\nFiche TMDB : https://www.t
+ hemoviedb.org/movie/1400336\n\nDonnées fournies par The Movie Database (T
+ MDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg
@@ -726,28 +757,32 @@ DTSTAMP:20261201T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:You Can See Everything
-DESCRIPTION:You Can See Everything\n(60.7 →︎)\n\nDocumentaire\n𝟮𝗵
- 𝟱𝟱\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Nathan Fielder\, Lance Oppenheim\n𝗣𝗵
- 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : David Bolen\n𝗣𝗿𝗼𝗱
- 𝘂𝗰𝘁𝗶𝗼𝗻 : Blow Out Productions\, To Be Formed\, A24\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Elizabeth Holmes\n- Nathan Fielder\n- Bi
- lly Evans\n- Amanda Seyfried\n- Christopher Abbott\n- Lance Oppenheim\n- C
- hristian Rasmus Holmes IV\n- Noel Anne Holmes\n- Gary Wilmes\n- Phillip An
- dre Botello\n- Nick Choksi\n\n\nTrente-quatre jours avant son incarcérati
- on\, Elizabeth Holmes\, fondatrice tristement célèbre de la Silicon Vall
- ey\, invite une équipe de tournage — d’abord sceptique — à documen
- ter chacun de ses faits et gestes. Ce qui commence comme le portrait intim
- e d’une criminelle énigmatique se transforme en une odyssée vertigineu
- se de trois ans\, une plongée dans les abysses.\n\n\nAffiche : https://im
- age.tmdb.org/t/p/w780/7nG1AFxnrh5KtgH3jA4uIsWmX95.jpg\n\nFiche TMDB : http
- s://www.themoviedb.org/movie/1765072\n\nDonnées fournies par The Movie Da
- tabase (TMDB)
+DESCRIPTION:You Can See Everything\n(99.3 →︎)\n\nDocumentaire\n𝟮𝗵
+ 𝟱𝟱\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
+ 𝗲𝘂𝗿𝘀 : Nathan Fielder\, Lance Oppenheim\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : David Bolen\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : Blow Out Productions\, To Be Formed\, A24\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Elizabeth Holmes\n- Nathan Fielder\n- Billy Evans\n-
+  Amanda Seyfried\n- Christopher Abbott\n- Lance Oppenheim\n- Christian Ras
+ mus Holmes IV\n- Noel Anne Holmes\n- Gary Wilmes\n- Phillip Andre Botello\
+ n- Nick Choksi\n- Ramesh Balwani\n\n\nTrente-quatre jours avant son incarc
+ ération\, Elizabeth Holmes\, ancienne figure de la Silicon Valley et fond
+ atrice déchue de Theranos\, condamnée à plus de onze ans de prison pour
+  avoir escroqué ses investisseurs\, invite une équipe à filmer son quot
+ idien.Mais ce qui devait être le portrait intime d’une figure aussi én
+ igmatique que controversée se transforme en une odyssée vertigineuse de 
+ trois ans\, où les frontières entre vérité\, illusion et manipulation 
+ se brouillent dangereusement. Avec YOU CAN SEE EVERYTHING\, Nathan Fielder
+  et Lance Oppenheim repoussent les frontières du cinéma et nous entraîn
+ ent dans une expérience aussi troublante qu’imprévisible\n\n\nAffiche 
+ : https://image.tmdb.org/t/p/w780/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg\n\nFiche
+  TMDB : https://www.themoviedb.org/movie/1765072\n\nDonnées fournies par 
+ The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/7nG1AFxnrh5KtgH3jA4uIsWmX95.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/7nG1AFxnrh5KtgH3j
- A4uIsWmX95.jpg
+ t/p/w780/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/hzRa2W9PIZkAwuijl
+ sSMbte0bfq.jpg
 CATEGORIES:Documentaire
 END:VEVENT
 BEGIN:VEVENT
@@ -756,20 +791,20 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Behemoth!
-DESCRIPTION:Behemoth!\n(7.2 ↗︎)\n\nMusique\, Drame\n𝟮𝗵𝟬𝟳\n\
- nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
- 𝗲𝘂𝗿 : Tony Gilroy\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Tony Gilroy
- \n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Damián García\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Searchlight Pictures\n\n𝗔𝗰
- 𝘁𝗲𝘂𝗿𝘀 :\n- Pedro Pascal\n- Olivia Wilde\n- Eva Victor\n- Wi
- ll Arnett\n- Hank Azaria\n- Alexa Swinton\n- Kaya Ralls\n- Erik Griffin\n-
-  JoBeth Williams\n- Margarita Levieva\n- Matthew Lillard\n- Alia Shawkat\n
- \n\nVioloncelliste de talent\, Alex Serian (Pedro Pascal) rentre chez lui 
- à Los Angeles après vingt ans de tournée. La musique\, fil conducteur e
- t passion dévorante de son existence\, entraîne alors Alex dans une aven
- ture qui le transformera à jamais.\n\n\nAffiche : https://image.tmdb.org/
- t/p/w780/lGh0RY9yRkSBm4H7xNmfUyQzpKe.jpg\n\nFiche TMDB : https://www.themo
- viedb.org/movie/1452168\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Behemoth!\n(7.9 ↑︎)\n\nMusique\, Drame\n𝟮𝗵𝟬𝟳\n\
+ nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 
+ : Tony Gilroy\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Tony Gilroy\n𝗣𝗵
+ 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Damián García\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Searchlight Pictures\n\n𝗔𝗰𝘁𝗲
+ 𝘂𝗿𝘀 :\n- Pedro Pascal\n- Olivia Wilde\n- Eva Victor\n- Will Arnet
+ t\n- Hank Azaria\n- Alexa Swinton\n- Kaya Ralls\n- Erik Griffin\n- JoBeth 
+ Williams\n- Margarita Levieva\n- Matthew Lillard\n- Alia Shawkat\n\n\nViol
+ oncelliste de talent\, Alex Serian (Pedro Pascal) rentre chez lui à Los A
+ ngeles après vingt ans de tournée. La musique\, fil conducteur et passio
+ n dévorante de son existence\, entraîne alors Alex dans une aventure qui
+  le transformera à jamais.\n\n\nAffiche : https://image.tmdb.org/t/p/w780
+ /lGh0RY9yRkSBm4H7xNmfUyQzpKe.jpg\n\nFiche TMDB : https://www.themoviedb.or
+ g/movie/1452168\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/lGh0RY9yRkSBm4H7xNmfUyQzpKe.jpg
@@ -783,7 +818,7 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Du fioul dans les artères
-DESCRIPTION:Du fioul dans les artères\n(2.1 ↑︎)\n\nDrame\n𝟭𝗵𝟯
+DESCRIPTION:Du fioul dans les artères\n(2.3 ↑︎)\n\nDrame\n𝟭𝗵𝟯
  𝟭\n\nFrance\, Poland\n(French\, English\, Polish)\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre le Gall\n𝗦𝗰𝗲𝗻𝗮𝗿
  𝗶𝗼 : Pierre le Gall\, Camille Perton\, Martin Drouot\n𝗣𝗵𝗼
@@ -814,7 +849,7 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Ojczyzna
-DESCRIPTION:Fatherland\n(20.8 →︎)\n\nDrame\, Histoire\n𝟭𝗵𝟮𝟮
+DESCRIPTION:Fatherland\n(15.4 ↘︎)\n\nDrame\, Histoire\n𝟭𝗵𝟮𝟮
  \n\nPoland\, Germany\, France\, Italy\, United Kingdom\n(Polish\, German\,
   English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Paweł Pawliko
  wski\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Paweł Pawlikowski\, Hendrik Hand
@@ -847,7 +882,7 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Un peu avant minuit
-DESCRIPTION:Un peu avant minuit\n(1.6 ↘︎)\n\nDrame\n𝟭𝗵𝟰𝟳\n\
+DESCRIPTION:Un peu avant minuit\n(1.5 →︎)\n\nDrame\n𝟭𝗵𝟰𝟳\n\
  nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Nicola
  s Pariser\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Nicolas Pariser\n𝗣𝗵
  𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Julia Mingo\n𝗣𝗿𝗼𝗱
@@ -878,23 +913,23 @@ DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Violent Night 2
-DESCRIPTION:Violent Night 2\n(11.1 ↑︎)\n\nAction\, Comédie\, Fantastiq
- ue\n𝟭𝗵𝟱𝟬\n\nUnited States of America\n(English\, German)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Tommy Wirkola\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Pat Casey\, Josh Miller\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : 87North Productions\, Universal Pictures\n\n𝗔𝗰
- 𝘁𝗲𝘂𝗿𝘀 :\n- David Harbour\n- Kristen Bell\n- Daniela Melchio
- r\n- Jared Harris\n- Joe Pantoliano\n- Maxwell Friedman\n- Andrew Bachelor
- \n- Maggie Robertson\n- David Lawrence Brown\n- Sarah Luby\n- Samuel Clark
- \n- Karl Thordarson\n\n\nCoupé du pôle Nord et coincé dans le centre co
- mmercial délabré de Silver Bell dans le New Jersey\, un Père Noël touj
- ours aussi blasé et bagarreur (David Harbour) doit défendre les commerç
- ants terrorisés par un chef de gang (Jared Harris) et ses hommes. Privé 
- de sa magie après avoir perdu l'esprit de Noël\, il devra retrouver foi 
- en la bonté humaine et appeler en renfort ultime la redoutable Mère Noë
- l (Kristen Bell).\n\n\nAffiche : https://image.tmdb.org/t/p/w780/ePEcLaU1R
- qt3CTCOVhOBDyk9x4i.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/10
- 78446\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Violent Night 2\n(13.3 ↑︎)\n\nAction\, Comédie\, Fantastiq
+ ue\n𝟭𝗵𝟱𝟬\n\nUnited States\n(English\, German)\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Tommy Wirkola\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : Pat Casey\, Josh Miller\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : 87North Productions\, Universal Pictures\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- David Harbour\n- Kristen Bell\n- Daniela Melchior\n- Jared H
+ arris\n- Joe Pantoliano\n- Maxwell Friedman\n- Andrew Bachelor\n- Maggie R
+ obertson\n- David Lawrence Brown\n- Sarah Luby\n- Samuel Clark\n- Karl Tho
+ rdarson\n\n\nCoupé du pôle Nord et coincé dans le centre commercial dé
+ labré de Silver Bell dans le New Jersey\, un Père Noël toujours aussi b
+ lasé et bagarreur (David Harbour) doit défendre les commerçants terrori
+ sés par un chef de gang (Jared Harris) et ses hommes. Privé de sa magie 
+ après avoir perdu l'esprit de Noël\, il devra retrouver foi en la bonté
+  humaine et appeler en renfort ultime la redoutable Mère Noël (Kristen B
+ ell).\n\n\nAffiche : https://image.tmdb.org/t/p/w780/ePEcLaU1Rqt3CTCOVhOBD
+ yk9x4i.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1078446\n\nDon
+ nées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/ePEcLaU1Rqt3CTCOVhOBDyk9x4i.jpg
@@ -908,7 +943,7 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Changer l'Eau des Fleurs
-DESCRIPTION:Changer l'Eau des Fleurs\n(2.5 ↗︎)\n\nDrame\n𝟮𝗵𝟭
+DESCRIPTION:Changer l'Eau des Fleurs\n(2.8 ↑︎)\n\nDrame\n𝟮𝗵𝟭
  𝟴\n\nFrance\, Italy\, Belgium\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
  𝘁𝗲𝘂𝗿 : Jean-Pierre Jeunet\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : 
  Jean-Pierre Jeunet\, Guillaume Laurant\, Valérie Perrin\n𝗣𝗵𝗼𝘁
@@ -942,7 +977,7 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Hot Spot
-DESCRIPTION:Hot Spot\n(9.3 ↘︎)\n\nScience-Fiction\, Action\, Crime\, Fa
+DESCRIPTION:Hot Spot\n(9.2 ↘︎)\n\nScience-Fiction\, Action\, Crime\, Fa
  ntastique\, Thriller\n𝟭𝗵𝟰𝟭\n\nPoland\, Greece\, Sweden\, Cypru
  s\n(English\, French\, Polish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
  𝗿 : Agnieszka Smoczyńska\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Robert Bo
@@ -970,25 +1005,25 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:La La Land
-DESCRIPTION:La La Land\n(22.5)\n\nComédie\, Drame\, Romance\n𝟮𝗵𝟬
- 𝟴\n\nUnited States of America\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵
- 𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 25 janvier 2017\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Damien Chazelle\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Damien Chazelle\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶
- 𝗲 : Linus Sandgren\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Summit E
- ntertainment\, Gilbert Films\, Impostor Pictures\n\n𝗔𝗰𝘁𝗲𝘂
- 𝗿𝘀 :\n- Ryan Gosling\n- Emma Stone\n- John Legend\n- Rosemarie DeWit
- t\n- Finn Wittrock\n- Callie Hernandez\n- Sonoya Mizuno\n- Jessica Rothe\n
- - Tom Everett Scott\n- Josh Pence\n- J.K. Simmons\n- Amiée Conn\n\n\nAu c
- œur de Los Angeles\, une actrice en devenir prénommée Mia sert des caf
- és entre deux auditions. De son côté\, Sebastian\, passionné de jazz\,
-  joue du piano dans des clubs miteux pour assurer sa subsistance. Tous deu
- x sont bien loin de la vie rêvée à laquelle ils aspirent… Le destin v
- a réunir ces doux rêveurs\, mais leur coup de foudre résistera-t-il aux
-  tentations\, aux déceptions\, et à la vie trépidante d’Hollywood ?\n
- \n\nAffiche : https://image.tmdb.org/t/p/w780/5KIj6aioW1UtUT1IV0qqW5iZbNH.
- jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/313369\n\nDonnées fo
- urnies par The Movie Database (TMDB)
+DESCRIPTION:La La Land\n(22.4)\n\nComédie\, Drame\, Romance\n𝟮𝗵𝟬
+ 𝟴\n\nUnited States\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 𝗵𝗶𝘀
+ 𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 25 janvier 2017\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : Damien Chazelle\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 :
+  Damien Chazelle\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Linus
+  Sandgren\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Summit Entertainment
+ \, Gilbert Films\, Impostor Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- 
+ Ryan Gosling\n- Emma Stone\n- John Legend\n- Rosemarie DeWitt\n- Finn Witt
+ rock\n- Callie Hernandez\n- Sonoya Mizuno\n- Jessica Rothe\n- Tom Everett 
+ Scott\n- Josh Pence\n- J.K. Simmons\n- Amiée Conn\n\n\nAu cœur de Los An
+ geles\, une actrice en devenir prénommée Mia sert des cafés entre deux 
+ auditions. De son côté\, Sebastian\, passionné de jazz\, joue du piano 
+ dans des clubs miteux pour assurer sa subsistance. Tous deux sont bien loi
+ n de la vie rêvée à laquelle ils aspirent… Le destin va réunir ces d
+ oux rêveurs\, mais leur coup de foudre résistera-t-il aux tentations\, a
+ ux déceptions\, et à la vie trépidante d’Hollywood ?\n\n\nAffiche : h
+ ttps://image.tmdb.org/t/p/w780/5KIj6aioW1UtUT1IV0qqW5iZbNH.jpg\n\nFiche TM
+ DB : https://www.themoviedb.org/movie/313369\n\nDonnées fournies par The 
+ Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/5KIj6aioW1UtUT1IV0qqW5iZbNH.jpg
@@ -1002,21 +1037,20 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Le Chat Chapeauté
-DESCRIPTION:The Cat in the Hat\n(44.5)\n\nAnimation\, Fantastique\, Aventur
+DESCRIPTION:The Cat in the Hat\n(39.9)\n\nAnimation\, Fantastique\, Aventur
  e\, Familial\, Comédie\n𝟭𝗵𝟰𝟴\n\nUnited Kingdom\, United State
- s of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿
- 𝘀 : Erica Rivinoja\, Alessandro Carloni\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
- 𝗼 : Alessandro Carloni\, Erica Rivinoja\, Caroline Goddard\n𝗣𝗿
- 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : DNEG\, Dr. Seuss Enterprises\, Warner B
- ros. Pictures Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Bill Hader\n-
-  Xochitl Gomez\n- Tiago Martinez\n- Matt Berry\n- Quinta Brunson\n- Bowen 
- Yang\n- America Ferrera\n- Paula Pell\n- Tituss Burgess\n- Giancarlo Espos
- ito\n- Ryan Gaffney\n- Asha Marie\n\n\nLe Chat se voit confier sa mission 
- la plus difficile jusqu'à présent... aider deux frères et sœurs qui on
- t du mal à s'installer dans une nouvelle ville.\n\n\nAffiche : https://im
- age.tmdb.org/t/p/w780/jBcFgdERUGw0au9fYZc5X9M8Dfs.jpg\n\nFiche TMDB : http
- s://www.themoviedb.org/movie/1117898\n\nDonnées fournies par The Movie Da
- tabase (TMDB)
+ s\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Erica R
+ ivinoja\, Alessandro Carloni\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Erica Riv
+ inoja\, Alessandro Carloni\, Caroline Goddard\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : DNEG\, Dr. Seuss Enterprises\, Warner Bros. Pictures An
+ imation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Bill Hader\n- Xochitl Gomez\n
+ - Tiago Martinez\n- Matt Berry\n- Quinta Brunson\n- Bowen Yang\n- America 
+ Ferrera\n- Paula Pell\n- Tituss Burgess\n- Giancarlo Esposito\n- Ryan Gaff
+ ney\n- Asha Marie\n\n\nLe Chat se voit confier sa mission la plus difficil
+ e jusqu'à présent... aider deux frères et sœurs qui ont du mal à s'in
+ staller dans une nouvelle ville.\n\n\nAffiche : https://image.tmdb.org/t/p
+ /w780/jBcFgdERUGw0au9fYZc5X9M8Dfs.jpg\n\nFiche TMDB : https://www.themovie
+ db.org/movie/1117898\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/jBcFgdERUGw0au9fYZc5X9M8Dfs.jpg
@@ -1030,7 +1064,7 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Mariage au goût d'orange
-DESCRIPTION:Mariage au goût d'orange\n(1.4 →︎)\n\nDrame\, Comédie\n
+DESCRIPTION:Mariage au goût d'orange\n(1.3 ↘︎)\n\nDrame\, Comédie\n
  𝟭𝗵𝟱𝟱\n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Christophe Honoré\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Chri
  stophe Honoré\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jeanne 
@@ -1061,23 +1095,23 @@ DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Wildwood : La prophétie de la forêt
-DESCRIPTION:Wildwood\n(61.1 ↓︎)\n\nAnimation\, Aventure\, Fantastique\n
- 𝟮𝗵𝟭𝟮\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Travis Knight\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Chris Butler\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
- : Caleb Deschanel\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : LAIKA\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Peyton Elizabeth Lee\n- Jacob Tremblay\n
- - Carey Mulligan\n- Mahershala Ali\n- Richard E. Grant\n- Angela Bassett\n
- - Awkwafina\n- Amandla Stenberg\n- Tom Waits\n- Charlie Day\n- Blythe Dann
- er\n- Jake Johnson\n\n\nPrue\, une jeune fille courageuse\, part à la rec
- herche de son petit frère\, enlevé et retenu dans la forêt interdite pe
- uplée de créatures enchantées\, d’alliés inattendus et d’adversair
- es redoutables. Ce qui débute comme une quête intime se transforme rapid
- ement en une aventure spectaculaire aux enjeux colossaux\, et c’est le d
- estin de tout un monde caché qui dépend désormais de ses choix.\n\n\nAf
- fiche : https://image.tmdb.org/t/p/w780/shb3OmIQACcqhRvIcXuba26cP0l.jpg\n\
- nFiche TMDB : https://www.themoviedb.org/movie/791523\n\nDonnées fournies
-  par The Movie Database (TMDB)
+DESCRIPTION:Wildwood\n(56.9 ↓︎)\n\nAnimation\, Aventure\, Fantastique\n
+ 𝟮𝗵𝟭𝟮\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : Travis Knight\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : C
+ hris Butler\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Caleb Desc
+ hanel\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : LAIKA\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Peyton Elizabeth Lee\n- Jacob Tremblay\n- Carey Mull
+ igan\n- Mahershala Ali\n- Richard E. Grant\n- Angela Bassett\n- Awkwafina\
+ n- Amandla Stenberg\n- Tom Waits\n- Charlie Day\n- Blythe Danner\n- Jake J
+ ohnson\n\n\nPrue\, une jeune fille courageuse\, part à la recherche de so
+ n petit frère\, enlevé et retenu dans la forêt interdite peuplée de cr
+ éatures enchantées\, d’alliés inattendus et d’adversaires redoutabl
+ es. Ce qui débute comme une quête intime se transforme rapidement en une
+  aventure spectaculaire aux enjeux colossaux\, et c’est le destin de tou
+ t un monde caché qui dépend désormais de ses choix.\n\n\nAffiche : http
+ s://image.tmdb.org/t/p/w780/shb3OmIQACcqhRvIcXuba26cP0l.jpg\n\nFiche TMDB 
+ : https://www.themoviedb.org/movie/791523\n\nDonnées fournies par The Mov
+ ie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/shb3OmIQACcqhRvIcXuba26cP0l.jpg
@@ -1091,21 +1125,21 @@ DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Dune : Troisième partie
-DESCRIPTION:Dune: Part Three\n(45.6 ↑︎)\n\nScience-Fiction\, Aventure\n
- 𝟮𝗵𝟯𝟬\n\nUnited States of America\, United Arab Emirates\n(Engl
- ish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Denis Villeneuve\, Brian K. Vaughan\n
- 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Linus Sandgren\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Legendary Pictures\, Image Nation S
- tudios\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Timothée Chalamet\n- Zendaya\
- n- Jason Momoa\n- Florence Pugh\n- Rebecca Ferguson\n- Isaach de Bankolé\
- n- Charlotte Rampling\n- Anya Taylor-Joy\n- Robert Pattinson\n- Javier Bar
- dem\n- Nakoa-Wolf Momoa\n- Ida Brooke\n\n\nL'empereur Paul Atraides fait f
- ace aux retombées de son ascensions au pouvoir alors que des complots pol
- itiques et une guerre sainte à l'échelle de la galaxie mettent en danger
-  l'avenir que lui seul peut voir.\n\n\nAffiche : https://image.tmdb.org/t/
- p/w780/jry5ldPQuhomSzjP0XsZChq93ma.jpg\n\nFiche TMDB : https://www.themovi
- edb.org/movie/1170608\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Dune: Part Three\n(48.1 ↑︎)\n\nScience-Fiction\, Aventure\n
+ 𝟮𝗵𝟯𝟬\n\nUnited States\, United Arab Emirates\n(English)\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Denis Villeneuve\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Denis Villeneuve\, Brian K. Vaughan\n𝗣𝗵
+ 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Linus Sandgren\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Legendary Pictures\, Image Nation Studios\n
+ \n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Timothée Chalamet\n- Zendaya\n- Jason
+  Momoa\n- Florence Pugh\n- Rebecca Ferguson\n- Isaach de Bankolé\n- Charl
+ otte Rampling\n- Anya Taylor-Joy\n- Robert Pattinson\n- Javier Bardem\n- N
+ akoa-Wolf Momoa\n- Ida Brooke\n\n\nL'empereur Paul Atraides fait face aux 
+ retombées de son ascensions au pouvoir alors que des complots politiques 
+ et une guerre sainte à l'échelle de la galaxie mettent en danger l'aveni
+ r que lui seul peut voir.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/j
+ ry5ldPQuhomSzjP0XsZChq93ma.jpg\n\nFiche TMDB : https://www.themoviedb.org/
+ movie/1170608\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/jry5ldPQuhomSzjP0XsZChq93ma.jpg
@@ -1119,23 +1153,23 @@ DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Avengers : Doomsday
-DESCRIPTION:Avengers: Doomsday\n(207.4 ↑︎)\n\nScience-Fiction\, Action\
- , Aventure\n𝟮𝗵𝟰𝟱\n\nUnited States of America\n(English)\n\n
- 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Joe Russo\, Anthony Rus
- so\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFeely\, Michael Waldron\n
- 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Newton Thomas Sigel\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studios\, Kevin Feige Pr
- oductions\, AGBO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n-
-  Chris Evans\n- Chris Hemsworth\n- Pedro Pascal\n- Paul Rudd\n- Anthony Ma
- ckie\n- Florence Pugh\n- Vanessa Kirby\n- Ebon Moss-Bachrach\n- Wyatt Russ
- ell\n- Channing Tatum\n- Simu Liu\n\n\nLes Avengers\, les Wakandais\, les 
- Quatre Fantastiques\, les New Avengers et les X-Men\, tous héros issus de
-  trois univers distincts se retrouvent sur une trajectoire de collision mo
- rtelle et font face à une menace existentielle sans précédent\, comme i
- ls n'en ont jamais rencontré auparavant\, le Docteur Doom.\n\n\nAffiche :
-  https://image.tmdb.org/t/p/w780/cCUxE6EJ9zi1YfdsxU8rWLgqQnN.jpg\n\nFiche 
- TMDB : https://www.themoviedb.org/movie/1003596\n\nDonnées fournies par T
- he Movie Database (TMDB)
+DESCRIPTION:Avengers: Doomsday\n(248.5 ↑︎)\n\nScience-Fiction\, Action\
+ , Aventure\n𝟮𝗵𝟰𝟱\n\nUnited States\n(English)\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Joe Russo\, Anthony Russo\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen McFeely\, Michael Waldron\n𝗣𝗵𝗼
+ 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Newton Thomas Sigel\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Marvel Studios\, Kevin Feige Productions\, 
+ AGBO\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Robert Downey Jr.\n- Chris Evans
+ \n- Chris Hemsworth\n- Pedro Pascal\n- Paul Rudd\n- Anthony Mackie\n- Flor
+ ence Pugh\n- Vanessa Kirby\n- Ebon Moss-Bachrach\n- Wyatt Russell\n- Chann
+ ing Tatum\n- Simu Liu\n\n\nLes Avengers\, les Wakandais\, les Quatre Fanta
+ stiques\, les New Avengers et les X-Men\, tous héros issus de trois unive
+ rs distincts se retrouvent sur une trajectoire de collision mortelle et fo
+ nt face à une menace existentielle sans précédent\, comme ils n'en ont 
+ jamais rencontré auparavant\, le Docteur Doom.\n\n\nAffiche : https://ima
+ ge.tmdb.org/t/p/w780/cCUxE6EJ9zi1YfdsxU8rWLgqQnN.jpg\n\nFiche TMDB : https
+ ://www.themoviedb.org/movie/1003596\n\nDonnées fournies par The Movie Dat
+ abase (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/cCUxE6EJ9zi1YfdsxU8rWLgqQnN.jpg
@@ -1149,7 +1183,7 @@ DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Carmen\, l’oiseau rebelle
-DESCRIPTION:Carmen\, l'oiseau rebelle\n(1.8 ↑︎)\n\nAnimation\, Musique\
+DESCRIPTION:Carmen\, l'oiseau rebelle\n(1.6 ↗︎)\n\nAnimation\, Musique\
  , Drame\, Aventure\n𝟭𝗵𝟯𝟬\n\nFinland\, France\, Spain\n(French)
  \n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Sébastien Laudenbach\n
  𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Santiago Otheguy\, Sébastien Laudenbac
@@ -1176,7 +1210,7 @@ DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:La bola negra
-DESCRIPTION:La bola negra\n(94.7 ↘︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
+DESCRIPTION:La bola negra\n(84.9 ↓︎)\n\nDrame\, Guerre\n𝟮𝗵𝟯
  𝟱\n\nSpain\, France\n(Spanish\, English\, Italian)\n\n𝗥𝗲𝗮𝗹
  𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Javier Ambrossi\, Javier Calvo\n𝗦
  𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Javier Ambrossi\, Javier Calvo\, Alberto Co
@@ -1204,7 +1238,7 @@ DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Rédemptions
-DESCRIPTION:Rédemptions\n(2.1 ↘︎)\n\nDrame\, Thriller\, Crime\n𝟭
+DESCRIPTION:Rédemptions\n(2.1 →︎)\n\nDrame\, Thriller\, Crime\n𝟭
  𝗵𝟱𝟰\n\nCanada\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Luc Picard\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Luc Picard\n𝗣
  𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : François Dutil\n𝗣𝗿
@@ -1232,20 +1266,20 @@ DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Angry Birds : La grande envolée
-DESCRIPTION:The Angry Birds Movie 3\n(10.2 →︎)\n\nAventure\, Animation\
- , Comédie\, Familial\n𝟭𝗵𝟯𝟲\n\nFinland\, Japan\, United States
-  of America\, India\, Hong Kong\, United Kingdom\n(English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Rice\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Thurop Van Orman\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Ro
- vio Animation\, SEGA of America\, Flywheel Media\n\n𝗔𝗰𝘁𝗲𝘂
- 𝗿𝘀 :\n- Jason Sudeikis\n- Josh Gad\n- Danny McBride\n- Rachel Bloom\
- n- Emma Myers\n- Walker Scobell\n- Psalm West\n- James Austin Johnson\n- T
- im Robinson\n- Lily James\n- Marcello Hernández\n- Sam Richardson\n\n\nEn
-  cette période de fêtes de fin d’année\, un Angry Bird va devoir rele
- ver son plus grand défi : survivre à la paternité… tout en sauvant le
-  monde !.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/fzbkRRQYPfDn5iWHG
- o4rKFpyDXg.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1300926\n\
- nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:The Angry Birds Movie 3\n(9.8 →︎)\n\nAventure\, Animation\,
+  Comédie\, Familial\n𝟭𝗵𝟯𝟲\n\nFinland\, Japan\, United States\
+ , India\, Hong Kong SAR China\, United Kingdom\n(English)\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Rice\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
+ 𝗼 : Thurop Van Orman\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Rovio 
+ Animation\, SEGA of America\, Flywheel Media\n\n𝗔𝗰𝘁𝗲𝘂𝗿
+ 𝘀 :\n- Jason Sudeikis\n- Josh Gad\n- Danny McBride\n- Rachel Bloom\n- E
+ mma Myers\n- Walker Scobell\n- Psalm West\n- James Austin Johnson\n- Tim R
+ obinson\n- Lily James\n- Marcello Hernández\n- Sam Richardson\n\n\nEn cet
+ te période de fêtes de fin d’année\, un Angry Bird va devoir relever 
+ son plus grand défi : survivre à la paternité… tout en sauvant le mon
+ de !.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/fzbkRRQYPfDn5iWHGo4rK
+ FpyDXg.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1300926\n\nDon
+ nées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/fzbkRRQYPfDn5iWHGo4rKFpyDXg.jpg
@@ -1259,28 +1293,28 @@ DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:I Play Rocky
-DESCRIPTION:I Play Rocky\n(57.1 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
- 𝟴\n\nUnited States of America\, Australia\n(English\, Aymara)\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farrelly\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Peter Gamble\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Sean Porter\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Ede
- n Rock Media\, Baha Productions\, Fireside Films\n\n𝗔𝗰𝘁𝗲𝘂
- 𝗿𝘀 :\n- Anthony Ippolito\n- AnnaSophia Robb\n- P.J. Byrne\n- Toby Ke
- bbell\n- Jay Duplass\n- Tracy Letts\n- Matt Dillon\n- Stephan James\n- Kik
- i Seto\n- Robert Morgan\n- Saul Stein\n- Trevor St. John\n\n\nUn acteur en
-  difficulté avec un visage partiellement paralysé et un trouble de l’
- élocution écrit un scénario qu’un grand studio de cinéma veut achete
- r. Mais l’acteur refuse de le vendre à moins de pouvoir jouer le rôle 
- principal. Refusant une offre d’argent qui pourrait changer sa vie\, il 
- travaille pour des centimes afin que le film soit réalisé avec lui dans 
- le rôle principal.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/jKW6b89
- n5EGbJXtxTZYBcDHLpYg.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/
- 1286656\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:I Play Rocky\n(54.0 ↑︎)\n\nDrame\, Histoire\n𝟮𝗵𝟬
+ 𝟴\n\nUnited States\, Australia\n(English\, Aymara)\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Peter Farrelly\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : Peter Gamble\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
+ : Sean Porter\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Eden Rock Media\
+ , Baha Productions\, Fireside Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- A
+ nthony Ippolito\n- AnnaSophia Robb\n- P.J. Byrne\n- Toby Kebbell\n- Jay Du
+ plass\n- Tracy Letts\n- Matt Dillon\n- Stephan James\n- Kiki Seto\n- Rober
+ t Morgan\n- Saul Stein\n- Trevor St. John\n\n\nUn acteur en difficulté av
+ ec un visage partiellement paralysé et un trouble de l’élocution écri
+ t un scénario qu’un grand studio de cinéma veut acheter. Mais l’acte
+ ur refuse de le vendre à moins de pouvoir jouer le rôle principal. Refus
+ ant une offre d’argent qui pourrait changer sa vie\, il travaille pour d
+ es centimes afin que le film soit réalisé avec lui dans le rôle princip
+ al.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/sPID7NqwpNdSAEMhazCvidx
+ xeNo.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1286656\n\nDonn
+ ées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/jKW6b89n5EGbJXtxTZYBcDHLpYg.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/jKW6b89n5EGbJXtxT
- ZYBcDHLpYg.jpg
+ t/p/w780/sPID7NqwpNdSAEMhazCvidxxeNo.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/sPID7NqwpNdSAEMha
+ zCvidxxeNo.jpg
 CATEGORIES:Drame,Histoire
 END:VEVENT
 BEGIN:VEVENT
@@ -1289,24 +1323,24 @@ DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Jumanji : Bienvenue dans notre Monde
-DESCRIPTION:Jumanji: Open World\n(12.7 ↗︎)\n\nAventure\, Comédie\, Fan
- tastique\n𝟮𝗵𝟬𝟲\n\nUnited States of America\n(English)\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jake Kasdan\n𝗦𝗰𝗲𝗻
- 𝗮𝗿𝗶𝗼 : Jeff Pinkner\, Scott Rosenberg\, Jake Kasdan\n𝗣𝗵
- 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ben Davis\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : Matt Tolmach Productions\, Seven Bucks Productions\
- , Columbia Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Dwayne Johnson\n-
-  Kevin Hart\n- Jack Black\n- Karen Gillan\n- Alex Wolff\n- Morgan Turner\n
- - Madison Iseman\n- Ser'Darius Blain\n- Brittany O'Grady\n- Burn Gorman\n-
-  Bebe Neuwirth\n- Danny DeVito\n\n\nÀ Noël\, Dwayne Johnson\, Kevin Hart
- \, Jack Black et Karen Gillan reprennent du service dans JUMANJI : BIENVEN
- UE DANS NOTRE MONDE\, le chapitre final de la trilogie phénomène. Nos h
- éros pensaient avoir définitivement laissé derrière eux les jungles im
- prévisibles de Jumanji. Mais le jeu a évolué : il s'affranchit désorma
- is de sa console pour envahir le monde réel\, semant le chaos sur son pas
- sage.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/xGWD6Fk3oREh7Wqhkc48o
- aKHSrn.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1260649\n\nDon
- nées fournies par The Movie Database (TMDB)
+DESCRIPTION:Jumanji: Open World\n(12.4 ↗︎)\n\nAventure\, Comédie\, Fan
+ tastique\n𝟮𝗵𝟬𝟲\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹
+ 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Jake Kasdan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
+ 𝗼 : Jeff Pinkner\, Scott Rosenberg\, Jake Kasdan\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ben Davis\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
+ 𝗼𝗻 : Matt Tolmach Productions\, Seven Bucks Productions\, Columbia P
+ ictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Dwayne Johnson\n- Kevin Hart\
+ n- Jack Black\n- Karen Gillan\n- Alex Wolff\n- Morgan Turner\n- Madison Is
+ eman\n- Ser'Darius Blain\n- Brittany O'Grady\n- Burn Gorman\n- Bebe Neuwir
+ th\n- Danny DeVito\n\n\nÀ Noël\, Dwayne Johnson\, Kevin Hart\, Jack Blac
+ k et Karen Gillan reprennent du service dans JUMANJI : BIENVENUE DANS NOTR
+ E MONDE\, le chapitre final de la trilogie phénomène. Nos héros pensaie
+ nt avoir définitivement laissé derrière eux les jungles imprévisibles 
+ de Jumanji. Mais le jeu a évolué : il s'affranchit désormais de sa cons
+ ole pour envahir le monde réel\, semant le chaos sur son passage.\n\n\nAf
+ fiche : https://image.tmdb.org/t/p/w780/xGWD6Fk3oREh7Wqhkc48oaKHSrn.jpg\n\
+ nFiche TMDB : https://www.themoviedb.org/movie/1260649\n\nDonnées fournie
+ s par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/xGWD6Fk3oREh7Wqhkc48oaKHSrn.jpg
@@ -1320,7 +1354,7 @@ DTSTAMP:20261223T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Roma elastica
-DESCRIPTION:Roma elastica\n(1.8 ↑︎)\n\nDrame\, Comédie\, Horreur\, Thr
+DESCRIPTION:Roma elastica\n(1.7 ↑︎)\n\nDrame\, Comédie\, Horreur\, Thr
  iller\n𝟭𝗵𝟰𝟳\n\nFrance\, Italy\n(French\, English\, Italian)\n\
  n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Bertrand Mandico\n𝗦𝗰
  𝗲𝗻𝗮𝗿𝗶𝗼 : Bertrand Mandico\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
@@ -1347,22 +1381,22 @@ DTSTAMP:20261230T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:The Last Pickpocket in New-York
-DESCRIPTION:The Only Living Pickpocket in New York\n(22.5 →︎)\n\nCrime\
- , Drame\, Thriller\n𝟭𝗵𝟮𝟴\n\nUnited States of America\n(English
- )\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Noah Segan\n𝗦𝗰
- 𝗲𝗻𝗮𝗿𝗶𝗼 : Noah Segan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
- 𝗽𝗵𝗶𝗲 : Sam Levy\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MR
- C\, T-Street\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- John Turturro\n- Will Pr
- ice\n- Steve Buscemi\n- Giancarlo Esposito\n- Jamie Lee Curtis\n- Tatiana 
- Maslany\n- Karina Arroyave\n- Victoria Moroles\n- Delaney Grace Coyle\n- R
- ob Brown\n- Echaka Agba\n- Ethan Herschenfeld\n\n\nHarry est le dernier pi
- ckpocket de New-York.  Alors que l’argent liquide se fait rare\, il cont
- inue d’exercer son art en toute discrétion.  Un jour\, Harry dérobe un
- e mystérieuse clef USB à un jeune mafieux et se retrouve pris en chasse 
- par une dangereuse organisation criminelle…\n\n\nAffiche : https://image
- .tmdb.org/t/p/w780/huEvi7UfPl6pfXNlZPVbvIOb8rb.jpg\n\nFiche TMDB : https:/
- /www.themoviedb.org/movie/1458099\n\nDonnées fournies par The Movie Datab
- ase (TMDB)
+DESCRIPTION:The Only Living Pickpocket in New York\n(16.6 ↘︎)\n\nCrime\
+ , Drame\, Thriller\n𝟭𝗵𝟮𝟴\n\nUnited States\n(English)\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Noah Segan\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Noah Segan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
+ 𝗶𝗲 : Sam Levy\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : MRC\, T-St
+ reet\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- John Turturro\n- Will Price\n- S
+ teve Buscemi\n- Giancarlo Esposito\n- Jamie Lee Curtis\n- Tatiana Maslany\
+ n- Karina Arroyave\n- Victoria Moroles\n- Delaney Grace Coyle\n- Rob Brown
+ \n- Echaka Agba\n- Ethan Herschenfeld\n\n\nHarry est le dernier pickpocket
+  de New-York.  Alors que l’argent liquide se fait rare\, il continue d
+ ’exercer son art en toute discrétion.  Un jour\, Harry dérobe une myst
+ érieuse clef USB à un jeune mafieux et se retrouve pris en chasse par un
+ e dangereuse organisation criminelle…\n\n\nAffiche : https://image.tmdb.
+ org/t/p/w780/huEvi7UfPl6pfXNlZPVbvIOb8rb.jpg\n\nFiche TMDB : https://www.t
+ hemoviedb.org/movie/1458099\n\nDonnées fournies par The Movie Database (T
+ MDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/huEvi7UfPl6pfXNlZPVbvIOb8rb.jpg
@@ -1376,21 +1410,21 @@ DTSTAMP:20270106T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Tabloïd
-DESCRIPTION:Ink\n(3.8 →︎)\n\nDrame\, Histoire\n𝟭𝗵𝟱𝟲\n\nUnit
- ed Kingdom\, United States of America\, France\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Danny Boyle\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : James Graham\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
- : Alwin H. Küchler\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Media Res\
- , House Productions\, Decibel Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- J
- ack O'Connell\n- Guy Pearce\n- Claire Foy\n- Blake Harrison\n- Patrick Ken
- nedy\n- Angus Imrie\n- Brian Gleeson\n- Bertie Carvel\n- Lucy Russell\n- J
- onathan Hyde\n- Christopher Fulford\n- Georgie Henley\n\n\nAvec une équip
- e de journalistes aussi talentueux qu'indésirables\, ils vont déclencher
-  une révolution de l'information à coups de scandales\, de sexe et de fa
- its divers - et faire basculer la presse dans une nouvelle ère...\n\n\nAf
- fiche : https://image.tmdb.org/t/p/w780/nJbTPpeu8Y2xlHtwE2gsDeExsr.jpg\n\n
- Fiche TMDB : https://www.themoviedb.org/movie/1532610\n\nDonnées fournies
-  par The Movie Database (TMDB)
+DESCRIPTION:Ink\n(3.7 →︎)\n\nDrame\, Histoire\n𝟭𝗵𝟱𝟲\n\nUnit
+ ed Kingdom\, United States\, France\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿 : Danny Boyle\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jam
+ es Graham\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Alwin H. Kü
+ chler\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Media Res\, House Produc
+ tions\, Decibel Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Jack O'Connell\
+ n- Guy Pearce\n- Claire Foy\n- Blake Harrison\n- Patrick Kennedy\n- Angus 
+ Imrie\n- Brian Gleeson\n- Bertie Carvel\n- Lucy Russell\n- Jonathan Hyde\n
+ - Christopher Fulford\n- Georgie Henley\n\n\nAvec une équipe de journalis
+ tes aussi talentueux qu'indésirables\, ils vont déclencher une révoluti
+ on de l'information à coups de scandales\, de sexe et de faits divers - e
+ t faire basculer la presse dans une nouvelle ère...\n\n\nAffiche : https:
+ //image.tmdb.org/t/p/w780/nJbTPpeu8Y2xlHtwE2gsDeExsr.jpg\n\nFiche TMDB : h
+ ttps://www.themoviedb.org/movie/1532610\n\nDonnées fournies par The Movie
+  Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/nJbTPpeu8Y2xlHtwE2gsDeExsr.jpg
@@ -1404,19 +1438,19 @@ DTSTAMP:20270106T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Werwulf
-DESCRIPTION:Werwulf\n(8.6 ↑︎)\n\nHorreur\, Fantastique\n𝟮𝗵\n\nUni
- ted Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿 : Robert Eggers\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼
-  : Robert Eggers\, Sjón\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
-  : Jarin Blaschke\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Working Titl
- e\, Maiden Voyage Pictures\, Focus Features\n\n𝗔𝗰𝘁𝗲𝘂𝗿
- 𝘀 :\n- Aaron Taylor-Johnson\n- Lily-Rose Depp\n- Willem Dafoe\n- Bodhi 
- Rae Breathnach\n- Ralph Ineson\n- Vidal Arzoni\n- Ned Dennehy\n- Jack Morr
- is\n- Jan Bijvoet\n- Ritchi Edwards\n- Valeriia Karaman\n- Kate Dickie\n\n
- \nUn récit poignant de dévouement\, de damnation et du diable qui sommei
- lle en soi.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/aksIcsrJ3GpmdZO
- SCc7agbtcFqX.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1421903\
- n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Werwulf\n(10.6 ↑︎)\n\nHorreur\, Fantastique\n𝟮𝗵\n\nUn
+ ited Kingdom\, United States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
+ 𝘁𝗲𝘂𝗿 : Robert Eggers\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Rober
+ t Eggers\, Sjón\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jarin
+  Blaschke\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Working Title\, Maid
+ en Voyage Pictures\, Focus Features\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- A
+ aron Taylor-Johnson\n- Lily-Rose Depp\n- Willem Dafoe\n- Bodhi Rae Breathn
+ ach\n- Ralph Ineson\n- Vidal Arzoni\n- Ned Dennehy\n- Jack Morris\n- Jan B
+ ijvoet\n- Ritchi Edwards\n- Valeriia Karaman\n- Kate Dickie\n\n\nUn récit
+  poignant de dévouement\, de damnation et du diable qui sommeille en soi.
+ \n\n\nAffiche : https://image.tmdb.org/t/p/w780/aksIcsrJ3GpmdZOSCc7agbtcFq
+ X.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1421903\n\nDonnées
+  fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/aksIcsrJ3GpmdZOSCc7agbtcFqX.jpg
@@ -1430,25 +1464,25 @@ DTSTAMP:20270113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Année Zéro
-DESCRIPTION:Zero A.D.: The Birth of Christ\n(4.9)\n\nDrame\, Thriller\n𝟭
- 𝗵𝟱𝟱\n\nUnited States of America\, Morocco\n(English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alejandro Monteverde\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Alejandro Monteverde\, Rod Barr\, Leo Severino\n
- 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Gorka Gómez Andreu\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Angel Studios\, Kasbah Films\, 
- 2521 Entertainment\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Deva Cassel\n- Jam
- ie Ward\n- Jim Caviezel\n- Sam Worthington\n- Ben Mendelsohn\n- Gael Garc
- ía Bernal\n- James Oliver Wheatley\n- Yahya Mahayni\n- Marco Khan\n- Vale
- ntina Kamenova\n- Akin Gazi\n- Luca  Riemma\n\n\nUn empire qui vacille. Un
-  souverain rongé par la peur. Une étoile qui se lève au-dessus de Bethl
- éem. À la naissance du Christ\, la terreur d’Hérode conduit au massac
- re des innocents.  Pour sauver son enfant\, Marie doit fuir et protéger
-  celui que les prophéties annoncent comme le Sauveur du monde. Alors que 
- la violence se propage et que l’espoir s’éteint\, la véritable batai
- lle commence - non pour la conquête d’un trône\, mais pour sauver l’
- âme de l’humanité.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/tZcX
- KzlSzpZxqPu2iEg8h9Lrmr5.jpg\n\nFiche TMDB : https://www.themoviedb.org/mov
- ie/1408207\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Zero A.D.: The Birth of Christ\n(5.1 ↗︎)\n\nDrame\, Thrille
+ r\n𝟭𝗵𝟱𝟱\n\nUnited States\, Morocco\n(English)\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alejandro Monteverde\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Alejandro Monteverde\, Rod Barr\, Leo Severino\n𝗣
+ 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Gorka Gómez Andreu\n𝗣
+ 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Angel Studios\, Kasbah Films\, 2521
+  Entertainment\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Deva Cassel\n- Jamie W
+ ard\n- Jim Caviezel\n- Sam Worthington\n- Ben Mendelsohn\n- Gael García B
+ ernal\n- James Oliver Wheatley\n- Yahya Mahayni\n- Marco Khan\n- Valentina
+  Kamenova\n- Akin Gazi\n- Luca  Riemma\n\n\nUn empire qui vacille. Un souv
+ erain rongé par la peur. Une étoile qui se lève au-dessus de Bethléem.
+  À la naissance du Christ\, la terreur d’Hérode conduit au massacre de
+ s innocents.  Pour sauver son enfant\, Marie doit fuir et protéger celu
+ i que les prophéties annoncent comme le Sauveur du monde. Alors que la vi
+ olence se propage et que l’espoir s’éteint\, la véritable bataille c
+ ommence - non pour la conquête d’un trône\, mais pour sauver l’âme 
+ de l’humanité.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/tZcXKzlSz
+ pZxqPu2iEg8h9Lrmr5.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/14
+ 08207\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/tZcXKzlSzpZxqPu2iEg8h9Lrmr5.jpg
@@ -1462,7 +1496,7 @@ DTSTAMP:20270113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Gentle Monster
-DESCRIPTION:Gentle Monster\n(15.4 ↑︎)\n\nDrame\, Thriller\n𝟭𝗵𝟱
+DESCRIPTION:Gentle Monster\n(14.9 ↑︎)\n\nDrame\, Thriller\n𝟭𝗵𝟱
  𝟱\n\nAustria\, Germany\, France\, Sweden\, Singapore\, Finland\n(German
  \, English\, French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Mar
  ie Kreutzer\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Marie Kreutzer\n𝗣𝗵
@@ -1492,26 +1526,25 @@ DTSTAMP:20270113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:Mona
-DESCRIPTION:The Debut\n(7.9 ↗︎)\n\nMusique\, Comédie\, Drame\n𝟭𝗵
- 𝟰𝟱\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿 : Jesse Eisenberg\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
- 𝗼 : Jesse Eisenberg\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 :
-  Drew Daniels\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Topic Studios\, 
- Fruit Tree\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Julianne Moore\n- Paul Gia
- matti\n- Halle Bailey\n- Colton Ryan\n- Eldar Isgandarov\n- K. Todd Freema
- n\n- Susan Blommaert\n- Jesse Eisenberg\n- Bonnie Milligan\n- Bernadette P
- eters\n- Patrick Fabian\n- Cara Buono\n\n\nLorsque Mona Friedman décroche
-  un petit rôle dans un théâtre de quartier\, cette femme au foyer discr
- ète et effacée découvre un espace où\, pour la première fois\, elle p
- eut exister pleinement. Elle se prend au jeu avec une intensité inattendu
- e\, jusqu’à transformer ce petit rôle en véritable combat personnel. 
- Prête à tout pour lui donner du sens et en préserver l’intégrité ar
- tistique\, elle n’hésite pas à tenir tête à un metteur en scène aut
- oritaire. À mesure qu’elle s’affirme\, elle trouve peu à peu sa plac
- e dans le monde - et se révèle à elle-même.\n\n\nAffiche : https://ima
- ge.tmdb.org/t/p/w780/q0DjvYoZf9G0Kji8PekEkrgKvOz.jpg\n\nFiche TMDB : https
- ://www.themoviedb.org/movie/1391239\n\nDonnées fournies par The Movie Dat
- abase (TMDB)
+DESCRIPTION:The Debut\n(7.5 ↗︎)\n\nMusique\, Comédie\, Drame\n𝟭𝗵
+ 𝟰𝟱\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
+ 𝗲𝘂𝗿 : Jesse Eisenberg\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jesse E
+ isenberg\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Drew Daniels\
+ n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Topic Studios\, Fruit Tree\n\n
+ 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Julianne Moore\n- Paul Giamatti\n- Halle
+  Bailey\n- Colton Ryan\n- Eldar Isgandarov\n- K. Todd Freeman\n- Susan Blo
+ mmaert\n- Jesse Eisenberg\n- Bonnie Milligan\n- Bernadette Peters\n- Patri
+ ck Fabian\n- Cara Buono\n\n\nLorsque Mona Friedman décroche un petit rôl
+ e dans un théâtre de quartier\, cette femme au foyer discrète et effac
+ ée découvre un espace où\, pour la première fois\, elle peut exister p
+ leinement. Elle se prend au jeu avec une intensité inattendue\, jusqu’
+ à transformer ce petit rôle en véritable combat personnel. Prête à to
+ ut pour lui donner du sens et en préserver l’intégrité artistique\, e
+ lle n’hésite pas à tenir tête à un metteur en scène autoritaire. À
+  mesure qu’elle s’affirme\, elle trouve peu à peu sa place dans le mo
+ nde - et se révèle à elle-même.\n\n\nAffiche : https://image.tmdb.org/
+ t/p/w780/q0DjvYoZf9G0Kji8PekEkrgKvOz.jpg\n\nFiche TMDB : https://www.themo
+ viedb.org/movie/1391239\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/q0DjvYoZf9G0Kji8PekEkrgKvOz.jpg
@@ -1525,60 +1558,27 @@ DTSTAMP:20270113T000000Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:The Beekeeper 2
-DESCRIPTION:The Beekeeper 2\n(10.7 ↑︎)\n\nAction\, Crime\, Thriller\n\n
- United States of America\, United Kingdom\n(English)\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Timo Tjahjanto\n𝗦𝗰𝗲𝗻𝗮𝗿
- 𝗶𝗼 : Kurt Wimmer\, Zak Penn\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Callan Green\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Mi
- ramax\, Punch Palace Productions\, Longshot Productions\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Jason Statham\n- Jeremy Irons\n- Yara Shahidi\n- Emm
- y Raver-Lampman\n- Bobby Naderi\n- Jemma Redgrave\n- Pom Klementieff\n- Ad
- am Copeland\n- Finlay Robertson\n- Erick Hayden\n- Sophia Feliciano\n- Tim
-  Fellingham\n\n\nUn ancien agent de l’organisation secrète des apiculte
- urs se lance dans une mission de vengeance impitoyable\, déployant ses co
- mpétences létales contre ceux qui lui ont fait du tort.\n\n\nAffiche : h
- ttps://image.tmdb.org/t/p/w780/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg\n\nFiche TM
- DB : https://www.themoviedb.org/movie/1440769\n\nDonnées fournies par The
-  Movie Database (TMDB)
+DESCRIPTION:The Beekeeper 2\n(10.6 ↑︎)\n\nAction\, Crime\, Thriller\n\n
+ United States\, United Kingdom\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
+ 𝘁𝗲𝘂𝗿 : Timo Tjahjanto\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Kurt
+  Wimmer\, Zak Penn\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Cal
+ lan Green\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Miramax\, Punch Pala
+ ce Productions\, Longshot Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n-
+  Jason Statham\n- Jeremy Irons\n- Yara Shahidi\n- Emmy Raver-Lampman\n- Bo
+ bby Naderi\n- Jemma Redgrave\n- Pom Klementieff\n- Adam Copeland\n- Finlay
+  Robertson\n- Erick Hayden\n- Sophia Feliciano\n- Tim Fellingham\n\n\nUn a
+ ncien agent de l’organisation secrète des apiculteurs se lance dans une
+  mission de vengeance impitoyable\, déployant ses compétences létales c
+ ontre ceux qui lui ont fait du tort.\n\n\nAffiche : https://image.tmdb.org
+ /t/p/w780/8abow3kX8t5TPythvnL3L5FVxNK.jpg\n\nFiche TMDB : https://www.them
+ oviedb.org/movie/1440769\n\nDonnées fournies par The Movie Database (TMDB
+ )
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/xlutnD8qZkrZmaDVyzIRCJlrUPp.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/xlutnD8qZkrZmaDVy
- zIRCJlrUPp.jpg
+ t/p/w780/8abow3kX8t5TPythvnL3L5FVxNK.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/8abow3kX8t5TPythv
+ nL3L5FVxNK.jpg
 CATEGORIES:Action,Crime,Thriller
-END:VEVENT
-BEGIN:VEVENT
-UID:tmdb-1506476@calendrier-cine-fr
-DTSTAMP:20270120T000000Z
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
-SUMMARY:La Troisième nuit
-DESCRIPTION:La Troisième nuit\n(1.3)\n\nDrame\, Histoire\n𝟭𝗵𝟰𝟬
- \n\nFrance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Dan
- iel Auteuil\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Daniel Auteuil\, Camille L
- ugan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Jean-François He
- nsgens\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Les Films Velvet\, Zack
-  Films\, Auvergne-Rhône-Alpes Cinéma\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n
- - Daniel Auteuil\n- Antoine Reinartz\n- Grégory Gadebois\n- Alicia Dadoun
- \n- Victor Bonnel\n- Eliott Margueron\n- Laurent Bozzi\n- Côme Levin\n- V
- alentin Dupic\n- Luàna Bajrami\n- Grégoire Colin\n- Yannick Choirat\n\n\
- nAoût 1942. En pleine occupation\, le gouvernement de Vichy organise une 
- rafle massive\, durant laquelle des centaines de familles juives sont arr
- êtées. Gilbert Lesage\, jeune fonctionnaire\, est chargé de mettre en p
- lace une commission pour statuer sur leur sort. L'abbé Glasberg\, humanit
- aire engagé\, tente quant à lui d’en détourner la mécanique pour la 
- transformer en instrument de résistance. Face à la froideur implacable d
- e la bureaucratie de Vichy\, les deux hommes vont devoir unir leurs forces
-  dans l’espoir de sauver la vie de centaines d’innocents.\n\n\nAffiche
-  : https://image.tmdb.org/t/p/w780/dRqvo96SFmTvml2mUzw2FbFQbYh.jpg\n\nFich
- e TMDB : https://www.themoviedb.org/movie/1506476\n\nDonnées fournies par
-  The Movie Database (TMDB)
-TRANSP:TRANSPARENT
-IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
- t/p/w780/dRqvo96SFmTvml2mUzw2FbFQbYh.jpg
-ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/dRqvo96SFmTvml2mU
- zw2FbFQbYh.jpg
-CATEGORIES:Drame,Histoire
 END:VEVENT
 BEGIN:VEVENT
 UID:tmdb-1472813@calendrier-cine-fr
@@ -1586,7 +1586,7 @@ DTSTAMP:20270120T000000Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Le Journal d'une femme de chambre
-DESCRIPTION:Le Journal d'une femme de chambre\n(2.6 ↗︎)\n\nDrame\, Com
+DESCRIPTION:Le Journal d'une femme de chambre\n(2.5 →︎)\n\nDrame\, Com
  édie\n𝟭𝗵𝟯𝟰\n\nFrance\, Romania\n(French\, English\, Romanian)
  \n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Radu Jude\n𝗦𝗰𝗲
  𝗻𝗮𝗿𝗶𝗼 : Radu Jude\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
@@ -1618,19 +1618,19 @@ DTSTAMP:20270120T000000Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:River
-DESCRIPTION:River\n(3.6)\n\nHorreur\, Thriller\n𝟭𝗵𝟯𝟮\n\nUnited 
- States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Joshua Giuliano\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Joshua Giuliano
- \n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Nick Matthews\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Spooky Pictures\, Eat the Cat\, Upg
- rade\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Jane Levy\n- Jessica Rothe\n- Ma
- x Mattern\n- Dane DiLiegro\n- Mickey Dolan\n- Addison Smith\n- Aubree Lisc
- otti\n- Westley Bator\n- Josh Nuncio\n- Lexy Dewland\n- Vanessa Reseland\n
- - Gordon Gunia\n\n\nIl n'y a plus de soleil. Plus de moteur sur le bateau.
-  Pas de réseau. Mais il y a quelqu'un sur la rive. À l'affût.\n\n\nAffi
- che : https://image.tmdb.org/t/p/w780/vxykugHZYZoR8NBtcecLBXncB9K.jpg\n\nF
- iche TMDB : https://www.themoviedb.org/movie/1520592\n\nDonnées fournies 
- par The Movie Database (TMDB)
+DESCRIPTION:River\n(3.8)\n\nHorreur\, Thriller\n𝟭𝗵𝟯𝟮\n\nUnited 
+ States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Joshua
+  Giuliano\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Joshua Giuliano\n𝗣𝗵
+ 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Nick Matthews\n𝗣𝗿𝗼𝗱
+ 𝘂𝗰𝘁𝗶𝗼𝗻 : Spooky Pictures\, Eat the Cat\, Upgrade\n\n𝗔
+ 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Jane Levy\n- Jessica Rothe\n- Max Mattern\n-
+  Dane DiLiegro\n- Mickey Dolan\n- Addison Smith\n- Aubree Liscotti\n- West
+ ley Bator\n- Josh Nuncio\n- Lexy Dewland\n- Vanessa Reseland\n- Gordon Gun
+ ia\n\n\nIl n'y a plus de soleil. Plus de moteur sur le bateau. Pas de rés
+ eau. Mais il y a quelqu'un sur la rive. À l'affût.\n\n\nAffiche : https:
+ //image.tmdb.org/t/p/w780/vxykugHZYZoR8NBtcecLBXncB9K.jpg\n\nFiche TMDB : 
+ https://www.themoviedb.org/movie/1520592\n\nDonnées fournies par The Movi
+ e Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/vxykugHZYZoR8NBtcecLBXncB9K.jpg
@@ -1645,19 +1645,19 @@ DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Artificial
 DESCRIPTION:Artificial\n(16.7 ↑︎)\n\nHistoire\, Drame\, Comédie\n𝟮
- 𝗵𝟮𝟭\n\nItaly\, United Kingdom\, United States of America\n(Englis
- h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Luca Guadagnino\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Simon Rich\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿
- 𝗮𝗽𝗵𝗶𝗲 : Malik Hassan Sayeed\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
- 𝗶𝗼𝗻 : Heyday Films\, Jennifer Fox Productions\, Frenesy Film\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andrew Garfield\n- Iouri Borissov\n- Jas
- on Schwartzman\n- Cooper Koch\n- Cooper Hoffman\n- Monica Barbaro\n- Billi
- e Lourd\n- Zosia Mamet\n- Chris O'Dowd\n- Will Angus\n- Thaddea Graham\n- 
- Nicholas Hamilton\n\n\nL’entreprise d’intelligence artificielle OpenAI
- \, renvoie le PDG Sam Altman puis le réintégre en l’espace de quelques
-  jours.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/bEKcTAVFIuJatIH8Ce1
- wLdfOfrt.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1492198\n\nD
- onnées fournies par The Movie Database (TMDB)
+ 𝗵𝟮𝟭\n\nItaly\, United Kingdom\, United States\n(English)\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Luca Guadagnino\n𝗦𝗰𝗲
+ 𝗻𝗮𝗿𝗶𝗼 : Simon Rich\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
+ 𝗵𝗶𝗲 : Malik Hassan Sayeed\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : Heyday Films\, Jennifer Fox Productions\, Frenesy Film\n\n𝗔𝗰
+ 𝘁𝗲𝘂𝗿𝘀 :\n- Andrew Garfield\n- Iouri Borissov\n- Jason Schwa
+ rtzman\n- Cooper Koch\n- Cooper Hoffman\n- Monica Barbaro\n- Billie Lourd\
+ n- Zosia Mamet\n- Chris O'Dowd\n- Will Angus\n- Thaddea Graham\n- Nicholas
+  Hamilton\n\n\nL’entreprise d’intelligence artificielle OpenAI\, renvo
+ ie le PDG Sam Altman puis le réintégre en l’espace de quelques jours.\
+ n\n\nAffiche : https://image.tmdb.org/t/p/w780/bEKcTAVFIuJatIH8Ce1wLdfOfrt
+ .jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1492198\n\nDonnées 
+ fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/bEKcTAVFIuJatIH8Ce1wLdfOfrt.jpg
@@ -1666,12 +1666,42 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/bEKcTAVFIuJatIH8C
 CATEGORIES:Histoire,Drame,Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1473784@calendrier-cine-fr
+DTSTAMP:20270127T000000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Bunker
+DESCRIPTION:Bunker\n(3.8)\n\nDrame\, Thriller\n𝟮𝗵𝟬𝟲\n\nFrance\,
+  Spain\n(English\, Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
+ 𝗿 : Florian Zeller\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Florian Zeller\n
+ 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Ben Smithard\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Blue Morning Pictures\, Mod Produccione
+ s\, Pathé\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Javier Bardem\n- Penélope
+  Cruz\n- Stephen Graham\n- Paul Dano\n- Patrick Schwarzenegger\n- Chloe Co
+ nh\n- Leah Conh\n- Mark Gatiss\n- Eileen Atkins\n- Karen Ascoe\n- Jamie Bi
+ sping\n- Joe Rawlinson-Hunt\n\n\nUn architecte de renom se voit proposer d
+ e concevoir\, dans le plus grand secret\, un bunker de survie pour un mill
+ iardaire convaincu que la fin du monde est proche. Tandis qu’il se laiss
+ e séduire par ce projet moralement ambigu\, son épouse commence à remet
+ tre en question leur mariage. Après 17 ans de vie commune\, ont-ils encor
+ e les mêmes valeurs ? Les mêmes aspirations ? Les mêmes rêves ?\n\n\nA
+ ffiche : https://image.tmdb.org/t/p/w780/fF2R0jc9h73cgd59KRWzWQnBN8J.jpg\n
+ \nFiche TMDB : https://www.themoviedb.org/movie/1473784\n\nDonnées fourni
+ es par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/fF2R0jc9h73cgd59KRWzWQnBN8J.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/fF2R0jc9h73cgd59K
+ RWzWQnBN8J.jpg
+CATEGORIES:Drame,Thriller
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1620313@calendrier-cine-fr
 DTSTAMP:20270127T000000Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Le Château d’Arioka
-DESCRIPTION:黒牢城 — Kokurôjô\n(4.9 ↗︎)\n\nDrame\, Histoire\, My
+DESCRIPTION:黒牢城 — Kokurôjô\n(5.3 →︎)\n\nDrame\, Histoire\, My
  stère\n𝟮𝗵𝟮𝟳\n\nJapan\n(Japanese)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
  𝗮𝘁𝗲𝘂𝗿 : Kiyoshi Kurosawa\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 
  : Kiyoshi Kurosawa\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 佐
@@ -1704,22 +1734,22 @@ DTSTAMP:20270127T000000Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Le Royaume d'Orïsha
-DESCRIPTION:Children of Blood and Bone\n(5.1 →︎)\n\nFantastique\, Avent
- ure\n𝟮𝗵𝟮𝟲\n\nUnited States of America\n(English)\n\n𝗥𝗲
- 𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Gina Prince-Bythewood\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Gina Prince-Bythewood\, Tomi Adeyemi\n𝗣𝗵𝗼
- 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Polly Morgan\n𝗣𝗿𝗼𝗱𝘂
- 𝗰𝘁𝗶𝗼𝗻 : Temple Hill Entertainment\, Sunswept Entertainment\
- , Paramount Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Thuso Mbedu\n- D
- amson Idris\n- Amandla Stenberg\n- Tosin Cole\n- Viola Davis\n- Cynthia Er
- ivo\n- Idris Elba\n- Lashana Lynch\n- Chiwetel Ejiofor\n- Regina King\n- D
- iaana Babnicova\n- Bukky Bakray\n\n\nUne jeune femme\, Orisha\, assiste à
-  la mort de sa mère et de magiciens connus sous le nom de maji. La jeune 
- femme va devoir faire équipe avec un voleur et éviter des esprits vengeu
- rs et des "leoponaires" afin de ramener la magie au sein de son pays.\n\n\
- nAffiche : https://image.tmdb.org/t/p/w780/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg
- \n\nFiche TMDB : https://www.themoviedb.org/movie/621304\n\nDonnées fourn
- ies par The Movie Database (TMDB)
+DESCRIPTION:Children of Blood and Bone\n(5.3 →︎)\n\nFantastique\, Avent
+ ure\n𝟮𝗵𝟮𝟲\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
+ 𝘀𝗮𝘁𝗲𝘂𝗿 : Gina Prince-Bythewood\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : Gina Prince-Bythewood\, Tomi Adeyemi\n𝗣𝗵𝗼𝘁𝗼𝗴
+ 𝗿𝗮𝗽𝗵𝗶𝗲 : Polly Morgan\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶
+ 𝗼𝗻 : Temple Hill Entertainment\, Sunswept Entertainment\, Paramount 
+ Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Thuso Mbedu\n- Damson Idris\
+ n- Amandla Stenberg\n- Tosin Cole\n- Viola Davis\n- Cynthia Erivo\n- Idris
+  Elba\n- Lashana Lynch\n- Chiwetel Ejiofor\n- Regina King\n- Diaana Babnic
+ ova\n- Bukky Bakray\n\n\nUne jeune femme\, Orisha\, assiste à la mort de 
+ sa mère et de magiciens connus sous le nom de maji. La jeune femme va dev
+ oir faire équipe avec un voleur et éviter des esprits vengeurs et des "l
+ eoponaires" afin de ramener la magie au sein de son pays.\n\n\nAffiche : h
+ ttps://image.tmdb.org/t/p/w780/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg\n\nFiche TM
+ DB : https://www.themoviedb.org/movie/621304\n\nDonnées fournies par The 
+ Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg
@@ -1762,7 +1792,7 @@ DTSTAMP:20270203T000000Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Ben'Imana
-DESCRIPTION:Ben'Imana\n(1.6 →︎)\n\nDrame\n𝟭𝗵𝟰𝟭\n\nGabon\, N
+DESCRIPTION:Ben'Imana\n(1.5 ↘︎)\n\nDrame\n𝟭𝗵𝟰𝟭\n\nGabon\, N
  orway\, Rwanda\, France\n(Kinyarwanda)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁
  𝗲𝘂𝗿 : Marie-Clémentine Dusabejambo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
  𝗼 : Marie-Clémentine Dusabejambo\, Delphine Agut\n𝗣𝗵𝗼𝘁𝗼
@@ -1794,20 +1824,19 @@ DTSTAMP:20270203T000000Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:L'Âge de Glace : Le Réveil du Volcan
-DESCRIPTION:Ice Age: Boiling Point\n(18.1 ↑︎)\n\nAventure\, Animation\,
-  Familial\, Comédie\n𝟭𝗵𝟰𝟯\n\nUnited States of America\n(Engli
- sh)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Donkin\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 20th Century Animation\n\n𝗔𝗰
- 𝘁𝗲𝘂𝗿𝘀 :\n- Ray Romano\n- John Leguizamo\n- Denis Leary\n- S
- imon Pegg\n- Queen Latifah\n- Ashley Park\n- Josh Peck\n- Vincent Tong\n- 
- Adam Devine\n- Coco Jones\n- Chris Wedge\n- Kari Wahlgren\n\n\nJaillissant
-  d’un volcan en pleine éruption\, tous se lancent bientôt tête baiss
- ée dans une nouvelle aventure déjantée au cours de laquelle\, entre din
- osaures et coulées de lave\, ils vont être amenés à arpenter des recoi
- ns encore inexplorés du Monde perdu…\n\n\nAffiche : https://image.tmdb.
- org/t/p/w780/h7Td6puRt0hMmsoaGbXuyKURV2n.jpg\n\nFiche TMDB : https://www.t
- hemoviedb.org/movie/1384758\n\nDonnées fournies par The Movie Database (T
- MDB)
+DESCRIPTION:Ice Age: Boiling Point\n(18.0 ↑︎)\n\nAventure\, Animation\,
+  Familial\, Comédie\n𝟭𝗵𝟰𝟯\n\nUnited States\n(English)\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : John Donkin\n𝗣𝗿𝗼𝗱
+ 𝘂𝗰𝘁𝗶𝗼𝗻 : 20th Century Animation\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Ray Romano\n- John Leguizamo\n- Denis Leary\n- Simon Pegg\n-
+  Queen Latifah\n- Ashley Park\n- Josh Peck\n- Vincent Tong\n- Adam Devine\
+ n- Coco Jones\n- Chris Wedge\n- Kari Wahlgren\n\n\nJaillissant d’un volc
+ an en pleine éruption\, tous se lancent bientôt tête baissée dans une 
+ nouvelle aventure déjantée au cours de laquelle\, entre dinosaures et co
+ ulées de lave\, ils vont être amenés à arpenter des recoins encore ine
+ xplorés du Monde perdu…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/
+ h7Td6puRt0hMmsoaGbXuyKURV2n.jpg\n\nFiche TMDB : https://www.themoviedb.org
+ /movie/1384758\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/h7Td6puRt0hMmsoaGbXuyKURV2n.jpg
@@ -1816,25 +1845,51 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/h7Td6puRt0hMmsoaG
 CATEGORIES:Aventure,Animation,Familial,Comédie
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-676670@calendrier-cine-fr
+DTSTAMP:20270203T000000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Muyi\, la légende du village des femmes
+DESCRIPTION:Muyi\, la légende du village des femmes\n(1.2 →︎)\n\nActio
+ n\, Aventure\, Animation\, Fantastique\n𝟭𝗵𝟯𝟬\n\nFrance\n(Frenc
+ h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Julien Chheng\n𝗦
+ 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Julien Chheng\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁
+ 𝗶𝗼𝗻 : Studio La Cachette\, Duetto\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀
+  :\n- Lucie Zhang\n- Guillaume Bouchède\n- Colette Venhard\n- Yumi Fujimo
+ ri\n- Anatole Yun\n\n\nMuyi\, 14 ans\, vit en Chine dans un village interd
+ it aux hommes. Le jour de la fête des morts\, elle invite une troupe ambu
+ lante à jouer le célèbre spectacle du Beau Général. Mais la pièce r
+ éveille d'anciens secrets\, et sème rapidement le chaos.\n\n\nAffiche : 
+ https://image.tmdb.org/t/p/w780/64AukSojt0FWqqXSVYvnDBjyLTT.jpg\n\nFiche T
+ MDB : https://www.themoviedb.org/movie/676670\n\nDonnées fournies par The
+  Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/64AukSojt0FWqqXSVYvnDBjyLTT.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/64AukSojt0FWqqXSV
+ YvnDBjyLTT.jpg
+CATEGORIES:Action,Aventure,Animation,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1425859@calendrier-cine-fr
 DTSTAMP:20270203T000000Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Reste avec moi
-DESCRIPTION:Remain\n(6.4 ↑︎)\n\nRomance\, Mystère\, Horreur\n\nUnited 
- States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : M. Night Shyamalan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : M. Night Shy
- amalan\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adolpho Veloso\
- n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Blinding Edge Pictures\n\n𝗔
- 𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Jake Gyllenhaal\n- Phoebe Dynevor\n- Ashley 
- Walters\n- Julie Hagerty\n- Jay O. Sanders\n- Tracy Ifeachor\n- Hannah Jam
- es\n- Caleb Ruminer\n- Kieran Mulcare\n- Maria Dizzia\n- Amity Dolore\n- C
- ameron Moquin\n\n\nL'architecte Tate Donovan se rend à Cape Cod pour conc
- evoir la maison d'été de son meilleur ami. Il y rencontre Wren\, une jeu
- ne femme qui lui fait remettre en question tout ce qu'il sait de son monde
- ...\n\n\nAffiche : https://image.tmdb.org/t/p/w780/9Dd0waudVR3yeUvsmZegCTq
- 5vLR.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1425859\n\nDonn
- ées fournies par The Movie Database (TMDB)
+DESCRIPTION:Remain\n(6.2 ↑︎)\n\nRomance\, Mystère\, Horreur\n\nUnited 
+ States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : M. Nig
+ ht Shyamalan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : M. Night Shyamalan\n𝗣
+ 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Adolpho Veloso\n𝗣𝗿
+ 𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Blinding Edge Pictures\n\n𝗔𝗰𝘁
+ 𝗲𝘂𝗿𝘀 :\n- Jake Gyllenhaal\n- Phoebe Dynevor\n- Ashley Walters\
+ n- Julie Hagerty\n- Jay O. Sanders\n- Tracy Ifeachor\n- Hannah James\n- Ca
+ leb Ruminer\n- Kieran Mulcare\n- Maria Dizzia\n- Amity Dolore\n- Cameron M
+ oquin\n\n\nL'architecte Tate Donovan se rend à Cape Cod pour concevoir la
+  maison d'été de son meilleur ami. Il y rencontre Wren\, une jeune femme
+  qui lui fait remettre en question tout ce qu'il sait de son monde...\n\n\
+ nAffiche : https://image.tmdb.org/t/p/w780/9Dd0waudVR3yeUvsmZegCTq5vLR.jpg
+ \n\nFiche TMDB : https://www.themoviedb.org/movie/1425859\n\nDonnées four
+ nies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/9Dd0waudVR3yeUvsmZegCTq5vLR.jpg
@@ -1874,34 +1929,63 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/cxSy2uW677LatSdk2
 CATEGORIES:Action,Crime,Thriller
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1676026@calendrier-cine-fr
+DTSTAMP:20270210T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Les Profs 3 - Back to le passé
+DESCRIPTION:Les Profs 3 - Back to le passé\n(1.3 ↘︎)\n\nComédie\n\nFr
+ ance\n(French)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Pierre-Fr
+ ançois Martin-Laval\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Pierre-François 
+ Martin-Laval\, Mathias Gavarry\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 :
+  Les Films du Premier\, TF1 Films Production\n\n𝗔𝗰𝘁𝗲𝘂𝗿
+ 𝘀 :\n- Isabelle Nanty\n- Christian Clavier\n- Pierre-François Martin-L
+ aval\n- Arnaud Ducret\n- Stéfi Celma\n- Fred Tousch\n- Jean-Luc Couchard\
+ n- Laurent Stocker\n- Tom Boudet\n- Julien Jakout\n\n\nLes cours reprennen
+ t à Jules Ferry\, le célèbre établissement n’a pas changé sa formul
+ e\, aux pires élèves\, les pires profs ! Lors d’un voyage scolaire\, l
+ es profs et Boulard sont projetés dans le passé\, en pleine bataille nap
+ oléonienne. Ils se retrouvent alors à une époque où l’école publiqu
+ e n’existe pas encore\, et vont\, sans le faire exprès\, chambouler le 
+ cours de l’Histoire…\n\n\nAffiche : https://image.tmdb.org/t/p/w780/5G
+ f60XBmZtpVJ1clG7fP4vi65kQ.jpg\n\nFiche TMDB : https://www.themoviedb.org/m
+ ovie/1676026\n\nDonnées fournies par The Movie Database (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/5Gf60XBmZtpVJ1clG7fP4vi65kQ.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/5Gf60XBmZtpVJ1clG
+ 7fP4vi65kQ.jpg
+CATEGORIES:Comédie
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-11@calendrier-cine-fr
 DTSTAMP:20270217T000000Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:La Guerre des étoiles
-DESCRIPTION:Star Wars\n(29.0 →︎)\n\nAventure\, Action\, Science-Fiction
- \n𝟮𝗵𝟬𝟭\n\nUnited States of America\n(English)\n𝗦𝗼𝗿
- 𝘁𝗶𝗲 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 octobre 1977\n\
- n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : George Lucas\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : George Lucas\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽
- 𝗵𝗶𝗲 : Gilbert Taylor\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : 
- Lucasfilm Ltd.\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mark Hamill\n- Harriso
- n Ford\n- Carrie Fisher\n- Peter Cushing\n- Alec Guinness\n- Anthony Danie
- ls\n- Kenny Baker\n- Peter Mayhew\n- David Prowse\n- James Earl Jones\n- P
- hil Brown\n- Shelagh Fraser\n\n\nIl y a bien longtemps\, dans une galaxie 
- très lointaine... La guerre civile fait rage entre l'Empire galactique et
-  l'Alliance rebelle. Capturée par les troupes de choc de l'Empereur mené
- es par le sombre et impitoyable Dark Vador\, la princesse Leia Organa diss
- imule les plans de l’Étoile Noire\, une station spatiale invulnérable\
- , à son droïde R2-D2 avec pour mission de les remettre au Jedi Obi-Wan K
- enobi. Accompagné de son fidèle compagnon\, le droïde de protocole C-3P
- O\, R2-D2 s'échoue sur la planète Tatooine et termine sa quête chez le 
- jeune Luke Skywalker. Rêvant de devenir pilote mais confiné aux travaux 
- de la ferme\, ce dernier se lance à la recherche de ce mystérieux Obi-Wa
- n Kenobi\, devenu ermite au cœur des montagnes désertiques de Tatooine..
- .\n\n\nAffiche : https://image.tmdb.org/t/p/w780/qelTNHrBSYjPvwdzsDBPVsqnN
- zc.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/11\n\nDonnées fou
- rnies par The Movie Database (TMDB)
+DESCRIPTION:Star Wars\n(30.8 →︎)\n\nAventure\, Action\, Science-Fiction
+ \n𝟮𝗵𝟬𝟭\n\nUnited States\n(English)\n𝗦𝗼𝗿𝘁𝗶𝗲 
+ 𝗵𝗶𝘀𝘁𝗼𝗿𝗶𝗾𝘂𝗲 : 19 octobre 1977\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : George Lucas\n𝗦𝗰𝗲𝗻𝗮𝗿
+ 𝗶𝗼 : George Lucas\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 
+ : Gilbert Taylor\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lucasfilm Ltd
+ .\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mark Hamill\n- Harrison Ford\n- Car
+ rie Fisher\n- Peter Cushing\n- Alec Guinness\n- Anthony Daniels\n- Kenny B
+ aker\n- Peter Mayhew\n- David Prowse\n- James Earl Jones\n- Phil Brown\n- 
+ Shelagh Fraser\n\n\nIl y a bien longtemps\, dans une galaxie très lointai
+ ne... La guerre civile fait rage entre l'Empire galactique et l'Alliance r
+ ebelle. Capturée par les troupes de choc de l'Empereur menées par le som
+ bre et impitoyable Dark Vador\, la princesse Leia Organa dissimule les pla
+ ns de l’Étoile Noire\, une station spatiale invulnérable\, à son dro
+ ïde R2-D2 avec pour mission de les remettre au Jedi Obi-Wan Kenobi. Accom
+ pagné de son fidèle compagnon\, le droïde de protocole C-3PO\, R2-D2 s'
+ échoue sur la planète Tatooine et termine sa quête chez le jeune Luke S
+ kywalker. Rêvant de devenir pilote mais confiné aux travaux de la ferme\
+ , ce dernier se lance à la recherche de ce mystérieux Obi-Wan Kenobi\, d
+ evenu ermite au cœur des montagnes désertiques de Tatooine...\n\n\nAffic
+ he : https://image.tmdb.org/t/p/w780/qelTNHrBSYjPvwdzsDBPVsqnNzc.jpg\n\nFi
+ che TMDB : https://www.themoviedb.org/movie/11\n\nDonnées fournies par Th
+ e Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/qelTNHrBSYjPvwdzsDBPVsqnNzc.jpg
@@ -1915,20 +1999,20 @@ DTSTAMP:20270217T000000Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Musk
-DESCRIPTION:Musk\n(7.1 ↓︎)\n\nDocumentaire\n𝟯𝗵𝟱𝟴\n\nUnited 
- States of America\n(English\, Portuguese\, Spanish)\n\n𝗥𝗲𝗮𝗹
- 𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Alex Gibney\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶
- 𝗼 : Alex Gibney\, Michael J. Palmer\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
- 𝗽𝗵𝗶𝗲 : Ben Bloodwell\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-  : Jigsaw Productions\, Closer Media\, Anonymous Content\n\n𝗔𝗰𝘁
- 𝗲𝘂𝗿𝘀 :\n- Elon Musk\n- Alex Gibney\n- Justine Musk\n- Ashley S
- t. Clair\n- Kara Swisher\n- Martin Eberhard\n- Zoë Schiffer\n- Geoffrey H
- inton\n- Sam Harris\n- Samantha Power\n- Errol Musk\n- Maye Musk\n\n\nUn r
- egard incisif sur la légende d'Elon Musk\, l'« inventeur-entrepreneur »
-  le plus célèbre au monde\, qui exerce une influence énorme sur le mond
- e dans lequel nous vivons tous.\n\n\nAffiche : https://image.tmdb.org/t/p/
- w780/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg\n\nFiche TMDB : https://www.themovied
- b.org/movie/1096228\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Musk\n(7.7 ↓︎)\n\nDocumentaire\n𝟯𝗵𝟱𝟴\n\nUnited 
+ States\n(English\, Portuguese\, Spanish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
+ 𝘁𝗲𝘂𝗿 : Alex Gibney\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Alex Gi
+ bney\, Michael J. Palmer\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲
+  : Ben Bloodwell\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Jigsaw Produc
+ tions\, Closer Media\, Anonymous Content\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :
+ \n- Elon Musk\n- Alex Gibney\n- Justine Musk\n- Ashley St. Clair\n- Kara S
+ wisher\n- Martin Eberhard\n- Zoë Schiffer\n- Geoffrey Hinton\n- Sam Harri
+ s\n- Samantha Power\n- Errol Musk\n- Maye Musk\n\n\nUn regard incisif sur 
+ la légende d'Elon Musk\, l'« inventeur-entrepreneur » le plus célèbre
+  au monde\, qui exerce une influence énorme sur le monde dans lequel nous
+  vivons tous.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/kTOeFV92c3QHJ
+ 3bEkT660P7BcWN.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/109622
+ 8\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg
@@ -1942,20 +2026,19 @@ DTSTAMP:20270224T000000Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:Josephine
-DESCRIPTION:Josephine\n(17.2 ↑︎)\n\nDrame\, Crime\n𝟮𝗵\n\nUnited S
- tates of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂
- 𝗿 : Beth de Araújo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Beth de Araújo
- \n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Greta Zozula\n𝗣
- 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Kaplan Morrison\, Vibrato\, Kinemat
- ics\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mason Reeves\n- Channing Tatum\n-
-  Gemma Chan\n- Philip Ettinger\n- Syra McCarthy\n- Eleanore Pienta\n- Dana
-  Millican\n- Michael Angelo Covino\n- Stefanie Estes\n- Michael X. Sommers
- \n- Jimmy Dahroug\n- Nate Duncan\n\n\nAprès avoir été accidentellement 
- témoin d'un viol dans un parc\, Joséphine\, huit ans\, est traumatisée 
- et devient de plus en plus violente.\n\n\nAffiche : https://image.tmdb.org
- /t/p/w780/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg\n\nFiche TMDB : https://www.them
- oviedb.org/movie/1299329\n\nDonnées fournies par The Movie Database (TMDB
- )
+DESCRIPTION:Josephine\n(16.3 ↑︎)\n\nDrame\, Crime\n𝟮𝗵\n\nUnited S
+ tates\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Beth de
+  Araújo\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Beth de Araújo\n𝗣𝗵𝗼
+ 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Greta Zozula\n𝗣𝗿𝗼𝗱𝘂
+ 𝗰𝘁𝗶𝗼𝗻 : Kaplan Morrison\, Vibrato\, Kinematics\n\n𝗔𝗰
+ 𝘁𝗲𝘂𝗿𝘀 :\n- Mason Reeves\n- Channing Tatum\n- Gemma Chan\n- 
+ Philip Ettinger\n- Syra McCarthy\n- Eleanore Pienta\n- Dana Millican\n- Mi
+ chael Angelo Covino\n- Stefanie Estes\n- Michael X. Sommers\n- Jimmy Dahro
+ ug\n- Nate Duncan\n\n\nAprès avoir été accidentellement témoin d'un vi
+ ol dans un parc\, Joséphine\, huit ans\, est traumatisée et devient de p
+ lus en plus violente.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/6pUSC
+ eInGp4Ut3rqgPNWUrmKBUi.jpg\n\nFiche TMDB : https://www.themoviedb.org/movi
+ e/1299329\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg
@@ -1969,23 +2052,23 @@ DTSTAMP:20270303T000000Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:Nero\, chat noir
-DESCRIPTION:Gatto\n(6.9 ↑︎)\n\nAnimation\, Comédie\, Crime\, Familial\
- n𝟭𝗵𝟯𝟴\n\nUnited States of America\n(English\, Italian)\n\n𝗥
- 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Enrico Casarosa\n𝗦𝗰𝗲
- 𝗻𝗮𝗿𝗶𝗼 : Enrico Casarosa\, Tripper Clancy\, Andy Siara\n𝗣
- 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : David Juan Bianchi\, Brian 
- Boyd\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n𝗔𝗰𝘁𝗲
- 𝘂𝗿𝘀 :\n- Mark Ruffalo\n- Laurence Fishburne\n- Enrico Casarosa\n-
-  Bianca Babaşa\n- Sherry Cola\n- John Turturro\n- Rumen Sali Shopov\n- Rh
- ys Darby\n- Isabella Rossellini\n- Natasia Demetriou\n- Jamie Demetriou\n-
-  Jason Schwartzman\n\n\nNero\, un chat noir au passé bien rempli et endet
- té comme jamais auprès de Rocco\, le parrain de la pègre locale\, se re
- trouve dans une situation tellement délicate qu’il n’a plus d’autre
-  choix que de nouer une amitié aussi improbable qu’essentielle qui pour
- rait enfin lui révéler sa véritable raison d’être… A moins que Ven
- ise n’ait le dernier mot !\n\n\nAffiche : https://image.tmdb.org/t/p/w78
- 0/xHFAxSHSbo6tEXe1r1vadCV85PM.jpg\n\nFiche TMDB : https://www.themoviedb.o
- rg/movie/1497464\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Gatto\n(7.0 ↗︎)\n\nAnimation\, Comédie\, Crime\, Familial\
+ n𝟭𝗵𝟯𝟴\n\nUnited States\n(English\, Italian)\n\n𝗥𝗲𝗮
+ 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Enrico Casarosa\n𝗦𝗰𝗲𝗻𝗮
+ 𝗿𝗶𝗼 : Enrico Casarosa\, Tripper Clancy\, Andy Siara\n𝗣𝗵𝗼
+ 𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : David Juan Bianchi\, Brian Boyd\n
+ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Pixar\n\n𝗔𝗰𝘁𝗲𝘂
+ 𝗿𝘀 :\n- Mark Ruffalo\n- Laurence Fishburne\n- Enrico Casarosa\n- Bia
+ nca Babaşa\n- Sherry Cola\n- John Turturro\n- Rumen Sali Shopov\n- Rhys D
+ arby\n- Isabella Rossellini\n- Natasia Demetriou\n- Jamie Demetriou\n- Jas
+ on Schwartzman\n\n\nNero\, un chat noir au passé bien rempli et endetté 
+ comme jamais auprès de Rocco\, le parrain de la pègre locale\, se retrou
+ ve dans une situation tellement délicate qu’il n’a plus d’autre cho
+ ix que de nouer une amitié aussi improbable qu’essentielle qui pourrait
+  enfin lui révéler sa véritable raison d’être… A moins que Venise 
+ n’ait le dernier mot !\n\n\nAffiche : https://image.tmdb.org/t/p/w780/xH
+ FAxSHSbo6tEXe1r1vadCV85PM.jpg\n\nFiche TMDB : https://www.themoviedb.org/m
+ ovie/1497464\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/xHFAxSHSbo6tEXe1r1vadCV85PM.jpg
@@ -1999,22 +2082,22 @@ DTSTAMP:20270310T000000Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Elsinore
-DESCRIPTION:Elsinore\n(8.1 ↑︎)\n\nDrame\n𝟭𝗵𝟱𝟭\n\nItaly\, Un
- ited Kingdom\, United States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶
- 𝘀𝗮𝘁𝗲𝘂𝗿 : Simon Stone\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 :
-  Stephen Beresford\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mik
- e Eley\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lucky Red\, LD Entertai
- nment\, Magnolia Mae Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andrew Sco
- tt\n- Olivia Colman\n- Billie Piper\n- Johnny Flynn\n- Luke Thompson\n- Da
- vid Dawson\n- Matthew Beard\n- Joe Locke\n- Monica Dolan\n- Georgie Glen\n
- - Sadie Soverall\n- Adeel Akhtar\n\n\n(synopsis non encore traduit sur TMD
- B)\nThe deeply emotional and inspirational true story of Ian Charleson\, a
-  gifted actor whose greatest challenge becomes his greatest triumph. Facin
- g his own mortality with unflinching honesty\, wit\, and grace\, Charleson
-  delivers a courageous performance that becomes a source of healing and in
- spiration for those around him.\n\n\nAffiche : https://image.tmdb.org/t/p/
- w780/kohUtEueIVyDXC30MaOdi36aAwn.jpg\n\nFiche TMDB : https://www.themovied
- b.org/movie/1599230\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:Elsinore\n(8.2 ↑︎)\n\nDrame\n𝟭𝗵𝟱𝟭\n\nItaly\, Un
+ ited Kingdom\, United States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮
+ 𝘁𝗲𝘂𝗿 : Simon Stone\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Stephen
+  Beresford\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Mike Eley\n
+ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Lucky Red\, LD Entertainment\, 
+ Magnolia Mae Films\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Andrew Scott\n- Ol
+ ivia Colman\n- Billie Piper\n- Johnny Flynn\n- Luke Thompson\n- David Daws
+ on\n- Matthew Beard\n- Joe Locke\n- Monica Dolan\n- Georgie Glen\n- Sadie 
+ Soverall\n- Adeel Akhtar\n\n\n(synopsis non encore traduit sur TMDB)\nThe 
+ deeply emotional and inspirational true story of Ian Charleson\, a gifted 
+ actor whose greatest challenge becomes his greatest triumph. Facing his ow
+ n mortality with unflinching honesty\, wit\, and grace\, Charleson deliver
+ s a courageous performance that becomes a source of healing and inspiratio
+ n for those around him.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/koh
+ UtEueIVyDXC30MaOdi36aAwn.jpg\n\nFiche TMDB : https://www.themoviedb.org/mo
+ vie/1599230\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/kohUtEueIVyDXC30MaOdi36aAwn.jpg
@@ -2055,24 +2138,24 @@ DTSTAMP:20270310T000000Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:L'Exorciste - Martyrs
-DESCRIPTION:The Exorcist: Martyrs\n(4.4 →︎)\n\nHorreur\n\nUnited States
-  of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : M
- ike Flanagan\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mike Flanagan\n𝗣𝗵
- 𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Michael Fimognari\n𝗣𝗿𝗼
- 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Red Room Pictures\, Morgan Creek Entertainm
- ent\, Universal Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Scarlett Joh
- ansson\n- Sasha Calle\n- Chiwetel Ejiofor\n- John Leguizamo\n- Laurence Fi
- shburne\n- Diane Lane\n- Jacobi Jupe\n- Scoot McNairy\n- Rahul Kohli\n- Gi
- l Bellows\n- John Gallagher Jr.\n- Hamish Linklater\n\n\nIl y a treize ans
- \, Julie Miller\, détective de la police de New York\, a mis fin au règn
- e de terreur du tueur en série sataniste surnommé « Father Sunday ». C
- ette affaire a fait d'elle une héroïne\, et elle s'est depuis lors enti
- èrement consacrée à son travail. Aujourd'hui\, un nouveau tueur inscrit
-  son nom dans le sang d'un enfant de chœur sur les murs de la crypte d'un
- e église\, la replongeant dans les ténèbres qu'elle croyait avoir enter
- rées avec lui.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/zotF78Fhkvf
- 7KywmlO1VIUXJGLT.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1297
- 467\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:The Exorcist: Martyrs\n(4.8 ↗︎)\n\nHorreur\n\nUnited States
+ \n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Mike Flanaga
+ n\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Mike Flanagan\n𝗣𝗵𝗼𝘁𝗼
+ 𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Michael Fimognari\n𝗣𝗿𝗼𝗱𝘂𝗰
+ 𝘁𝗶𝗼𝗻 : Red Room Pictures\, Morgan Creek Entertainment\, Univer
+ sal Pictures\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Scarlett Johansson\n- Sa
+ sha Calle\n- Chiwetel Ejiofor\n- John Leguizamo\n- Laurence Fishburne\n- D
+ iane Lane\n- Jacobi Jupe\n- Scoot McNairy\n- Rahul Kohli\n- Gil Bellows\n-
+  John Gallagher Jr.\n- Hamish Linklater\n\n\nIl y a treize ans\, Julie Mil
+ ler\, détective de la police de New York\, a mis fin au règne de terreur
+  du tueur en série sataniste surnommé « Father Sunday ». Cette affaire
+  a fait d'elle une héroïne\, et elle s'est depuis lors entièrement cons
+ acrée à son travail. Aujourd'hui\, un nouveau tueur inscrit son nom dans
+  le sang d'un enfant de chœur sur les murs de la crypte d'une église\, l
+ a replongeant dans les ténèbres qu'elle croyait avoir enterrées avec lu
+ i.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/zotF78Fhkvf7KywmlO1VIUXJ
+ GLT.jpg\n\nFiche TMDB : https://www.themoviedb.org/movie/1297467\n\nDonné
+ es fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/zotF78Fhkvf7KywmlO1VIUXJGLT.jpg
@@ -2086,21 +2169,21 @@ DTSTAMP:20270317T000000Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:Le Chant du Rossignol - Deux Soeurs face à la Guerre
-DESCRIPTION:The Nightingale\n(7.7)\n\nDrame\n\nUnited States of America\n(E
- nglish)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Michael Morris\n
- 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Dana Stevens\n𝗣𝗵𝗼𝘁𝗼𝗴
- 𝗿𝗮𝗽𝗵𝗶𝗲 : 정정훈\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
- 𝗻 : The Cantillon Company\, TriStar Pictures\, Lewellen Pictures\n\n
- 𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Elle Fanning\n- Dakota Fanning\n- Mark R
- ylance\n- שירה האס\n- Edmund Donovan\n- Luke Newton\n- Albrecht Sch
- uch\n- Douglas Hodge\n- Gwilym Lee\n- Vinette Robinson\n\n\nVianne et Isab
- elle\, deux soeurs fraîchement majeures\, voient leur quoditien boulevers
- é avec l'entrée en guerre de la France contre le régime nazi. Sous l'oc
- cupation allemande\, elles rentrent dans un réseau de résistantes qui\, 
- avec des aviateurs alliés\, cachent des enfants juifs.\n\n\nAffiche : htt
- ps://image.tmdb.org/t/p/w780/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg\n\nFiche TMDB
-  : https://www.themoviedb.org/movie/458896\n\nDonnées fournies par The Mo
- vie Database (TMDB)
+DESCRIPTION:The Nightingale\n(7.5)\n\nDrame\n\nUnited States\n(English)\n\n
+ 𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Michael Morris\n𝗦𝗰
+ 𝗲𝗻𝗮𝗿𝗶𝗼 : Dana Stevens\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮
+ 𝗽𝗵𝗶𝗲 : 정정훈\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : T
+ he Cantillon Company\, TriStar Pictures\, Lewellen Pictures\n\n𝗔𝗰
+ 𝘁𝗲𝘂𝗿𝘀 :\n- Elle Fanning\n- Dakota Fanning\n- Mark Rylance\n
+ - שירה האס\n- Edmund Donovan\n- Luke Newton\n- Albrecht Schuch\n- D
+ ouglas Hodge\n- Gwilym Lee\n- Vinette Robinson\n\n\nVianne et Isabelle\, d
+ eux soeurs fraîchement majeures\, voient leur quoditien bouleversé avec 
+ l'entrée en guerre de la France contre le régime nazi. Sous l'occupation
+  allemande\, elles rentrent dans un réseau de résistantes qui\, avec des
+  aviateurs alliés\, cachent des enfants juifs.\n\n\nAffiche : https://ima
+ ge.tmdb.org/t/p/w780/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg\n\nFiche TMDB : https
+ ://www.themoviedb.org/movie/458896\n\nDonnées fournies par The Movie Data
+ base (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/b6CN8AAjev9ud7z9DXCKk0ipAsm.jpg
@@ -2114,18 +2197,18 @@ DTSTAMP:20270317T000000Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:The Comeback King
-DESCRIPTION:The Comeback King\n(3.8)\n\nComédie\, Western\, Romance\n\nUni
- ted States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
- 𝘂𝗿 : Judd Apatow\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Judd Apatow\, G
- len Powell\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Eric Steelb
- erg\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Universal Pictures\, Apato
- w Productions\, BarnStorm Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n-
-  Glen Powell\n- Cristin Milioti\n- Madelyn Cline\n- Stavros Halkias\n- Jin
-  Hao Li\n- Leanne Morgan\n- Kumail Nanjiani\n- Reba McEntire\n- Tig Notaro
- \n- Mike Birbiglia\n- Vanessa Bayer\n- Atsuko Okatsuka\n\n\nUne star de co
- untry western est en chute libre.\n\n\nAffiche : https://image.tmdb.org/t/
- p/w780/dHMQSBUsIh3epsx9MbFzG6RfsGK.jpg\n\nFiche TMDB : https://www.themovi
- edb.org/movie/1466228\n\nDonnées fournies par The Movie Database (TMDB)
+DESCRIPTION:The Comeback King\n(4.0)\n\nComédie\, Western\, Romance\n\nUni
+ ted States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿 : Ju
+ dd Apatow\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Judd Apatow\, Glen Powell\n
+ 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Eric Steelberg\n𝗣
+ 𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Universal Pictures\, Apatow Product
+ ions\, BarnStorm Productions\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Glen Pow
+ ell\n- Cristin Milioti\n- Madelyn Cline\n- Stavros Halkias\n- Jin Hao Li\n
+ - Leanne Morgan\n- Kumail Nanjiani\n- Reba McEntire\n- Tig Notaro\n- Mike 
+ Birbiglia\n- Vanessa Bayer\n- Atsuko Okatsuka\n\n\nUne star de country wes
+ tern est en chute libre.\n\n\nAffiche : https://image.tmdb.org/t/p/w780/dH
+ MQSBUsIh3epsx9MbFzG6RfsGK.jpg\n\nFiche TMDB : https://www.themoviedb.org/m
+ ovie/1466228\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/dHMQSBUsIh3epsx9MbFzG6RfsGK.jpg
@@ -2134,12 +2217,37 @@ ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/dHMQSBUsIh3epsx9M
 CATEGORIES:Comédie,Western,Romance
 END:VEVENT
 BEGIN:VEVENT
+UID:tmdb-1177369@calendrier-cine-fr
+DTSTAMP:20270428T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:The Legend of Zelda
+DESCRIPTION:The Legend of Zelda\n(3.6)\n\nAction\, Aventure\, Fantastique\n
+ \nJapan\, United States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
+ 𝘂𝗿 : Wes Ball\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : T.S. Nowlin\, Dere
+ k Connolly\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Pados Gyula
+ \n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Nintendo\, Arad Productions\,
+  Oddball Entertainment\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Benjamin Evan 
+ Ainsworth\n- Bo Bragason\n- Uli Latukefu\n- Dichen Lachman\n- Sam Neill\n-
+  Yvonne Strahovski\n- Lydia Peckham\n- Samara Weaving\n- Faith Delaney\n\n
+ \nAdaptation du jeu vidéo La Légende de Zelda.\n\n\nAffiche : https://im
+ age.tmdb.org/t/p/w780/4XuaHHQ5eR9czPZPHcaaUjekx5w.jpg\n\nFiche TMDB : http
+ s://www.themoviedb.org/movie/1177369\n\nDonnées fournies par The Movie Da
+ tabase (TMDB)
+TRANSP:TRANSPARENT
+IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
+ t/p/w780/4XuaHHQ5eR9czPZPHcaaUjekx5w.jpg
+ATTACH;FMTTYPE=image/jpeg:https://image.tmdb.org/t/p/w780/4XuaHHQ5eR9czPZPH
+ caaUjekx5w.jpg
+CATEGORIES:Action,Aventure,Fantastique
+END:VEVENT
+BEGIN:VEVENT
 UID:tmdb-1591675@calendrier-cine-fr
 DTSTAMP:20270616T000000Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
 SUMMARY:Look Back
-DESCRIPTION:ルックバック — Rukku Bakku\n(7.8 ↑︎)\n\nDrame\n𝟭
+DESCRIPTION:ルックバック — Rukku Bakku\n(7.0 ↑︎)\n\nDrame\n𝟭
  𝗵𝟰𝟬\n\nJapan\n(Japanese)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
  𝘂𝗿 : Hirokazu Kore-eda\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Hirokazu 
  Kore-eda\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : 上野千蔵\
@@ -2166,25 +2274,25 @@ DTSTAMP:20270616T000000Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
 SUMMARY:Spider-Man: Beyond the Spider-Verse
-DESCRIPTION:Spider-Man: Beyond the Spider-Verse\n(6.4 ↗︎)\n\nAnimation\
- , Action\, Aventure\, Science-Fiction\n\nUnited States of America\n(Englis
- h)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Bob Persichetti\,
-  Justin K. Thompson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher Miller
- \, Phil Lord\, David Callaham\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵
- 𝗶𝗲 : Alice Brooks\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Columb
- ia Pictures\, Sony Pictures Animation\, Lord Miller\n\n𝗔𝗰𝘁𝗲
- 𝘂𝗿𝘀 :\n- Shameik Moore\n- Hailee Steinfeld\n- Oscar Isaac\n- Jaso
- n Schwartzman\n- Jake Johnson\n- Issa Rae\n- Brian Tyree Henry\n- Luna Lau
- ren Vélez\n- Daniel Kaluuya\n- Nicolas Cage\n- John Mulaney\n- Karan Soni
- \n\n\n(synopsis non encore traduit sur TMDB)\nHunted by Miguel O'Hara's Sp
- ider Society and betrayed by his friends\, Miles finds himself in the dark
- est corners of the Spider-Verse in search of a way home. Knowing that his 
- family has been not only fractured but endangered by his calling\, it's a 
- race against the clock for Miles to travel across the wildest reaches of t
- ime and space to fight for and reunite everything he holds most dear.\n\n\
- nAffiche : https://image.tmdb.org/t/p/w780/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg
- \n\nFiche TMDB : https://www.themoviedb.org/movie/911916\n\nDonnées fourn
- ies par The Movie Database (TMDB)
+DESCRIPTION:Spider-Man: Beyond the Spider-Verse\n(6.6 ↗︎)\n\nAnimation\
+ , Action\, Aventure\, Science-Fiction\n\nUnited States\n(English)\n\n𝗥
+ 𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Bob Persichetti\, Justin K.
+  Thompson\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Christopher Miller\, David C
+ allaham\, Phil Lord\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Al
+ ice Brooks\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : Columbia Pictures\,
+  Sony Pictures Animation\, Lord Miller\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n
+ - Shameik Moore\n- Hailee Steinfeld\n- Oscar Isaac\n- Jason Schwartzman\n-
+  Jake Johnson\n- Issa Rae\n- Brian Tyree Henry\n- Luna Lauren Vélez\n- Da
+ niel Kaluuya\n- Nicolas Cage\n- John Mulaney\n- Karan Soni\n\n\n(synopsis 
+ non encore traduit sur TMDB)\nHunted by Miguel O'Hara's Spider Society and
+  betrayed by his friends\, Miles finds himself in the darkest corners of t
+ he Spider-Verse in search of a way home. Knowing that his family has been 
+ not only fractured but endangered by his calling\, it's a race against the
+  clock for Miles to travel across the wildest reaches of time and space to
+  fight for and reunite everything he holds most dear.\n\n\nAffiche : https
+ ://image.tmdb.org/t/p/w780/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg\n\nFiche TMDB :
+  https://www.themoviedb.org/movie/911916\n\nDonnées fournies par The Movi
+ e Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg
@@ -2198,17 +2306,17 @@ DTSTAMP:20270630T000000Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:Shrek 5
-DESCRIPTION:Shrek 5\n(6.5 ↘︎)\n\nComédie\, Animation\, Fantastique\, A
- venture\, Familial\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮
- 𝗹𝗶𝘀𝗮𝘁𝗲𝘂𝗿𝘀 : Walt Dohrn\, Conrad Vernon\n𝗦
- 𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Michael McCullers\n𝗣𝗿𝗼𝗱𝘂𝗰
- 𝘁𝗶𝗼𝗻 : DreamWorks Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\
- n- Mike Myers\n- Eddie Murphy\n- Cameron Diaz\n- Marcello Hernández\n- Sk
- yler Gisondo\n- Zendaya\n- Chris Miller\n- Cody Cameron\n- Conrad Vernon\n
- - Brian Cox\n\n\nLa suite de Shrek 4 : Il était une fin...\n\n\nAffiche :
-  https://image.tmdb.org/t/p/w780/m9jLiemA7t2umlXKptDwtIUHU8l.jpg\n\nFiche 
- TMDB : https://www.themoviedb.org/movie/421892\n\nDonnées fournies par Th
- e Movie Database (TMDB)
+DESCRIPTION:Shrek 5\n(6.7 ↘︎)\n\nComédie\, Animation\, Fantastique\, A
+ venture\, Familial\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
+ 𝗮𝘁𝗲𝘂𝗿𝘀 : Walt Dohrn\, Conrad Vernon\n𝗦𝗰𝗲𝗻
+ 𝗮𝗿𝗶𝗼 : Michael McCullers\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼
+ 𝗻 : DreamWorks Animation\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- Mike Myer
+ s\n- Eddie Murphy\n- Cameron Diaz\n- Marcello Hernández\n- Skyler Gisondo
+ \n- Zendaya\n- Chris Miller\n- Cody Cameron\n- Conrad Vernon\n- Brian Cox\
+ n\n\nLa suite de Shrek 4 : Il était une fin...\n\n\nAffiche : https://ima
+ ge.tmdb.org/t/p/w780/m9jLiemA7t2umlXKptDwtIUHU8l.jpg\n\nFiche TMDB : https
+ ://www.themoviedb.org/movie/421892\n\nDonnées fournies par The Movie Data
+ base (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/m9jLiemA7t2umlXKptDwtIUHU8l.jpg
@@ -2222,21 +2330,20 @@ DTSTAMP:20270707T000000Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:Man of Tomorrow
-DESCRIPTION:Man of Tomorrow\n(4.0 ↓︎)\n\nAction\, Science-Fiction\, Ave
- nture\n\nUnited States of America\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀
- 𝗮𝘁𝗲𝘂𝗿 : James Gunn\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : Jame
- s Gunn\n𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Sam McCurdy\n
- 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : DC Studios\, Troll Court Entert
- ainment\, The Safran Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- David Co
- renswet\n- Nicholas Hoult\n- Rachel Brosnahan\n- Lars Eidinger\n- Frank Gr
- illo\n- Isabela Merced\n- Aaron Pierre\n- Skyler Gisondo\n- Sara Sampaio\n
- - María Gabriela de Faría\n- Nathan Fillion\n- Edi Gathegi\n\n\n(synopsi
- s non encore traduit sur TMDB)\nSuperman and Lex Luthor find themselves fo
- rced to work together—to a certain degree—against a much\, much bigger
-  threat when Brainiac sets his sights on Earth.\n\n\nAffiche : https://ima
- ge.tmdb.org/t/p/w780/tYLgfKk3cEk7LskgxWyW37Nty01.jpg\n\nFiche TMDB : https
- ://www.themoviedb.org/movie/1523140\n\nDonnées fournies par The Movie Dat
- abase (TMDB)
+DESCRIPTION:Man of Tomorrow\n(3.8 ↓︎)\n\nAction\, Science-Fiction\, Ave
+ nture\n\nUnited States\n(English)\n\n𝗥𝗲𝗮𝗹𝗶𝘀𝗮𝘁𝗲
+ 𝘂𝗿 : James Gunn\n𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼 : James Gunn\n𝗣
+ 𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗲 : Sam McCurdy\n𝗣𝗿𝗼
+ 𝗱𝘂𝗰𝘁𝗶𝗼𝗻 : DC Studios\, Troll Court Entertainment\, Th
+ e Safran Company\n\n𝗔𝗰𝘁𝗲𝘂𝗿𝘀 :\n- David Corenswet\n- N
+ icholas Hoult\n- Rachel Brosnahan\n- Lars Eidinger\n- Frank Grillo\n- Isab
+ ela Merced\n- Aaron Pierre\n- Skyler Gisondo\n- Sara Sampaio\n- María Gab
+ riela de Faría\n- Nathan Fillion\n- Edi Gathegi\n\n\n(synopsis non encore
+  traduit sur TMDB)\nSuperman and Lex Luthor find themselves forced to work
+  together—to a certain degree—against a much\, much bigger threat when
+  Brainiac sets his sights on Earth.\n\n\nAffiche : https://image.tmdb.org/
+ t/p/w780/tYLgfKk3cEk7LskgxWyW37Nty01.jpg\n\nFiche TMDB : https://www.themo
+ viedb.org/movie/1523140\n\nDonnées fournies par The Movie Database (TMDB)
 TRANSP:TRANSPARENT
 IMAGE;VALUE=URI;DISPLAY=FULLSIZE;FMTTYPE=image/jpeg:https://image.tmdb.org/
  t/p/w780/tYLgfKk3cEk7LskgxWyW37Nty01.jpg
